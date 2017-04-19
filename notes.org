@@ -1,0 +1,102 @@
+* elevator pitch
+what does the humanities do in a world that is unhuman?
+
+the world is increasingly unhuman. We have a tough time dealing with that but there are a few ways.
+
+people always trying to reach into unhuman dimension, even though they can't, subjectivity doesn't go there
+
+eroes: people who stick their hands into the unhuman realam are screwing everyone else over THATS WHAT BUGS ME
+systems should be more LEGIBLE to people
+
+* solutions
+ - hackcessibility
+ - openness
+[[Arts of Living, Spellmeier][spellmeier arts of living]]
+ - algo criticism
+ - prosthetics
+ - Utopian Studies empathy (suven)
+* chapters
+** grand tour intro
+** religious ineffable, the sublime
+alter and alterity
+** haccessibility
+** utopian studies
+** algorithmic criticism
+storytelling: [[Stephanie Boluk][Stephanie Boluk]]
+critical code studies
+
+** singularity
+** systems (platforms, games, economics?)
+** victorian?
+
+* talk with carrie
+* look at
+*** TODO alterity
+*** TODO stephanie bolac
+did amazon book algorithms
+capitalism similarly algorithmic
+*** TODO holy ghost?
+*** TODO affect theory
+*** TODO involuntary systms of our body are not human?e
+*** TODO grizzly man
+* questions
+- is this about mastery? do we want to control the unhuman dimension?
+- what is most appropiate word for the unhuman dimension: apparatus, biopower, etc.
+- how should this book change how we proqceed?
+* advice
+write to carrie
+write more informally
+what am i actually trying to say
+[[zotero://select/items/0_X9KEF7DN][Spellmeyer, Kurt. Arts of Living]]
+
+[[Arts of Living, Spellmeier][arts of living]] as rhetoical inspiration?
+
+* publish chapters
+** TODO affect theory chapter [[https://call-for-papers.sas.upenn.edu/cfp/2017/04/06/call-for-book-chapters-on-affect-theory-and-rhetorical-persuasion-in-mass][here]]
+** TODO write something for Trace [[https://call-for-papers.sas.upenn.edu/cfp/2017/04/10/how-we-make][here]]
+** TODO rebecca sheldon published in nonhuman turn "the child to come" was affiliated with center for 21st century studies...reach out to her about 21st cetury? carrie can introduce
+** TODO center for 21st century studies at milwakee 
+** TODO patricia klouth affect theory track her down
+** TODO check out racial innocence (bernstien)    [[file:~/org/drafts/thesis.org::*look%20at][look at]]
+
+* Arts of Living, Spellmeier
+"experience of freedom"
+academics too disconnected from public
+culture wars a war between different elites
+
+contends that, though business-mindedness is pushing aside humanities, we have to acknowledge the benefits that has brought
+- i disagree with this, his examples don't hold up, i.e. half of Americans would prefer to retire later not because they love their jobs but because of finances
+
+emerson's over-soul
+- the agreement or resonance between an individual and the world
+- academics are out of touch with this
+
+William James
+- the subconscioius is the world, the world outside you
+- the purpose of thinking is to deal pragmatically with the next moment
+- what is conscious one moment may be unconscious or subconscioius the next
+
+takes issue with Theory as pre-packaged philosophical systems divorced from real application
+- disagrees that theory can be pure reflection
+
+while Theory presents itself as a tool for the repressed, it's actually a tool for the hyperspecialized academic inaccessible to the ordinary citizen
+
+Theory markets itself to academics who wish to be like the sciences, it's a "science of signs"
+
+Theory is on the decline because it now feels like an empty ritual
+
+major issue: humanities scholars are socially isolated, they cannot write about things people care about, such as "science, sexuality, the film industry, urban life, or other pressing issues" (17)
+
+the "explorion of knowledge in the modern world" (18) has dispelled much of the authority of the professor, Theory might be considered one way to get it back
+
+"no particular knowledge has any value at all. What matters in our society is the ability to produce more knowledge of use to more people, or to circulate existing knowledge in unprecedented ways. Social power comes not from what we know but from what we can do with what we know, from the capacity to act creatively." (19)
+
+
+"... this circumspection owes much more to Matthew Arnold than it does to Karl Marx. It was Arnold, after all, who first defined the critical intellectual as the person who does no worldly work, and who, by eschewing all practical engagement and know how, can think “above the fray,” so to speak. 31 In effect, Arnold establishes a ruinous division of labor. To the sciences, to business, and to government he cedes all worldly action, while securing for the humanities an austerely contemplative role. Men of the world are left to clash on the darkling plain like the ignorant armies in the poem “Dover Beach,” while the humanists pass judgment retrospectively from on high. In the early decades of the twentieth century, this division of cultural labor seemed ideal for granting human- ities departments a place at the table of leadership, but what do humanists concretely know? And what real-world venues are there for the knowledge that we actually have? Our problem is precisely that the view from above is too blurry and too dark, and that no one below can hear us, or could understand us if they did. We need to step down." (20)
+
+his examples of people who are real-world humanists  seem dated and lmited--ehrlich? reallY? the population bomb?
+* Stephanie Boluk
+** Dwarven Epitaphs
+** Annotating Adventure: Critical Code Studies
+annotating code makes something impenetrable into something humanistic
+critical code studies

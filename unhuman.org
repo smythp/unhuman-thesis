@@ -1,0 +1,265 @@
+#+OPTIONS:  num:nil toc:nil title:nil html-postamble:nil
+#+TITLE: Unhuman: Accessibility, Transhumanism, and the Literary Prosthetic
+#+LATEX_CLASS: article
+#+LaTeX_CLASS_OPTIONS: [12pt]
+# #+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{hanging}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \usepackage{cite}
+#+LATEX_HEADER: \usepackage{indentfirst}
+# #+LATEX_HEADER: \usepackage{parskip}
+#+LaTeX_HEADER: \usepackage[T1]{fontenc}
+#+LaTeX_HEADER: \usepackage{mathptmx} 
+#+LaTeX_HEADER: \usepackage[scaled=.90]{helvet} 
+#+LaTeX_HEADER: \usepackage{courier}
+
+#+LATEX: \clearpage
+* Statement of Applicability
+Over the past months, Americans—and much of the rest of the world—have felt acutely that their lives are dominated by processes impossible to resist and too complex to understand. Algorithmically, we are shepherded into siloed camps that seem to occupy their own comceptual reality. The contents of our minds—and, more importantly, our phones—are one hack away from being public knowledge. Weather patterns drift out of control while corporations lumber across the social landscape, subverting democratic institutions and precipitating a slide into inequality.
+
+This project proposes to examine the /unhuman/\—that is, the nonhuman and collective entities that dominate the news cycle, our lives, and the planet. These include algorithms for high frequency trading and Facebook's News Feed, organizations such as the CIA and Pfizer, and infrastructural artifacts such as the interstate system and the world wide web. This investigation begins 150 years ago with a historical argument—contending that the Victorian period saw the rise of disruptive and alien unhuman entities—and a literary argument—that contemporary writers gave subjective weight to these entities in order to understand them and cope with their existence. Building on this historical and literary analysis, the project will engage with two humanities subfields—disability studies and the digital humanities—to make the case that the humanities would benefit from a more radical engagement with unhuman processes and entities. In doing so, I hope to elaborate on "haccessability"—a model in which individuals push back against overwhelming and incomprehensible social forces by extending their identities into technological and social prosthetics, such as personal infrastructure and extended communities of practice.
+
+
+#+LATEX: \clearpage
+* Proposal
+#+LATEX: \begin{doublespacing}
+
+** Abstract
+What is the relationship between the human and the nonhuman? How has that relationship changed over the past 150 years? Scholarship in the sciences and social sciences has undergone a "nonhuman turn" in which researchers have profited from adopting non-anthropocentric perspectives, often revealing previously unrecognized paradigms. Meanwhile, in the humanities, researchers in Utopian studies, disability studies, and the digital humanities have raised essential questions about our stance toward nonhuman entities such as corporations, animals, algorithms, and infrastructure. While these approaches have yielded a number of worthwhile questions, this dissertation project argues that the humanities has not gone far enough in pushing beyond an anthropocentric perspective. By exploring how authors and thinkers in the past have given subjective weight to nonhuman entities and by examining how individuals can push back against totalizing organizational and technological forces, this project hopes to shed light on the large-scale nonhuman processes and entities that shape society, culture, and individual experience in the 21st century.
+
+#+LATEX: \clearpage
+** Project Description
+It is increasingly difficult to conceive of modernity exclusively from the perspective of the human. Global society consists not only of human actors, but also of intersubjective entities such as corporations markets, and autonomous programs. Unlike (relatively) familiar entities such as nation-states, these entities are alien, and their emergent properties defy even general understanding by any single human. At the same time, fields such as physics, computer science, earth system science, behavioral psychology, evolutionary biology, and economics have benefitted from non-anthropocentric perspectives that contextualize humanity within systems that are very large, very small, or very strange. Within earth systems science, for example, the Gaia hypothesis posits the Earth as an organism capable of homeostasis, a balance that biological life, geology, and atmospheric conditions help to regulate. At the same time, evolutionary biologists such as Richard Dawkins and Stephen Jay Gould have raised productive questions by envisioning the process of evolution not from the perspective of the striving organism, but from the perspective of the striving gene or the striving species respectively. The burgeoning (and controversial) field of behavioral economics has uncovered many of the heuristics and biases that underlie human cognition. Finally, in sociology, the Actor Network Theory (ANT) advanced by Bruno Latour explicitly deemphasizes humanity by conceiving of society as a web of relationships between animals and objects broadly construed. By reaching beyond the meso-level analyses toward which humanity is prejudiced, these and other disciplines have been able to open new avenues of inquiry, displacing old assumptions and preconceptions and advancing thought in their respective fields.
+
+The humanities has not been entirely left out of this nonhuman revolution. Over the past decade, humanities disciplines have made strides toward recognizing the essential worth of nonhuman entities as subjects for critical analysis. Fields such as animal studies, disability studies, and algorithmic criticism have incorporated stances and methodologies that have questioned what it means to be human while providing critical analysis of  relationships between human and nonhuman actors. Emerging approaches such as infrastructure studies (Svenson, Liu) and distant reading (Moretti, Jockers) have also allowed the humanities to perform readings and cultural criticism that extend beyond the traditional "comfort zone" of the humanities. The capabilities afforded by these mechanisms—whether the tools and approaches used for distant reading or the large-scale affordances of bureaucracy and infrastructure in the academy—suggest that a more nuanced look at the connections among human and nonhuman actors is warranted. This approach would not only reimagine our view of the human to include everyday prosthetics such as phones, cars, and clothing, but also would envision entities such as corporations, software systems, and ecosystems as having their own subjective weight.
+
+This dissertation project will attempt to further explore this space between the human and the nonhuman by advocating for a more radical approach to the nonhuman. In 19th-century British literature, this means uncovering trends in which authors resolve tensions in the prevailing culture by giving subjective weight to technologies, corporations, and nature itself. In disability studies, this means advocating for a model of the individual as a force able to assimilate and subvert material and organizational structures, an understanding I call "haccessability." In the digital humanities, this means answering questions of how computational knowledge is converted to human knowledge by expanding the definition of what it means to be human. In each of these cases, I suggest that the humanities can push beyond the preconceptions of our anthropocentric perspective to encompass broader and more holistic models describing the relationships among technology, nature, organizations, and individuals.
+
+** Utopian Studies: 19th Century
+
+A number of 19th- and early 20th-century thinkers and writers engaged not only with the idea that technology could serve as a prosthetic for humanity, but that humanity could be a prosthetic for technology. In 1872, Samuel Butler, in the Utopian novel /Erewhon/, suggested not only the former—"[i]f it is wet we are furnished with an organ commonly called an umbrella, and which is designed for the purpose of protecting our clothes or our skins from the injurious effects of rain" (Butler)—but also the latter: "[a]mong themselves the machines will war eternally, but they will still require man as the being through whose agency the struggle will be principally conducted" (Butler). Charles Dickens, in novels such as /Little Dorrit/ and /Dombey and Son/, depicted technological forces such as the railway and social institutions such as the Victorian prison system as self-aware entities that used, processed, and disposed of humanity while working toward their own obscure ends. At the same time, pseudoscientific (or "heterodox") disciplines such as vitalism and spiritualism advanced theories based on forces that pervaded both humanity and the material world. These include the theory of the Odic force, a form of life energy that pervaded all things and that was used to explain phenomena such as will o' wisps and haunted houses. These 19th-century developments, when taken together, represent reactions to increasingly alien social and technological forces and an awareness, if vague, of the new interdependence between the human and the nonhuman.
+
+** Haccessibility
+
+Scholars such as David Doat have criticized transhumanism, an ideological stance and subculture advanced by technologists and futurists, especially those like Ray Kurzweil who have a connection to Silicon Valley. He and others have observed that transhumanists regard the disabled as rhetorical stepping stones who provide evidence of an essential incompleteness in humanity that must be overcome with technology. This allows transhumanists to assume the role of saviors, creating infrastructure for others while determining the boundaries of what is reasonable, achievable, and desirable.
+
+I accept this critique of the transhuman ideology, yet in rejecting the role advocates of transhumanism have created for the disabled, I wish to advance a means of understanding personal relationships among the individual, technology, and society. Haccessibility is the creation of infrastructure, broadly construed, that enables individual self-determination within a world that is socially and technologically determined. If infrastructure comprises material and social circumstances, such as roads, housing, communications systems, organizations, laws, and resources, that determine what is practical and possible, then haccessibility is the creation of personal infrastructure that expands the boundaries of the possible in ways that are personal, small-scale, and resistant to larger forces. The term can apply to anyone, whether teenagers (mis)using mentions of promoted brands on Facebook to receive a signal boost from its algorithm or the business executive who uses his desktop computer as a footstool. However, the term is most significant for the disabled, since adaptations, workarounds, prosthetics, individualized skills, and acts of provocation and resistance are critical to their ability to survive and thrive in an able world. Beyond its tendency toward self-determination, another critical aspect of haccessibility is its indifference to propriety and the need or desire to "pass" in wider society. Like the old-school hackers from which the term is derived, those who practice haccessibility often violate boundaries in order to expand their capabilities, explore their environment, and play at the boundaries of the acceptable, the possible, and the expected.
+
+This section will advocate for haccessibility as a means of understanding the multivalent intersections among individuals and their social and technological contexts. It will also provide examples of ways in which institutional morays, practices, and rules have been (and often must be) violated by disabled individuals in pursuit of their goals. This chapter will draw on works such as Donna Haraway's /Cyborg Manifesto/, Richard Stallman's /Free Software, Free Society/, and Dexter, Scott and Samir Chopra's /Decoding Liberation/ in addition to foundational works in disability studies, especially those relating to post- and transhumanism. The chapter will also examine communities that have formed around the practice of hacking personal infrastructure, such as [[http://blarbl.blogspot.com/][Blind Arduino]], [[https://talkingarch.tk/][Talking Arch]], and [[https://www.seeingwithsound.com/android.htm][seeingwithsound]].
+
+** Digital Humanities
+
+Outside of disability and Utopian studies, the digital humanities has been the (humanities) field that has most thoroughly engaged with the interface between the individual and the material. Three recent provocations—distant reading, algorithmic criticism, and infrastructure studies—have explored how individual capabilities can be altered through interactions with nonhuman entities.  Distant reading, the practice of using natural language processing techniques to answer research questions about large bodies of text, was first brought to widespread attention with the publication of Franco Moretti's /Graphs, Maps, Tree/. Through distant reading, Moretti hoped to more accurately gauge historical, cultural, and literary trends from novels outside the privileged canon, which he argues are not representative of the broader culture. Stephen Ramsay, on the other hand, has coined the term "algorithmic criticism" to describe a process of reading in which a researcher alienates herself from a text through a process of procedural deformance. In this model, the reseracher then reads not the text, but an intermediate artifact generated by the machine, ideally gleaning insights about the source text that might not otherwise be accessible. Finally, Alan Liu, one of the DH scholars most strongly associated with infrastructure studies, has, in his essay “The Meaning of the Digital Humanities," raised the question of how computational processes can be transformed into human knowledge.
+
+In this final chapter, I hope to place these three interpretations of human-machine interfaces in dialogue with one another and with the concept of haccessibility. Each of these theorists asks a version of the questions: "How can individuals access or create humanistic knowledge through computation?" Using the questions raised by an examination of haccessibility, I wish to approach this question indirectly by showing how nonhuman entities such as corporations and autonomous programs benefit from processes similar to distant reading, and how individual relationships with these entities can support or subvert these large-scale processes.
+
+#+LATEX: \clearpage
+#+LATEX: \singlespacing
+#+LATEX: {\setlength{\parindent}{0cm}
+#+LATEX: \begin{hangparas}{.25in}{1}
+* Bibliography
+\hangindent=0.7cm Butler, Samuel. /Erewhon/. Mineola, N.Y: Dover Publications, 2002. Print.
+
+\hangindent=0.7cm Chopra, Samir, and Scott D. Dexter. /Decoding Liberation: The Promise of Free and Open Source Software/. First edition. New York: Routledge, 2007. Print.
+
+\hangindent=0.7cm Dawkins, Richard. /The Selfish Gene/. Second edition. Oxford ; New York: Oxford University Press, 1990. Print.
+
+\hangindent=0.7cm Doat, David. "Changing Social Attitudes Toward Disability: Perspectives from History, Cultural Studies, and Education:" /Perspectives from Historical, Cultural, and Educational Studies/. N.p. www.academia.edu. Web. 13 Mar. 2017.
+
+\hangindent=0.7cm Grusin, Richard, ed. /The Nonhuman Turn/. Minneapolis: Univ Of Minnesota Press, 2015. Print.
+
+\hangindent=0.7cm Haraway, Donna. “Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieeth Century.” Simians, Cyborgs and women: The reinvention of nature (1991): 149–181. Print.
+
+\hangindent=0.7cm Jockers, Matthew L. /Macroanalysis: Digital Methods and Literary History/. 1st Edition edition. Urbana: University of Illinois Press, 2013. Print.
+
+\hangindent=0.7cm Kahneman, Daniel. /Thinking, Fast and Slow/. 1st edition. New York: Farrar, Straus and Giroux, 2013. Print.
+
+\hangindent=0.7cm Latour, Bruno. /Reassembling the Social: An Introduction to Actor-Network-Theory/. 1st edition. Oxford u.a.: Oxford University Press, 2007. Print.
+
+\hangindent=0.7cm Lovelock, James. /Gaia: A New Look at Life on Earth/. Subsequent edition. Oxford ; New York: Oxford University Press, 2000. Print.
+
+\hangindent=0.7cm Moretti, Franco, and Alberto Piazza. Graphs, Maps, Trees: Abstract Models for Literary History. London; New York: Verso, 2007. Print.
+
+\hangindent=0.7cm Ramsay, Stephen. /Reading Machines: Toward an Algorithmic Criticism/. 1st Edition edition. Urbana: University of Illinois Press, 2011. Print.
+
+\hangindent=0.7cm Liu, Alan. “The Meaning of the Digital Humanities.” /PMLA 128/ (2013): 409-23.
+
+\hangindent=0.7cm Stallman, Richard M., Joshua Gay, and Lawrence Lessig. /Free Software, Free Society: Selected Essays of Richard M. Stallman/. Boston, MA: CreateSpace Independent Publishing Platform, 2009. Print.
+
+\hangindent=0.7cm Svensson, Patrik. /Big Digital Humanities: Imagining a Meeting Place for the Humanities and the Digital/. Ann Arbor: U OF M DIGT CULT BOOKS, 2016. Print.
+#+LATEX: \end{hangparas}
+
+
+
+# * CV
+# ** Education
+# Ph.D. in English, Graduate Center of the City University of New York (CUNY)
+# 	In progress, fifth year
+
+# Double B.A. in English and German Literature, Kenyon College, Ohio
+# 	magna cum laude, 2009
+# 	Highest Honors in English (Honors thesis)
+# ** Awards, Grants, and Fellowships
+
+# NYCDH Graduate Student Digital Project Award, "Futures Past Archive" (Second place)
+# 2016
+
+# Provost's Digital Innovation Grant, "Futures Past Archive"
+# 2015-2016 and 2016-2017
+
+# Digital Writing Fellowship, Qwriting, Queens College
+# 2016-2017
+
+# Digital Initiatives Fellowship, GC Digital Scholarship Lab, CUNY Graduate Center
+# 2014-present
+
+# Developer and Documentation Specialist, DH Box NEH Startup Grant
+
+# ARC Praxis Fellowship, Advanced Research Collaborative, CUNY Graduate Center
+# 2014
+
+# Graduate Research Assistantship, David Greetham, CUNY Graduate Center
+# 2012
+
+# Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany
+# 2009-2010
+# ** Publications
+
+# “Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media” in Examining Paratextual Theory and its Applications in Digital Culture
+# IGI Global, 2014
+# ** Selected Presentations
+
+# "Code and the Codex: E-books as Applications"
+# [[https://apps.mla.org/program_details?prog_id=75&year=2017][E-book Revolution panel]]
+# MLA Convention
+# 2017 - Philadelphia, PA
+# [[https://github.com/smythp/ebooks-as-applications#ebooks-as-applications][View notes]]
+
+# "DH Box"
+# [[https://text.mla.hcommons.org/][Open Source Lit, Open Source Crit panel]]
+# MLA Convention
+# 2017 - Philadelphia, PA
+
+# "GC Digital Initiatives and the Digital Research Institute: Enhancing Student Experience and Access"
+# CUNY IT Conference
+# 2016 - New York, NY
+
+# "Blind Hackers: Accessibility by Other Means"
+# a11y Accessibility Camp
+# 2016 - New York, NY
+# [[https://www.youtube.com/watch?v=W8_O3joo4aU][View online]]
+
+# "DH Box: Building Cloud-Based Infrastructure for the Digital Humanities"
+# Canadian Soceity for Digital Humanities, Congress 2016
+# 2016 - Calgary, Alberta
+# (Travel funding from National Endowment for the Humanities)
+
+# "Building the University Worth Fighting For: Tools for Pedagogical, Institutional, and Social Change"
+# HASTAC conference
+# 2016 - Tempe, Arizona
+# (Travel award from GC Futures Initiative)
+
+# "DH Box: A Digital Humanities Laboratory in the Cloud"
+# CUNY DHI: Building a Digital Humanities Community
+# 2015 — New York, New York
+
+# "Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media"
+# Digital Materials conference
+# 2015 — Galway, Ireland 
+# (Travel funding from GC Digital Initiatives)
+# ** Projects
+
+# Principal Investigator, Futures Past Archive
+# 2015 — 2017
+
+# Maintainer, [[https://github.com/smythp/eloud][Eloud screen reader]]
+# 2016 - 2017
+
+# Developer, [[http://dhbox.org/][DH Box]], CUNY Graduate Center
+# 2014 — present
+
+# Platform Redesign, [[http://www.writingstudiestree.org/][Writing Studies Tree]], CUNY Graduate Center
+# 2014 — present
+
+# Contributing Historian, [[http://www.morethanamapp.org/][More Than a Mapp]], CUNY Graduate Center
+# 2013 – 2014
+
+# Website Redesign, [[http://www.aiip.org/][Association of Independent Information Professionals]] (AIIP) 
+# 2013-2014
+
+
+
+
+
+
+
+# #+LATEX: }
+# * other stuff
+# ** TODO infrastructure studies
+# ** TODO utopian studies
+# ** TODO animal studies
+# ** TODO vitalism
+# ** TODO algorithmic criticism
+# ** TODO disability studies
+
+# ** Erewhen quotes
+# it is the machines which act upon man and make him man, as much as man who has acted upon and made the machines
+
+# "How greatly," he wrote, "do we not now live with our external limbs?  We vary our physique with the seasons, with age, with advancing or decreasing wealth.  If it is wet we are furnished with an organ commonly called an umbrella, and which is designed for the purpose of protecting our clothes or our skins from the injurious effects of rain.  Man has now many extra-corporeal members, which are of more importance to him than a good deal of his hair, or at any rate than his whiskers.  His memory goes in his pocket-book.  He becomes more and more complex as he grows older; he will then be seen with see-engines, or perhaps with artificial teeth and hair: if he be a really well-developed specimen of his race, he will be furnished with a large box upon wheels, two horses, and a coachman." 
+
+# "Observe a man digging with a spade; his right fore-arm has become artificially lengthened, and his hand has become a joint.  The handle of the spade is like the knob at the end of the humerus; the shaft is the additional bone, and the oblong iron plate is the new form of the hand which enables its possessor to disturb the earth in a way to which his original hand was unequal.  Having thus modified himself, not as other animals are modified, by circumstances over which they have had not even the appearance of control, but having, as it were, taken forethought and added a cubit to his stature, civilisation began to dawn upon the race, the social good offices, the genial companionship of friends, the art of unreason, and all those habits of mind which most elevate man above the
+# lower animals, in the course of time ensued.
+
+
+
+
+# if material possessions are prosthetics, than corproations are prosthetics that own themselves; that, indeed, reverse the order of possession and possessed, making humans the cells and organs
+
+
+# "This is the secret of the homage which we see rich men receive from those who are poorer than themselves: it would be a grave error to suppose that this deference proceeds from motives which we need be ashamed of: it is the natural respect which all living creatures pay to those whom they recognise as higher than themselves in the scale of animal life, and is analogous to the veneration which a dog feels for man.  Among savage races it is deemed highly honourable to be the possessor of a gun, and throughout all known time there has been a feeling that those who are worth most are the worthiest."
+
+# And s
+
+# ** TODO dissertation unhuman
+# unhuman (transhuman, posthuman, nonhuman)
+
+# process theory
+# - the idea of treating nonhuman entities as if they had subjective weight
+# - increasingly, intersubjective entities govern subjective entities
+
+# drawing on:
+# - bruno latur
+# - animal studies
+# - disability studies
+# - algorithmic criticism
+
+
+
+# # * extra
+# # The humanities, shockingly enough, is focused on humanity. Society, history, identity, emotion, hierarchy—the humanist is largely concerned with subjectivity, and subjectivity is often considered to be exclusive to the human. 
+
+
+# # During the twentieth century, as Utopian fiction assumed a more explicitly scientific bent, the increasingly fraught relationship between technology and the human became embodied in the figure of the cyborg. XXX
+
+
+# # that includes "haccessability"—the capability (and necessity) for individuals to carve out their own infrastructure, navigating the constant intersections between human and nonhuman actors in daily life. The project will approach this concept of haccessability from a number of directions, first by providing historical context through an analysis of Utopian literature and later by directly engaging current scholarship in disability studies, algorithmic criticism, and the nascent field of infrastructure studies.
+
+# # # * notes
+# # # they all ask: how can we create knowledge from computation?
+
+
+# # # from four perspectives: Victorian science, the digital humanities, utopian studies, and disability studies.
+
+# # # vitalism mirrors 
+
+
+
+# # # transhumanism has been criticized for implying that the disabled are in need of a savior in the form of technology
+
+# # # hackessability is about individuals forcing modes of access, not about groups finding access for individuals
+# # # - they're about creating a community of practioners
+# # # - attitude, not a solution handed down
+
+# # # if we imagine that phones are a prosthetic and that DRM, lmitations are a form of disability, than haccess is for everyone
+# # # #+LATEX: \end{doublespacing}
+# # # #+LATEX: \clearpage
