@@ -23,14 +23,13 @@ alter and alterity
 ** utopian studies
 ** algorithmic criticism
 storytelling: [[Stephanie Boluk][Stephanie Boluk]]
-critical code studies
+
 
 ** singularity
 ** systems (platforms, games, economics?)
 ** victorian?
 
-* talk with carrie
-* look at
+* look into
 *** TODO alterity
 *** TODO stephanie bolac
 did amazon book algorithms
