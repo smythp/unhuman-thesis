@@ -1,4 +1,5 @@
-#+OPTIONS:  num:nil toc:nil title:nil html-postamble:nil
+
+#+OPTIONS:  num:nil toc:nil title:nil html-postamble:nil tasks:nil
 #+TITLE: Unhuman: Accessibility, Transhumanism, and the Literary Prosthetic
 #+LATEX_CLASS: article
 #+LaTeX_CLASS_OPTIONS: [12pt]
@@ -14,19 +15,20 @@
 #+LaTeX_HEADER: \usepackage{courier}
 #+LATEX_HEADER: \begin{doublespacing}
 
-* Overview
-
-
-
-
-
-
 * Proposal
-Over the past months, Americans—and much of the rest of the world—have felt acutely that their lives are dominated by processes impossible to resist and too complex to understand. Algorithmically, we are shepherded into siloed camps that seem to occupy their own comceptual reality. The contents of our minds—and, more importantly, our phones—are one hack away from being public knowledge. Weather patterns drift out of control while corporations lumber across the social landscape, subverting democratic institutions and precipitating a slide into inequality.
 
-As the world is increasingly dominated by intersubjective entities—corporations, algorithms, opaque economic systems—the humanities has struggled to formulate a meaningful response. Humanistic disciplies face a twofold difficulty: one of reading and one of speech. As scholars such as Bruno Latour have observed, systems and technological artifacts are more often regarded as opaque black boxes relegated to a segregated priesthood of engineers than as cultural artifacts worthy of critical analysis. In those cases where scholars are willing to engage with the unhuman, limitations imposed  by disciplinary vocabulary or technical background may interfere with the process of integrating these insignts into wider discipliary conversations. 
 
-The humanities is experiencing a crisis of legibility.
+
+In his 1872 utopian novel /Erewhon/, Samuel Butler explored the alien notion that humankind's purpose may come to be the service of machines, that "man himself become a sort of parasite ... An affectionate machine-tickling aphid." Though a strange (and not particularly influential) notion in its day, Butler's sentiments about the relationship between humans and our endless creations gesture to both a profound philosophical question and an increasingly apt description of 21st-century society.
+
+It has always been difficult to view the world from nonhuman perspectives. In science, almost every paradigm-shifting advance has required a reexamination of humanity's position in the order of things. Heliocentrism, geological time, and the theory of evolution show that the trend is inexorably toward the pricking of the human ego—that we, as humans, have a bias toward our own importance that frequently comes into conflict with reality. In the last fifty years, fields such as physics, computer science, earth system science, behavioral psychology, evolutionary biology, and economics have benefitted from non-anthropocentric perspectives that contextualize humanity within systems that are very large, very small, or very strange. Within earth systems science, for example, the Gaia hypothesis posits the Earth as an organism capable of homeostasis, a balance that biological life, geology, and atmospheric conditions help to regulate. At the same time, evolutionary biologists such as Richard Dawkins and Stephen Jay Gould have raised productive questions by envisioning the process of evolution not from the perspective of the striving organism, but from the perspective of the striving gene or the striving species respectively. The burgeoning (and controversial) field of behavioral economics has uncovered many of the heuristics and biases that underlie human cognition. Finally, in sociology, the Actor Network Theory (ANT) advanced by Bruno Latour explicitly deemphasizes humanity by conceiving of society as a web of relationships between animals and objects broadly construed. By reaching beyond the meso-level analyses toward which humanity is prejudiced, these and other disciplines have been able to open new avenues of inquiry, displacing old assumptions and preconceptions and advancing thought in their respective fields.
+
+
+
+** TODO Darwin, Gould, Dawkins argue about what is the appropiate level of the subjective
+** TODO relative subjectivity
+
+As the world is increasingly dominated by intersubjective entities—corporations, algorithms, opaque economic systems—the humanities has struggled to formulate a meaningful response. Humanistic disciplines face a twofold difficulty: one of reading and one of speech. As scholars such as Bruno Latour have observed, systems and technological artifacts are more often regarded as opaque black boxes relegated to a segregated priesthood of engineers than as cultural artifacts worthy of critical analysis. At the same time, with some notable exceptions, the humanities has adopted theoretical frameworks that are comprehensive and intellectually satisfying (Spellmeier XXX), but which isolate scholars from discourses outside the academy.
 
 This project proposes to examine the /unhuman/\—that is, the nonhuman and collective entities that dominate the news cycle, our lives, and the planet. These include algorithms for high frequency trading and Facebook's News Feed, organizations such as the CIA and Pfizer, and infrastructural artifacts such as the interstate system and the world wide web. This investigation begins 150 years ago with a historical argument—contending that the Victorian period saw the rise of disruptive and alien unhuman entities—and a literary argument—that contemporary writers gave subjective weight to these entities in order to understand them and cope with their existence. Building on this historical and literary analysis, the project will engage with two humanities subfields—disability studies and the digital humanities—to make the case that the humanities would benefit from a more radical engagement with unhuman processes and entities. In doing so, I hope to elaborate on "haccessability"—a model in which individuals push back against overwhelming and incomprehensible social forces by extending their identities into technological and social prosthetics, such as personal infrastructure and extended communities of practice.
 
@@ -40,6 +42,13 @@ This project proposes to examine the /unhuman/\—that is, the nonhuman and coll
 
 ** Abstract
 What is the relationship between the human and the nonhuman? How has that relationship changed over the past 150 years? Scholarship in the sciences and social sciences has undergone a "nonhuman turn" in which researchers have profited from adopting non-anthropocentric perspectives, often revealing previously unrecognized paradigms. Meanwhile, in the humanities, researchers in Utopian studies, disability studies, and the digital humanities have raised essential questions about our stance toward nonhuman entities such as corporations, animals, algorithms, and infrastructure. While these approaches have yielded a number of worthwhile questions, this dissertation project argues that the humanities has not gone far enough in pushing beyond an anthropocentric perspective. By exploring how authors and thinkers in the past have given subjective weight to nonhuman entities and by examining how individuals can push back against totalizing organizational and technological forces, this project hopes to shed light on the large-scale nonhuman processes and entities that shape society, culture, and individual experience in the 21st century.
+
+The humanities has also increasingly recognized the essential worth of nonhuman entities as subjects for critical analysis. Fields such as animal studies, disability studies, and algorithmic criticism have incorporated stances and methodologies that have questioned what it means to be human while providing critical analysis of  relationships between human and nonhuman actors. Emerging approaches such as infrastructure studies (Svenson, Liu) and distant reading (Moretti, Jockers) have also allowed the humanities to perform readings and cultural criticism that extend beyond the traditional "comfort zone" of the humanities. XX
+
+However, there is a further epistemological realm where even the empathetic, the broad-minded, and the brave fear to tread. While encounters with the nonhuman—animal subjectivity, Dawkin's selfish genes, the Victorian railway system—can be disorientingly alien, they do not actively resist comprehension. Another class of entities, however, obfuscate themselves by their very nature. Algorithmic processes, opaque economic systems, and certain classes of intersubjective entity (corporations, state actors) are illegible to individuals either inherently or as a condition of their survival. For these entities, incomprehensibility is a feature, not a byproduct of alienness, otherness, or unfamiliarity. In addition, this unreadability is unidirectional, and the rise of this unhuman realm corresponds with the unprecedented measurement and analysis of humans both individually and as a group.
+
+As the world is increasingly dominated by intersubjective entities—corporations, algorithms, opaque economic systems—the humanities has struggled to formulate a meaningful response. Humanistic disciplines face a twofold difficulty: one of reading and one of speech. As scholars such as Bruno Latour have observed, systems and technological artifacts are more often regarded as opaque black boxes relegated to a segregated priesthood of engineers than as cultural artifacts worthy of critical analysis. At the same time, with some notable exceptions, the humanities has adopted theoretical frameworks that are comprehensive and intellectually satisfying (Spellmeier XXX), but which isolate scholars from discourses outside the academy.
+
 
 #+LATEX: \clearpage
 ** Project Description
@@ -71,6 +80,12 @@ In this final chapter, I hope to place these three interpretations of human-mach
 #+LATEX: \singlespacing
 #+LATEX: {\setlength{\parindent}{0cm}
 #+LATEX: \begin{hangparas}{.25in}{1}
+
+
+
+
+* leftover
+The capabilities afforded by these mechanisms—whether the tools and approaches used for distant reading or the large-scale affordances of bureaucracy and infrastructure in the academy—suggest that a more nuanced look at the connections among human and nonhuman actors is warranted. This approach would not only reimagine our view of the human to include everyday prosthetics such as phones, cars, and clothing, but also would envision entities such as corporations, software systems, and ecosystems as having their own subjective weight.
 * Bibliography
 \hangindent=0.7cm Butler, Samuel. /Erewhon/. Mineola, N.Y: Dover Publications, 2002. Print.
 
@@ -281,3 +296,8 @@ In this final chapter, I hope to place these three interpretations of human-mach
 
 * cool stuff
 "unreadable by design"
+
+
+
+* old
+Over the past months, Americans—and much of the rest of the world—have felt acutely that their lives are dominated by processes impossible to resist and too complex to understand. Algorithmically, we are shepherded into siloed camps that seem to occupy their own comceptual reality. The contents of our minds—and, more importantly, our phones—are one hack away from being public knowledge. Weather patterns drift out of control while corporations lumber across the social landscape, subverting democratic institutions and precipitating a slide into inequality.

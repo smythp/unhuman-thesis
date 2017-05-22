@@ -5,7 +5,7 @@ the world is increasingly unhuman. We have a tough time dealing with that but th
 
 people always trying to reach into unhuman dimension, even though they can't, subjectivity doesn't go there
 
-eroes: people who stick their hands into the unhuman realam are screwing everyone else over THATS WHAT BUGS ME
+eroes: people who stick their hands into the unhuman realm am are screwing everyone else over THATS WHAT BUGS ME
 systems should be more LEGIBLE to people
 
 * solutions
@@ -23,7 +23,7 @@ alter and alterity
 ** utopian studies
 ** algorithmic criticism
 storytelling: [[Stephanie Boluk][Stephanie Boluk]]
-
+computer science becoming an empirical science: https://vimeo.com/215418110
 
 ** singularity
 ** systems (platforms, games, economics?)
@@ -40,7 +40,7 @@ capitalism similarly algorithmic
 *** TODO grizzly man
 * questions
 - is this about mastery? do we want to control the unhuman dimension?
-- what is most appropiate word for the unhuman dimension: apparatus, biopower, etc.
+- what is most appropriate word for the unhuman dimension: apparatus, biopower, etc.
 - how should this book change how we proqceed?
 * advice
 write to carrie
@@ -57,6 +57,10 @@ what am i actually trying to say
 ** TODO center for 21st century studies at milwakee 
 ** TODO patricia klouth affect theory track her down
 ** TODO check out racial innocence (bernstien)    [[file:~/org/drafts/thesis.org::*look%20at][look at]]
+
+* Butler
+- May not man himself become a sort of parasite upon the machines?  An affectionate machine-tickling aphid?
+- "Money," they say, "is the symbol of duty, it is the sacrament of having done for mankind that which mankind wanted.  Mankind may not be a very good judge, but there is no better."
 
 * Arts of Living, Spellmeier
 "experience of freedom"
@@ -99,3 +103,17 @@ his examples of people who are real-world humanists  seem dated and lmited--ehrl
 ** Annotating Adventure: Critical Code Studies
 annotating code makes something impenetrable into something humanistic
 critical code studies
+
+
+* to sort
+[[https://www.theguardian.com/housing-network/2017/feb/28/un-report-lays-bare-the-waste-of-treating-homes-as-commodities][homes as commodities]]
+[[https://www.nytimes.com/2017/05/01/us/politics/sent-to-prison-by-a-software-programs-secret-algorithms.html][sentencing with algorithms]]
+[[http://www.newyorker.com/culture/cultural-comment/love-in-the-time-of-numbness-or-doctor-chekhov-writer][on numbness (about checkov)]]
+[[http://davidbyrne.com/journal/eliminating-the-human][eliminating the human]]
+[[https://www.ribbonfarm.com/2017/05/16/arguing-about-how-the-world-should-burn/][Arguing about how the world should burn]]
+[[https://www.theguardian.com/technology/2017/apr/18/god-in-the-machine-my-strange-journey-into-transhumanism][god in the machine: transhumanism]]cc
+[[https://www.wired.com/2017/04/courts-using-ai-sentence-criminals-must-stop-now][courts sentencing criminals with AI]]
+
+
+*** bias laundering
+running some biases through a computer or through an algorithm makes them seem less biased.
