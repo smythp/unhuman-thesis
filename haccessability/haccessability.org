@@ -1,6 +1,6 @@
 #+OPTIONS: tasks:nil
-* Negotiated Access
-
+* Introducing Negotiated Access
+** Terry Garrett
 On May 8, 2011, a blind gamer named Terry Garrett began playing Zelda: The Ocarina of Time. The game, widely considered a classic, depicts a 3D world populated with puzzles, enemies, and difficult terrain. It also offers no intentional concessions to a blind player using only sound cues, memory, and dogged persistence to navigate the game world. 
 
 Five years later, Garrett completed his playthrough. Using binaural audio, he'd found that he could map entities and terrain in the environment. Inaudible features could be struck with objects to produce identifying sounds, and a combination of trial-and-error and external research allowed him to pass traps and solve puzzles.
@@ -22,7 +22,7 @@ Now, moving forward, how do I manage today? ... Fortunately, I have my trusty lo
 
 Yet the cane, and the myriad other rhetorical, physical, cognitive, and emotional strategies deployed by the disabled, are not cures. Their use and deployment is necessarily idiosyncratic, unique to specific disabled individuals and their affinity groups. Their use or presence also often visibly sets disabled individuals apart. Unlike the medical cure, which seeks to normalize pathology and efface difference, the myriad strategies deployed by disabled people to negotiate physical and cultural spaces are a source of difference. This difference is primarily one of perception--it goes both ways, consisting both of how disabled people are perceived by others and how they themselves perceive the world. XXX
 
-Yet while we know that the medical model often fails to address or encompass disabled experience, the social model, for all its importance and usefulness, also does not address a significant portion of disabled life. In raising a cane—or in lip reading, using a screen reader, or adapting a vehicle to a mobility impairment——the disabled individual asserts a kind of power that does not flow from their approval or status in the wider community. Simultaneously, they assert their own identity, both individually and as part of an affinity group. Drawing on their understanding of their own situation and their relationship with the lived environment, the disabled individual /negotiates/. That is, they negotiate their environment, reforging relationships between their own bodies and the physical world. They negotiate with others, learning to survive in social milieus often characterized by ignorance and hostility. They share, build, and teach amongst themselves, creating negotiables—knowledge, physical infrastructure, and social capital that are their own. These practices, universal and critical to survival but often invisible and unacknowledged, I describe in this project as "negotiated access."
+Yet while we know that the medical model often fails to address or encompass disabled experience, the social model, for all its importance and usefulness, also does not address a significant portion of disabled life. In raising a cane—or in lip reading, using a screen reader, or adapting a vehicle to a mobility impairment——the disabled individual asserts a kind of power that does not flow from their approval or status in the wider community. Simultaneously, they assert their own identity, both individually and as part of an affinity group. Drawing on their understanding of their own situation and their relationship with the lived environment, the disabled individual /negotiates/. That is, they negotiate their environment, reforging relationships among their own bodies and the physical world. They negotiate with others, learning to survive in social milieus often characterized by ignorance and hostility. They share, build, and teach amongst themselves, creating negotiables—knowledge, physical infrastructure, and social capital that are their own. These practices, universal and critical to survival but often invisible and unacknowledged, I describe in this project as "negotiated access."
 
 Models of disability combine a means of conceiving of or envisioning disability with a prescribed way forward—that is, a way of improving—or attempting to improve—the lives of disabled people. For the medical model, this prescribed way forward is the cure, an effacement of disability. For the social model, the way forward is social change in the wider society, including advocacy for and understanding of the lives of disabled people. This chapter will articulate and explore a third model of disability, the negotiated model, intended to augment the critical work already done under the aegis of the social model. Like existing models of disability, this model provides both a way to conceive of and situate disability and a way forward, a means of improving the lives of disabled people. 
 
@@ -32,7 +32,9 @@ So, again: what conception of disability allows us to best understand Garrett's 
 
 Finally, it's essential to note that negotiated access is not an exceptional or extraordinary state for disabled individuals. Rather, it's a daily, or even hourly, fact of life. Case studies such as Garrett's and the others that will be discussed below garner focus and attention in both disabled and non-disabled communities, making them attractive for citation, discussion, and inclusion in a text such as this one. For disabled individuals, however, negotiation of the lived environment is simply a fact of life, one generally performed without fanfare or even, in most cases, acknowledgment. In addition, those individuals whose achievements come to wider public attention are often, despite their disabled status, privileged in other ways. While this study will attempt to balance extraordinary examples of negotiated access with those in keeping with the daily struggles and successes of disabled life, I wish to acknowledge that "notable" achievements in this context are unfortunately often those marked out by able, rather than disabled, communities. To the extent that it is possible within the bounds of this project, I have sought out first-hand accounts and voices of disabled experience whenever possible.
 
-*** TODO Point to section on intersectionality
+*************** TODO Point to section on intersectionality
+
+*************** END
 
 ** What is Negotiated Access?
 
@@ -42,12 +44,12 @@ While negotiated access flows from the personal and the idiosyncratic in the liv
 
 ** Hacking Accessibility
 
-XXX
-*** TODO History of hackers and parallels to accessibility
-
+*************** TODO History of hackers and parallels to accessibility
+*************** END
 If infrastructure comprises material and social circumstances, such as roads, housing, communications systems, organizations, laws, and resources, that determine what is practical and possible, then haccessibility is the creation of personal infrastructure that expands the boundaries of the possible in ways that are personal, small-scale, and resistant to larger forces. The term can apply to anyone, whether teenagers (mis)using mentions of promoted brands on Facebook to receive a signal boost from its algorithm or the business executive who uses his desktop computer as a footstool. However, the term is most significant for the disabled, since adaptations, workarounds, prosthetics, individualized skills, and acts of provocation and resistance are critical to their ability to survive and thrive in an able world. Beyond its tendency toward self-determination, another critical aspect of haccessibility is its indifference to propriety and the need or desire to "pass" in wider society. Like the old-school hackers from which the term is derived, those who practice haccessibility often violate boundaries in order to expand their capabilities, explore their environment, and play at the boundaries of the acceptable, the possible, and the expected.
 
-*** Out in the Cold (library story)
+
+*** Out in the Cold, or Why I Care About This Stuff
 
 Imagine that you travel to a library. As you walk in, shelves of books rise up around you. They contain thousands of volumes, including discourses on every possible subject. That's ideal, since you're on a mission—a research mission.
 
@@ -67,17 +69,21 @@ An experience common to disability is being denied what others take as given. Wh
 
 The vignette above is my own attempt to partially convey my own subjective experience as a low-vision researcher. FOr me, print books are not artifacts that readily give up their secrets. Depending on the length of the book, it's physical characteristics, and whether I'm willing to destroy it in the process—mostly not an option—any book not already in digital form requires two to ten hours of laborious scanning and processing before it can be read. While this means that few print books are strictly inaccessible to me—though such books do exist, including those in nonstandard or archaic scripts—it does mean that I must be strategic in which print books I choose to address in my research.
 
-Of course, the relatively recent rise of ebooks and related digital formats has proven a major boon to researchers—such as myself—who cannot read print. Access to a digital book circumvents the need for laborious scanning, and the result is often far superior, since imperfections in the scanning and optical character recognition processes often lead to unreadable text and the appearance of undesirable artifacts. Further, books that are machine-readable and shared online are also transformative for individuals with dyslexia and those who may have difficulty accessing a physical library. Access to digital books can also be an asset, or even a necessity, for non-disabled researchers who may not be geographically or economically situated for physical access to a research library.
+Of course, the relatively recent rise of ebooks and related digital formats has proven a major boon to researchers—such as myself—who cannot read print. Access to a digital book circumvents the need for laborious scanning, and the result is often far superior, since imperfections in the scanning and optical character recognition processes often lead to unreadable text and the appearance of undesirable artifacts. Further, books that are machine-readable and shared online are also transformative for individuals with dyslexia and those who may have difficulty accessing a physical library. Access to digital books can also be an asset, or even a necessity, for non-disabled researchers who may not be geographically or economically situated for physical access to an institution or a community of supportive  practitioners.
 
-*** TODO research programs for people with dyslexia / cognitive impairments and put in a line about that
-*** TODO Usefulness of digital books for DH scholars
-*** TODO Info box: is using TTS considered reading?
 
-While digital books can, in theory, level the playing field for many disadvantaged readers, the experience of accessing such books is often, in keeping with the above vignette, prohibitively difficult. Most publishers, such as XXX and XXX, and digital book platforms, such as Ebrary, implement Digital Rights Management (DRM), impose usage limits, or require that books be read in the browser rather than downloaded, all in an attempt to prevent sharing or other copyright violations. Unfortunately, these interfaces are often not screen reader accessible, and reading a book in the browser is typically not feasible for those who read using text-to-speech or other assistive technology. These interfaces are often considered cumbersome  even by able users, and the inconsistency and fragmentation in these platforms also makes it difficult to extract quotations, take notes, or archive copies for further reading or future reference. 
+*************** TODO  research programs for people with dyslexia / cognitive impairments and put in a line about that
+*************** END
+*************** TODO Usefulness of digital books for DH scholars
+*************** END
+*************** TODO Info box: is using TTS considered reading?
+*************** END
+*************** TODO Info box: is using TTS considered reading?
+*************** END
+
+ While digital books can, in theory, level the playing field for many disadvantaged readers, the experience of accessing such books is often, in keeping with the above vignette, prohibitively difficult. Most publishers, such as XXX and XXX, and digital book platforms, such as Ebrary, implement Digital Rights Management (DRM), impose usage limits, or require that books be read in the browser rather than downloaded, all in an attempt to prevent sharing or other copyright violations. Unfortunately, these interfaces are often not screen reader accessible, and reading a book in the browser is typically not feasible for those who read using text-to-speech or other assistive technology. These interfaces are often considered cumbersome  even by able users, and the inconsistency and fragmentation in these platforms also makes it difficult to extract quotations, take notes, or archive copies for further reading or future reference. 
 
 It's difficult to fully convey the subjective experience of finding a book in a digital library and being, so to speak, turned away at the door. This experience is compounded by the knowledge that this denial is the product of a deliberate choice, or series of choices, on the part of the copyright holder or platform designer. Unlike print books, which require an active step in order to be made accessible, digital books require an active step to be made inaccessible. Unfortunately, this active step is too often taken, leaving those with print disabilities without access to essential resources.
-
-*** Breaking and Entering
 
 What recourse does a blind researcher have when confronted with an inaccessible platform? One option is to purchase all books available in digital form. Unfortunately, academic books are often priced not for individuals, but for purchase by libraries, and these books can, in 2017, run in price from $80 to a heart-palpitating $300 for reference works, textbooks, or some edited collections. These costs often mean that the outlay for a second examination or thesis project could potentially run into the five figures. Unless one is independently wealthy, this is mostly not a viable choice for sourcing books for research.
 
@@ -87,7 +93,8 @@ While I have availed myself of these approaches in the past, my own methods for 
 
 The point of these observations is not to serve as a recommendation or recipe for other disabled researchers. Far from it—if anything, the amount of investment, of time and personal capital, required for such an approach shows only the difficulty and irreproducability of these methods. Instead, I share this background in order to frame my own interest in, and advocacy for, /haccessibility/—an approach to accessibility that draws on a culture that grew up around early computing, free and open source software, and the modern maker community.
 
-*** Haccessibility
+
+*** Defining Haccessibility
 
 **** What is Hacking?
 
@@ -107,23 +114,16 @@ But as the TMRC [Tech Model Railroad Club] people used the word, there was serio
 
 Hackers, in this early use of the word, were those who worked on a problem—often technical——out of passion rather than obligation, and who sought a deep understanding of a system or domain. This early hacker culture valued "playful cleverness" (Stallman, 2002), collaborative work, and the sharing of resources and results. They also frequently flouted rules, procedures, and restrictions on access, often in attempts to gain a commodity that, at the time, was highly valuable and frequently out of reach—computer time.
 
-**** TODO How did the term "hacker" come to mean criminal?
+*************** TODO How did the term "hacker" come to mean criminal?
+*************** END
 
 Much ink has been spilled over the relative legitimacy of various definitions of the word "hacker," particularly whether the term should be applied to criminals who gain unauthorized access to computers or curious and playful tecnophiles. In comparing elements of hacker culture to the concerns and practices of the disabled community, however, I will treat these two interpretations of the term as legitimate, noting only thier differing usages in specific cultural contexts.
-
 **** Shared Concerns
 
-Both hackers and people with disabilities are, fundamentally, concerned with the problem of access. Clearly there are major differences in these communities, most notably that the subject position of the hacker as an outsider seeking access is frequently chosen, while the subject position of the disabled individual as an outsider is forced upon them.
+Both hackers and people with disabilities are, fundamentally, concerned with the problem of access.
 
 
-
-
-
-
-
-
-
-
+ Clearly there are major differences in these communities, most notably that the subject position of the hacker as an outsider seeking access is frequently chosen, while the subject position of the disabled individual as an outsider is forced upon them.
 
 disability is expensive
 hacking came out of a lack of resources
@@ -136,50 +136,6 @@ The [[https://theoutline.com/post/2458/there-are-still-some-people-on-twitter-wh
 
 
 
-
-
-
-
-
-
-
-** A Personal Note
-
-
-
-
-
-** The Needs of the Disabled Many
-
-"Isn't it better not to be disabled?" The answer to this question is more complicated than it seems, and theanswer differs based on whether you're talking about 
-
-
-
-XXX section on why I give a shit about this XXX
-
-** 
-
-
-
-because infrastructure
-
-
-
-
- XXX NOTE ON OBSCURED VOICeS ELIZABETH MATTOCK DILLION 
-
-
-
-
-
-
-
-
-
-force open
-
-
-Finally, 
 
 While disabled gamers continue to pursue advocacy efforts, they have also engaged in a form of disability mitigation that is not generally acknowledged by the medical or social models of disability. If gaming interfaces are construed as a kind of infrastructure, one that attempts to determine not only the "what" of content and experience but also the "how" of method and interaction, then disabled gamers have, in large numbers, created their own infrastructure and support systems that defy constraints and carve new methods of engagement. 
 
@@ -198,12 +154,31 @@ While disabled gamers continue to pursue advocacy efforts, they have also engage
 
 leg prosthesis that didn't look like a leg
 
+*** Examples of Haccessibility
+
+*** Expense, Equity, and Accessibility
+you can throw a ton of money at something to get a pre-fix solution or you can customize something that exists
+only privileged people can affrod NOT to hack
+** Open Source Accessibility
+Overlap with social model - make things hackable
+you can work you way back to the social model
+could you ask a game compnay to make a game that works for blind people? maybe. but maybe it makes more sense to force companies to make things hackable. it's been shown that BP can manage to make games that are accessible to themselves. but if companies allow for more openness then BP can make games accessible themselves, and they theymselves know what is best
+
+*** Critical Making?
+** Independence and Disabled Identity
+the importance of people doing things for themselves
+
+teach a man to fish
+
+this is more about the big picture
+
+if step one is hacking for yourself, step two is facilitating people in their hacking through openness, then the third step is creating a sustainable COMMUNITY based on specific affinity groups,
 
 
-
-
-
-* outline
+* Infrastructure
+* History
+* Utopias
+* notes
 transhumanists are regarded as suspicious because they wish to apply the cure
 
 yet transhumanists don't want just to apply the cure to the disabled, they want to apply the cure to everyone
@@ -219,11 +194,13 @@ hacking is exclusionary
 hacking is inclusionary
 we're already hackers, let's act like it
 hacking as rhetoric
-** Morris
-*** Pride Against Prejudice
- It took me a long time after my accident to feel good about being out in public with other disabled people. For me the breakthrough came when I was leaving a meeting in the company of a disabled man. As we came towards the doors leading out of the building a woman rushed up, saying, 'Let me open the doors for you' (her attitude of 'Poor things' written all over her face and oozing out of her voice). But, before she could push her way in front of us — as people trying to open doors do so often — the doors opened automatically. 'Oh!' she cried, 'Isn't that clever. How does it work?' `I don't know,' I said, 'I'm not an electrician.' And we sailed through the doors, leaving her open-mouthed and superfluous.  
+** The Needs of the Disabled Many
 
-Thinking about this incident afterwards I realised I felt a feeling of power which came from two sources — the feeling of solidarity with another disabled person at whom her pity was also directed, and the fact that, for once, the physical environment had been altered to suit people like me. The automatic doors meant that I did not have to accept help from someone whose help was offered on her terms and not mine. (Morris 30)
+"Isn't it better not to be disabled?" The answer to this question is more complicated than it seems, and theanswer differs based on whether you're talking about 
+
+
+
+XXX section on why I give a shit about this XXX
 
 * quotes
 ** stallman interview
@@ -232,7 +209,6 @@ One possible arena for playful cleverness is breaking security. Hackers never ha
 [[https://www.gnu.org/philosophy/rms-hack.html][interview with richard stallman]]
 ** hackers
 Peter Samson and his friends had grown up with a specific relationship to the world, wherein things had meaning only if you found out how they worked. And how would you go about that if not by getting your hands on them?
-
 
 ** kurzweil
 *** spiritual machines
@@ -254,8 +230,11 @@ https://plato.stanford.edu/entries/disability/#EpiMorAut
 3.4
 Such inclusiveness, however, requires an acceptance of diverse attitudes and opinions. Even if the majority of people we would classify as having disabilities perceived societal mistreatment and institutional barriers to be more oppressive than their diagnoses, not all of them would share that view or agree on the best response. African-Americans have different views about affirmative action, and many women do not believe that the option of legal abortion is essential for women's full participation in society. Disability theorists can find it frustrating that most nondisabled people in bioethics dispute their claims about their experience, but those theorists must respond to whatever challenge to the social model is posed by people with disabilities who see their condition, and not society, as the major impediment to their living rewarding lives. Many people with both congenital and acquired disabilities have said that they don't want cures but do want societal change, but that hardly warrants the charge that Christopher Reeve wasn't speaking from his experience of disability when he argued that what he wanted was “cure” and not social change (Johnson, 2003; Shakespeare, 2006).
 
+** Morris
+*** Pride Against Prejudice
+ It took me a long time after my accident to feel good about being out in public with other disabled people. For me the breakthrough came when I was leaving a meeting in the company of a disabled man. As we came towards the doors leading out of the building a woman rushed up, saying, 'Let me open the doors for you' (her attitude of 'Poor things' written all over her face and oozing out of her voice). But, before she could push her way in front of us — as people trying to open doors do so often — the doors opened automatically. 'Oh!' she cried, 'Isn't that clever. How does it work?' `I don't know,' I said, 'I'm not an electrician.' And we sailed through the doors, leaving her open-mouthed and superfluous.  
 
-
+Thinking about this incident afterwards I realised I felt a feeling of power which came from two sources — the feeling of solidarity with another disabled person at whom her pity was also directed, and the fact that, for once, the physical environment had been altered to suit people like me. The automatic doors meant that I did not have to accept help from someone whose help was offered on her terms and not mine. (Morris 30)
 
 * proposal
 Scholars such as David Doat have criticized transhumanism, an ideological stance and subculture advanced by technologists and futurists, especially those like Ray Kurzweil who have a connection to Silicon Valley. He and others have observed that transhumanists regard the disabled as rhetorical stepping stones who provide evidence of an essential incompleteness in humanity that must be overcome with technology. This allows transhumanists to assume the role of saviors, creating infrastructure for others while determining the boundaries of what is reasonable, achievable, and desirable.
@@ -270,7 +249,6 @@ This section will advocate for haccessibility as a means of understanding the mu
 
 self feeding device
 https://www.youtube.com/watch?v=JnEK5fCGy1U
-
 
 * links
 https://mobile.nytimes.com/2017/11/05/sports/blind-marathoner-technology.html
