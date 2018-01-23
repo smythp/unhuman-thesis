@@ -47,7 +47,70 @@ While negotiated access flows from the personal and the idiosyncratic in the liv
 *************** TODO History of hackers and parallels to accessibility
 *************** END
 If infrastructure comprises material and social circumstances, such as roads, housing, communications systems, organizations, laws, and resources, that determine what is practical and possible, then haccessibility is the creation of personal infrastructure that expands the boundaries of the possible in ways that are personal, small-scale, and resistant to larger forces. The term can apply to anyone, whether teenagers (mis)using mentions of promoted brands on Facebook to receive a signal boost from its algorithm or the business executive who uses his desktop computer as a footstool. However, the term is most significant for the disabled, since adaptations, workarounds, prosthetics, individualized skills, and acts of provocation and resistance are critical to their ability to survive and thrive in an able world. Beyond its tendency toward self-determination, another critical aspect of haccessibility is its indifference to propriety and the need or desire to "pass" in wider society. Like the old-school hackers from which the term is derived, those who practice haccessibility often violate boundaries in order to expand their capabilities, explore their environment, and play at the boundaries of the acceptable, the possible, and the expected.
+*** Defining Haccessibility
 
+**** What is Hacking?
+
+"Hacker" is a contested term, one with a set of meanings and associations highly dependent on context and culture. For most, the hacker is figured as a modern-day boogieman or, at best, a trickster. In the news, depictions of the hacker have shifted from a suburban adolescent capable of bringing about nuclear Armageddon to a faceless assortment of criminal collectives to, more recently, the chosen tool of adversarial state actors for subverting Western institutions. Casually and less consistently, in cases of motivated interest the term hacker may be used to describe whistleblowers who exfiltrate data, such as Chelsea Manning and Edward Snowden, or researchers who point out security vulnerabilities created by technical or policy decisions on the part of corporations or the government. In fiction, the hacker appears as an unreliable guide or, tamed, clears impediments from the path of the protagonist.
+
+The original use of the word "hacker," one that survives to this day in a number of subcultures, is quite different from this popular figuration. The terms "hack" and "hacker" originated at MIT in the early sixties amongst a group of technically-minded students, many of whom participated in MIT's Tech model train club, the AI lab, or both.
+
+#+BEGIN_QUOTE
+The core members hung out at the club for hours; constantly improving The System, arguing about what could be done next, developing a jargon of their own that seemed incomprehensible to outsiders who might chance on these teen-aged fanatics [...]. [...] one who insisted on studying for courses was a "tool"; garbage was called "cruft"; and a project undertaken or a product built not solely to fulfill some constructive goal, but with some wildpleasure taken in mere involvement, was called a "hack."
+#+END_QUOTE
+
+For these early hackers, the word "hack" already had a number of related usages. One could "hack away" on a task or project, artlessly expending effort but making progress. One might implement a "quick hack," a suspect or unreliable solution that solves a problem in the short term. Most important, however, was the "excellent hack"—a striking or even transcendent solution that demonstrated intimate familiarity or mastery of a system.
+
+#+BEGIN_QUOTE
+But as the TMRC [Tech Model Railroad Club] people used the word, there was serious respect implied. While someone might call a clever connection between relays a "mere hack," it would be understood that, to qualify as a hack, the feat must be imbued with innovation, style, and technical virtuosity. [...] The most productive people working on Signals and Power called themselves "hackers" with great pride.
+#+END_QUOTE
+
+Hackers, in this early use of the word, were those who worked on a problem—often technical——out of passion rather than obligation, and who sought a deep understanding of a system or domain. This early hacker culture valued "playful cleverness" (Stallman, 2002), collaborative work, and the sharing of resources and results. They also frequently flouted rules, procedures, and restrictions on access, often in attempts to gain a commodity that, at the time, was highly valuable and frequently out of reach—computer time. 
+************** TODO How did the term "hacker" come to mean criminal?
+*************** END
+** Shared Concerns
+
+Both hackers and people with disabilities are, fundamentally, concerned with the problem of access. Old-school hackers—the XXX and Richard Stallmans of the world—care about access because they have a primal need to dig into the core of a machine, system, or program. Without the access granted through informal peer groups or initiatives such as the free and open source software movement, the kind of exploratory work with which these first hackers are associated becomes impossible. Hackers of the other stripe, those appearing in news stories about state actors and data breaches, are also concerned with (frequently unauthorized) access. By definition, these hackers are outsiders seeking entre
+
+
+
+Much ink has been spilled over the relative legitimacy of various definitions of the word "hacker," particularly whether the term should be applied to criminals who gain unauthorized access to computers or curious and playful tecnophiles. In comparing elements of hacker culture to the concerns and practices of the disabled community, however, I will treat each of these interpretations of the term as legitimate. 
+
+People with disabilities, especially those in certain affinity groups, often gravitate toward playful, clever, or community-minded resolutions to daily struggles, casting them in a role similar to the "original" hacker. At the same time, the need to surmount obstacles presented by lack of accessibility just as often casts people with disabilities in the role of the hacker as outsider, criminal, and suspect.
+
+
+
+
+ Clearly there are major differences in these communities, most notably that the subject position of the hacker as an outsider seeking access is frequently chosen, while the subject position of the disabled individual as an outsider is forced upon them.
+
+disability is expensive
+hacking came out of a lack of resources
+
+
+
+The [[https://theoutline.com/post/2458/there-are-still-some-people-on-twitter-who-don-t-have-280-characters][blind social media manager stuck using 180 characters when others can use 280]]. 
+
+
+
+
+
+
+While disabled gamers continue to pursue advocacy efforts, they have also engaged in a form of disability mitigation that is not generally acknowledged by the medical or social models of disability. If gaming interfaces are construed as a kind of infrastructure, one that attempts to determine not only the "what" of content and experience but also the "how" of method and interaction, then disabled gamers have, in large numbers, created their own infrastructure and support systems that defy constraints and carve new methods of engagement. 
+
+
+
+
+
+
+
+—is opposed by the social model of disability, a view which contends that disability as a phenomenon is largely socially constructed.
+
+
+
+
+ The medical model of disability—the view that disability is a  The social model of disability has found traction among those 
+
+leg prosthesis that didn't look like a leg
 
 *** Out in the Cold, or Why I Care About This Stuff
 
@@ -94,65 +157,6 @@ While I have availed myself of these approaches in the past, my own methods for 
 The point of these observations is not to serve as a recommendation or recipe for other disabled researchers. Far from it—if anything, the amount of investment, of time and personal capital, required for such an approach shows only the difficulty and irreproducability of these methods. Instead, I share this background in order to frame my own interest in, and advocacy for, /haccessibility/—an approach to accessibility that draws on a culture that grew up around early computing, free and open source software, and the modern maker community.
 
 
-*** Defining Haccessibility
-
-**** What is Hacking?
-
-"Hacker" is a contested term, one with a set of meanings and associations highly dependent on context and culture. For most, the hacker is figured as a modern-day boogieman or, at best, a trickster. In the news, depictions of the hacker have shifted from a suburban adolescent capable of bringing about nuclear Armageddon to a faceless assortment of criminal collectives to, more recently, the chosen tool of adversarial state actors for subverting Western institutions. Casually and less consistently, in cases of motivated interest the term hacker may be used to describe whistleblowers who exfiltrate data, such as Chelsea Manning and Edward Snowden, or researchers who point out security vulnerabilities created by technical or policy decisions on the part of corporations or the government. In fiction, the hacker appears as an unreliable guide or, tamed, clears impediments from the path of the protagonist.
-
-The original use of the word "hacker," one that survives to this day in a number of subcultures, is quite different from this popular figuration. The terms "hack" and "hacker" originated at MIT in the early sixties amongst a group of technically-minded students, many of whom participated in MIT's Tech model train club, the AI lab, or both.
-
-#+BEGIN_QUOTE
-The core members hung out at the club for hours; constantly improving The System, arguing about what could be done next, developing a jargon of their own that seemed incomprehensible to outsiders who might chance on these teen-aged fanatics [...]. When a piece of equipment wasn't working, it was "losing"; when a piece of equipment was ruined, it was "munged" (Mash Until No Good); [...]  one who insisted on studying for courses was a "tool"; garbage was called "cruft"; and a project undertaken or a product built not solely to fulfill some constructive goal, but with some wildpleasure taken in mere involvement, was called a "hack."
-#+END_QUOTE
-
-For these early hackers, the word "hack" already had a number of related usages. One could "hack away" on a task or project, artlessly expending effort but making progress. One might implement a "quick hack," a suspect or unreliable solution that solves a problem in the short term. Most important, however, was the "excellent hack"—a striking or even transcendent solution that demonstrated intimate familiarity or mastery of a system.
-
-#+BEGIN_QUOTE
-But as the TMRC [Tech Model Railroad Club] people used the word, there was serious respect implied. While someone might call a clever connection between relays a "mere hack," it would be understood that, to qualify as a hack, the feat must be imbued with innovation, style, and technical virtuosity. [...] The most productive people working on Signals and Power called themselves "hackers" with great pride.
-#+END_QUOTE
-
-Hackers, in this early use of the word, were those who worked on a problem—often technical——out of passion rather than obligation, and who sought a deep understanding of a system or domain. This early hacker culture valued "playful cleverness" (Stallman, 2002), collaborative work, and the sharing of resources and results. They also frequently flouted rules, procedures, and restrictions on access, often in attempts to gain a commodity that, at the time, was highly valuable and frequently out of reach—computer time.
-
-*************** TODO How did the term "hacker" come to mean criminal?
-*************** END
-
-Much ink has been spilled over the relative legitimacy of various definitions of the word "hacker," particularly whether the term should be applied to criminals who gain unauthorized access to computers or curious and playful tecnophiles. In comparing elements of hacker culture to the concerns and practices of the disabled community, however, I will treat these two interpretations of the term as legitimate, noting only thier differing usages in specific cultural contexts.
-**** Shared Concerns
-
-Both hackers and people with disabilities are, fundamentally, concerned with the problem of access.
-
-
- Clearly there are major differences in these communities, most notably that the subject position of the hacker as an outsider seeking access is frequently chosen, while the subject position of the disabled individual as an outsider is forced upon them.
-
-disability is expensive
-hacking came out of a lack of resources
-
-
-
-The [[https://theoutline.com/post/2458/there-are-still-some-people-on-twitter-who-don-t-have-280-characters][blind social media manager stuck using 180 characters when others can use 280]]. 
-
-
-
-
-
-
-While disabled gamers continue to pursue advocacy efforts, they have also engaged in a form of disability mitigation that is not generally acknowledged by the medical or social models of disability. If gaming interfaces are construed as a kind of infrastructure, one that attempts to determine not only the "what" of content and experience but also the "how" of method and interaction, then disabled gamers have, in large numbers, created their own infrastructure and support systems that defy constraints and carve new methods of engagement. 
-
-
-
-
-
-
-
-—is opposed by the social model of disability, a view which contends that disability as a phenomenon is largely socially constructed.
-
-
-
-
- The medical model of disability—the view that disability is a  The social model of disability has found traction among those 
-
-leg prosthesis that didn't look like a leg
 
 *** Examples of Haccessibility
 
@@ -173,7 +177,6 @@ teach a man to fish
 this is more about the big picture
 
 if step one is hacking for yourself, step two is facilitating people in their hacking through openness, then the third step is creating a sustainable COMMUNITY based on specific affinity groups,
-
 
 * Infrastructure
 * History
@@ -243,15 +246,11 @@ I accept this critique of the transhuman ideology, yet in rejecting the role adv
 
 This section will advocate for haccessibility as a means of understanding the multivalent intersections among individuals and their social and technological contexts. It will also provide examples of ways in which institutional morays, practices, and rules have been (and often must be) violated by disabled individuals in pursuit of their goals. This chapter will draw on works such as Donna Haraway's /Cyborg Manifesto/, Richard Stallman's /Free Software, Free Society/, and Scott Dexter and Samir Chopra's /Decoding Liberation/ in addition to foundational works in disability studies, especially those relating to post- and transhumanism. The chapter will also examine communities that have formed around the practice of hacking personal infrastructure, such as [[http://blarbl.blogspot.com/][Blind Arduino]], [[https://talkingarch.tk/][Talking Arch]], and [[https://www.seeingwithsound.com/android.htm][seeingwithsound]].
 
-
-
-
+* links
+https://mobile.nytimes.com/2017/11/05/sports/blind-marathoner-technology.html
 
 self feeding device
 https://www.youtube.com/watch?v=JnEK5fCGy1U
-
-* links
-https://mobile.nytimes.com/2017/11/05/sports/blind-marathoner-technology.html
 
 
 
@@ -276,3 +275,33 @@ social model is required to MAKE ROOM for negotiated access; games as an example
 bird game
 https://ifcomp.org/1758/content/10pm.html
 https://medium.com/@lisaferris/of-little-faith-a-troubling-trend-with-blindness-professionals-1a6f2f85597c
+
+toby documentary (playing doom)
+https://www.youtube.com/watch?v=07jOSs7Fun8&feature=youtu.be&a=
+
+# accessible game but not accessible platform
+https://www.applevis.com/forum/macos-mac-app-discussion/using-steam-mac
+
+accessible homestuck
+http://accessiblehomestuckproject.tumblr.com/links
+
+19th century disability archive
+http://www.nineteenthcenturydisability.org/
+
+list of books
+http://www.nlcdd.org/resources-books-movies-disability.html
+
+# made for my wheelchair
+https://web.archive.org/web/20171118211851/https://makea.org/public/
+http://madeformywheelchair.de/
+
+# echolocation prosthetic
+https://www.youtube.com/watch?v=DhHc1g0qG-8&lc=UgyKX0Xy0lhSSVBfsG14AaABAg
+
+
+piet
+[[http://www.archimedes-lab.org/grooks.html]]
+
+
+affordances in the age of the inaffordable
+the present is here, it's just not equally distrubuted

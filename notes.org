@@ -20,7 +20,25 @@ systems should be more LEGIBLE to people
 ** religious ineffable, the sublime
 alter and alterity
 ** haccessibility
+reader says that there is room to interrogate the application of the term/concept of diaability - is there such a thing as monolithic disability, as a community or as a label?
+
+i'd say no. disability is an identity, but we all experience a negotiation between self and the environment that can be read as disability. there is no perfect "ability" to measure against, everyone is disabled in this way. disability as identity occurs when abilities are too far from a normative baseline, or if the condition incurs a social stigma. 
+
 ** utopian studies
+Falling Free (Bujold)
+Xenocide
+Deepness in the SKy
+Among Others (Jo Walton)
+
+The Chrysalids, by John Wyndham
+Do Androids Dream of Electric Sheep?
+
+
+crystal griffin
+Pegasus in Flight, McCaffery - boy walks with psychokinesis, very ham-handed?
+Little Lame Prince
+
+
 ** algorithmic criticism
 storytelling: [[Stephanie Boluk][Stephanie Boluk]]
 computer science becoming an empirical science: https://vimeo.com/215418110
@@ -34,14 +52,15 @@ computer science becoming an empirical science: https://vimeo.com/215418110
 *** TODO stephanie bolac
 did amazon book algorithms
 capitalism similarly algorithmic
+dwarven epitaphs
 *** TODO holy ghost?
 *** TODO affect theory
-*** TODO involuntary systms of our body are not human?e
+*** TODO involuntary systms of our body are not human?
 *** TODO grizzly man
 * questions
 - is this about mastery? do we want to control the unhuman dimension?
 - what is most appropriate word for the unhuman dimension: apparatus, biopower, etc.
-- how should this book change how we proqceed?
+- how should this book change how we proceed?
 * advice
 write to carrie
 write more informally
@@ -61,6 +80,62 @@ what am i actually trying to say
 * Butler
 - May not man himself become a sort of parasite upon the machines?  An affectionate machine-tickling aphid?
 - "Money," they say, "is the symbol of duty, it is the sacrament of having done for mankind that which mankind wanted.  Mankind may not be a very good judge, but there is no better."
+
+* Devices and Desires 
+Disability Studies Quarterly
+Winter 2004, Volume 24
+
+C.S. Lewis himself "cures" Diggory's mother in The Magician's Nephew, as his own mother was not cured, but masks his longing in allegory and another world. There is, however, the possibility of creating a realistic setting in which a magical cure genuinely happens—such as that of Jack's father. To do this, when magical cures are so often wished for in real life, seems to me irresponsible; the realistic fantasies, where things "ought to happen, would have happened if the reader had had a fair chance" are the most dangerous.
+
+** other stories with disabilites
+Ahlberg, Alan. 2001. My Brother's Ghost. London: Viking.
+Allen, Joan. 1998. Crystaline and the Unicorn. London: Minerva.
+
+Anderson, Rachel. 1997. The Scavenger's Tale. Oxford: Oxford University Press.
+
+Bevan, Clare. 1989. Mightier than the Sword. London: Blackie.
+
+Boston, Lucy M., ill. Peter Boston. 1958. The Chimneys of Green Knowe. London: Faber.
+
+Breslin, Theresa, ill. David Wyatt. 1999. Dream Master.p London: Corgi.
+
+Breslin, Theresa. 1994. Whispers in the Graveyard. London: Methuen.
+
+Chukwuka, J.I.N. 1996, c.1977. Zandi and the Wonderful Pillow. London: John Murray.
+
+Clancy, Gertrude. 1994. The Cup and the Mask: a fairy tale. Llandysul: Pont.
+
+Dunbar, Joyce. 1985. Mundo and the Weather-child. London: Heinemann.
+
+Dunlop, Eileen, ill. Phillida Gili. 1976. A Flute in Mayferry Street. London: Oxford University Press.
+
+Dunlop, Eileen. 1989. The Valley of Deer. Oxford: Oxford University Press.
+
+Fletcher, Susan. 1998. Shadow Spinner. London: Bloomsbury.
+
+French, Vivian, ill. Sue Heap. 1992. Tillie McGillie's Fantastical Chair. London: Walker.
+
+Goodhart, Pippa, ill. Aafke Brouwer. 1995. Ginny's Egg. London: Heinemann.
+
+Hawkins, Elizabeth. 1995. The Maze. London: Orchard.
+
+Hoopman, Kathy. 2001. Blue Bottle Mystery: an Asperger Adventure. London: Jessica Kingsley.
+
+Hoopman, Kathy. 2001. Of Mice and Aliens: an Asperger Adventure. London: Jessica Kingsley.
+
+Jung, Reinhardt, trans. Anthea Bell. 2000. Dreaming in Black & White. London: Mammoth.
+
+Kilworth, Garry, ill. Dan Williams. 1997. The Gargoyle. London: Mammoth.
+
+Leonard, Alison, ill. Harriet Dell. 1995. Quiddy and the Mysterious Mega virus. Harlow: Longman.
+
+Lowry, Lois. 2000. Gathering Blue. New York: Walter Lorraine.
+
+Morgan, Robin, ill. Jesse Spicer-Zerner. 1991. The Mer-child: a Legend for Children and Other Adults. New York: Feminist Press.
+
+Morpurgo, Michael, ill. Michael Foreman. 2002. The Sleeping Sword. London: Egmont.
+
+Richemont, Enid. 1998. The Time Tree. London: Walker.
 
 * Arts of Living, Spellmeier
 "experience of freedom"
