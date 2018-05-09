@@ -1,194 +1,144 @@
-* elevator pitch
-what does the humanities do in a world that is unhuman?
+* notes
+transhumanists are regarded as suspicious because they wish to apply the cure
 
-the world is increasingly unhuman. We have a tough time dealing with that but there are a few ways.
+yet transhumanists don't want just to apply the cure to the disabled, they want to apply the cure to everyone
 
-people always trying to reach into unhuman dimension, even though they can't, subjectivity doesn't go there
+this essay argues that we should regard the able as part of disability studies because interactions between the individual and the environment are always negotiated
 
-eroes: people who stick their hands into the unhuman realm am are screwing everyone else over THATS WHAT BUGS ME
-systems should be more LEGIBLE to people
-
-* solutions
- - hackcessibility
- - openness
-[[Arts of Living, Spellmeier][spellmeier arts of living]]
- - algo criticism
- - prosthetics
- - Utopian Studies empathy (suven)
-* chapters
-** grand tour intro
-** religious ineffable, the sublime
-alter and alterity
-** haccessibility
-reader says that there is room to interrogate the application of the term/concept of diaability - is there such a thing as monolithic disability, as a community or as a label?
-
-i'd say no. disability is an identity, but we all experience a negotiation between self and the environment that can be read as disability. there is no perfect "ability" to measure against, everyone is disabled in this way. disability as identity occurs when abilities are too far from a normative baseline, or if the condition incurs a social stigma. 
-
-** utopian studies
-Falling Free (Bujold)
-Xenocide
-Deepness in the SKy
-Among Others (Jo Walton)
-
-The Chrysalids, by John Wyndham
-Do Androids Dream of Electric Sheep?
+accessibility describes the space between an individual and a normative goal. hacking describes the space between an indivudual and a non-normative goal. 
 
 
-crystal griffin
-Pegasus in Flight, McCaffery - boy walks with psychokinesis, very ham-handed?
-Little Lame Prince
+transhumanists and the cure
+we are all disabled, all is negotiation
+hacking is exclusionary
+hacking is inclusionary
+we're already hackers, let's act like it
+hacking as rhetoric
+** The Needs of the Disabled Many
+
+"Isn't it better not to be disabled?" The answer to this question is more complicated than it seems, and theanswer differs based on whether you're talking about 
 
 
-** algorithmic criticism
-storytelling: [[Stephanie Boluk][Stephanie Boluk]]
-computer science becoming an empirical science: https://vimeo.com/215418110
 
-** singularity
-** systems (platforms, games, economics?)
-** victorian?
+XXX section on why I give a shit about this XXX
 
-* look into
-*** TODO alterity
-*** TODO stephanie bolac
-did amazon book algorithms
-capitalism similarly algorithmic
-dwarven epitaphs
-*** TODO holy ghost?
-*** TODO affect theory
-*** TODO involuntary systms of our body are not human?
-*** TODO grizzly man
-* questions
-- is this about mastery? do we want to control the unhuman dimension?
-- what is most appropriate word for the unhuman dimension: apparatus, biopower, etc.
-- how should this book change how we proceed?
-* advice
-write to carrie
-write more informally
-what am i actually trying to say
-[[zotero://select/items/0_X9KEF7DN][Spellmeyer, Kurt. Arts of Living]]
+* quotes
+** stallman interview
+RMS: It means someone who enjoys playful cleverness, especially in programming but other media are also possible. In the 14th century, Guillaume de Machaut wrote a palindromic three-part musical composition. It sounded good, too—I think I played in it once, because I still remember one of the parts. I think that was a good hack. I heard somewhere that J. S. Bach did something similar.
+One possible arena for playful cleverness is breaking security. Hackers never had much respect for bureaucratic restrictions. If the computer was sitting idle because the administrators wouldn't let them use it, they would sometimes figure out how to bypass the obstacles and use it anyway. If this required cleverness, it would be fun in itself, as well as making it possible to do other hacking (for instance, useful work) on the computer instead of twiddling one's thumbs. But not all hackers did security breaking. Many never were interested in that. 
+[[https://www.gnu.org/philosophy/rms-hack.html][interview with richard stallman]]
+** hackers
+Peter Samson and his friends had grown up with a specific relationship to the world, wherein things had meaning only if you found out how they worked. And how would you go about that if not by getting your hands on them?
 
-[[Arts of Living, Spellmeier][arts of living]] as rhetoical inspiration?
+** kurzweil
+*** spiritual machines
+It is the applications of the technology benefiting disabled people that have brought me the greatest gratification. There is a fortuitous match between the capabilities of contemporary computers and the needs of a disabled person. We're not creating cybernetic geniuses today—not yet. The intelligence of our present-day intelligent computers is narrow, which can provide effective solutions for the narrow deficits of most disabled persons. The restricted intelligence of the machine works effectively with the broad and flexible intelligence of the disabled person. Overcoming the handicaps associated with disabilities using AI technologies has long been a personal goal of mine. With regard to the major physical and sensory disabilities, I believe that in a couple of decades we will come to herald the effective end of handicaps. As amplifiers of human thought, computers have great potential to assist human expression and to expand creativity for all of us. I hope to continue playing a role in harnessing this potential. (Kurzweil 128)
 
-* publish chapters
-** TODO affect theory chapter [[https://call-for-papers.sas.upenn.edu/cfp/2017/04/06/call-for-book-chapters-on-affect-theory-and-rhetorical-persuasion-in-mass][here]]
-** TODO write something for Trace [[https://call-for-papers.sas.upenn.edu/cfp/2017/04/10/how-we-make][here]]
-** TODO rebecca sheldon published in nonhuman turn "the child to come" was affiliated with center for 21st century studies...reach out to her about 21st cetury? carrie can introduce
-** TODO center for 21st century studies at milwakee 
-** TODO patricia klouth affect theory track her down
-** TODO check out racial innocence (bernstien)    [[file:~/org/drafts/thesis.org::*look%20at][look at]]
+Deaf persons—or anyone with a hearing impairment—commonly use portable speech-to-text listening machines, which display a real-time transcription of what people are saying. The deaf user has the choice of either reading the transcribed speech as displayed text, or watching an animated person gesturing in sign language. These have eliminated the primary communication handicap associated with deafness. Listening machines can also translate what is being said into another language in real time, so they are commonly used by hearing people as well. Computer-controlled orthotic devices have been introduced. These "walking machines" enable paraplegic persons to walk and climb stairs. The prosthetic devices are not yet usable by all paraplegic persons, as many physically disabled persons have dysfunctional joints from years of disuse. However, the advent of orthotic walking systems is providing more motivation to have these joints replaced. There is a growing perception that the primary disabilities of blindness, deafness, and physical impairment do not necessarily impart handicaps. Disabled persons routinely describe their disabilities as mere inconveniences. Intelligent technology has become the great leveler. (Kurzweil 139)
 
-* Butler
-- May not man himself become a sort of parasite upon the machines?  An affectionate machine-tickling aphid?
-- "Money," they say, "is the symbol of duty, it is the sacrament of having done for mankind that which mankind wanted.  Mankind may not be a very good judge, but there is no better."
+Prediction for 2019:
 
-* Devices and Desires 
-Disability Studies Quarterly
-Winter 2004, Volume 24
+Blind persons routinely use eyeglass-mounted reading-navigation systems, which incorporate the new, digitally controlled, high-resolution optical sensors. These systems can read text in the real world, although since most print is now electronic, print-to-speech reading is less of a requirement. The navigation function of these systems, which emerged about ten years ago, is now perfected. These automated reading-navigation assistants communicate to blind users through both speech and tactile indicators. These systems are also widely used by sighted persons since they provide a high-resolution interpretation of the visual world. Retinal and vision neural implants have emerged but have limitations and are used by only a small percentage of blind persons. Deaf persons routinely read what other people are saying through the deaf persons' lens displays. There are systems that provide visual and tactile interpretations of other auditory experiences such as mus ic, but there is debate regarding the extent to which these systems provide an experience comparable to that of a hearing person. Cochlear and other implants for improving hearing are very effective and are widely used. Paraplegic and some quadriplegic persons routinely walk and climb stairs through a combination of computer- controlled nerve stimulation and exoskeletal robotic devices. Generally, disabilities such as blindness, deafness, and paraplegia are not noticeable and are not regarded as significant. (Kurzweil 145)
 
-C.S. Lewis himself "cures" Diggory's mother in The Magician's Nephew, as his own mother was not cured, but masks his longing in allegory and another world. There is, however, the possibility of creating a realistic setting in which a magical cure genuinely happens—such as that of Jack's father. To do this, when magical cures are so often wished for in real life, seems to me irresponsible; the realistic fantasies, where things "ought to happen, would have happened if the reader had had a fair chance" are the most dangerous.
+prediction for 2029:
 
-** other stories with disabilites
-Ahlberg, Alan. 2001. My Brother's Ghost. London: Viking.
-Allen, Joan. 1998. Crystaline and the Unicorn. London: Minerva.
+The prevalence of highly intelligent visual navigation devices for the blind, speech-to-print display devices for the deaf, nerve stimulation, intelligent orthotic prosthetics for the physically disabled, and a variety of neural implant technologies has essentially eliminated the handicaps associated with most disabilities. Sensory-enhancement devices are in fact used by most of the population. (Kurzweil 162)
 
-Anderson, Rachel. 1997. The Scavenger's Tale. Oxford: Oxford University Press.
+*** Disability: Definitions, Models, Experience in Stanfod Encyclopedia of Philosophy
+https://plato.stanford.edu/entries/disability/#EpiMorAut
 
-Bevan, Clare. 1989. Mightier than the Sword. London: Blackie.
+3.4
+Such inclusiveness, however, requires an acceptance of diverse attitudes and opinions. Even if the majority of people we would classify as having disabilities perceived societal mistreatment and institutional barriers to be more oppressive than their diagnoses, not all of them would share that view or agree on the best response. African-Americans have different views about affirmative action, and many women do not believe that the option of legal abortion is essential for women's full participation in society. Disability theorists can find it frustrating that most nondisabled people in bioethics dispute their claims about their experience, but those theorists must respond to whatever challenge to the social model is posed by people with disabilities who see their condition, and not society, as the major impediment to their living rewarding lives. Many people with both congenital and acquired disabilities have said that they don't want cures but do want societal change, but that hardly warrants the charge that Christopher Reeve wasn't speaking from his experience of disability when he argued that what he wanted was “cure” and not social change (Johnson, 2003; Shakespeare, 2006).
 
-Boston, Lucy M., ill. Peter Boston. 1958. The Chimneys of Green Knowe. London: Faber.
+** Morris
+*** Pride Against Prejudice
+ It took me a long time after my accident to feel good about being out in public with other disabled people. For me the breakthrough came when I was leaving a meeting in the company of a disabled man. As we came towards the doors leading out of the building a woman rushed up, saying, 'Let me open the doors for you' (her attitude of 'Poor things' written all over her face and oozing out of her voice). But, before she could push her way in front of us — as people trying to open doors do so often — the doors opened automatically. 'Oh!' she cried, 'Isn't that clever. How does it work?' `I don't know,' I said, 'I'm not an electrician.' And we sailed through the doors, leaving her open-mouthed and superfluous.  
 
-Breslin, Theresa, ill. David Wyatt. 1999. Dream Master.p London: Corgi.
+Thinking about this incident afterwards I realised I felt a feeling of power which came from two sources — the feeling of solidarity with another disabled person at whom her pity was also directed, and the fact that, for once, the physical environment had been altered to suit people like me. The automatic doors meant that I did not have to accept help from someone whose help was offered on her terms and not mine. (Morris 30)
 
-Breslin, Theresa. 1994. Whispers in the Graveyard. London: Methuen.
+* proposal
+Scholars such as David Doat have criticized transhumanism, an ideological stance and subculture advanced by technologists and futurists, especially those like Ray Kurzweil who have a connection to Silicon Valley. He and others have observed that transhumanists regard the disabled as rhetorical stepping stones who provide evidence of an essential incompleteness in humanity that must be overcome with technology. This allows transhumanists to assume the role of saviors, creating infrastructure for others while determining the boundaries of what is reasonable, achievable, and desirable.
 
-Chukwuka, J.I.N. 1996, c.1977. Zandi and the Wonderful Pillow. London: John Murray.
+I accept this critique of the transhuman ideology, yet in rejecting the role advocates of transhumanism have created for the disabled, I wish to advance a means of understanding personal relationships among the individual, technology, and society. Haccessibility is the creation of infrastructure, broadly construed, that enables individual self-determination within a world that is socially and technologically determined. If infrastructure comprises material and social circumstances, such as roads, housing, communications systems, organizations, laws, and resources, that determine what is practical and possible, then haccessibility is the creation of personal infrastructure that expands the boundaries of the possible in ways that are personal, small-scale, and resistant to larger forces. The term can apply to anyone, whether teenagers (mis)using mentions of promoted brands on Facebook to receive a signal boost from its algorithm or the business executive who uses his desktop computer as a footstool. However, the term is most significant for the disabled, since adaptations, workarounds, prosthetics, individualized skills, and acts of provocation and resistance are critical to their ability to survive and thrive in an able world. Beyond its tendency toward self-determination, another critical aspect of haccessibility is its indifference to propriety and the need or desire to "pass" in wider society. Like the old-school hackers from which the term is derived, those who practice haccessibility often violate boundaries in order to expand their capabilities, explore their environment, and play at the boundaries of the acceptable, the possible, and the expected.
 
-Clancy, Gertrude. 1994. The Cup and the Mask: a fairy tale. Llandysul: Pont.
+This section will advocate for haccessibility as a means of understanding the multivalent intersections among individuals and their social and technological contexts. It will also provide examples of ways in which institutional morays, practices, and rules have been (and often must be) violated by disabled individuals in pursuit of their goals. This chapter will draw on works such as Donna Haraway's /Cyborg Manifesto/, Richard Stallman's /Free Software, Free Society/, and Scott Dexter and Samir Chopra's /Decoding Liberation/ in addition to foundational works in disability studies, especially those relating to post- and transhumanism. The chapter will also examine communities that have formed around the practice of hacking personal infrastructure, such as [[http://blarbl.blogspot.com/][Blind Arduino]], [[https://talkingarch.tk/][Talking Arch]], and [[https://www.seeingwithsound.com/android.htm][seeingwithsound]].
 
-Dunbar, Joyce. 1985. Mundo and the Weather-child. London: Heinemann.
+* links
+https://mobile.nytimes.com/2017/11/05/sports/blind-marathoner-technology.html
 
-Dunlop, Eileen, ill. Phillida Gili. 1976. A Flute in Mayferry Street. London: Oxford University Press.
-
-Dunlop, Eileen. 1989. The Valley of Deer. Oxford: Oxford University Press.
-
-Fletcher, Susan. 1998. Shadow Spinner. London: Bloomsbury.
-
-French, Vivian, ill. Sue Heap. 1992. Tillie McGillie's Fantastical Chair. London: Walker.
-
-Goodhart, Pippa, ill. Aafke Brouwer. 1995. Ginny's Egg. London: Heinemann.
-
-Hawkins, Elizabeth. 1995. The Maze. London: Orchard.
-
-Hoopman, Kathy. 2001. Blue Bottle Mystery: an Asperger Adventure. London: Jessica Kingsley.
-
-Hoopman, Kathy. 2001. Of Mice and Aliens: an Asperger Adventure. London: Jessica Kingsley.
-
-Jung, Reinhardt, trans. Anthea Bell. 2000. Dreaming in Black & White. London: Mammoth.
-
-Kilworth, Garry, ill. Dan Williams. 1997. The Gargoyle. London: Mammoth.
-
-Leonard, Alison, ill. Harriet Dell. 1995. Quiddy and the Mysterious Mega virus. Harlow: Longman.
-
-Lowry, Lois. 2000. Gathering Blue. New York: Walter Lorraine.
-
-Morgan, Robin, ill. Jesse Spicer-Zerner. 1991. The Mer-child: a Legend for Children and Other Adults. New York: Feminist Press.
-
-Morpurgo, Michael, ill. Michael Foreman. 2002. The Sleeping Sword. London: Egmont.
-
-Richemont, Enid. 1998. The Time Tree. London: Walker.
-
-* Arts of Living, Spellmeier
-"experience of freedom"
-academics too disconnected from public
-culture wars a war between different elites
-
-contends that, though business-mindedness is pushing aside humanities, we have to acknowledge the benefits that has brought
-- i disagree with this, his examples don't hold up, i.e. half of Americans would prefer to retire later not because they love their jobs but because of finances
-
-emerson's over-soul
-- the agreement or resonance between an individual and the world
-- academics are out of touch with this
-
-William James
-- the subconscioius is the world, the world outside you
-- the purpose of thinking is to deal pragmatically with the next moment
-- what is conscious one moment may be unconscious or subconscioius the next
-
-takes issue with Theory as pre-packaged philosophical systems divorced from real application
-- disagrees that theory can be pure reflection
-
-while Theory presents itself as a tool for the repressed, it's actually a tool for the hyperspecialized academic inaccessible to the ordinary citizen
-
-Theory markets itself to academics who wish to be like the sciences, it's a "science of signs"
-
-Theory is on the decline because it now feels like an empty ritual
-
-major issue: humanities scholars are socially isolated, they cannot write about things people care about, such as "science, sexuality, the film industry, urban life, or other pressing issues" (17)
-
-the "explorion of knowledge in the modern world" (18) has dispelled much of the authority of the professor, Theory might be considered one way to get it back
-
-"no particular knowledge has any value at all. What matters in our society is the ability to produce more knowledge of use to more people, or to circulate existing knowledge in unprecedented ways. Social power comes not from what we know but from what we can do with what we know, from the capacity to act creatively." (19)
+self feeding device
+https://www.youtube.com/watch?v=JnEK5fCGy1U
 
 
-"... this circumspection owes much more to Matthew Arnold than it does to Karl Marx. It was Arnold, after all, who first defined the critical intellectual as the person who does no worldly work, and who, by eschewing all practical engagement and know how, can think “above the fray,” so to speak. 31 In effect, Arnold establishes a ruinous division of labor. To the sciences, to business, and to government he cedes all worldly action, while securing for the humanities an austerely contemplative role. Men of the world are left to clash on the darkling plain like the ignorant armies in the poem “Dover Beach,” while the humanists pass judgment retrospectively from on high. In the early decades of the twentieth century, this division of cultural labor seemed ideal for granting human- ities departments a place at the table of leadership, but what do humanists concretely know? And what real-world venues are there for the knowledge that we actually have? Our problem is precisely that the view from above is too blurry and too dark, and that no one below can hear us, or could understand us if they did. We need to step down." (20)
-
-his examples of people who are real-world humanists  seem dated and lmited--ehrlich? reallY? the population bomb?
-* Stephanie Boluk
-** Dwarven Epitaphs
-** Annotating Adventure: Critical Code Studies
-annotating code makes something impenetrable into something humanistic
-critical code studies
 
 
-* to sort
-[[https://www.theguardian.com/housing-network/2017/feb/28/un-report-lays-bare-the-waste-of-treating-homes-as-commodities][homes as commodities]]
-[[https://www.nytimes.com/2017/05/01/us/politics/sent-to-prison-by-a-software-programs-secret-algorithms.html][sentencing with algorithms]]
-[[http://www.newyorker.com/culture/cultural-comment/love-in-the-time-of-numbness-or-doctor-chekhov-writer][on numbness (about checkov)]]
-[[http://davidbyrne.com/journal/eliminating-the-human][eliminating the human]]
-[[https://www.ribbonfarm.com/2017/05/16/arguing-about-how-the-world-should-burn/][Arguing about how the world should burn]]
-[[https://www.theguardian.com/technology/2017/apr/18/god-in-the-machine-my-strange-journey-into-transhumanism][god in the machine: transhumanism]]cc
-[[https://www.wired.com/2017/04/courts-using-ai-sentence-criminals-must-stop-now][courts sentencing criminals with AI]]
 
 
-*** bias laundering
-running some biases through a computer or through an algorithm makes them seem less biased.
+**** Library
+
+*** Critical Making
+
+
+*** Relationship of Negotiated Access to the Social Model
+affect theory - provides a point of understanding between disabled and able communities
+mention the data about obama's speeches and what's effective in turning people's mind away from hatred
+social model is required to MAKE ROOM for negotiated access; games as an example, iOS, right to repair, DMCA
+
+*** Relationship of Negotiated Access to the Medical Model
+
+
+
+
+bird game
+https://ifcomp.org/1758/content/10pm.html
+https://medium.com/@lisaferris/of-little-faith-a-troubling-trend-with-blindness-professionals-1a6f2f85597c
+
+toby documentary (playing doom)
+https://www.youtube.com/watch?v=07jOSs7Fun8&feature=youtu.be&a=
+
+# accessible game but not accessible platform
+https://www.applevis.com/forum/macos-mac-app-discussion/using-steam-mac
+
+accessible homestuck
+http://accessiblehomestuckproject.tumblr.com/links
+
+19th century disability archive
+http://www.nineteenthcenturydisability.org/
+
+list of books
+http://www.nlcdd.org/resources-books-movies-disability.html
+
+# made for my wheelchair
+https://web.archive.org/web/20171118211851/https://makea.org/public/
+http://madeformywheelchair.de/
+
+# echolocation prosthetic
+https://www.youtube.com/watch?v=DhHc1g0qG-8&lc=UgyKX0Xy0lhSSVBfsG14AaABAg
+
+
+piet
+[[http://www.archimedes-lab.org/grooks.html]]
+
+
+affordances in the age of the inaffordable
+the present is here, it's just not equally distrubuted
+
+types of transhumanism
+https://www.nytimes.com/2017/12/22/books/review/heavens-on-earth-michael-shermer.html?partner=rss&emc=rss
+jeff note
+I know I mentioned Giambattista Vico, who argues that the certainty of mathematics derives from the fact that we created it, which gives us an “inside” view of it.  Vico is a pretty difficult thinker to get into, but Isaiah Berlin’s essay on him is a good place to start.
+
+
+vinyl audiobooks:
+https://www.inc.com/wanda-thibodeaux/this-company-is-taking-a-totally-new-approach-to-audiobooks-heres-why-youll-love-it.html?cid=sf01001&sr_share=twitter
+
+
+on doing stuff for yourself:
+http://www.ctheory.net/articles.aspx?id=74
+
+D&D accessible (has passage about 3D printed dice but they have raised edges, kind of thing a sighted person wouldn't think about)
+https://unseen-beauty.com/2018/02/07/dd-for-blind-players/
+http://madeformywheelchair.de/
+
+Latex miosis
+https://github.com/Submanifold/latex-mimosis
