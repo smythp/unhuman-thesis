@@ -64,15 +64,11 @@ I accept this critique of the transhuman ideology, yet in rejecting the role adv
 This section will advocate for haccessibility as a means of understanding the multivalent intersections among individuals and their social and technological contexts. It will also provide examples of ways in which institutional morays, practices, and rules have been (and often must be) violated by disabled individuals in pursuit of their goals. This chapter will draw on works such as Donna Haraway's /Cyborg Manifesto/, Richard Stallman's /Free Software, Free Society/, and Scott Dexter and Samir Chopra's /Decoding Liberation/ in addition to foundational works in disability studies, especially those relating to post- and transhumanism. The chapter will also examine communities that have formed around the practice of hacking personal infrastructure, such as [[http://blarbl.blogspot.com/][Blind Arduino]], [[https://talkingarch.tk/][Talking Arch]], and [[https://www.seeingwithsound.com/android.htm][seeingwithsound]].
 
 * links
+# boind marathoner
 https://mobile.nytimes.com/2017/11/05/sports/blind-marathoner-technology.html
 
-self feeding device
+# self feeding device
 https://www.youtube.com/watch?v=JnEK5fCGy1U
-
-
-
-
-
 
 **** Library
 
@@ -89,7 +85,7 @@ social model is required to MAKE ROOM for negotiated access; games as an example
 
 
 
-bird game
+bird symbol game
 https://ifcomp.org/1758/content/10pm.html
 https://medium.com/@lisaferris/of-little-faith-a-troubling-trend-with-blindness-professionals-1a6f2f85597c
 
@@ -104,6 +100,9 @@ http://accessiblehomestuckproject.tumblr.com/links
 
 19th century disability archive
 http://www.nineteenthcenturydisability.org/
+
+accoustic headbands
+http://beckerexhibits.wustl.edu/did/19thcent/index.htm
 
 list of books
 http://www.nlcdd.org/resources-books-movies-disability.html
@@ -142,3 +141,33 @@ http://madeformywheelchair.de/
 
 Latex miosis
 https://github.com/Submanifold/latex-mimosis
+
+
+
+* Mossman, Mark. Acts of Becoming: Autobiography, Frankenstein, and the Postmodern Body
+http://pmc.iath.virginia.edu/issue.501/11.3mossman.html
+
+
+my life is a postmodern text
+
+
+disabled english profesor, renal failure, writing about frakenstein. good shit. his body is a beach, that is, a point of intersection between an ocean of imposed identity and the land of escaping disabled discourses—normality. ultimatley argues that changes in society and changes in technology related to the capabilities of the body have opened a new space he calls the postmodern body
+
+My body is a postmodern text. I am aware that I am constantly located in a social space, a gray area where the category of disability is manufactured. My body is deceptive, though, so I can at times escape, slip out of the net of discourses that determine the lives of so many disabled people. I am aware that I am able to have these moments because my body is so pliable in its ability to be normal and then abnormal and then normal again. I live in a space that allows perception, comprehensive awareness. I can feel the colonizing discourses of biomedical culture wash over my body like waves sweeping up onto the seashore. They recede and I am normal; they crash again and I am drowning in stereotype and imposed identity. The unique privilege of my life has been the fact that I am, figuratively, a beach, an edge of something; I know the different spheres of water and sand; I am able to live in both worlds. And as I move through these worlds, as the narrative of my life is constructed around and through me, I am aware of how I change and am changed, written and re-written by the different clusters of discourse that mark all of our lives: at the doctor's office last week, for example, I was "ill," a "patient"; on the basketball court later that day I was "healthy," a "player."
+
+
+At the outset my question is, what happens when a disabled individual writes herself? What happens when the disabled person explains and articulates, through either writing or bodily practice, disability? There has been an increasing number of theorists and researchers working in the field of disability studies who have attempted to construct answers to these kinds of questions. In doing so, what critics often discover is a need to expand the emerging field itself. For example, in commenting on the importance of scholars in the humanities working in a field dominated by the social sciences, Lennard J. Davis asserts that narratives written by individuals who are disabled constitute important voices in the workings of culture at large and need, therefore, to be understood through a humanities-centered critical approach:
+
+
+In this theoretical context, writing disability is the (re)production of disability, a potent act of creation. Autobiography by a disabled person is an authentication of lived, performed experience; it is a process of making, of being able to "translate knowing into telling" (White 1). Using the last two decades of criticism and theory as a map, disabled autobiography can be traced as a postmodern, postcolonial endeavor, for when disability writing constructs the particular self-definition it is attempting to narrate, it automatically resists repressive stereotype at large and attempts to reclaim ownership of the body and the way the body is understood. In other words, writing, autobiography, the narration of an experience by a disabled person to a reader or an immediate listener, enables a marginalized voice to be heard, which in turn causes cultural practice and stereotyped roles to change. The experiences rendered in "illness narratives," as Arthur Kleinmann has named them, work against any kind of essential universalism and instead attempt to demonstrate particularity and individuality in experience. The writing of illness and the writing of disability, and as David Morris has recently noted the two terms are often collapsed together in postmodern culture, involve new constructions of reality, new categories for the body's performance in cultural practice. Disabled autobiography is a conscious act of becoming.
+
+ and superior in strength, in its ability to experience extremes in cold and heat, to wreck the inscribing process of outside definition. Being constructed in postmodern discourse, being the person I was and am, I read the creature as "powerful" in its resistance: the creature gained power through its disempowered body; it took the imposition of "abnormality" and used it as an articulation of strength and purpose. When I read the narrative, I read these terms into my own body; I used them to explain my own life.
+
+
+Of course, as usual these feelings were almost immediately countered by another very different experience. On the first day back from that trip, I went to the dentist for a check-up. Having been out in the Florida sun, I had a tan, and as I sat down in the reclined dentist's chair, ready to be examined, he mentioned that I looked great and had a "healthy glow." I laughed, but what flashed across my mind was what I had actually experienced while I was getting this tan (which has now begun to peel): that is, disability, the constructions of illness. The dentist defined my body and, in turn, "me," as being "healthy." But just the day before at the pool I was certainly defined as "disabled." Any nephrologist will tell you that for the last three years I have been seriously "ill." My point here is simple: it is clear that the text of my body, which is my body, is profoundly unstable. Again and again I discover how I am both normal and abnormal, both able-bodied and healthy, and disabled and ill. As I will demonstrate, it is this profound discursive indeterminacy that defines the postmodern body and the direction that both body criticism and disability studies are taking as they develop.
+s the polarization of normal and abnormal that the marketing of Jordan's body seems to establish. Elliott is able to be both extremes of the pole: he is ill and healthy; he is a body that is unnatural and a body that is strikingly natural. He is impaired and disabled and neither all at the same time. He is postmodern. Sean Elliott does not only "look back" at or make eye contact with the defining practices of culture and the stares of millions of people; he redefines himself in those moments, and he succeeds in the re-definition by making himself a viable option for the thre
+
+With Sean Elliott's comeback, it is now widely apparent that the transplanted body too has this same indeterminacy inscribed upon it, built inside of it. The suggestion is, I think, that the person, any person, is a system of organs, almost all of which can be either replaced or relocated, depending on the immediate need. In this light, the body itself seems to break down as an absolute posit of selfhood and determinacy. What emerges is a sense of possibility. What emerges is the postmodern body.
+
+
+https://longreads.com/2018/02/15/blockchain-just-isnt-as-radical-as-you-want-it-to-be/
