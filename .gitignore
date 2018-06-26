@@ -5,3 +5,7 @@
 *.pdf
 *.tex
 diss_examples
+*.log
+*.aux
+*.lot
+*.lof

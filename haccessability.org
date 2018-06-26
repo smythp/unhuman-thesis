@@ -1,6 +1,24 @@
-#+OPTIONS: tasks:nil
+:formatting:
+#+OPTIONS: tasks:nil toc:nil
+#+LATEX_CLASS: thesis
 
 
+\frontmatter
+
+\include{./includes/Title_page}
+\setcounter{page}{2}
+
+\include{./includes/Copyright_page}
+\include{./includes/Approval_page}
+\include{./includes/Abstract}
+\include{./includes/Acknowledgments}
+
+#+TOC: headlines 3
+# \listoftables
+\listoffigures
+
+\mainmatter
+:END:
 * Introduction
 
 We must make for ourselves, or be made upon.
@@ -321,13 +339,6 @@ In answering the question Willard McCarty, a leading advocate and scholar in the
 
 # path dependence
 # majoritarianism
-
-
-
-
-
-
-
 
 * History
 * Utopias
