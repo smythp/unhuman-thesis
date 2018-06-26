@@ -214,7 +214,7 @@ When seeking to critically analyze infrastructure, there is some question of whe
 
 Infrastructure is complex. I use the word "complex" here not in the colloquial sense of "difficult to understand," though infrastructure is often that. Rather, I use it in the sense of a whole comprised of multiple, frequently interdependent, parts. Because discussion of one facet of infrastructure frequently demands discussion of other facets, infrastructure is almost inherently difficult to discuss. Compounding this intractability is a problem of scale. In general, we—humanities scholars, academics more broadly, or people in general—perform poorly when considering the extremely large or the extremely small. Unfortunately, infrastructure is not a "meso-level" phenomenon. Infrastructure is the interstate highway system and the mineral balance of a drop of water. Infrastructure is levee maintenance in New Orleans and 220 billion lines of COBOL (Atwood). Infrastructure is this paper clip.
 
-#+CAPTION: A paperclip
+#+CAPTION: Eat your heart out, Adam Smith
 #+NAME:   paperclip.jpg
 [[./paperclip.jpg]]
 
