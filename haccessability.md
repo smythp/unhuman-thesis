@@ -2,75 +2,74 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgheadline13">1. Introducing Negotiated Access</a>
+<li><a href="#orgheadline1">1. Introduction</a></li>
+<li><a href="#orgheadline2">2. Introducing Negotiated Access</a>
 <ul>
-<li><a href="#orgheadline1">1.1. Terry Garrett</a></li>
-<li><a href="#orgheadline2">1.2. What is Negotiated Access?</a></li>
-<li><a href="#orgheadline5">1.3. Hacking Accessibility</a>
-<ul>
-<li><a href="#orgheadline4">1.3.1. Defining Haccessibility</a></li>
+<li><a href="#orgheadline3">2.1. Terry Garrett</a></li>
+<li><a href="#orgheadline4">2.2. A Negotiated Model of Disability</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline9">1.4. Shared Concerns</a>
+<li><a href="#orgheadline5">3. What is Negotiated Access?</a>
 <ul>
-<li><a href="#orgheadline6">1.4.1. Out in the Cold, or Why I Care About This Stuff</a></li>
-<li><a href="#orgheadline7">1.4.2. Examples of Haccessibility</a></li>
-<li><a href="#orgheadline8">1.4.3. Expense, Equity, and Accessibility</a></li>
+<li><a href="#orgheadline6">3.1. Hacking Accessibility</a>
+<ul>
+<li><a href="#orgheadline7">3.1.1. Defining Haccessibility</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline11">1.5. Open Source Accessibility</a>
+<li><a href="#orgheadline8">3.2. Shared Concerns</a>
 <ul>
-<li><a href="#orgheadline10">1.5.1. Critical Making?</a></li>
+<li><a href="#orgheadline9">3.2.1. Out in the Cold, or Why I Care About This Stuff</a></li>
+<li><a href="#orgheadline10">3.2.2. Examples of Haccessibility</a></li>
+<li><a href="#orgheadline11">3.2.3. Expense, Equity, and Accessibility</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline12">1.6. Independence and Disabled Identity</a></li>
+<li><a href="#orgheadline12">3.3. Open Source Accessibility</a>
+<ul>
+<li><a href="#orgheadline13">3.3.1. Critical Making?</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline14">2. Infrastructure</a></li>
-<li><a href="#orgheadline15">3. History</a></li>
-<li><a href="#orgheadline16">4. Utopias</a></li>
-<li><a href="#orgheadline18">5. notes</a>
-<ul>
-<li><a href="#orgheadline17">5.1. The Needs of the Disabled Many</a></li>
+<li><a href="#orgheadline14">3.4. Independence and Disabled Identity</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline26">6. quotes</a>
+<li><a href="#orgheadline15">4. Autobiography</a></li>
+<li><a href="#orgheadline16">5. Infrastructure</a>
 <ul>
-<li><a href="#orgheadline19">6.1. stallman interview</a></li>
-<li><a href="#orgheadline20">6.2. hackers</a></li>
-<li><a href="#orgheadline23">6.3. kurzweil</a>
+<li><a href="#orgheadline17">5.1. What are the values of the humanities?</a></li>
+<li><a href="#orgheadline18">5.2. Humanities on the margins</a></li>
+<li><a href="#orgheadline19">5.3. Humanities values not reflected in the wder society</a></li>
+<li><a href="#orgheadline20">5.4. Humanities values not reflected in the way we do our work</a></li>
+<li><a href="#orgheadline21">5.5. Some DHers are thinking about infrastrcture</a></li>
+<li><a href="#orgheadline22">5.6. More importantly, some DHers are making infrastructure</a></li>
+<li><a href="#orgheadline23">5.7. What if the humanities were a public resource?</a></li>
+<li><a href="#orgheadline24">5.8. Can the humanities attend to negotiation, point of intersection?</a></li>
+<li><a href="#orgheadline25">5.9. Who is building infrastructure?</a></li>
+<li><a href="#orgheadline26">5.10. If we're doing infrastrcture, are we doing humanities?</a></li>
+<li><a href="#orgheadline27">5.11. Notes</a>
 <ul>
-<li><a href="#orgheadline21">6.3.1. spiritual machines</a></li>
-<li><a href="#orgheadline22">6.3.2. Disability: Definitions, Models, Experience in Stanfod Encyclopedia of Philosophy</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline25">6.4. Morris</a>
-<ul>
-<li><a href="#orgheadline24">6.4.1. Pride Against Prejudice</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#orgheadline27">7. proposal</a></li>
-<li><a href="#orgheadline32">8. links</a>
-<ul>
-<li>
-<ul>
-<li><a href="#orgheadline29">8.0.1. Critical Making</a></li>
-<li><a href="#orgheadline30">8.0.2. Relationship of Negotiated Access to the Social Model</a></li>
-<li><a href="#orgheadline31">8.0.3. Relationship of Negotiated Access to the Medical Model</a></li>
+<li><a href="#orgheadline28">5.11.1. Liu</a></li>
 </ul>
 </li>
 </ul>
 </li>
+<li><a href="#orgheadline29">6. History</a></li>
+<li><a href="#orgheadline30">7. Utopias</a></li>
 </ul>
 </div>
 </div>
 
+# Introduction
 
-# Introducing Negotiated Access<a id="orgheadline13"></a>
+We must make for ourselves, or be made upon.
 
-## Terry Garrett<a id="orgheadline1"></a>
+This is the foundational argument of this project, a project grounded in disability studies and traveling outward. 
+
+There are points of intersection between self and community, self and society, and community and society. The back-and-forth that occurs across these points, the negotiation among self, community, and society, is enabled and constrained by infrastructure—past decisions and creations that determine the possible and the impossible, the simple and the difficult, the accessible and the inaccessible. Though without infrastructure, individuals can do little, deliberate choices in how infrastructure is created constrain the self, coercing, influencing, or nudging the individual into the service of interests not their own. Infrastructure is necessary, but is frequently created to serve the powerful, the acquisitive, or the majoritarian.
+
+Infrastructure, however, can be turned, subverted, or reinvented to serve community and the individual. *Negotiated Access* focuses on communities of practice—particularly communities of people with disabilities—who reforge the inaccessible into the accessible, or create knowledge and community in adverse circumstances.
+
+# Introducing Negotiated Access
+
+## Terry Garrett
 
 On May 8, 2011, a blind gamer named Terry Garrett began playing Zelda: The Ocarina of Time. The game, widely considered a classic, depicts a 3D world populated with puzzles, enemies, and difficult terrain. It also offers no intentional concessions to a blind player using only sound cues, memory, and dogged persistence to navigate the game world. 
 
@@ -83,6 +82,8 @@ How well do these models address the challenges faced by Garrett as he, a blind 
 The social model has far more to offer. In the last few years, communication among disabled gamers and developers has led to the release of a small but notable list of games in formats accessible to those with mobility and sensory disabilities. This short list, which has included titles such as Skull Girls and King of Dragon Pass, has shown that awareness and advocacy can led to concrete change even in gaming, a community that is often explicitly ableist in its outlook and rhetoric. However, though notable, these successes have been limited in scope. The overwhelming majority of games and game developers do not consider the needs of mobility- and sensory-impaired gamers, and many developers that become aware of specific disabilities argue that it's simply impossible for them to adapt their games for those with disabilities such as missing limbs or blindness. Even disabilities that are common and relatively simple to mitigate in games, such as color blindness, have received only limited attention. Further, widely used platforms that must be navigated to access games in the first place, such as the menus on the Playstation 4 console or the Steam game distribution service for PC, remain inaccessible, even in the face of an ADA ruling that requires that, at minimum, the communications and chat features in games must be made accessible.
 
 When considering Garrett's struggle to complete a game designed exclusively for sighted players, it's clear—and unsurprising to those following disability studies—that the perspective provided by the social model is more productive than that provided by the medical model. While the medical establishment would have little or no interest in Garrett's experience as a case study, the social model suggests ways that society could change to better accommodate the goals of Garrett and other disabled gamers. Were developers in games to equip menus with audio or voice cues, for example, gamers like Garrett would not be forced to memorize interfaces through trial and error or with sighted assistance. Despite the salience of the social model to Garrett's experience, however, there is an aspect—a critical aspect—of his effort that falls outside the usual scope of the social model as we know it.
+
+## A Negotiated Model of Disability
 
 The disabled experience is typically—though not universally—characterized by distinct relationships between the individual and the lived environment. Consider the cane, an implement that, in its differing forms, is almost metanymous with mobility and sensory disabilities. For the blind and for many who are mobility impaired, the cane is an emblem of independence. When picking up a cane, the relationship among certain disabled individuals and their lived environment is powerfully altered. Distances shrink and senses expand. Daniel Kish, an advocate for unorthodox mobility strategies for the blind, describes the experience:
 
@@ -100,17 +101,17 @@ So, again: what conception of disability allows us to best understand Garrett's 
 
 Finally, it's essential to note that negotiated access is not an exceptional or extraordinary state for disabled individuals. Rather, it's a daily, or even hourly, fact of life. Case studies such as Garrett's and the others that will be discussed below garner focus and attention in both disabled and non-disabled communities, making them attractive for citation, discussion, and inclusion in a text such as this one. For disabled individuals, however, negotiation of the lived environment is simply a fact of life, one generally performed without fanfare or even, in most cases, acknowledgment. In addition, those individuals whose achievements come to wider public attention are often, despite their disabled status, privileged in other ways. While this study will attempt to balance extraordinary examples of negotiated access with those in keeping with the daily struggles and successes of disabled life, I wish to acknowledge that "notable" achievements in this context are unfortunately often those marked out by able, rather than disabled, communities. To the extent that it is possible within the bounds of this project, I have sought out first-hand accounts and voices of disabled experience whenever possible.
 
-## What is Negotiated Access?<a id="orgheadline2"></a>
+# What is Negotiated Access?
 
 Negotiated Access is advocacy, knowledge creation,  and the building of infrastructure that begins within an affinity group and radiates outward. It's rooted in the lived experience of people with disabilities and its locus is the idiosyncratic capabilities, skills, and practices that enable people with disabilities to survive and (sometimes) flourish in an able and ableist society. Negotiated Access addresses aspects of the disabled experience that are marginal or underacknowledged within current paradigms, particularly methods that do not rely on, or defy, the approval or approbation of the wider society. In some cases, negotiation may require, or involve, passing—temporarily merging with the perception of the dominant able class to extract withheld support or necessary acknowledgement or concessions. At other times, negotiation involves practices that are considered asocial, resistant, or antisocial by the wider able community. Negotiation, therefore, tends to be at the periphery of the disabled experience, in the actions that are not easily narrativized or made legible by the community at large, but  which are a means of survival for individuals and their affinity groups.
 
 While negotiated access flows from the personal and the idiosyncratic in the lives of people with disabilities, as a practice and as a critical lens it is also a vector for political and cultural energy. As we will see, negotiated access throws light on disability as an identity and the relationships among disability affinity groups, the narrativization of disability in media, the rise of transhumanism and the pathologization of humanity, the articulation of values through infrastructure, the implications of proprietary and commercial ideologies on the body, and the imagination and implementation of crip utopias. Negotiated access, and related concepts such as haccessibility, suggest ways we can advance both on-the-ground advocacy in the disabled community and augment our understanding of disability through the lens of the social model. Closely examining the unidealized, day-to-day interactions among disabled people and society, however, also raises a host of theoretical questions, not just about disabled life but also about how society at large reflects, or fails to reflect, our values.
 
-## Hacking Accessibility<a id="orgheadline5"></a>
+## Hacking Accessibility
 
 If infrastructure comprises material and social circumstances, such as roads, housing, communications systems, organizations, laws, and resources, that determine what is practical and possible, then haccessibility is the creation of personal infrastructure that expands the boundaries of the possible in ways that are personal, small-scale, and resistant to larger forces. The term can apply to anyone, whether teenagers (mis)using mentions of promoted brands on Facebook to receive a signal boost from its algorithm or the business executive who uses his desktop computer as a footstool. However, the term is most significant for the disabled, since adaptations, workarounds, prosthetics, individualized skills, and acts of provocation and resistance are critical to their ability to survive and thrive in an able world. Beyond its tendency toward self-determination, another critical aspect of haccessibility is its indifference to propriety and the need or desire to "pass" in wider society. Like the old-school hackers from which the term is derived, those who practice haccessibility often violate boundaries in order to expand their capabilities, explore their environment, and play at the boundaries of the acceptable, the possible, and the expected.
 
-### Defining Haccessibility<a id="orgheadline4"></a>
+### Defining Haccessibility
 
 1.  What is Hacking?
 
@@ -126,11 +127,11 @@ If infrastructure comprises material and social circumstances, such as roads, ho
     
     Hackers, in this early use of the word, were those who worked on a problem—often technical——out of passion rather than obligation, and who sought a deep understanding of a system or domain. This early hacker culture valued "playful cleverness" (Stallman, 2002), collaborative work, and the sharing of resources and results. They also frequently flouted rules, procedures, and restrictions on access, often in attempts to gain a commodity that, at the time, was highly valuable and frequently out of reach—computer time. 
 
-## Shared Concerns<a id="orgheadline9"></a>
+## Shared Concerns
 
-Both hackers and people with disabilities are, fundamentally, concerned with the problem of access. Old-school hackers—the XXX and Richard Stallmans of the world—care about access because they have a primal need to dig into the core of a machine, system, or program. Without the access granted through informal peer groups or initiatives such as the free and open source software movement, the kind of exploratory work with which these first hackers are associated becomes impossible. Hackers of the other stripe, those appearing in news stories about state actors and data breaches, are also concerned with (frequently unauthorized) access. By definition, these hackers are outsiders seeking entre
+Both hackers and people with disabilities are, fundamentally, concerned with the problem of access. Old-school hackers—the XXX and Richard Stallmans of the world—care about access because they have a primal need to dig into the core of a machine, system, or program. Without the access granted through informal peer groups or initiatives such as the free and open source software movement, the kind of exploratory work with which these first hackers are associated becomes impossible. Hackers of the other stripe, those appearing in news stories about state actors and data breaches, are also concerned with (frequently unauthorized) access. By definition, these hackers are outsiders seeking entrance to systems from which they have been excluded.
 
-Much ink has been spilled over the relative legitimacy of various definitions of the word "hacker," particularly whether the term should be applied to criminals who gain unauthorized access to computers or curious and playful tecnophiles. In comparing elements of hacker culture to the concerns and practices of the disabled community, however, I will treat each of these interpretations of the term as legitimate. 
+Much ink has been spilled over the relative legitimacy of various definitions of the word "hacker," particularly whether the term should be applied to criminals who gain unauthorized access to computers or curious and playful tecnophiles. In comparing elements of hacker culture to the concerns and practices of the disabled community, however, I will treat each of these interpretations of the term as legitimate. Therefore, the term "haccessibility" as it is used in this project draws on both the tradition of the hacker as playful, deeply skilled amateur and hacker as a specialist in gaining or preventing unauthorized access to systems.
 
 People with disabilities, especially those in certain affinity groups, often gravitate toward playful, clever, or community-minded resolutions to daily struggles, casting them in a role similar to the "original" hacker. At the same time, the need to surmount obstacles presented by lack of accessibility just as often casts people with disabilities in the role of the hacker as outsider, criminal, and suspect.
 
@@ -149,7 +150,7 @@ The medical model of disability—the view that disability is a  The social mode
 
 leg prosthesis that didn't look like a leg
 
-### Out in the Cold, or Why I Care About This Stuff<a id="orgheadline6"></a>
+### Out in the Cold, or Why I Care About This Stuff
 
 Imagine that you travel to a library. As you walk in, shelves of books rise up around you. They contain thousands of volumes, including discourses on every possible subject. That's ideal, since you're on a mission—a research mission.
 
@@ -183,22 +184,22 @@ While I have availed myself of these approaches in the past, my own methods for 
 
 The point of these observations is not to serve as a recommendation or recipe for other disabled researchers. Far from it—if anything, the amount of investment, of time and personal capital, required for such an approach shows only the difficulty and irreproducability of these methods. Instead, I share this background in order to frame my own interest in, and advocacy for, /haccessibility/—an approach to accessibility that draws on a culture that grew up around early computing, free and open source software, and the modern maker community.
 
-### Examples of Haccessibility<a id="orgheadline7"></a>
+### Examples of Haccessibility
 
-### Expense, Equity, and Accessibility<a id="orgheadline8"></a>
+### Expense, Equity, and Accessibility
 
 you can throw a ton of money at something to get a pre-fix solution or you can customize something that exists
 only privileged people can affrod NOT to hack
 
-## Open Source Accessibility<a id="orgheadline11"></a>
+## Open Source Accessibility
 
 Overlap with social model - make things hackable
 you can work you way back to the social model
 could you ask a game compnay to make a game that works for blind people? maybe. but maybe it makes more sense to force companies to make things hackable. it's been shown that BP can manage to make games that are accessible to themselves. but if companies allow for more openness then BP can make games accessible themselves, and they theymselves know what is best
 
-### Critical Making?<a id="orgheadline10"></a>
+### Critical Making?
 
-## Independence and Disabled Identity<a id="orgheadline12"></a>
+## Independence and Disabled Identity
 
 the importance of people doing things for themselves
 
@@ -208,144 +209,111 @@ this is more about the big picture
 
 if step one is hacking for yourself, step two is facilitating people in their hacking through openness, then the third step is creating a sustainable COMMUNITY based on specific affinity groups,
 
-# Infrastructure<a id="orgheadline14"></a>
+# Autobiography
 
-# History<a id="orgheadline15"></a>
+<http://www.nineteenthcenturydisability.org/items/show/38>
 
-# Utopias<a id="orgheadline16"></a>
+# Infrastructure
 
-# notes<a id="orgheadline18"></a>
+When seeking to critically analyze infrastructure, there is some question of where to start. Thomas Parke Hughes, in *Networks of Power*, observes that "Ludwig Bertalanffy, one of the most articulate of systems theorists, neededabook, not a paragraph, to define 'system'" (Hughes 5). In talking about infrastructure, we run into problems of scale and complexity. More importantly, however, we encounter problems of recognition. In studying infrastructure, we contend with a set of questions. How can we talk about infrastructure? Is infrastructure worth discussing? And, if it is, should we in the humanities be the ones to do it?
 
-transhumanists are regarded as suspicious because they wish to apply the cure
+Infrastructure is complex. I use the word "complex" here not in the colloquial sense of "difficult to understand," though infrastructure is often that. Rather, I use it in the sense of a whole comprised of multiple, frequently interdependent, parts. Because discussion of one facet of infrastructure frequently demands discussion of other facets, infrastructure is almost inherently difficult to discuss. Compounding this intractability is a problem of scale. In general, we—humanities scholars, academics more broadly, or people in general—perform poorly when considering the extremely large or the extremely small. Unfortunately, infrastructure is not a "meso-level" phenomenon. Infrastructure is the interstate highway system and the mineral balance of a drop of water. Infrastructure is levee maintenance in New Orleans and 220 billion lines of COBOL (Atwood). Infrastructure is this paper clip.
 
-yet transhumanists don't want just to apply the cure to the disabled, they want to apply the cure to everyone
+![img](./paperclip.jpg "Eat your heart out, Adam Smith")
 
-this essay argues that we should regard the able as part of disability studies because interactions between the individual and the environment are always negotiated
+Though scale, complexity, and interdependence pose a challenge to any discussion of infrastructure, to engaging the topic one must also wrestle with a second concern. David Foster Wallace puts his finger on this issue in his well-known graduation speech at Kenyon College:
 
-accessibility describes the space between an individual and a normative goal. hacking describes the space between an indivudual and a non-normative goal. 
+> There are these two young fish swimming along, and they happen to meet an older fish swimming the other way, who nods at them and says, "Morning, boys, how's the water?" And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes, "What the hell is water?"
 
-transhumanists and the cure
-we are all disabled, all is negotiation
-hacking is exclusionary
-hacking is inclusionary
-we're already hackers, let's act like it
-hacking as rhetoric
+Because of its ubiquity, infrastructure is invisible. It is the inescapable medium in which we live and act. Infrastructure determines which actions are trivial, like drawing water from a tap. In its absence, as when transporting oneself around Fayetteville, North Carolina without a car, infrastructure sets the bounds of the impossible. Despite, or perhaps because of, its importance, it is difficult to think about infrastructure unless maintaining that infrastructure is a specific component of our work or our identity. Typically, our interactions with infrastructure manifest themselves as convenient abstractions. We think of the thousands of data centers, the hundreds of thousands of miles of cable, and the dozens of exabytes of data stored on connected devices as "the cloud." We wonder about car internals only once our chariot breaks down on the shoulder of a highway.
 
-## The Needs of the Disabled Many<a id="orgheadline17"></a>
+A final concern with discussing infrastructure is that it is widely perceived as being value-neutral, inert to the considerations of equity, history, textuality, interpretation, and pedagogy that motivate scholars in the humanities. 
 
-"Isn't it better not to be disabled?" The answer to this question is more complicated than it seems, and theanswer differs based on whether you're talking about 
+Alan Liu, in a draft for the book *Against the Cultural Singularity*,, makes the startling observation that 
 
-XXX section on why I give a shit about this XXX
+> “infrastructure,” the social-cum-technological milieu that at once enables the fulfillment of human experience and enforces constraints on that experience, today has much of the same scale, complexity, and general cultural impact as the idea of “culture” itself. Indeed, it may be that in late modernity when the bulk of life and work occurs in organizational institutions of one kind or another, the experience of infrastructure at institutional scales (undergirded by national or regional infrastructures such as electricity grids and global-scale infrastructures such as the Internet) is operationally the experience of “culture.” Put another way, the word “infrastructure” can now give us the same kind of general purchase on social complexity that Stuart Hall, Raymond Williams, and others sought when they reached for their all-purpose word, “culture.”
 
-# quotes<a id="orgheadline26"></a>
+says that infrastructure must be spoken about in the same ways and to make the same inteventions that used to require discussion of culture
 
-## stallman interview<a id="orgheadline19"></a>
+it's tempting to think of infrastrcture as value-neutral
 
-RMS: It means someone who enjoys playful cleverness, especially in programming but other media are also possible. In the 14th century, Guillaume de Machaut wrote a palindromic three-part musical composition. It sounded good, too—I think I played in it once, because I still remember one of the parts. I think that was a good hack. I heard somewhere that J. S. Bach did something similar.
-One possible arena for playful cleverness is breaking security. Hackers never had much respect for bureaucratic restrictions. If the computer was sitting idle because the administrators wouldn't let them use it, they would sometimes figure out how to bypass the obstacles and use it anyway. If this required cleverness, it would be fun in itself, as well as making it possible to do other hacking (for instance, useful work) on the computer instead of twiddling one's thumbs. But not all hackers did security breaking. Many never were interested in that. 
-[interview with richard stallman](https://www.gnu.org/philosophy/rms-hack.html)
+the unhuman elemnt is explicitly trying to replace culture with technological infrastrcture:
 
-## hackers<a id="orgheadline20"></a>
+-   block chain / trustless
+-   replace conversations with technoology (google duplex or whatever)
 
-Peter Samson and his friends had grown up with a specific relationship to the world, wherein things had meaning only if you found out how they worked. And how would you go about that if not by getting your hands on them?
+can haccessibility  help here? just as we must replace bad culture with good culture, we must replace bad infrastrcture with good infrastructure
 
-## kurzweil<a id="orgheadline23"></a>
+The answer to this question, I suggest, is critique at the level of, and articulated through, infrastructure–where “infrastructure,” the social-cum-technological milieu that at once enables the fulfillment of human experience and enforces constraints on that experience, today has much of the same scale, complexity, and general cultural impact as the idea of “culture” itself.  Indeed, it may be that in late modernity when the bulk of life and work occurs in organizational institutions of one kind or another, the experience of infrastructure at institutional scales (undergirded by national or regional infrastructures such as electricity grids and global-scale infrastructures such as the Internet) (Liu)
 
-### spiritual machines<a id="orgheadline21"></a>
+## What are the values of the humanities?
 
-It is the applications of the technology benefiting disabled people that have brought me the greatest gratification. There is a fortuitous match between the capabilities of contemporary computers and the needs of a disabled person. We're not creating cybernetic geniuses today—not yet. The intelligence of our present-day intelligent computers is narrow, which can provide effective solutions for the narrow deficits of most disabled persons. The restricted intelligence of the machine works effectively with the broad and flexible intelligence of the disabled person. Overcoming the handicaps associated with disabilities using AI technologies has long been a personal goal of mine. With regard to the major physical and sensory disabilities, I believe that in a couple of decades we will come to herald the effective end of handicaps. As amplifiers of human thought, computers have great potential to assist human expression and to expand creativity for all of us. I hope to continue playing a role in harnessing this potential. (Kurzweil 128)
+Humanities has its own values not reflected in the wider culture.
 
-Deaf persons—or anyone with a hearing impairment—commonly use portable speech-to-text listening machines, which display a real-time transcription of what people are saying. The deaf user has the choice of either reading the transcribed speech as displayed text, or watching an animated person gesturing in sign language. These have eliminated the primary communication handicap associated with deafness. Listening machines can also translate what is being said into another language in real time, so they are commonly used by hearing people as well. Computer-controlled orthotic devices have been introduced. These "walking machines" enable paraplegic persons to walk and climb stairs. The prosthetic devices are not yet usable by all paraplegic persons, as many physically disabled persons have dysfunctional joints from years of disuse. However, the advent of orthotic walking systems is providing more motivation to have these joints replaced. There is a growing perception that the primary disabilities of blindness, deafness, and physical impairment do not necessarily impart handicaps. Disabled persons routinely describe their disabilities as mere inconveniences. Intelligent technology has become the great leveler. (Kurzweil 139)
+## Humanities on the margins
 
-Prediction for 2019:
+In a sense, the humanities are on themargins
+Not in some regards, humanities does get funded, but the road to the humanities is a narrow one
+Human ties doesn't reach out or connect with folk humanities / folk hermaneutics
 
-Blind persons routinely use eyeglass-mounted reading-navigation systems, which incorporate the new, digitally controlled, high-resolution optical sensors. These systems can read text in the real world, although since most print is now electronic, print-to-speech reading is less of a requirement. The navigation function of these systems, which emerged about ten years ago, is now perfected. These automated reading-navigation assistants communicate to blind users through both speech and tactile indicators. These systems are also widely used by sighted persons since they provide a high-resolution interpretation of the visual world. Retinal and vision neural implants have emerged but have limitations and are used by only a small percentage of blind persons. Deaf persons routinely read what other people are saying through the deaf persons' lens displays. There are systems that provide visual and tactile interpretations of other auditory experiences such as mus ic, but there is debate regarding the extent to which these systems provide an experience comparable to that of a hearing person. Cochlear and other implants for improving hearing are very effective and are widely used. Paraplegic and some quadriplegic persons routinely walk and climb stairs through a combination of computer- controlled nerve stimulation and exoskeletal robotic devices. Generally, disabilities such as blindness, deafness, and paraplegia are not noticeable and are not regarded as significant. (Kurzweil 145)
+## Humanities values not reflected in the wder society
 
-prediction for 2029:
+## Humanities values not reflected in the way we do our work
 
-The prevalence of highly intelligent visual navigation devices for the blind, speech-to-print display devices for the deaf, nerve stimulation, intelligent orthotic prosthetics for the physically disabled, and a variety of neural implant technologies has essentially eliminated the handicaps associated with most disabilities. Sensory-enhancement devices are in fact used by most of the population. (Kurzweil 162)
+## Some DHers are thinking about infrastrcture
 
-### Disability: Definitions, Models, Experience in Stanfod Encyclopedia of Philosophy<a id="orgheadline22"></a>
+## More importantly, some DHers are making infrastructure
 
-<https://plato.stanford.edu/entries/disability/#EpiMorAut>
+## What if the humanities were a public resource?
 
-3.4
-Such inclusiveness, however, requires an acceptance of diverse attitudes and opinions. Even if the majority of people we would classify as having disabilities perceived societal mistreatment and institutional barriers to be more oppressive than their diagnoses, not all of them would share that view or agree on the best response. African-Americans have different views about affirmative action, and many women do not believe that the option of legal abortion is essential for women's full participation in society. Disability theorists can find it frustrating that most nondisabled people in bioethics dispute their claims about their experience, but those theorists must respond to whatever challenge to the social model is posed by people with disabilities who see their condition, and not society, as the major impediment to their living rewarding lives. Many people with both congenital and acquired disabilities have said that they don't want cures but do want societal change, but that hardly warrants the charge that Christopher Reeve wasn't speaking from his experience of disability when he argued that what he wanted was “cure” and not social change (Johnson, 2003; Shakespeare, 2006).
+What would it look like?
 
-## Morris<a id="orgheadline25"></a>
+## Can the humanities attend to negotiation, point of intersection?
 
-### Pride Against Prejudice<a id="orgheadline24"></a>
+we would have to rethink:
 
-It took me a long time after my accident to feel good about being out in public with other disabled people. For me the breakthrough came when I was leaving a meeting in the company of a disabled man. As we came towards the doors leading out of the building a woman rushed up, saying, 'Let me open the doors for you' (her attitude of 'Poor things' written all over her face and oozing out of her voice). But, before she could push her way in front of us — as people trying to open doors do so often — the doors opened automatically. 'Oh!' she cried, 'Isn't that clever. How does it work?' \`I don't know,' I said, 'I'm not an electrician.' And we sailed through the doors, leaving her open-mouthed and superfluous.  
+-   public engagement
+-   research
+-   publication
+-   teaching? this might actually be OK but materials?
 
-Thinking about this incident afterwards I realised I felt a feeling of power which came from two sources — the feeling of solidarity with another disabled person at whom her pity was also directed, and the fact that, for once, the physical environment had been altered to suit people like me. The automatic doors meant that I did not have to accept help from someone whose help was offered on her terms and not mine. (Morris 30)
+haccessibility approach is one that makes it easy to go the last mile and do stuff
+forkable curriclum for DRI lets people iterate on things without too much technical knowledge
+Google Docs gets the usability right but sucks at all the things we care about&#x2026;provenance, owning your own stuff (what's the point of tenure if google can unpublish your stuff?), sustainability
 
-# proposal<a id="orgheadline27"></a>
+## Who is building infrastructure?
 
-Scholars such as David Doat have criticized transhumanism, an ideological stance and subculture advanced by technologists and futurists, especially those like Ray Kurzweil who have a connection to Silicon Valley. He and others have observed that transhumanists regard the disabled as rhetorical stepping stones who provide evidence of an essential incompleteness in humanity that must be overcome with technology. This allows transhumanists to assume the role of saviors, creating infrastructure for others while determining the boundaries of what is reasonable, achievable, and desirable.
+## If we're doing infrastrcture, are we doing humanities?
 
-I accept this critique of the transhuman ideology, yet in rejecting the role advocates of transhumanism have created for the disabled, I wish to advance a means of understanding personal relationships among the individual, technology, and society. Haccessibility is the creation of infrastructure, broadly construed, that enables individual self-determination within a world that is socially and technologically determined. If infrastructure comprises material and social circumstances, such as roads, housing, communications systems, organizations, laws, and resources, that determine what is practical and possible, then haccessibility is the creation of personal infrastructure that expands the boundaries of the possible in ways that are personal, small-scale, and resistant to larger forces. The term can apply to anyone, whether teenagers (mis)using mentions of promoted brands on Facebook to receive a signal boost from its algorithm or the business executive who uses his desktop computer as a footstool. However, the term is most significant for the disabled, since adaptations, workarounds, prosthetics, individualized skills, and acts of provocation and resistance are critical to their ability to survive and thrive in an able world. Beyond its tendency toward self-determination, another critical aspect of haccessibility is its indifference to propriety and the need or desire to "pass" in wider society. Like the old-school hackers from which the term is derived, those who practice haccessibility often violate boundaries in order to expand their capabilities, explore their environment, and play at the boundaries of the acceptable, the possible, and the expected.
+## Notes
 
-This section will advocate for haccessibility as a means of understanding the multivalent intersections among individuals and their social and technological contexts. It will also provide examples of ways in which institutional morays, practices, and rules have been (and often must be) violated by disabled individuals in pursuit of their goals. This chapter will draw on works such as Donna Haraway's *Cyborg Manifesto*, Richard Stallman's *Free Software, Free Society*, and Scott Dexter and Samir Chopra's *Decoding Liberation* in addition to foundational works in disability studies, especially those relating to post- and transhumanism. The chapter will also examine communities that have formed around the practice of hacking personal infrastructure, such as [Blind Arduino](http://blarbl.blogspot.com/), [Talking Arch](https://talkingarch.tk/), and [seeingwithsound](https://www.seeingwithsound.com/android.htm).
+### Liu
 
-# links<a id="orgheadline32"></a>
+The answer to this question, I suggest, is critique at the level of, and articulated through, infrastructure–where “infrastructure,” the social-cum-technological milieu that at once enables the fulfillment of human experience and enforces constraints on that experience, today has much of the same scale, complexity, and general cultural impact as the idea of “culture” itself.  Indeed, it may be that in late modernity when the bulk of life and work occurs in organizational institutions of one kind or another, the experience of infrastructure at institutional scales (undergirded by national or regional infrastructures such as electricity grids and global-scale infrastructures such as the Internet)
 
-<https://mobile.nytimes.com/2017/11/05/sports/blind-marathoner-technology.html>
+, critique seeks to turn its complicity to advantage–for example, by positioning critics as what Foucault called embedded or “specific intellectuals” acting on a particular institutional scene to steer social forces.  A related idea is to go “tactical” in the manner theorized by Michel de Certeau, who argued that people immured in any system can appropriate that system’s infrastructure through bottom-up agency for deviant purposes (as in his paradigm of jaywalking in the city).  Media critics, including new media critics, have generalized de Certeau’s notion in the name of “tactical media,” meaning media whose platforms, channels, interfaces, and representations can be appropriated by users for alternative ends.
 
-self feeding device
-<https://www.youtube.com/watch?v=JnEK5fCGy1U>
+PDF) and Ackbar Abbas and David Theo Goldberg’s “poor theory” (which uses “tools at hand” and “limited resources” to engage “with heterogeneous probings, fragmentary thinking, and open-endedness” in resistance to “totalization, restriction, and closure”) (
 
-1.  Library
+Sheila Anderson observes
 
-### Critical Making<a id="orgheadline29"></a>
+Sheila Anderson points out that there was an inflential repoprt on "cyberinfrastrcture" that set the tone of much funding in recent memory (Atkins report) and the John Unsworth report for the social sciences and humanities (8)
 
-### Relationship of Negotiated Access to the Social Model<a id="orgheadline30"></a>
+What's the deal with the digital humanities getting money because funding agencies what to fund things that are new and exciting, and that fit their political/economic goals?
 
-affect theory - provides a point of understanding between disabled and able communities
-mention the data about obama's speeches and what's effective in turning people's mind away from hatred
-social model is required to MAKE ROOM for negotiated access; games as an example, iOS, right to repair, DMCA
+Despite the references to people and organisations, there remains within all the three examples an idea of infrastructure as a thing with a subtle and underlying discourse of the material nature of infrastructures; infrastructure is built, it is the tools, the digital libraries, the data, it is a software component or an application – it is, as Leo Marx argues, ‘the material component’ of the infrastructure folded into an ‘aura of phantom objectivity’. 17 This idea of materiality, of existing as a thing to be built, is compounded by the idea of being primarily about technology or systems. Despite the well-made arguments put forward to define systems as inclusive of social, political and economic factors, nevertheless the talk remains about moving from systems to networks to internetworks with the primary focus on the technology. The debate is more about a question of control, centralisation versus federation, heterogeneity versus homogeneity, from bounded systems to an internetwork, all of which emphasises the material technological components of the infrastructure. Even the more nuanced approach put forward in Unsworth’s ACLS Report still frames infrastructure as something that is to be ‘built’, something to be ‘developed’, that can be specified, designed and constructed in much the same way as we might design a building. Infrastructures in this context are also expensive, hard to change, and with an air of irreversibility about them (Sheila Anderson 9)
 
-### Relationship of Negotiated Access to the Medical Model<a id="orgheadline31"></a>
+"However, during a conference in Cologne in 2012, it became clear that not everyone shares a positive view of these developments. The Cologne conference, the first in a series 5Sheila Anderson organised by Manfred Thaller, was called ‘The Cologne Dialogues on the Digital Humanities’. Thaller gathered together a group of scholars to debate a pre-defined set of controversies in the digital humanities. The first, and workshop defining, controversy debated the question ‘Do the Digital Humanities have an intellectual agenda or do they constitute an infrastructure?’. This is a loaded question, the implication being that if the digital humanities constitute an infrastructure then it cannot have an intellectual agenda.
 
-bird game
-<https://ifcomp.org/1758/content/10pm.html>
-<https://medium.com/@lisaferris/of-little-faith-a-troubling-trend-with-blindness-professionals-1a6f2f85597c>
+In answering the question Willard McCarty, a leading advocate and scholar in the digital humanities, argued that the discipline has suffered through its association with infrastructure development because to participate in such development is to relegate the discipline to a state of servitude. This, McCarty continued, is not to suggest that there is anything intrinsically wrong with infrastructure development, but rather to suggest that to focus on infrastructure requires the digital humanities to act in support of the research agenda of others rather than defining and carrying out its own research agenda. Digital humanists are defined as servants and not as scholars. 8 It is not uncommon to view infrastructure as a substrate or the ‘subordinate parts of an undertaking’ as defined by the Oxford English Dictionary. A somewhat modified definition is provided by the American Heritage Dictionary which at least assigns some sense of value to infrastructure defining it as ‘the basic facilities, services and installations needed for the functioning of a community or society’. But the key defining factor remains that infrastructure acts in a support role to something that is more important. (Sheila Anderson 5-6)
 
-toby documentary (playing doom)
-<https://www.youtube.com/watch?v=07jOSs7Fun8&feature=youtu.be&a>=
+# History
 
-<https://www.applevis.com/forum/macos-mac-app-discussion/using-steam-mac>
+# Utopias
 
-accessible homestuck
-<http://accessiblehomestuckproject.tumblr.com/links>
+<https://muse-jhu-edu.ezproxy.cul.columbia.edu/article/693135>
 
-19th century disability archive
-<http://www.nineteenthcenturydisability.org/>
+<https://99percentinvisible.org/episode/curb-cuts/>
 
-list of books
-<http://www.nlcdd.org/resources-books-movies-disability.html>
-
-<https://web.archive.org/web/20171118211851/https://makea.org/public/>
-<http://madeformywheelchair.de/>
-
-<https://www.youtube.com/watch?v=DhHc1g0qG-8&lc=UgyKX0Xy0lhSSVBfsG14AaABAg>
-
-piet
-<http://www.archimedes-lab.org/grooks.html>
-
-affordances in the age of the inaffordable
-the present is here, it's just not equally distrubuted
-
-types of transhumanism
-<https://www.nytimes.com/2017/12/22/books/review/heavens-on-earth-michael-shermer.html?partner=rss&emc=rss>
-jeff note
-I know I mentioned Giambattista Vico, who argues that the certainty of mathematics derives from the fact that we created it, which gives us an “inside” view of it.  Vico is a pretty difficult thinker to get into, but Isaiah Berlin’s essay on him is a good place to start.
-
-vinyl audiobooks:
-<https://www.inc.com/wanda-thibodeaux/this-company-is-taking-a-totally-new-approach-to-audiobooks-heres-why-youll-love-it.html?cid=sf01001&sr_share=twitter>
-
-on doing stuff for yourself:
-<http://www.ctheory.net/articles.aspx?id=74>
-
-D&D accessible (has passage about 3D printed dice but they have raised edges, kind of thing a sighted person wouldn't think about)
-<https://unseen-beauty.com/2018/02/07/dd-for-blind-players/>
+To be a machine : adventures among cyborgs, utopians, hackers, and the futurists solving the modest problem of death
+Author

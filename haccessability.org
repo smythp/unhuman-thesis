@@ -1,23 +1,22 @@
-:formatting:
+:Formatting:
 #+OPTIONS: tasks:nil toc:nil
 #+LATEX_CLASS: thesis
 
+#+LATEX: \frontmatter
 
-\frontmatter
+#+LATEX: \include{./includes/Title_page}
+#+LATEX: \setcounter{page}{2}
 
-\include{./includes/Title_page}
-\setcounter{page}{2}
-
-\include{./includes/Copyright_page}
-\include{./includes/Approval_page}
-\include{./includes/Abstract}
-\include{./includes/Acknowledgments}
+#+LATEX: \include{./includes/Copyright_page}
+#+LATEX: \include{./includes/Approval_page}
+#+LATEX: \include{./includes/Abstract}
+#+LATEX: \include{./includes/Acknowledgments}
 
 #+TOC: headlines 3
 # \listoftables
-\listoffigures
+#+LATEX: \listoffigures
 
-\mainmatter
+#+LATEX: \mainmatter
 :END:
 * Introduction
 
@@ -232,7 +231,7 @@ When seeking to critically analyze infrastructure, there is some question of whe
 
 Infrastructure is complex. I use the word "complex" here not in the colloquial sense of "difficult to understand," though infrastructure is often that. Rather, I use it in the sense of a whole comprised of multiple, frequently interdependent, parts. Because discussion of one facet of infrastructure frequently demands discussion of other facets, infrastructure is almost inherently difficult to discuss. Compounding this intractability is a problem of scale. In general, we—humanities scholars, academics more broadly, or people in general—perform poorly when considering the extremely large or the extremely small. Unfortunately, infrastructure is not a "meso-level" phenomenon. Infrastructure is the interstate highway system and the mineral balance of a drop of water. Infrastructure is levee maintenance in New Orleans and 220 billion lines of COBOL (Atwood). Infrastructure is this paper clip.
 
-#+CAPTION: Eat your heart out, Adam Smith
+#+CAPTION: A paperclip. Eat your heart out, Adam Smith
 #+NAME:   paperclip.jpg
 [[./paperclip.jpg]]
 
@@ -242,24 +241,33 @@ Though scale, complexity, and interdependence pose a challenge to any discussion
 There are these two young fish swimming along, and they happen to meet an older fish swimming the other way, who nods at them and says, "Morning, boys, how's the water?" And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes, "What the hell is water?"
 #+END_QUOTE
 
-Because of its ubiquity, infrastructure is invisible. It is the inescapable medium in which we live and act. Infrastructure determines which actions are trivial, like drawing water from a tap. In its absence, as when transporting oneself around Fayetteville, North Carolina without a car, infrastructure sets the bounds of the impossible. Despite, or perhaps because of, its importance, it is difficult to think about infrastructure unless maintaining that infrastructure is a specific component of our work or our identity. Typically, our interactions with infrastructure manifest themselves as convenient abstractions. We think of the thousands of data centers, the hundreds of thousands of miles of cable, and the dozens of exabytes of data stored on connected devices as "the cloud." We wonder about car internals only once our chariot breaks down on the shoulder of a highway.
+Because of its ubiquity, infrastructure is invisible. It is the inescapable medium in which we live and act. Infrastructure determines which actions are trivial, like drawing water from a tap. In its absence, as when transporting oneself around Fayetteville, North Carolina—America's least walkable city in 2017— without a car, infrastructure sets the bounds of the impossible. Despite, or perhaps because of, its importance, it is difficult to think about infrastructure unless maintaining that infrastructure is a specific component of our work or our identity. Typically, our interactions with infrastructure manifest themselves as abstractions of convenience. We think of the thousands of data centers, the hundreds of thousands of miles of cable, and the dozens of exabytes of data stored on connected devices as "the cloud." We wonder about car internals only once our vehicle breaks down on the shoulder of a highway.
 
-A final concern with discussing infrastructure is that it is widely perceived as being value-neutral, inert to the considerations of equity, history, textuality, interpretation, and pedagogy that motivate scholars in the humanities. 
+A final concern with discussing infrastructure is that it is widely perceived as being value-neutral, inert to the considerations of equity, history, textuality, interpretation, and pedagogy that motivate scholars in the humanities. Patrick Svenson has noted a kind of infrastructural agnosia that has existed in the humanities—that, historically, "when it comes to thinking about the humanities in terms of infrastructure, there seems to be a lack of both everyday systemic awareness and extensive critical work" (339). Though the humanities advocates for the use of tools such as hermaneutics, advocacy, and critical theory to deconstruct and oppose asymmetries of power, there are certain dimensions along which these approaches are not applied reflexively—specifically, to how we teach, research, and communicate.
 
+** Humanities Values on the Margins
 
+In journal articles, posts, and books, a perennial topic of discussion is why we—as a society, as academics, or even as humanities scholars—should care about the humanities. These debates center around whether the humanities should be considered in utilitarian or autotelic terms, how the humanities is relevant (or irrelevant) to modern society, and whether there is a future for the humanities. While the question of the value of the humanities is frequently debated, the question of humanities values is often left to implication. That is to say that there is frequent, and explicit, discussion of why we should care about the humanities, but little on what the humanities cares about.
 
+This is not, I would argue, because the humanities is unclear about its values. It's relatively safe to say, for example, that the humanities, collectively, cares about promoting diversity, removing asymmetries of power, and resisting corporatization and marketization. The humanities also, though less universally, values effective pedagogy, preservation of history and culture, the dissemination of knowledge to the wider public, and theoretical, textual, and philosophical rigor as applied to critical and interpretive work.
 
+Difficulties emerge not because the humanities is unclear about its values, but because its values become enmeshed in overlapping hierarchies that privilege some kinds of work while placing certain kinds of labor on the margins. Though there are myriad such relationships that differ based on factors such as discipline, institutional factors, and XXX, two value hierarchies have emerged as particularly damaging to the enterprise of the humanities—the privileging  of a relatively narrow research orientation, focused primarily  on interpretive and theoretical work, within the humanities, and the situation of the humanities within a larger framework, frequently market-oriented, set of values in the wider society. These punitive relationships—value-based hierarchies within and without the humanities—have resulted in a situation in which the humanities is positioned in a marginal role in the wider society, and certain forms of humanities practice become marginal even within the humanities itself.
 
-Alan Liu, in a draft for the book /Against the Cultural Singularity/,, makes the startling observation that 
+This chapter, like previous chapters, is centered on loci of interaction, lines of interface between the humanities and its subjects on the one hand, and the humanities and the society in which it is enmeshed on the other. As in previous observations on loci of interaction aong people with disabilities and their social and physical contexts, many of these concerns might be resolved more comprehensively through advocacy—that is, seeking a broad change in values across the humanities or across society. With that said, a negotiated approach, one concerned with hyperlocal conditions and the practical, largely inescapable challenges faced by humanities practitioners day-to-day, provides another vector for analysis and another lever for action. 
+
+Fundamentally, the question faced by many, if not all, humanities practitioners is how to contend—to stay relevant, to make one's mark—on a society that, by and large, does not share the values of the humanities. Compounding this, many humanities practitioners contend with marginalization enforced by hierarchies of labor within the humanities. Why, then, conceive of these issues, concerned as they are with the expression, transference, and frequent mismatch of values, as questions of infrastructure? Alan Liu, in a draft for the book /Against the Cultural Singularity/,, makes the startling observation that the study of infrastructure has begun to approach the study of culture in furthing comprehension of modern social contexts:
 
 #+BEGIN_QUOTE
-“infrastructure,” the social-cum-technological milieu that at once enables the fulfillment of human experience and enforces constraints on that experience, today has much of the same scale, complexity, and general cultural impact as the idea of “culture” itself. Indeed, it may be that in late modernity when the bulk of life and work occurs in organizational institutions of one kind or another, the experience of infrastructure at institutional scales (undergirded by national or regional infrastructures such as electricity grids and global-scale infrastructures such as the Internet) is operationally the experience of “culture.” Put another way, the word “infrastructure” can now give us the same kind of general purchase on social complexity that Stuart Hall, Raymond Williams, and others sought when they reached for their all-purpose word, “culture.”
+“infrastructure,” the social-cum-technological milieu that at once enables the fulfillment of human experience and enforces constraints on that experience, today has much of the same scale, complexity, and general cultural impact as the idea of “culture” itself. indeed, it may be that in late modernity when the bulk of life and work occurs in organizational institutions of one kind or another, the experience of infrastructure at institutional scales (undergirded by national or regional infrastructures such as electricity grids and global-scale infrastructures such as the internet) is operationally the experience of “culture.” put another way, the word “infrastructure” can now give us the same kind of general purchase on social complexity that stuart hall, raymond williams, and others sought when they reached for their all-purpose word, “culture.”
 #+END_QUOTE
+
+:notes:
+
+
+
 
 
  says that infrastructure must be spoken about in the same ways and to make the same inteventions that used to require discussion of culture
-
-it's tempting to think of infrastrcture as value-neutral
 
 the unhuman elemnt is explicitly trying to replace culture with technological infrastrcture:
 - block chain / trustless
@@ -267,81 +275,78 @@ the unhuman elemnt is explicitly trying to replace culture with technological in
 
 can haccessibility  help here? just as we must replace bad culture with good culture, we must replace bad infrastrcture with good infrastructure
 
-The answer to this question, I suggest, is critique at the level of, and articulated through, infrastructure–where “infrastructure,” the social-cum-technological milieu that at once enables the fulfillment of human experience and enforces constraints on that experience, today has much of the same scale, complexity, and general cultural impact as the idea of “culture” itself.  Indeed, it may be that in late modernity when the bulk of life and work occurs in organizational institutions of one kind or another, the experience of infrastructure at institutional scales (undergirded by national or regional infrastructures such as electricity grids and global-scale infrastructures such as the Internet) (Liu)
+the answer to this question, i suggest, is critique at the level of, and articulated through, infrastructure–where “infrastructure,” the social-cum-technological milieu that at once enables the fulfillment of human experience and enforces constraints on that experience, today has much of the same scale, complexity, and general cultural impact as the idea of “culture” itself.  indeed, it may be that in late modernity when the bulk of life and work occurs in organizational institutions of one kind or another, the experience of infrastructure at institutional scales (undergirded by national or regional infrastructures such as electricity grids and global-scale infrastructures such as the internet) (liu)
+:end:
 
 
+** humanities on the margins
+in a sense, the humanities are on themargins
+not in some regards, humanities does get funded, but the road to the humanities is a narrow one
+human ties doesn't reach out or connect with folk humanities / folk hermaneutics
 
-
-** What are the values of the humanities?
-Humanities has its own values not reflected in the wider culture.
-** Humanities on the margins
-In a sense, the humanities are on themargins
-Not in some regards, humanities does get funded, but the road to the humanities is a narrow one
-Human ties doesn't reach out or connect with folk humanities / folk hermaneutics
-
-** Humanities values not reflected in the wder society
-** Humanities values not reflected in the way we do our work
-** Some DHers are thinking about infrastrcture
-** More importantly, some DHers are making infrastructure
-** What if the humanities were a public resource?
-What would it look like?
-** Can the humanities attend to negotiation, point of intersection?
+** humanities values not reflected in the wder society
+** humanities values not reflected in the way we do our work
+** some dhers are thinking about infrastrcture
+** more importantly, some dhers are making infrastructure
+** what if the humanities were a public resource?
+what would it look like?
+** can the humanities attend to negotiation, point of intersection?
 we would have to rethink:
 - public engagement
 - research
 - publication
-- teaching? this might actually be OK but materials?
+- teaching? this might actually be ok but materials?
 
 haccessibility approach is one that makes it easy to go the last mile and do stuff
-forkable curriclum for DRI lets people iterate on things without too much technical knowledge
-Google Docs gets the usability right but sucks at all the things we care about...provenance, owning your own stuff (what's the point of tenure if google can unpublish your stuff?), sustainability
-** Who is building infrastructure?
-** If we're doing infrastrcture, are we doing humanities?
-** Notes
-*** Liu
+forkable curriclum for dri lets people iterate on things without too much technical knowledge
+google docs gets the usability right but sucks at all the things we care about...provenance, owning your own stuff (what's the point of tenure if google can unpublish your stuff?), sustainability
+** who is building infrastructure?
+** if we're doing infrastrcture, are we doing humanities?
+** notes
+*** liu
 # 2018-05-14
 
-The answer to this question, I suggest, is critique at the level of, and articulated through, infrastructure–where “infrastructure,” the social-cum-technological milieu that at once enables the fulfillment of human experience and enforces constraints on that experience, today has much of the same scale, complexity, and general cultural impact as the idea of “culture” itself.  Indeed, it may be that in late modernity when the bulk of life and work occurs in organizational institutions of one kind or another, the experience of infrastructure at institutional scales (undergirded by national or regional infrastructures such as electricity grids and global-scale infrastructures such as the Internet)
-
-# 2018-05-14
-
-, critique seeks to turn its complicity to advantage–for example, by positioning critics as what Foucault called embedded or “specific intellectuals” acting on a particular institutional scene to steer social forces.  A related idea is to go “tactical” in the manner theorized by Michel de Certeau, who argued that people immured in any system can appropriate that system’s infrastructure through bottom-up agency for deviant purposes (as in his paradigm of jaywalking in the city).  Media critics, including new media critics, have generalized de Certeau’s notion in the name of “tactical media,” meaning media whose platforms, channels, interfaces, and representations can be appropriated by users for alternative ends.
+the answer to this question, i suggest, is critique at the level of, and articulated through, infrastructure–where “infrastructure,” the social-cum-technological milieu that at once enables the fulfillment of human experience and enforces constraints on that experience, today has much of the same scale, complexity, and general cultural impact as the idea of “culture” itself.  indeed, it may be that in late modernity when the bulk of life and work occurs in organizational institutions of one kind or another, the experience of infrastructure at institutional scales (undergirded by national or regional infrastructures such as electricity grids and global-scale infrastructures such as the internet)
 
 # 2018-05-14
 
-PDF) and Ackbar Abbas and David Theo Goldberg’s “poor theory” (which uses “tools at hand” and “limited resources” to engage “with heterogeneous probings, fragmentary thinking, and open-endedness” in resistance to “totalization, restriction, and closure”) (
+, critique seeks to turn its complicity to advantage–for example, by positioning critics as what foucault called embedded or “specific intellectuals” acting on a particular institutional scene to steer social forces.  a related idea is to go “tactical” in the manner theorized by michel de certeau, who argued that people immured in any system can appropriate that system’s infrastructure through bottom-up agency for deviant purposes (as in his paradigm of jaywalking in the city).  media critics, including new media critics, have generalized de certeau’s notion in the name of “tactical media,” meaning media whose platforms, channels, interfaces, and representations can be appropriated by users for alternative ends.
+
+# 2018-05-14
+
+pdf) and ackbar abbas and david theo goldberg’s “poor theory” (which uses “tools at hand” and “limited resources” to engage “with heterogeneous probings, fragmentary thinking, and open-endedness” in resistance to “totalization, restriction, and closure”) (
 
 
 
-Sheila Anderson observes
+sheila anderson observes
 
 
-Sheila Anderson points out that there was an inflential repoprt on "cyberinfrastrcture" that set the tone of much funding in recent memory (Atkins report) and the John Unsworth report for the social sciences and humanities (8)
+sheila anderson points out that there was an inflential repoprt on "cyberinfrastrcture" that set the tone of much funding in recent memory (atkins report) and the john unsworth report for the social sciences and humanities (8)
 
 
-What's the deal with the digital humanities getting money because funding agencies what to fund things that are new and exciting, and that fit their political/economic goals?
-
-
-
-Despite the references to people and organisations, there remains within all the three examples an idea of infrastructure as a thing with a subtle and underlying discourse of the material nature of infrastructures; infrastructure is built, it is the tools, the digital libraries, the data, it is a software component or an application – it is, as Leo Marx argues, ‘the material component’ of the infrastructure folded into an ‘aura of phantom objectivity’. 17 This idea of materiality, of existing as a thing to be built, is compounded by the idea of being primarily about technology or systems. Despite the well-made arguments put forward to define systems as inclusive of social, political and economic factors, nevertheless the talk remains about moving from systems to networks to internetworks with the primary focus on the technology. The debate is more about a question of control, centralisation versus federation, heterogeneity versus homogeneity, from bounded systems to an internetwork, all of which emphasises the material technological components of the infrastructure. Even the more nuanced approach put forward in Unsworth’s ACLS Report still frames infrastructure as something that is to be ‘built’, something to be ‘developed’, that can be specified, designed and constructed in much the same way as we might design a building. Infrastructures in this context are also expensive, hard to change, and with an air of irreversibility about them (Sheila Anderson 9)
-
-# WHat would reversible/flexible infrastructure look like? Forkable curriculum? Is a wiki flexible or an example of path dependence?
+what's the deal with the digital humanities getting money because funding agencies what to fund things that are new and exciting, and that fit their political/economic goals?
 
 
 
+despite the references to people and organisations, there remains within all the three examples an idea of infrastructure as a thing with a subtle and underlying discourse of the material nature of infrastructures; infrastructure is built, it is the tools, the digital libraries, the data, it is a software component or an application – it is, as leo marx argues, ‘the material component’ of the infrastructure folded into an ‘aura of phantom objectivity’. 17 this idea of materiality, of existing as a thing to be built, is compounded by the idea of being primarily about technology or systems. despite the well-made arguments put forward to define systems as inclusive of social, political and economic factors, nevertheless the talk remains about moving from systems to networks to internetworks with the primary focus on the technology. the debate is more about a question of control, centralisation versus federation, heterogeneity versus homogeneity, from bounded systems to an internetwork, all of which emphasises the material technological components of the infrastructure. even the more nuanced approach put forward in unsworth’s acls report still frames infrastructure as something that is to be ‘built’, something to be ‘developed’, that can be specified, designed and constructed in much the same way as we might design a building. infrastructures in this context are also expensive, hard to change, and with an air of irreversibility about them (sheila anderson 9)
 
-"However, during a conference in Cologne in 2012, it became clear that not everyone shares a positive view of these developments. The Cologne conference, the first in a series 5Sheila Anderson organised by Manfred Thaller, was called ‘The Cologne Dialogues on the Digital Humanities’. Thaller gathered together a group of scholars to debate a pre-defined set of controversies in the digital humanities. The first, and workshop defining, controversy debated the question ‘Do the Digital Humanities have an intellectual agenda or do they constitute an infrastructure?’. This is a loaded question, the implication being that if the digital humanities constitute an infrastructure then it cannot have an intellectual agenda.
+# what would reversible/flexible infrastructure look like? forkable curriculum? is a wiki flexible or an example of path dependence?
 
-In answering the question Willard McCarty, a leading advocate and scholar in the digital humanities, argued that the discipline has suffered through its association with infrastructure development because to participate in such development is to relegate the discipline to a state of servitude. This, McCarty continued, is not to suggest that there is anything intrinsically wrong with infrastructure development, but rather to suggest that to focus on infrastructure requires the digital humanities to act in support of the research agenda of others rather than defining and carrying out its own research agenda. Digital humanists are defined as servants and not as scholars. 8 It is not uncommon to view infrastructure as a substrate or the ‘subordinate parts of an undertaking’ as defined by the Oxford English Dictionary. A somewhat modified definition is provided by the American Heritage Dictionary which at least assigns some sense of value to infrastructure defining it as ‘the basic facilities, services and installations needed for the functioning of a community or society’. But the key defining factor remains that infrastructure acts in a support role to something that is more important. (Sheila Anderson 5-6)
 
-# Infrastructureb envy
+
+
+"however, during a conference in cologne in 2012, it became clear that not everyone shares a positive view of these developments. the cologne conference, the first in a series 5sheila anderson organised by manfred thaller, was called ‘the cologne dialogues on the digital humanities’. thaller gathered together a group of scholars to debate a pre-defined set of controversies in the digital humanities. the first, and workshop defining, controversy debated the question ‘do the digital humanities have an intellectual agenda or do they constitute an infrastructure?’. this is a loaded question, the implication being that if the digital humanities constitute an infrastructure then it cannot have an intellectual agenda.
+
+in answering the question willard mccarty, a leading advocate and scholar in the digital humanities, argued that the discipline has suffered through its association with infrastructure development because to participate in such development is to relegate the discipline to a state of servitude. this, mccarty continued, is not to suggest that there is anything intrinsically wrong with infrastructure development, but rather to suggest that to focus on infrastructure requires the digital humanities to act in support of the research agenda of others rather than defining and carrying out its own research agenda. digital humanists are defined as servants and not as scholars. 8 it is not uncommon to view infrastructure as a substrate or the ‘subordinate parts of an undertaking’ as defined by the oxford english dictionary. a somewhat modified definition is provided by the american heritage dictionary which at least assigns some sense of value to infrastructure defining it as ‘the basic facilities, services and installations needed for the functioning of a community or society’. but the key defining factor remains that infrastructure acts in a support role to something that is more important. (sheila anderson 5-6)
+
+# infrastructureb envy
 
 
 # path dependence
 # majoritarianism
 
-* History
-* Utopias
+* history
+* utopias
 
 
 
@@ -354,5 +359,5 @@ https://99percentinvisible.org/episode/curb-cuts/
 
 
 
-To be a machine : adventures among cyborgs, utopians, hackers, and the futurists solving the modest problem of death
-Author
+to be a machine : adventures among cyborgs, utopians, hackers, and the futurists solving the modest problem of death
+author
