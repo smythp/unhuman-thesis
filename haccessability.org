@@ -227,9 +227,11 @@ if step one is hacking for yourself, step two is facilitating people in their ha
 http://www.nineteenthcenturydisability.org/items/show/38
 * Infrastructure
 
+** Why Can't We Talk about Infrastructure?
+
 When seeking to critically analyze infrastructure, there is some question of where to start. Thomas Parke Hughes, in /Networks of Power/, observes that "Ludwig Bertalanffy, one of the most articulate of systems theorists, neededabook, not a paragraph, to define 'system'" (Hughes 5). In talking about infrastructure, we run into problems of scale and complexity. More importantly, however, we encounter problems of recognition. In studying infrastructure, we contend with a set of questions. How can we talk about infrastructure? Is infrastructure worth discussing? And, if it is, should we in the humanities be the ones to do it?
 
-Infrastructure is complex. I use the word "complex" here not in the colloquial sense of "difficult to understand," though infrastructure is often that. Rather, I use it in the sense of a whole comprised of multiple, frequently interdependent, parts. Because discussion of one facet of infrastructure frequently demands discussion of other facets, infrastructure is almost inherently difficult to discuss. Compounding this intractability is a problem of scale. In general, we—humanities scholars, academics more broadly, or people in general—perform poorly when considering the extremely large or the extremely small. Unfortunately, infrastructure is not a "meso-level" phenomenon. Infrastructure is the interstate highway system and the mineral balance of a drop of water. Infrastructure is levee maintenance in New Orleans and 220 billion lines of COBOL (Atwood). Infrastructure is this paper clip.
+Infrastructure is complex. Not in the colloquial sense of "difficult to understand," though infrastructure is often that. Rather, it is complex in the sense of a whole comprised of multiple, frequently interdependent, parts. Because discussion of one facet of infrastructure frequently demands discussion of other facets, infrastructure is almost inherently difficult to discuss. Compounding this intractability is a problem of scale. In general, we—humanities scholars, academics more broadly, or people in general—perform poorly when considering the extremely large or the extremely small. Unfortunately, infrastructure is not a "meso-level" phenomenon. Infrastructure is the interstate highway system and the mineral balance of a drop of water. Infrastructure is levee maintenance in New Orleans and 220 billion lines of COBOL (Atwood). Infrastructure is this paper clip.
 
 #+CAPTION: A paperclip. Eat your heart out, Adam Smith
 #+NAME:   paperclip.jpg
@@ -243,17 +245,19 @@ There are these two young fish swimming along, and they happen to meet an older 
 
 Because of its ubiquity, infrastructure is invisible. It is the inescapable medium in which we live and act. Infrastructure determines which actions are trivial, like drawing water from a tap. In its absence, as when transporting oneself around Fayetteville, North Carolina—America's least walkable city in 2017— without a car, infrastructure sets the bounds of the impossible. Despite, or perhaps because of, its importance, it is difficult to think about infrastructure unless maintaining that infrastructure is a specific component of our work or our identity. Typically, our interactions with infrastructure manifest themselves as abstractions of convenience. We think of the thousands of data centers, the hundreds of thousands of miles of cable, and the dozens of exabytes of data stored on connected devices as "the cloud." We wonder about car internals only once our vehicle breaks down on the shoulder of a highway.
 
-A final concern with discussing infrastructure is that it is widely perceived as being value-neutral, inert to the considerations of equity, history, textuality, interpretation, and pedagogy that motivate scholars in the humanities. Patrick Svenson has noted a kind of infrastructural agnosia that has existed in the humanities—that, historically, "when it comes to thinking about the humanities in terms of infrastructure, there seems to be a lack of both everyday systemic awareness and extensive critical work" (339). Though the humanities advocates for the use of tools such as hermaneutics, advocacy, and critical theory to deconstruct and oppose asymmetries of power, there are certain dimensions along which these approaches are not applied reflexively—specifically, to how we teach, research, and communicate.
+A final concern with discussing infrastructure is that it is widely perceived as being value-neutral, inert to the considerations of equity, history, textuality, interpretation, and pedagogy that motivate scholars in the humanities. Patrick Svenson has noted a kind of infrastructural agnosia that has existed in the humanities—that, historically, "when it comes to thinking about the humanities in terms of infrastructure, there seems to be a lack of both everyday systemic awareness and extensive critical work" (339). Despite this historical lack of attention, why might the humanities want to consider infrastructure as the subject of critical and hermaneutic analysis?
 
 ** Humanities Values on the Margins
 
 In journal articles, posts, and books, a perennial topic of discussion is why we—as a society, as academics, or even as humanities scholars—should care about the humanities. These debates center around whether the humanities should be considered in utilitarian or autotelic terms, how the humanities is relevant (or irrelevant) to modern society, and whether there is a future for the humanities. While the question of the value of the humanities is frequently debated, the question of humanities values is often left to implication. That is to say that there is frequent, and explicit, discussion of why we should care about the humanities, but little on what the humanities cares about.
 
+*************** TODO Get a bunch of sources and think pieces together about why the humanities matter. Stanley Fish and the crew.
+
 This is not, I would argue, because the humanities is unclear about its values. It's relatively safe to say, for example, that the humanities, collectively, cares about promoting diversity, removing asymmetries of power, and resisting corporatization and marketization. The humanities also, though less universally, values effective pedagogy, preservation of history and culture, the dissemination of knowledge to the wider public, and theoretical, textual, and philosophical rigor as applied to critical and interpretive work.
 
 Difficulties emerge not because the humanities is unclear about its values, but because its values become enmeshed in overlapping hierarchies that privilege some kinds of work while placing certain kinds of labor on the margins. Though there are myriad such relationships that differ based on factors such as discipline, institutional factors, and XXX, two value hierarchies have emerged as particularly damaging to the enterprise of the humanities—the privileging  of a relatively narrow research orientation, focused primarily  on interpretive and theoretical work, within the humanities, and the situation of the humanities within a larger framework, frequently market-oriented, set of values in the wider society. These punitive relationships—value-based hierarchies within and without the humanities—have resulted in a situation in which the humanities is positioned in a marginal role in the wider society, and certain forms of humanities practice become marginal even within the humanities itself.
 
-This chapter, like previous chapters, is centered on loci of interaction, lines of interface between the humanities and its subjects on the one hand, and the humanities and the society in which it is enmeshed on the other. As in previous observations on loci of interaction aong people with disabilities and their social and physical contexts, many of these concerns might be resolved more comprehensively through advocacy—that is, seeking a broad change in values across the humanities or across society. With that said, a negotiated approach, one concerned with hyperlocal conditions and the practical, largely inescapable challenges faced by humanities practitioners day-to-day, provides another vector for analysis and another lever for action. 
+This chapter, like previous chapters, is centered on loci of interaction, lines of interface between the humanities and its subjects on the one hand, and the humanities and the society in which it is enmeshed on the other. As in previous observations on loci of interaction among people with disabilities and their social and physical contexts, many of these concerns might be resolved more comprehensively through advocacy—that is, seeking a broad change in values across the humanities or across society. With that said, a negotiated approach, one concerned with hyperlocal conditions and the practical, largely inescapable challenges faced by humanities practitioners day-to-day, provides another vector for analysis and another lever for action. 
 
 Fundamentally, the question faced by many, if not all, humanities practitioners is how to contend—to stay relevant, to make one's mark—on a society that, by and large, does not share the values of the humanities. Compounding this, many humanities practitioners contend with marginalization enforced by hierarchies of labor within the humanities. Why, then, conceive of these issues, concerned as they are with the expression, transference, and frequent mismatch of values, as questions of infrastructure? Alan Liu, in a draft for the book /Against the Cultural Singularity/,, makes the startling observation that the study of infrastructure has begun to approach the study of culture in furthing comprehension of modern social contexts:
 
@@ -261,13 +265,59 @@ Fundamentally, the question faced by many, if not all, humanities practitioners 
 “infrastructure,” the social-cum-technological milieu that at once enables the fulfillment of human experience and enforces constraints on that experience, today has much of the same scale, complexity, and general cultural impact as the idea of “culture” itself. indeed, it may be that in late modernity when the bulk of life and work occurs in organizational institutions of one kind or another, the experience of infrastructure at institutional scales (undergirded by national or regional infrastructures such as electricity grids and global-scale infrastructures such as the internet) is operationally the experience of “culture.” put another way, the word “infrastructure” can now give us the same kind of general purchase on social complexity that stuart hall, raymond williams, and others sought when they reached for their all-purpose word, “culture.”
 #+END_QUOTE
 
+Liu's observation about infrastructure as a potentially productive subject for analysis is timely, given that questions of infrastructure—and, importantly, who controls infrastructure—are becoming increasingly relevant. Infrastructure is a concern for the wider society, as publics and the commons make concession after concession to privatization and marketization and forces for stability, such as the fourth estate, are "disrupted." Infrastructural concerns, however, also increasingly obtrude on the day-to-day work of humanists. Perhaps at no other time in history have the humanities been so beholden to corporations and their platforms. Humanities practitioners, allmost universally, write in Microsoft Word. We perform research on databases controlled by ProQuest and Elsevier. Many of us, especially in the United States, upload grades and check for plagiarism on Blackboard. Though "edtech" has not permeated higher education as completely as it has teaching in the K-12 sphere, many schools, including the City University of New york, make extensive use of proprietary systems, crated by corporations such as Oracle and XXX, that are used for teaching, administration, and handling student data.
+
+*************** TODO find out which corporations besides oracle are the biggest and evilest
+
+**  The Threat of Corporate Infrastructure in the Humanities
+
+In 2006, nine board members of /Topology/, anOxford University  mathematical journal published by Elsevier, resigned in protest. In their letter, the researchers wrote:
+
+#+BEGIN_QUOTE
+As you are well aware, the Editors have been concerned about the price of /Topology/ since Elsevier gained control of the journal in 1994. We believe that the price, in combination with Elsevier’s policies for pricing mathematical journals more generally, has had a significant and damaging effect on /Topology/’s reputation in the mathematical research community, and that this is likely to become increasingly serious and difficult, indeed impossible, to reverse in the future. ... Therefore, with great reluctance and sadness, we have made the difficult decision to resign. (Bridson, et al.)
+#+END_QUOTE
+
+The editors of /Topology/ were concerned primarily with the pricing of the journal, which under Elsevier's control, was entirely out of their hands. The 2006 /Topology/ resignation, though not the first indication of discontent among academics with Elsevier and similar publishing enterprises, did coincide with the beginning of the open access movement and an increased consciousness of the strange and exploited position in which the academy has found itself. Elsevier, and other commercial academic publishers such as ProQuest and XXXX, have placed themselves in a position of almost astonishing advantage. The situation has been aptly described, in the context of scientific research, by Stephen Buranyi in a 2017 analysis in /The Guardian/:
+
+#+BEGIN_QUOTE
+Scientists create work under their own direction – funded largely by governments – and give it to publishers for free; the publisher pays scientific editors who judge whether the work is worth publishing and check its grammar, but the bulk of the editorial burden – checking the scientific validity and evaluating the experiments, a process known as peer review – is done by working scientists on a volunteer basis. The publishers then sell the product back to government-funded institutional and university libraries, to be read by scientists – who, in a collective sense, created the product in the first place.
+#+END_QUOTE
+
+In 2012, a boycott movement, The Cost of Knowledge, was organized to protest Elsevier. Ofer 17,000 researchers have pledged not to fuel Elsevier's enormous and growing publication empire with their labor, citing exorbitant pricing, the corporation's practice of bundling journals together for greater leverage over libraries,  and its support for SOPA and similar anti-speech measures in service of copyright. More recently, libraries in Sweden and Germany have refused to renew subscriptions in protest of the poor value offered by Elsevier and the disproportionate power wielded by the corporation.
+
+While much impetus for the open access movement has arisen from mathematics and the sciences, the humanities has been similarly affected by proprietary gating of research, and humanities practitioners are increasingly concerned. Over 1500 practitioners from the arts and humanities joined The Cost of Knowledge boycott. Researchers in the humanities are speaking out, including Kathleen Fitzpatrick, who has called for "creating collective, cooperative, scholar-organized and -governed publications on open networks" (/Opening Up Open Access/, 2015), and Martin Paul Eve, whose observation that the humanities research resembles "plants [that] live in dry climates, ... at high altitudes, ... [and] in rocky soil" (ix) gives insight into how monograph-heavy and funding-light disciplines face unique challenges that are not similarly applicable in the sciences. Despite this important work, humanities scholars, including myself, frequently find themselves compelled to publish work, written for little or no compensation, behind paywalls that enrich corporate actors while denying or limiting access to fellow researchers.
+
+Another instance of corporate infrastructure that has stolen, unexamined, into almost every corner of the humanities is Microsoft Word. Word is a /de facto/ standard in the humanities, widely used, and frequently required, for tasks as diverse as submitting a publication or conference proposal, crafting syllabuses, creating curriculum vitae, and turning in coursework. Unlike the difficulties surrounding capture of labor and restriction of research in scholarly publishing, use of proprietary tools such as Word is not widely or consistently criticized within the academy.
+
+tenen's plain text?
+
+
+expoense is unequal
+
+
+
+
+
+
+
+
+  whose labor, including research, writing, and peer review, 
+
+
+
+the humanities is still ina more complacent place
+
+
+These proprietary systems run counter to the values of equity, knowledge creation, and anti-corporatism widely held by humanities practitioners. These corporate intrusions into the humanities should raise both ethical and practical objections. Take, for example, Elsevier.
+
+- Kathleen Fitzpatrick on Elsivier
+
+
+
+
 :notes:
 
-
-
-
-
- says that infrastructure must be spoken about in the same ways and to make the same inteventions that used to require discussion of culture
+human ties doesn't reach out or connect with folk humanities / folk hermaneutics
 
 the unhuman elemnt is explicitly trying to replace culture with technological infrastrcture:
 - block chain / trustless
@@ -275,21 +325,19 @@ the unhuman elemnt is explicitly trying to replace culture with technological in
 
 can haccessibility  help here? just as we must replace bad culture with good culture, we must replace bad infrastrcture with good infrastructure
 
-the answer to this question, i suggest, is critique at the level of, and articulated through, infrastructure–where “infrastructure,” the social-cum-technological milieu that at once enables the fulfillment of human experience and enforces constraints on that experience, today has much of the same scale, complexity, and general cultural impact as the idea of “culture” itself.  indeed, it may be that in late modernity when the bulk of life and work occurs in organizational institutions of one kind or another, the experience of infrastructure at institutional scales (undergirded by national or regional infrastructures such as electricity grids and global-scale infrastructures such as the internet) (liu)
 :end:
 
 
-** humanities on the margins
-in a sense, the humanities are on themargins
-not in some regards, humanities does get funded, but the road to the humanities is a narrow one
-human ties doesn't reach out or connect with folk humanities / folk hermaneutics
-
+** We Had Infrastrcture
 ** humanities values not reflected in the wder society
 ** humanities values not reflected in the way we do our work
 ** some dhers are thinking about infrastrcture
 ** more importantly, some dhers are making infrastructure
 ** what if the humanities were a public resource?
 what would it look like?
+there were visions: dram machines and the memex
+
+
 ** can the humanities attend to negotiation, point of intersection?
 we would have to rethink:
 - public engagement

@@ -174,3 +174,28 @@ With Sean Elliott's comeback, it is now widely apparent that the transplanted bo
 
 
 https://longreads.com/2018/02/15/blockchain-just-isnt-as-radical-as-you-want-it-to-be/
+
+
+
+* planned obsalesence
+
+NINES as a project to avoid silos in the humanities (called "atomization")
+The problem in developing such new forms of publication as these databases, however, is what Jerome McGann (2005, 112) has referred to as one of the crises facing the digital humanities: such “scholarship—even the best of it—is all more or less atomized”; the various digital texts and collections that have been created are “idiosyncratically designed and so can’t talk to each other,” and there are no authoritative, systemic, searchable bibliographies of these projects that enable scholars to find the digital objects they’d like to reuse.13 In response to these problems, McGann and the Applied Research in ’Patacriticism group at the University of Virginia began developing NINES, the Networked Infrastructure for Nineteenth-century Electronic Scholarship, as “a three-year undertaking initiated in 2003 . . . to establish an online environment for publishing peer-reviewed research in nineteenth-century British and American studies” (p. 116). NINES has since become an aggregator for peer-reviewed digital objects published in a range of venues. This project, which has received significant funding from the Mellon Foundation, was established as a means of averting atomization in the digital humanities, bringing separate projects into dialogue with one another. The NINES goals, as described on the site (“What Is NINES?”), are:
+
+
+elsivier implicated in peer review rings
+cate that it was not in spite of but rather due to the peer-review process that published studies of the anti-inflammatory drugs Celebra and Vioxx excluded data about those drugs’ potential for causing heart damage. See also the revelation on The Scientist that Elsevier published six fake journals (Grant 2009b), and that Merck paid the publisher “to produce several volumes of a publication that had the look of a peer-reviewed medical journal, but contained only reprinted or summarized articles—most of which presented data favorable to Merck products” (Grant 2009a). Perhaps more famously, in what has been referred to as “Climategate,” claims that peer review may have been manipulated in promoting work in climate science resulted in calls among scientists for reform of the review process (Pearce 2010); I thank Nick Mirzoeff (2010) for that referenc
+
+* Firtzpatrick
+
+And some of that has happened. The Open Library of the Humanities, notably, was founded by two humanities scholars who are working closely with the scholars who operate the journals under its umbrella.3 And, of course, MLA Commons is a platform developed by a scholar-governed society on which members are encouraged to develop and share new projects with the field in a wide variety of ways.
+
+But there’s been comparatively slow uptake on this end of the open access spectrum, and it’s worth considering why. On the one hand, there is the fact that publishing requires work, and comparatively few scholars have the time or inclination required to move some of their “own” work aside in favor of working on publishing’s machinery, whether by building their own publications or supporting others through the publishing process. That sort of work isn’t, by and large, what we trained for, and perhaps more importantly, it isn’t the kind of thing for which we get credit.4
+
+Even more, there is the question of prestige: scholars continue to publish in venues that have established imprimaturs, and in venues that they have no editorial hand in, because those two factors continue to be privileged by the various review mechanisms up the chain. Scholars need to persuade internal and external review committees that their work has been selected through an impartial, rigorous review process, and all the better if the name of the organization that runs that review process resonates. But of course publishing collectives are capable of being just as (if not more) rigorous, and scholarly associations like my own can provide not just an imprimatur for those collectives but also access to the many other members in the field that the collectives would likely want to reach.
+
+http://blogs.lse.ac.uk/impactofsocialsciences/2015/10/21/opening-up-open-access-kathleen-fitzpatrick/
+
+Opening Up Open Access: Moving beyond business models and towards cooperative, scholar-organized, open networks.
+
+
