@@ -1,5 +1,17 @@
 :Formatting:
-#+OPTIONS: tasks:nil toc:nil
+#+OPTIONS: toc:nil 
+# #+OPTIONS: tasks:nil html-style:nil
+#+TITLE: Negotiated Access
+
+
+# When enabled, removes numbering of sections without removing ToC
+# ToC is not indented, however
+# #+LATEX: \setcounter{secnumdepth}{0}
+
+# Fancy CSS
+# #+HTML_HEAD: <link rel="stylesheet" href="tufte.css"/>
+
+
 #+LATEX_CLASS: thesis
 
 #+LATEX: \frontmatter
@@ -28,15 +40,12 @@ There are points of intersection between self and community, self and society, a
 
 Infrastructure, however, can be turned, subverted, or reinvented to serve community and the individual. /Negotiated Access/ focuses on communities of practice—particularly communities of people with disabilities—who reforge the inaccessible into the accessible, or create knowledge and community in adverse circumstances.
 
-
-
-
-
-
-
-*************** TODO Why is it important that communities create their own infrastructure?
+*************** TODO Why is it important that communities create their own infrastructure? 
+*************** END
 *************** TODO How have communities been exploited? Which communities?
+*************** END
 *************** TODO What does the word "community" mean in this context?
+*************** END
 
 * Introducing Negotiated Access
 ** Terry Garrett
@@ -51,8 +60,11 @@ How well do these models address the challenges faced by Garrett as he, a blind 
 The social model has far more to offer. In the last few years, communication among disabled gamers and developers has led to the release of a small but notable list of games in formats accessible to those with mobility and sensory disabilities. This short list, which has included titles such as Skull Girls and King of Dragon Pass, has shown that awareness and advocacy can led to concrete change even in gaming, a community that is often explicitly ableist in its outlook and rhetoric. However, though notable, these successes have been limited in scope. The overwhelming majority of games and game developers do not consider the needs of mobility- and sensory-impaired gamers, and many developers that become aware of specific disabilities argue that it's simply impossible for them to adapt their games for those with disabilities such as missing limbs or blindness. Even disabilities that are common and relatively simple to mitigate in games, such as color blindness, have received only limited attention. Further, widely used platforms that must be navigated to access games in the first place, such as the menus on the Playstation 4 console or the Steam game distribution service for PC, remain inaccessible, even in the face of an ADA ruling that requires that, at minimum, the communications and chat features in games must be made accessible.
 
 *************** TODO State of gaming for people with disabilities
+*************** END
 
 When considering Garrett's struggle to complete a game designed exclusively for sighted players, it's clear—and unsurprising to those following disability studies—that the perspective provided by the social model is more productive than that provided by the medical model. While the medical establishment would have little or no interest in Garrett's experience as a case study, the social model suggests ways that society could change to better accommodate the goals of Garrett and other disabled gamers. Were developers in games to equip menus with audio or voice cues, for example, gamers like Garrett would not be forced to memorize interfaces through trial and error or with sighted assistance. Despite the salience of the social model to Garrett's experience, however, there is an aspect—a critical aspect—of his effort that falls outside the usual scope of the social model as we know it.
+
+
 
 ** A Negotiated Model of Disability
 
@@ -75,7 +87,6 @@ So, again: what conception of disability allows us to best understand Garrett's 
 Finally, it's essential to note that negotiated access is not an exceptional or extraordinary state for disabled individuals. Rather, it's a daily, or even hourly, fact of life. Case studies such as Garrett's and the others that will be discussed below garner focus and attention in both disabled and non-disabled communities, making them attractive for citation, discussion, and inclusion in a text such as this one. For disabled individuals, however, negotiation of the lived environment is simply a fact of life, one generally performed without fanfare or even, in most cases, acknowledgment. In addition, those individuals whose achievements come to wider public attention are often, despite their disabled status, privileged in other ways. While this study will attempt to balance extraordinary examples of negotiated access with those in keeping with the daily struggles and successes of disabled life, I wish to acknowledge that "notable" achievements in this context are unfortunately often those marked out by able, rather than disabled, communities. To the extent that it is possible within the bounds of this project, I have sought out first-hand accounts and voices of disabled experience whenever possible.
 
 *************** TODO Point to section on intersectionality
-
 *************** END
 
 ** What is Negotiated Access?
@@ -87,6 +98,7 @@ While negotiated access flows from the personal and the idiosyncratic in the liv
 ** Hacking Accessibility
 
 *************** TODO History of hackers and parallels to accessibility
+*************** END
 
 If infrastructure comprises material and social circumstances, such as roads, housing, communications systems, organizations, laws, and resources, that determine what is practical and possible, then haccessibility is the creation of personal infrastructure that expands the boundaries of the possible in ways that are personal, small-scale, and resistant to larger forces. The term can apply to anyone, whether teenagers (mis)using mentions of promoted brands on Facebook to receive a signal boost from its algorithm or the business executive who uses his desktop computer as a footstool. However, the term is most significant for the disabled, since adaptations, workarounds, prosthetics, individualized skills, and acts of provocation and resistance are critical to their ability to survive and thrive in an able world. Beyond its tendency toward self-determination, another critical aspect of haccessibility is its indifference to propriety and the need or desire to "pass" in wider society. Like the old-school hackers from which the term is derived, those who practice haccessibility often violate boundaries in order to expand their capabilities, explore their environment, and play at the boundaries of the acceptable, the possible, and the expected.
 
@@ -111,7 +123,8 @@ But as the TMRC [Tech Model Railroad Club] people used the word, there was serio
 Hackers, in this early use of the word, were those who worked on a problem—often technical——out of passion rather than obligation, and who sought a deep understanding of a system or domain. This early hacker culture valued "playful cleverness" (Stallman, 2002), collaborative work, and the sharing of resources and results. They also frequently flouted rules, procedures, and restrictions on access, often in attempts to gain a commodity that, at the time, was highly valuable and frequently out of reach—computer time. 
 
 *************** TODO How did the term "hacker" come to mean criminal?
-
+*************** END
+     
 ** Shared Concerns
 
 Both hackers and people with disabilities are, fundamentally, concerned with the problem of access. Old-school hackers—the XXX and Richard Stallmans of the world—care about access because they have a primal need to dig into the core of a machine, system, or program. Without the access granted through informal peer groups or initiatives such as the free and open source software movement, the kind of exploratory work with which these first hackers are associated becomes impossible. Hackers of the other stripe, those appearing in news stories about state actors and data breaches, are also concerned with (frequently unauthorized) access. By definition, these hackers are outsiders seeking entrance to systems from which they have been excluded.
@@ -235,6 +248,7 @@ Infrastructure is complex. Not in the colloquial sense of "difficult to understa
 
 #+CAPTION: A paperclip. Eat your heart out, Adam Smith
 #+NAME:   paperclip.jpg
+#+ATTR_HTML: :alt A boring image of a paperlcip.
 [[./paperclip.jpg]]
 
 Though scale, complexity, and interdependence pose a challenge to any discussion of infrastructure, to engaging the topic one must also wrestle with a second concern. David Foster Wallace puts his finger on this issue in his well-known graduation speech at Kenyon College:
@@ -251,6 +265,7 @@ A final concern with discussing infrastructure is that it is widely perceived as
 In journal articles, posts, and books, a perennial topic of discussion is why we—as a society, as academics, or even as humanities scholars—should care about the humanities. These debates center around whether the humanities should be considered in utilitarian or autotelic terms, how the humanities is relevant (or irrelevant) to modern society, and whether there is a future for the humanities. While the question of the value of the humanities is frequently debated, the question of humanities values is often left to implication. That is to say that there is frequent, and explicit, discussion of why we should care about the humanities, but little on what the humanities cares about.
 
 *************** TODO Get a bunch of sources and think pieces together about why the humanities matter. Stanley Fish and the crew.
+*************** END
 
 This is not, I would argue, because the humanities is unclear about its values. It's relatively safe to say, for example, that the humanities, collectively, cares about promoting diversity, removing asymmetries of power, and resisting corporatization and marketization. The humanities also, though less universally, values effective pedagogy, preservation of history and culture, the dissemination of knowledge to the wider public, and theoretical, textual, and philosophical rigor as applied to critical and interpretive work.
 
@@ -264,12 +279,12 @@ Fundamentally, the question faced by many, if not all, humanities practitioners 
 “infrastructure,” the social-cum-technological milieu that at once enables the fulfillment of human experience and enforces constraints on that experience, today has much of the same scale, complexity, and general cultural impact as the idea of “culture” itself. indeed, it may be that in late modernity when the bulk of life and work occurs in organizational institutions of one kind or another, the experience of infrastructure at institutional scales (undergirded by national or regional infrastructures such as electricity grids and global-scale infrastructures such as the internet) is operationally the experience of “culture.” put another way, the word “infrastructure” can now give us the same kind of general purchase on social complexity that stuart hall, raymond williams, and others sought when they reached for their all-purpose word, “culture.” (Liu)
 #+END_QUOTE
 
-Liu's observation about infrastructure as a potentially productive subject for analysis is timely, given that questions of infrastructure—and, importantly, who controls infrastructure—are becoming increasingly relevant. Infrastructure is a concern for the wider society, as publics and the commons make concession after concession to privatization and marketization and forces for stability, such as the fourth estate, are "disrupted." Infrastructural concerns, however, also increasingly obtrude on the day-to-day work of humanists. Perhaps at no other time in history have the humanities been so beholden to corporations and their platforms. Humanities practitioners, allmost universally, perform research on databases controlled by corporations such as ProQuest and Elsevier. We write in Microsoft Word. Many of us, especially in the United States, upload grades and check for plagiarism on Blackboard. Though "edtech" has not permeated higher education as comprehensively as it has teaching in the K-12 sphere, many schools, including the City University of New york, make extensive use of proprietary systems, created by corporations such as Oracle and XXX, that are used for teaching, administration, and handling student data.
-
-While use of corporate platforms for humanities work sometimes reflects creative repurposing or a resistant stance against corporatism, their convenience and ubiquity frequently draw humanities practitioners into compromised relationships of power that sacrifice humanities values while serving  the interests of platform creators. At the same time, the infrastructural traditions we have created and stewarded in the humanities are marginalized, regarded as less valuable due to perceived associations with relatively low-status work in teaching, "service," librarianship, mentorship, IT, or administration. Before exploring ways that humanities practitioners can, and are, moving the theory and practice of infrastructure forward, we should perhaps first consider the dilemmas posed by platformification and labor hierarchy within the humanities.
+Liu's observation about infrastructure as a potentially productive subject for analysis is timely, given that questions of infrastructure—and, importantly, who controls infrastructure—are becoming increasingly relevant. Infrastructure is a concern for the wider society, as publics and the commons make concession after concession to privatization and marketization and forces for stability, such as the fourth estate, are "disrupted." Infrastructural concerns, however, also increasingly obtrude on the day-to-day work of humanists. Perhaps at no other time in history have the humanities been so beholden to corporations and their platforms. Humanities practitioners, allmost universally, perform research on databases controlled by corporations such as ProQuest and Elsevier. We write in Microsoft Word. Many of us, especially in the United States, upload grades and check for plagiarism on Blackboard. Though "edtech" has not permeated higher education to the extent that it has teaching in the K-12 sphere, many schools, including the City University of New york, make extensive use of proprietary systems, created by corporations such as Oracle and XXX, that are used for teaching, administration, and handling student data.
 
 *************** TODO find out which corporations besides oracle are the biggest and evilest
+*************** END
 
+While use of corporate platforms for humanities work sometimes reflects creative repurposing or a resistant stance against corporatism, their convenience and ubiquity frequently draw humanities practitioners into compromised relationships of power that sacrifice humanities values while serving  the interests of platform creators. At the same time, the infrastructural traditions we have created and stewarded in the humanities are marginalized, regarded as less valuable due to perceived associations with important but frequently low-status "service" work, including teaching, librarianship, mentoring, community organization, and, yes, IT and administration. Before exploring ways that humanities practitioners can, and are, moving the theory and practice of infrastructure forward, we should perhaps first consider the dilemmas posed by platformification and labor hierarchy within the humanities.
 
 **  The Threat of Corporate Infrastructure in the Humanities
 
@@ -287,32 +302,27 @@ Scientists create work under their own direction – funded largely by governmen
 
 In 2012, a boycott movement, The Cost of Knowledge, was organized to protest Elsevier. Ofer 17,000 researchers have pledged not to fuel Elsevier's enormous and growing publication empire with their labor, citing exorbitant pricing, the corporation's practice of bundling journals together for greater leverage over libraries,  and its support for SOPA and similar anti-speech measures in service of copyright. 
 
-
-Tal Yarkoni
-
-
-
-
-More recently, libraries in Sweden and Germany have refused to renew subscriptions in protest of the poor value offered by Elsevier and the disproportionate power wielded by the corporation.
+Scientist Tal Yarkoni, noting that the corporation was frequently reflexively defended by academics, attempted in a 2016 post to answer the question, "Is Elsevier really evil?" The post identified a series of business practices that few practitioners in the humanities would condone, including selling false journals to pharmaceutical companies, selling access to articles they do not own, extensive lobbying for closed-access legislation, and, alarmingly and incongruously for an academic publisher, organizing arms trade fairs (Yarkoni). More recently, libraries in Sweden and Germany have refused to renew subscriptions in protest of the poor value offered by Elsevier and the disproportionate power wielded by the corporation. 
 
 While much impetus for the open access movement has arisen from mathematics and the sciences, the humanities has been similarly affected by proprietary gating of research, and humanities practitioners are increasingly concerned. Over 1500 practitioners from the arts and humanities joined The Cost of Knowledge boycott. Researchers in the humanities are speaking out, including Kathleen Fitzpatrick, who has called for "creating collective, cooperative, scholar-organized and -governed publications on open networks" (/Opening Up Open Access/, 2015), and Martin Paul Eve, whose observation that the humanities research resembles "plants [that] live in dry climates, ... at high altitudes, ... [and] in rocky soil" (ix) gives insight into how monograph-heavy and funding-light disciplines face unique challenges that are not similarly applicable in the sciences. Despite this important work, humanities scholars, including myself, frequently find themselves compelled to publish work, written for little or no compensation, behind paywalls that enrich corporate actors while denying or limiting access to fellow researchers.
 
 Another instance of corporate infrastructure that has stolen, unexamined, into almost every corner of the humanities is Microsoft Word. Word is a /de facto/ standard in the humanities, widely used, and frequently required, for tasks as diverse as submitting a publication or conference proposal, crafting syllabuses, creating curriculum vitae, and turning in coursework. Unlike the difficulties surrounding capture of labor and restriction of research in scholarly publishing, however, use of proprietary tools such as Word is not widely or consistently criticized within the academy. Word is, to draw on Wallace's metaphor, the water in which we swim. Indeed, the application name, as envisioned by Microsoft marketer Rowland Hanson, was intended to evoke the embodiment of the word processor category, preempting even the thought of alternatives:
 
 #+BEGIN_QUOTE
-"Hanson devised the approach to product branding that persists at Microsoft to this day. Each product’s name would be stripped down to its essence, creating the impression that it was the definitive—or the only—product of its type. The only ornamentation would be the Microsoft name, to make sure no one forgot who made it. ... [R]emembers Hanson, “... we wanted our name basically to define the generic.” (Maher)
+Hanson devised the approach to product branding that persists at Microsoft to this day. Each product’s name would be stripped down to its essence, creating the impression that it was the definitive—or the only—product of its type. The only ornamentation would be the Microsoft name, to make sure no one forgot who made it. ... [R]emembers Hanson, “... we wanted our name basically to define the generic." (Maher)
 #+END_QUOTE
 
 *************** TODO Hang a lampshade on the fact that it feels gauche to use hermaneutic methods on a tool
+*************** END
 
-Out of Microsoft's ubiquitous Office product line, three applications—Microsoft Excel, Microsoft Powerpoint, and Microsoft Word—are notable not only for their broad success—described in disquieting terms such as "mindshare" and "market penetration"—but for engendering a kind of rhetorical determinism. These Microsoft applications, used in every industry and walk of life, have not provoked resistance with the same level of organization as other infrastructural concerns such as exploitative and closed practices in academic publishing. This is, perhaps, because we possess the conceptual, cultural, and narratological framework for resisting corporations, but are only now developing the capacity to critically examine tools. Corporations are, at least for now, still composed of people, people whose motives can be called into question. Similarly, cultural works—published writing, film, even sales copy—appear to us transparently as the work of a motivated agent or agents, and can be examined either as the product of their author's intention or as a reflection of the cultural gestalt. The software application, however, is not widely regarded as a work, but as a mere tool. Bringing hermaneutic and critical analysis to bear on Microsoft Word, or any other program, still feels gauche, like penning a heated rebuttal to a shovel. Even a shovel has assumptions built into it—of abailty, of morphology, of intention. Modern software applications, which can and do make many more assumptions and demands on our intention, attention, background, and cognition, should be examined as works of intent, not as artifacts independent of assumptions, intentions, and values.
+Out of Microsoft's ubiquitous Office product line, three applications—Microsoft Excel, Microsoft Powerpoint, and Microsoft Word—are notable not only for their broad success—described in disquieting terms such as "mindshare" and "market penetration"—but for engendering a kind of rhetorical determinism. These Microsoft applications, used in every industry and walk of life, have not provoked resistance with the same level of organization as other infrastructural concerns such as exploitative and closed practices in academic publishing. This is, perhaps, because we possess the conceptual, cultural, and narratological framework for resisting corporations, but are only now developing the capacity to critically examine tools. Corporations are, at least for now, still composed of people, people whose motives can be called into question. Similarly, cultural works—published writing, film, even sales copy—appear to us transparently as the work of a motivated agent or agents, and can be examined either as the product of their author's intention or as a reflection of the cultural gestalt. The software application, however, is not widely regarded as a work, but as a mere tool. Bringing hermaneutic and critical analysis to bear on Microsoft Word, or any other program, still feels gauche, like penning a heated rebuttal to a shovel. Even a shovel has assumptions built into it—of its intended user's capabilities, morphology, and intention. Modern software applications, which can and do make many more assumptions and demands on our intention, attention, background, and cognition, should be examined as works of intent, not as artifacts independent of assumptions, purposes, and values.
 
 *************** TODO look of narratology to make sure i'm using the word right above
+*************** END
 
-This is not to say that there has not been critical analysis of tools or that there has been no resistance to Word, Excel, and PowerPoint, only that we are at the beginning stages of developing critical vocabulary for an infrastructural critique, what Patrick Svenson has called an "infrastructural turn." Safiya Noble's /Algorithms of Oppression/, for example, has turned scrutiny toward Google, analysing how "results are ... normalized as believable and often presented as factual" (24). Under the rubric of "critical infrastructure studies," scholars such as Tara McPherson, Matthew K. Gold, Alan Liu, and Patrick Svenson have undertaken the foundational work of a hermaneutics of infrastructure, locating infrastructure's impact on the humanities and interdisciplinary communities of practice within the academy. This recent work, too, has been undergirded by work in platform studies, critical code studies, New Media Studies, and media archeology by scholars such as such as Matthew Kirschenbaum, Lori Emerson, Ian Bogost, and Stephanie Boluk.
+This is not to say that there has not been critical analysis of tools or that there has been no resistance to Word, Excel, and PowerPoint, only that we are at the beginning stages of developing critical vocabulary for an infrastructural critique, what Patrick Svenson has called an "infrastructural turn." Safiya Noble's /Algorithms of Oppression/, for example, has turned scrutiny toward Google, analysing how "results are ... normalized as believable and often presented as factual" (24). Under the rubric of Critical Infrastructure Studies, scholars such as Tara McPherson, Matthew K. Gold, Alan Liu, and Patrick Svenson have undertaken the foundational work of a hermaneutics of infrastructure, locating infrastructure's impact on the humanities and interdisciplinary communities of practice within the academy. This recent work, too, has been undergirded by work in platform studies, Critical Code Studies, New Media Studies, and media archeology by scholars such as Matthew Kirschenbaum, Lori Emerson, Ian Bogost, and Stephanie Boluk.
 
-Objections to Word, Excel, and PowerPoint have ranged from the ethical and XXX to the aesthetic and practical. One of the most tireless detractors of Microsoft PowerPoint has been Edward Tufte, a statistician, political scientist, and scholar of the visual display of information. In "The Cognitive Style of PowerPoint," Tufte argues that the omnipresent presentation application encourages—and in fact almost demands—shallow, procedural, hierarchical, ritualistic, and bureaucratic thinking:
-
+Objections to Word, Excel, and PowerPoint have emerged from both within and without the academy, and have been premised on ethical, preservationist, aesthetic, cognitive, and practical arguments. One of the most tireless detractors of Microsoft PowerPoint has been Edward Tufte, a statistician, political scientist, and scholar of the visual display of information. In "The Cognitive Style of PowerPoint," Tufte argues that the omnipresent presentation application encourages—and in fact almost demands—shallow, procedural, hierarchical, ritualistic, and bureaucratic thinking:
 
 #+BEGIN_QUOTE
 PP convenience for the speaker can be costly to both content and audience. These costs result from the cognitive style characteristic of the standard default PP presentation: foreshortening of evidence and thought, low spatial resolution, a deeply hierarchical single-path structure as the model for organizing every type of content, breaking up narrative and data into slides and minimal fragments, rapid temporal sequencing of thin information rather than focused spatial analysis, conspicuous decoration and Phruff, a preoccupation with format not content, an attitude of commercialism that turns everything into a sales pitch. (2)
@@ -321,12 +331,11 @@ PP convenience for the speaker can be costly to both content and audience. These
 One of Tufte's principal objections to PowerPoint is that its limited information throughput requires presenters to condense ideas into slogans or cryptic fragments and that the ritual of creating a slide deck serves as a substitute for substance. Tufte uses the example of the mismanagement by NASA of the space shuttle Columbia disaster, citing a post-incident report that blamed PowerPoint for imprecision and signal distortion as information moved up the organizational hierarchy. By providing the illusion that analysis had occured when it had not, and by replacing prose reports and other rhetorical constructs more reflective of genuine thought and consideration, PowerPoint presentations siloed knowledge, discouraged real discussion, and stifled the deep insights and distinctions that can only be shared through a paragraph of prose or a table of figures.
 
 *************** TODO use siple made easy discussion here?
-
+*************** END
 *************** TODO say that PP is also not accessible?
-
-
-
+*************** END
 *************** TODO who else to put on the list of people doing work in Critical Infrastructure Studies? more women
+*************** END
 
 #+BEGIN_QUOTE
 Search happens in a highly commercial environment, and a variety of processes shape what can be found; these  The associate professor of sociology at Arizona State University and former president of the Association of Internet Researchers Alex Halavais points to the way that heavily used technological artifacts such as the search engine have become such a normative part of our experience with digital technology and computers that they socialize us into believing that these artifacts must therefore also provide access to credible, accurate information that is depoliticized and neutral:
@@ -340,14 +349,17 @@ One of the fiercest opponents
 
 
 *************** TODO talk about rhetorical determinism
+*************** END
 Norbert Wiener, whose statistical work on firing systems during World War II caused him to reject the value-neutral posture of high abstractions, tools, and interfaces, 
 
 *************** TODO talk about how blind and low vision are marginalized online, use searches in folder.
-
+*************** END
 *************** TODO find norbert wiener quote about how tools determine the shape of soceity
-
+*************** END
 *************** TODO use Tufte to show that people have criticized MS products for scrwing with people's cognition
+*************** END
 *************** TODO word is kind of a practical disaster, people lose their dissertations!
+*************** END
 
 
 
@@ -376,10 +388,12 @@ These proprietary systems run counter to the values of equity, knowledge creatio
 - Kathleen Fitzpatrick on Elsivier
 
 
-
+*************** TODO look at this https://medium.com/@caseorganic/why-do-we-keep-building-cars-with-touchscreens-alt-the-hidden-lives-of-touchscreens-55faf92799bf
+*************** END
 
 :notes:
-** TODO look at this https://medium.com/@caseorganic/why-do-we-keep-building-cars-with-touchscreens-alt-the-hidden-lives-of-touchscreens-55faf92799bf
+
+
 human ties doesn't reach out or connect with folk humanities / folk hermaneutics
 
 the unhuman elemnt is explicitly trying to replace culture with technological infrastrcture:
@@ -389,6 +403,12 @@ the unhuman elemnt is explicitly trying to replace culture with technological in
 can haccessibility  help here? just as we must replace bad culture with good culture, we must replace bad infrastrcture with good infrastructure
 
 :end:
+
+
+
+
+Lori Emerson:
+Good question. That is what I use the Media Archeology Lab for. I sit people down at, say, an Osborne I computer, and I invite them to use WordStar, which is entirely text-based and requires you to use about 90 different commands. Next, I ask them to read WordStar against Microsoft Word so that they can begin to actually see how other word processors have different or more capabilities than Word, and hopefully they begin to realize Word isn’t natural—it isn’t the only, or even the best, word processor. There are other ways you can process your documents and have very different, creative results. So to me, pedagogically, the best way to get students to think critically about interfaces is to read the past and the present against each other
 
 
 ** We Had Infrastructure
