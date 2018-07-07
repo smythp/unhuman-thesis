@@ -9,7 +9,7 @@
 # #+LATEX: \setcounter{secnumdepth}{0}
 
 # Fancy CSS
-# #+HTML_HEAD: <link rel="stylesheet" href="tufte.css"/>
+#+HTML_HEAD: <link rel="stylesheet" href="tufte.css"/>
 
 
 #+LATEX_CLASS: thesis
@@ -249,7 +249,7 @@ Infrastructure is complex. Not in the colloquial sense of "difficult to understa
 #+CAPTION: A paperclip. Eat your heart out, Adam Smith
 #+NAME:   paperclip.jpg
 #+ATTR_HTML: :alt A boring image of a paperlcip.
-[[./paperclip.jpg]]
+[[./images/paperclip.jpg]]
 
 Though scale, complexity, and interdependence pose a challenge to any discussion of infrastructure, to engaging the topic one must also wrestle with a second concern. David Foster Wallace puts his finger on this issue in his well-known graduation speech at Kenyon College:
 
@@ -328,7 +328,16 @@ Objections to Word, Excel, and PowerPoint have emerged from both within and with
 PP convenience for the speaker can be costly to both content and audience. These costs result from the cognitive style characteristic of the standard default PP presentation: foreshortening of evidence and thought, low spatial resolution, a deeply hierarchical single-path structure as the model for organizing every type of content, breaking up narrative and data into slides and minimal fragments, rapid temporal sequencing of thin information rather than focused spatial analysis, conspicuous decoration and Phruff, a preoccupation with format not content, an attitude of commercialism that turns everything into a sales pitch. (2)
 #+END_QUOTE
 
-One of Tufte's principal objections to PowerPoint is that its limited information throughput requires presenters to condense ideas into slogans or cryptic fragments and that the ritual of creating a slide deck serves as a substitute for substance. Tufte uses the example of the mismanagement by NASA of the space shuttle Columbia disaster, citing a post-incident report that blamed PowerPoint for imprecision and signal distortion as information moved up the organizational hierarchy. By providing the illusion that analysis had occured when it had not, and by replacing prose reports and other rhetorical constructs more reflective of genuine thought and consideration, PowerPoint presentations siloed knowledge, discouraged real discussion, and stifled the deep insights and distinctions that can only be shared through a paragraph of prose or a table of figures.
+One of Tufte's principal objections to PowerPoint is that its limited information throughput requires presenters to condense ideas into slogans or cryptic fragments and that the ritual of creating a slide deck serves as a substitute for substance. Tufte offers as an example the mismanagement by NASA of the space shuttle Columbia disaster, citing a post-incident report that blamed PowerPoint for imprecision and signal distortion as information moved up the organizational hierarchy. By Tufte's reasoning, by providing the illusion that analysis had occured when it had not, and by replacing prose reports and other rhetorical constructs more reflective of genuine thought and consideration, PowerPoint presentations siloed knowledge, discouraged real discussion, and stifled the deep insights and distinctions that can only be shared through a paragraph of prose or a table of figures.
+
+#+CAPTION: A PowerPoint slide shown to Stanley McChrystal, the leader of American forces in Afghanistan. McChrystal is said to have quipped, “When we understand that slide, we’ll have won the war."
+#+NAME:   Powerpoint slide
+#+ATTR_HTML: :alt An extremely complicated PowerPoint slide showing dozens of arrows pointing to interlocking conceptual areas, such as "popular support" and "ANSR institutional"
+#+ATTR_HTML: :class fullwidth
+[[./images/powerpoint_slide.jpg]]
+
+
+
 
 *************** TODO use siple made easy discussion here?
 *************** END
@@ -406,9 +415,10 @@ can haccessibility  help here? just as we must replace bad culture with good cul
 
 
 
-
+*************** TODO add lori emerged quote
 Lori Emerson:
 Good question. That is what I use the Media Archeology Lab for. I sit people down at, say, an Osborne I computer, and I invite them to use WordStar, which is entirely text-based and requires you to use about 90 different commands. Next, I ask them to read WordStar against Microsoft Word so that they can begin to actually see how other word processors have different or more capabilities than Word, and hopefully they begin to realize Word isn’t natural—it isn’t the only, or even the best, word processor. There are other ways you can process your documents and have very different, creative results. So to me, pedagogically, the best way to get students to think critically about interfaces is to read the past and the present against each other
+*************** END
 
 
 ** We Had Infrastructure
