@@ -32,6 +32,8 @@
 :END:
 * Introduction
 
+# introduce using percey's woman at the edge of time?
+
 :notes:
 We must make for ourselves, or be made upon.
 
@@ -247,16 +249,59 @@ this is more about the big picture
 if step one is hacking for yourself, step two is facilitating people in their hacking through openness, then the third step is creating a sustainable COMMUNITY based on specific affinity groups,
 
 * Autobiography
+ # approaching ahab blind
+https://muse-jhu-edu.ezproxy.cul.columbia.edu/article/693135
+
+
 # elephant man autobriography
 http://www.nineteenthcenturydisability.org/items/show/38
 * Infrastructure
 
+** Infrastructure: A Local Phenomenon
+
+
+
+
+#+BEGIN_QUOTE
+There are these two young fish swimming along, and they happen to meet an older fish swimming the other way, who nods at them and says, "Morning, boys, how's the water?" And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes, "What the hell is water?"
+   #+END_QUOTE
+
+
+
+Infrastructure is frequently thought of in terms of monolithic systems and structures—interstate highways and shipping containers, perhaps, or municipal water and data centers. 
+
+
+
+
+
 ** Why Can't We Talk about Infrastructure?
 
-When seeking to critically analyze infrastructure, there is some question of where to start. Thomas Parke Hughes, in /Networks of Power/, observes that "Ludwig Bertalanffy, one of the most articulate of systems theorists, neededabook, not a paragraph, to define 'system'" (Hughes 5). In talking about infrastructure, we run into problems of scale and complexity. More importantly, however, we encounter problems of recognition. In studying infrastructure, we contend with a set of questions. How can we talk about infrastructure? Is infrastructure worth discussing? And, if it is, should we in the humanities be the ones to do it?
+# start with an intro about critical infrastrcture studies?
+# http://cistudies.org/ci-collective/
 
-Infrastructure is complex. Not in the colloquial sense of "difficult to understand," though infrastructure is often that. Rather, it is complex in the sense of a whole comprised of multiple, frequently interdependent, parts. Because discussion of one facet of infrastructure frequently demands discussion of other facets, infrastructure is almost inherently difficult to discuss. Compounding this intractability is a problem of scale. In general, we—humanities scholars, academics more broadly, or people in general—perform poorly when considering the extremely large or the extremely small. Unfortunately, infrastructure is not a "meso-level" phenomenon. Infrastructure is the interstate highway system and the mineral balance of a drop of water. Infrastructure is levee maintenance in New Orleans and 220 billion lines of COBOL (Atwood). Infrastructure is this paper clip.
+Infrastructure, perhaps because it is so large and so important—so /everywhere/—is difficult to talk about. Thomas Parke Hughes, in /Networks of Power/, observes that "Ludwig Bertalanffy, one of the most articulate of systems theorists, neededabook, not a paragraph, to define 'system'" (Hughes 5). In confronting the scale and complexity, the analysis of systems within systems, that accompanies discussions of infrastructur, we too soon encounter our human limitations. Infrastructur frequently manifests at a scale other than the "meso" level—that is, the sizes and shapes that we as people can intuitively understand. It's also ubiquitous—it's safe to say that little we do day-to-day does not involve infrastructure—and, in its ubiquity,  infrastructure fades into the background of our lives:
 
+#+BEGIN_QUOTE
+There are these two young fish swimming along, and they happen to meet an older fish swimming the other way, who nods at them and says, "Morning, boys, how's the water?" And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes, "What the hell is water?"
+#+END_QUOTE
+This anecdote, delivered by David Foster Wallace as part of a now well-known graduation speech at Kenyon College, puts a finger on the inherent difficulty of contemplating that which is always before us.
+
+The humanities has typically not chosen to view itself, its methods and practices, or the objects of its study through the lens of infrastructure. Patrick Svenson has noted a kind of infrastructural agnosia that has existed in the humanities—that, historically, "when it comes to thinking about the humanities in terms of infrastructure, there seems to be a lack of both everyday systemic awareness and extensive critical work" (337). The humanities does, of course, create and maintain its own infrastructure. The creation of critical editions, glosses, short title catalogs, and concordances; the maintenance of libraries, both informal and institutionally sanctioned; the passing on of institutional memory through SOPs and guides; the creation by accretion of syllabuses, passed from advisor to advisee and from peer to peer; the development of methods of scholarly communication; the management of shared institutional space; the codification of formal systems such as citation; and the provision of specialized equipment for analysis and preservation are only some traditional examples of the creation, within the humanities, of necessary infrastructure. Despite these infrastructural traditions within the humaniti, and despite the relevance of infrastructure to the questions of equity, social commentary, and textual interpretation with which the humanities is concerned, Svenson's criticism that infrastructure is largely opaque to the humanities still largely stands.
+
+** Reading Infrastructure: Critical Infrastructure Studies
+
+In recent years, groups of humanities practitioners have moved toward an increased awareness of the importance of infrastructure to areas of traditional concern to the humanities. Under the rubric of Critical Infrastructure Studies, scholars such as Alan Liu, Clare Birchall, Tara McPherson, Matthew K. Gold, and Lori Emerson have considered how infrastructure is implicated in inequality, XXX. Critical Infrastructure Studies combines an awareness of diverse but interrelated work in history (Thomas Hughes, Tom Standage), social sciences (Susan Leigh Star, Bruno Latour, Hannah Appel, Nikhil Anand Akhil Gupta), and national-level humanities computing (Sheila Anderson). 
+
+Scholars working within this framework have already made a number of significant contributions. Alan Liu, in a draft for the book /Against the Cultural Singularity/,, contends, startlingly but persuasively, that the study of infrastructure begins to approach the study of culture in furthering comprehension of modern social contexts. Lori Emerson, in writing and in pedagogy, interrogates assumptions about frictionless interfaces and the nature of the relationship between platform and user. Tara McPherson has offered views into how specific technological systems, including social networks and UNIX operating system architecture, can propagate racist ideology. Tung-Hui Hu, in /A Prehistory of the Cloud/, movingly traces the contiguity between new technocratic developments such as the cloud and historical and ongoing abuses of state power. These, and other,, contributions to the nascent field of Critical Infrastructure Studies reveal technocratic ideologies both thinking and unthinking,, nested and interlocking systems of broad scope and deep complexity, and patterns of encoded exploitation and automated asymmetries of power. Collectively, this scholarship has moved the humanities toward a critical consciousness of infrastructure. Were we fish, we might be considered to have caught a glimpse of water.
+
+The focus of much of the scholarship that has inspired Critical Infrastructure Studies has been macroscopic—broad in scope and attempting to synthesize individual observations into an understanding of larger trends. In this chapter, I offer a view of infrastructure that is more mesoscopic—that is, attuned to the locus of interaction between an individual and community, or a community and its wider social and technological context. In outlining issues facing our community of practice in the humanities, I will necessarily discuss macroscopic trends, including adverse economics, the platformification of the academy, and barriers to unflinching public scholarship. In considering adaptations to these issues, however, I will advocate a hyperlocal view, one that arises out of immediate concerns within a community and which, even if adopted broadly across communities, remains responsive to individuated conditions and needs.
+
+:notes:
+ More importantly, however, we encounter problems of recognition. In studying infrastructure, we contend with a set of questions. How can we talk about infrastructure? Is infrastructure worth discussing? And, if it is, should we in the humanities be the ones to do it?
+
+Infrastructure is complex. Not in the colloquial sense of "difficult to understand," though infrastructure is often that.
+
+Rather, it is complex in the sense of a whole comprised of multiple, frequently interdependent, parts. Because discussion of one facet of infrastructure frequently demands discussion of other facets, infrastructure is almost inherently difficult to address. Compounding this intractability is a problem of scale. In general, we—humanities scholars, academics more broadly, or people in general—perform poorly when considering the extremely large or the extremely small. Unfortunately, infrastructure is not a "meso-level" phenomenon. Infrastructure is the interstate highway system and the mineral balance of a drop of water. Infrastructure is levee maintenance in New Orleans and 220 billion lines of COBOL (Atwood). Infrastructure is this paper clip.
 #+CAPTION: A paperclip. Eat your heart out, Adam Smith
 #+NAME:   paperclip.jpg
 #+ATTR_HTML: :alt A boring image of a paperlcip.
@@ -264,12 +309,11 @@ Infrastructure is complex. Not in the colloquial sense of "difficult to understa
 
 Though scale, complexity, and interdependence pose a challenge to any discussion of infrastructure, to engaging the topic one must also wrestle with a second concern. David Foster Wallace puts his finger on this issue in his well-known graduation speech at Kenyon College:
 
-#+BEGIN_QUOTE
-There are these two young fish swimming along, and they happen to meet an older fish swimming the other way, who nods at them and says, "Morning, boys, how's the water?" And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes, "What the hell is water?"
-#+END_QUOTE
 Because of its ubiquity, infrastructure is invisible. It is the inescapable medium in which we live and act. Infrastructure determines which actions are trivial, like drawing water from a tap. In its absence, as when transporting oneself around Fayetteville, North Carolina—America's least walkable city in 2017— without a car, infrastructure sets the bounds of the impossible. Despite, or perhaps because of, its importance, it is difficult to think about infrastructure unless maintaining that infrastructure is a specific component of our work or our identity—or, less desirably, when it fails us.. Typically, our interactions with infrastructure manifest themselves as abstractions of convenience. We think of the thousands of data centers, the hundreds of thousands of miles of cable, and the dozens of exabytes of data stored on connected devices as "the cloud." We ask few questions about where our water comes from, and even fewer about where it goes. We wonder about car internals only once our vehicle breaks down on the shoulder of a highway.
 
-A final concern with discussing infrastructure is that it is widely perceived as being value-neutral, inert to the considerations of equity, history, textuality, interpretation, and pedagogy that motivate scholars in the humanities. Patrick Svenson has noted a kind of infrastructural agnosia that has existed in the humanities—that, historically, "when it comes to thinking about the humanities in terms of infrastructure, there seems to be a lack of both everyday systemic awareness and extensive critical work" (337). Despite this historical lack of attention, why might the humanities want to consider infrastructure as a fitting subject of critical and hermaneutic analysis?
+:end:
+
+# A final concern with discussing infrastructure is that it is widely perceived as being value-neutral, inert to the considerations of equity, history, textuality, interpretation, and pedagogy that motivate scholars in the humanities.
 
 ** Humanities Values on the Margins
 
@@ -278,11 +322,13 @@ In journal articles, posts, and books, a perennial topic of discussion is why we
 *************** TODO Get a bunch of sources and think pieces together about why the humanities matter. Stanley Fish and the crew.
 *************** END
 
-This is not, I would argue, because the humanities is unclear about its values. It's relatively safe to say, for example, that the humanities, collectively, cares about promoting diversity, removing asymmetries of power, and resisting corporatization and marketization. The humanities also, though less universally, values effective pedagogy, preservation of history and culture, the dissemination of knowledge to the wider public, and theoretical, textual, and philosophical rigor as applied to critical and interpretive work.
+This is not, I would argue, because the humanities is unclear about its values. It's relatively safe to say, for example, that the humanities, collectively, cares about promoting diversity, removing asymmetries of power, and resisting corporatization and marketization. The humanities also, though less universally, values effective pedagogy, preservation of history and culture, the dissemination of knowledge to the wider public, and theoretical, textual, and philosophical rigor as applied to critical and interpretive work. 
+
+
 
 Difficulties emerge not because the humanities is unclear about its values, but because its values become enmeshed in overlapping hierarchies that privilege some kinds of work while placing certain kinds of labor on the margins. Though there are myriad such relationships that differ based on factors such as discipline, ranking, and geography, two value hierarchies have emerged as particularly damaging to the enterprise of the humanities—the privileging  of a relatively narrow research orientation, focused primarily  on interpretive and theoretical work, within the humanities, and the situation of the humanities within a larger framework, frequently market-oriented, set of values in the wider society. These punitive relationships—value-based hierarchies within and without the humanities—have resulted in a situation in which the humanities is positioned in a marginal role in the wider society, and certain forms of humanities practice become marginal even within the humanities itself.
 
-This chapter, like previous chapters, is centered on loci of interaction, lines of interface between the humanities and its subjects on the one hand, and the humanities and the society in which it is enmeshed on the other. As in previous observations on loci of interaction among people with disabilities and their social and physical contexts, many of these concerns might be resolved more comprehensively through advocacy—that is, seeking a broad change in values across the humanities or across society. With that said, a negotiated approach, one concerned with hyperlocal conditions and the practical, largely inescapable challenges faced by humanities practitioners day-to-day, provides another vector for analysis and another lever for action. 
+This chapter, like previous chapters, is centered on loci of interaction, lines of interface between the humanities and its subjects on the one hand, and the humanities and the society in which it is enmeshed on the other. As in previous observations on loci of interaction among people with disabilities and their social and physical contexts, many of these concerns might be resolved more comprehensively through advocacy—that is, seeking a broad change in values across the humanities or across society. With that said, a negotiated approach, one concerned with hyperlocal conditions and the practical, largely inescapable challenges faced by humanities practitioners day-to-day, provides another vector for analysis and another lever for action.
 
 Fundamentally, the question faced by many, if not all, humanities practitioners is how to contend—to stay relevant, to make one's mark—on a society that, by and large, does not share the values of the humanities. Compounding this, many humanities practitioners contend with marginalization enforced by hierarchies of labor within the humanities. Why, then, conceive of these issues, concerned as they are with the expression, transference, and frequent mismatch of values, as questions of infrastructure? Alan Liu, in a draft for the book /Against the Cultural Singularity/,, makes the startling observation that the study of infrastructure has begun to approach the study of culture in furthering comprehension of modern social contexts:
 
@@ -290,12 +336,12 @@ Fundamentally, the question faced by many, if not all, humanities practitioners 
 “infrastructure,” the social-cum-technological milieu that at once enables the fulfillment of human experience and enforces constraints on that experience, today has much of the same scale, complexity, and general cultural impact as the idea of “culture” itself. indeed, it may be that in late modernity when the bulk of life and work occurs in organizational institutions of one kind or another, the experience of infrastructure at institutional scales (undergirded by national or regional infrastructures such as electricity grids and global-scale infrastructures such as the internet) is operationally the experience of “culture.” put another way, the word “infrastructure” can now give us the same kind of general purchase on social complexity that stuart hall, raymond williams, and others sought when they reached for their all-purpose word, “culture.” (Liu)
 #+END_QUOTE
 
-Liu's observation about infrastructure as a potentially productive subject for analysis is timely, given that questions of infrastructure—and, importantly, who controls infrastructure—are becoming increasingly relevant. Infrastructure is a concern for the wider society, as publics and the commons make concession after concession to privatization and marketization and forces for stability, such as the fourth estate, are "disrupted." Infrastructural concerns, however, also increasingly obtrude on the day-to-day work of humanists. Perhaps at no other time in history have the humanities been so beholden to corporations and their platforms. Humanities practitioners, allmost universally, perform research on databases controlled by corporations such as ProQuest and Elsevier. We write in Microsoft Word. Many of us, especially in the United States, upload grades and check for plagiarism on Blackboard. Though "edtech" has not permeated higher education to the extent that it has teaching in the K-12 sphere, many schools, including the City University of New york, make extensive use of proprietary systems, created by corporations such as Oracle and XXX, that are used for teaching, administration, and handling student data.
+Liu's observation about infrastructure as a potentially productive subject for analysis is timely, given that questions of infrastructure—and, importantly, who controls infrastructure—are becoming increasingly relevant. Infrastructure is a concern for the wider society, as publics and the commons make concession after concession to privatization and marketization and forces for stability, such as the fourth estate, are "disrupted." Infrastructural concerns, however, also increasingly obtrude on the day-to-day work of humanists. Perhaps at no other time in history have the humanities been so beholden to corporations and their platforms. Humanities practitioners, allmost universally, perform research on databases controlled by corporations such as ProQuest and Elsevier. We write in Microsoft Word. Many of us, especially in the United States, upload grades and check for plagiarism on Blackboard. Though "edtech" has not permeated higher education to the extent that it has teaching in the K-12 sphere, many schools, including the City University of New york, make extensive use of proprietary systems created by corporations such as Oracle and XXX for teaching, administration, and handling student data. The first, the takeover of humanities infrastructure for research and scholarly communication by corporate publishers, contributes to the disconnection and marginalization of the humanities within the wider society. The second, the use of Microsoft Word as the near-exclusive context in which thought in the humanities expresses itself in writing, serves as metanym for a narrow professional orientation and a willingness to ignore structure and infrastructure unrepresentative of humanities values. After exploring these—issues that the humanities, including myself, am complicit—the remainder of the chapter will engage ways forward for the humanities. These ways forward draw on haccessible principles and attention to the locus of interaction, including resisting establishment values in favor of local community.
 
 *************** TODO find out which corporations besides oracle are the biggest and evilest
 *************** END
 
-While use of corporate platforms for humanities work sometimes reflects creative repurposing or a resistant stance against corporatism, their convenience and ubiquity frequently draw humanities practitioners into compromised relationships of power that sacrifice humanities values while serving  the interests of platform creators. At the same time, the infrastructural traditions we have created and stewarded in the humanities are marginalized, regarded as less valuable due to perceived associations with important but frequently low-status "service" work, including teaching, librarianship, mentoring, community organization, and, yes, IT and administration. Before exploring ways that humanities practitioners can, and are, moving the theory and practice of infrastructure and infrastructure creation forward, we should perhaps first consider the dilemmas posed by platformification and labor hierarchy within the humanities. This chapter will consider two manifestations of platformification, a process in which infrastructure is put in place to extract value from a community—in this case, the wider community of humanities practitioners.
+hile use of corporate platforms for humanities work sometimes reflects creative repurposing or a resistant stance against corporatism, their convenience and ubiquity frequently draw humanities practitioners into compromised relationships of power that sacrifice humanities values while serving  the interests of platform creators. At the same time, the infrastructural traditions we have created and stewarded in the humanities are marginalized, regarded as less valuable due to perceived associations with important but frequently low-status "service" work, including teaching, librarianship, mentoring, community organization, and, yes, IT and administration. Before exploring ways that humanities practitioners can, and are, moving the theory and practice of infrastructure and infrastructure creation forward, we should perhaps first consider the dilemmas posed by platformification and labor hierarchy within the humanities. This chapter will consider two manifestations of platformification, a process in which infrastructure is put in place to extract value from a community—in this case, the wider community of humanities practitioners.
 
 **  Enclosing the Intellectual Commons
 
@@ -304,31 +350,29 @@ In 2006, nine board members of /Topology/, anOxford University  mathematical jou
 #+BEGIN_QUOTE
 As you are well aware, the Editors have been concerned about the price of /Topology/ since Elsevier gained control of the journal in 1994. We believe that the price, in combination with Elsevier’s policies for pricing mathematical journals more generally, has had a significant and damaging effect on /Topology/’s reputation in the mathematical research community, and that this is likely to become increasingly serious and difficult, indeed impossible, to reverse in the future. ... Therefore, with great reluctance and sadness, we have made the difficult decision to resign. (Bridson, et al.)
 #+END_QUOTE
-
 The editors of /Topology/ were concerned primarily with the pricing of the journal, which under Elsevier's control, was entirely out of their hands. The 2006 /Topology/ resignation, though not the first indication of discontent among academics with Elsevier and similar publishing enterprises, did coincide with the beginning of the open access movement and an increased consciousness of the strange and exploited position in which the academy has found itself. Elsevier, and other commercial academic publishers such as ProQuest and Springer, have placed themselves in a position of almost astonishing advantage. The situation has been aptly described by scientist Stephen Buranyi in a 2017 analysis in /The Guardian/:
 
 #+BEGIN_QUOTE
 Scientists create work under their own direction – funded largely by governments – and give it to publishers for free; the publisher pays scientific editors who judge whether the work is worth publishing and check its grammar, but the bulk of the editorial burden – checking the scientific validity and evaluating the experiments, a process known as peer review – is done by working scientists on a volunteer basis. The publishers then sell the product back to government-funded institutional and university libraries, to be read by scientists – who, in a collective sense, created the product in the first place.
 #+END_QUOTE
 
-In 2012, a boycott movement, The Cost of Knowledge, was organized to protest Elsevier. Ofer 17,000 researchers have pledged not to fuel Elsevier's enormous and growing publication empire with their labor, citing exorbitant pricing, the corporation's practice of bundling journals together for greater leverage over libraries,  and its support for SOPA and similar anti-speech measures in service of copyright. 
+In 2012, a boycott movement, The Cost of Knowledge, was organized to protest Elsevier. Ofer 17,000 researchers have pledged not to fuel Elsevier's enormous and growing publication empire with their labor, citing exorbitant pricing, the corporation's practice of bundling journals together for greater leverage over libraries,  and its support for SOPA and similar anti-speech measures in service of copyright.
 
-Scientist Tal Yarkoni, noting that the corporation was frequently reflexively defended by academics, attempted in a 2016 post to answer the question, "Is Elsevier really evil?" The post identified a series of business practices that few practitioners in the humanities would condone, including selling false journals to pharmaceutical companies, selling access to articles they do not own, extensive lobbying for closed-access legislation, and, alarmingly and incongruously for an academic publisher, organizing arms trade fairs (Yarkoni). More recently, libraries in Sweden and Germany have refused to renew subscriptions in protest of the poor value offered by Elsevier and the disproportionate power wielded by the corporation. 
+Scientist Tal Yarkoni, noting that the corporation was frequently reflexively defended by academics, attempted in a 2016 post to answer the question, "Is Elsevier really evil?" The post identified a series of business practices that few practitioners in the humanities would condone, including selling false journals to pharmaceutical companies, selling access to articles they do not own, extensive lobbying for closed-access legislation, and, alarmingly and incongruously for an academic publisher, organizing arms trade fairs (Yarkoni). More recently, libraries in Sweden and Germany have refused to renew subscriptions in protest of the poor value offered by Elsevier and the disproportionate power wielded by the corporation.
 
-While much impetus for the open access movement has arisen from mathematics and the sciences, the humanities has been similarly affected by proprietary gating of research, and humanities practitioners are increasingly concerned. Though the Cost of Knowledge boycott of corporate scholarly publishers was organized primarily by scientists, over 1500 practitioners from the arts and humanities signed in solidarity. Increasingly, researchers in the humanities are speaking out. Kathleen Fitzpatrick has called for "creating collective, cooperative, scholar-organized and -governed publications on open networks" (/Opening Up Open Access/, 2015). 
+While much impetus for the open access movement has arisen from mathematics and the sciences, the humanities has been similarly affected by proprietary gating of research, and humanities practitioners are increasingly concerned. Though the Cost of Knowledge boycott of corporate scholarly publishers was organized primarily by scientists, over 1500 practitioners from the arts and humanities signed in solidarity. Increasingly, researchers in the humanities are speaking out. Kathleen Fitzpatrick has called for "creating collective, cooperative, scholar-organized and -governed publications on open networks" (/Opening Up Open Access/, 2015). XXX
 
 *************** TODO Find an example or two of scholars speaking out about open access
 
-Despite these calls, the humanities continues to lag behindthe the sciences in awareness of and attention to open access. In /Open Access and the Humanities/, Martin Paul Eve draws on metaphors from the natural world to explain why the humanities has not embraced open access as a cause to the same extent as the sciences. In Eve's metaphor, scholarly journals are plants, and open access is sunlight that benefits all. However, humanities journals experience other difficulties—metaphorical dry climates, high altitudes, and rocky soil—that do not similarly plague scientific journals. For example, humanities journals each receive more individual submissions from scholars, leading to greater editorial pressures, and both humanities journals and individual humanities scholars receive fewer resources and less financial support from institutions and the public. 
+Despite these calls, the humanities continues to lag behindthe the sciences in awareness of and attention to open access. In /Open Access and the Humanities/, Martin Paul Eve draws on metaphors from the natural world to explain why the humanities has not embraced open access as a cause to the same extent as the sciences. In Eve's metaphor, scholarly journals are plants, and open access is sunlight that benefits all. However, humanities journals experience other difficulties—metaphorical dry climates, high altitudes, and rocky soil—that do not similarly plague scientific journals. For example, humanities journals each receive more individual submissions from scholars, leading to greater editorial pressures, and both humanities journals and individual humanities scholars receive fewer resources and less financial support from institutions and the public.
 
 Eve's metaphor of academic journals as plants that thrive under the right conditions may, however, explain more than just the failure of humanities practitioners to engage with open access to the same extent as scholars in the sciences. The humanities does not exist in isolation, and fundamentally scholarship need not be a zero sum game. Ideally, scholarship does not look entirely inward, and, in engaging the public, the academy gains advocates and resources from the wider society. This does not mean that the academy or the humanities should bend to pressure to be narrowly instrumental in an economic sense, but rather that at least part of the work performed by humanities practitioners should be in some way transparent to interested individuals in the wider society. Paywalls, only semi-permeable to scholars and impassable to outsiders, have cut the academy, and humanities in particular, off from the support of the public. To use Eve's metaphor, the trees of the academy have gradually been starved of sun and soil, left to contend amongst themselves for finite and diminishing resources.
 
-It is difficult to quantify the damage that has likely been incurred by the interposition of paywalls between writers in the academy and the public. By definition, we cannot ascertain consequences that manifest in absence—opportunities foreclosed and intellectual connections never made do not leave traces or records. Yet the public, demonstrably, has an appetite for forms of discourse traditionally associated with the humanities. Ongoing debates over the decline of the public intellectual (Posner, 2001; Kristof, 2014; Herman, 2017Drezner, 2017) and the corresponding rise of the "thought leader" (Drezner, 2017), show that the public is increasingly disconnected from the academy, but also that the public continues to have an appetite for ideas and meets this demand largely outside of direct engagement with scholars. Since the early 2000s, "academic repackagers"—individuals, often journalists, such as Malcolm Gladwell, Stephen Dubner, and Charles Duhigg who have made their careers translating social science into life advice and prescriptions for industry and the public—have experienced tremendous success. Others, such as non-academic Maria Popova, creator of the blog /Brain Pickings/, have gained enormous popularity through work, interpretive and critical, that would seem to come under the purview of the traditional humanities disciplines. XXX LAY HERMANEUTICS??? XXX
+It is difficult to quantify the damage that has likely been incurred by the interposition of paywalls between writers in the academy and the public. By definition, we cannot ascertain consequences that manifest in absence—opportunities foreclosed and intellectual connections never made do not leave traces or records. Yet the public, demonstrably, has an appetite for forms of discourse traditionally associated with the humanities. Ongoing debates over the decline of the public intellectual (Posner, 2001; Kristof, 2014; Herman, 2017Drezner, 2017) and the corresponding rise of the "thought leader" (Drezner, 2017), show that the public is increasingly disconnected from the academy, but also that the public continues to have an appetite for ideas and meets this demand largely outside of direct engagement with scholars. Since the early 2000s, "academic repackagers"—individuals, often journalists, such as Malcolm Gladwell, Stephen Dubner, and Charles Duhigg who have made their careers translating social science into life advice and prescriptions for industry and the public—have experienced tremendous success. Others, such as non-academic Maria Popova, creator of the blog /Brain Pickings/, have gained enormous popularity through work, interpretive and critical, that would seem to come under the purview of the traditional humanities disciplines.
 
-There are many possible causes for the rise of academics sans academy, among them increased professionalization, underwhelming financial support for researchers, changing public tastes, and the relative inability or unwillingness of the public to read much academic writing. Indeed, those books by academics that have seenn wide public success, including Daniel Kahneman's /Thinking Fast and Slow/ and Thomas Piketty's /Capital in the Twenty-First Century/, have nonetheless spawned their own cottage industries of explicators and repackagers. Many of these imitators sell far more units than the original work, despite the relative accessibility by academic standards of the original. Nonetheless, it is not surprising that a cohort of intellectual intermediaries has sprung up between academics and the public when the overwhelming majority of academic writing is siloed behind ruinously expensive and technically awkward paywalls. When reflecting that most academic writing can only be accessed by those with a truly wide array of privileges—socioeconomic status, geographical situation, technical knowledge, professional credentials, cognitive ability, and normative sensory and motor capability—it is not surprising that academic work and public intellectual life have diverged.
+There are many possible causes for the rise of academics sans academy, among them increased professionalization, underwhelming financial support for researchers, changing public tastes, and the relative inability or unwillingness of the public to read much academic writing. Indeed, those books by academics that have seenn wide public success, including Daniel Kahneman's /Thinking Fast and Slow/ and Thomas Piketty's /Capital in the Twenty-First Century/, have nonetheless spawned their own cottage industries of explicators and repackagers. Many of these imitators sell far more units than the original work, despite the relative accessibility by academic standards of the originals. Nonetheless, it is not surprising that a cohort of intellectual intermediaries has sprung up between academics and the public when the overwhelming majority of academic writing is siloed behind ruinously expensive and technically awkward paywalls. When reflecting that most academic writing can only be accessed by those with a truly wide array of privileges—socioeconomic status, geographical situation, technical knowledge, professional credentials, cognitive ability, and normative sensory and motor capability—it is not surprising that academic work and public intellectual life have diverged.
 
-The rise of traditions of critical and interpretive activity independent of the academy dramatically shows the weakness of humanities infrastructure for performing research and engaging with the wider society. While terms such as "outsider art" and "architecture naïve" have been used to describe creative work that falls outside of any established tradition, for various reasons—condescension notwithstanding—these terms do not readily apply to non-academic communities built around interpretive activity. Indeed, given the popularity of such communities, a case could be made that humanities practitioners working within the academy are the outsiders. Perhaps 
-
+The rise of idea arbitrage—buying thought and analysis low and, after applying a figurative coat of paint, selling high—is one development that shows the relative inaccessibility of academic writing to the wider society. Though popularizers such as Gladwell have been criticized for distorting and cherrypicking academic research (Gray, 2013; Fitts, 2013), their work is still recognizable as drawing on disciplinary authority and traditions. More alien to the traditions of the academy and more indicative of the weakness of humanities infrastructure for performing research and engaging with the wider society, however, is the rise of traditions of critical and interpretive activity independent of the academy. These developing interpretive traditions, often associated with specific subcultures or fan communities, demonstrate broad engagement and a level of infrastructural awareness rarely matched by academics. While terms such as "outsider art" and "architecture naïve" have been used to describe creative work that falls outside of any established tradition, for various reasons—condescension notwithstanding—equivalent terms do not readily apply to non-academic communities built around interpretive activity. Indeed, given the popularity of such communities, a case could be made that humanities practitioners working within the academy are the outsiders. A more appropriate term for these rising interpretative communities might be "lay hermaneutics."
 
 #+CAPTION: Clarence Schmidt's House of Mirrors in Woodstock, New York, an instance of architecture naïve.
 #+NAME: mirrors.jpg
@@ -338,42 +382,67 @@ The rise of traditions of critical and interpretive activity independent of the 
 
 *************** TODO Find image of House of Mirrors with better provenance
 
+Perhaps the strongest exemplar of lay hermaneutic infrastructure is the TV Tropes website, a wiki-style compendium of cultural and literary conventions in all forms of media. The site, comprehensive and deeply hypertextual, displays an irreverence born of early internet culture but also relative sophistication in its engagement of topics such as canonicity ("Canon," /TV Tropes/), authority ("Death of the Author," /TV Tropes/), and representation ("Bury Your Gays," /TV Tropes/; "Stuffed into the Fridge," /TV Tropes/). Notably, the TV Tropes community is frequently aware, at least in general terms, of perspectives shared in disciplines such as Film Studies and English ("TV Tropes Will Ruin Your Life", /TV Tropes/), though the obverse—knowledge within academic disciplines of lay perspectives and terminology—is not generally true. Though some interpretive work is shared on TV Tropes, the site is primarily intended as infrastructure—that is, to supply a shared vocabulary and implicit critical framework for discussion of creative works, most frequently in other communities online. Though TV Tropes, as a site, is privately owned, its ready availability, hypertextuality, and community engagement  mean that it is an accessible resource for segments of the lay public drawn to hermaneutic practice but lacking the disciplinary training, rigorous though frequently out of reach, of the academy.
+
+From the perspective of an academic working in the humanities, it is difficult to take endeavors such as TV Tropes seriously. The website is almost too inviting, too public—clearly, the lack of a paywall, byzantine interface, or brutalist late-1990s design aesthetic belies the site's lack of seriousness. The site's name, now a misnomer given its transmedial ecumenism, suggests the TV that served as a cultural bugbear in the late 20th century, not the "peak" or "golden age" television that is a relatively sancioned subject of modern academic analysis. The absence of gatekeepers, the casual tenor of writing, and the embarrassing lack of distance—that is, the author collective's clear enjoyment—of their subjects of analysis only round out this dismal first impression. Yet the site, if we can bear to look at it, suggests an inditement of our inaccessible academic infrastructure in that it takes full advantage of the web as its medium and places no barriers, technological or professional, between itself and the reading public.
+
+#+CAPTION: The TV Tropes home page. The banner literally lampshades the fact that the title of the site is a misnomer.
+#+NAME: tvtropes.png
+#+ATTR_HTML: :alt The front page of the TV Tropes website. A lit lamp hangs from the "TV" in "TV Tropes." The articles below include headlines like "Creepy Carnival" and "Lord of the Ocean."
+[[./images/tvtropes.png]]
+# Screenshot taken on 2:54 Wednesday 29 August, 2018
+
+Another manifestation of lay hermaneutics—outsider humanities—is the "lore" movement that has grown up around the analysis and interpretation of specific games, but which extends out to communities that form around fan works and born-digital writing. Increasingly, works such as the game /Dark Souls/ (2011) and the web comic and pop culture phenomenon /Homestuck/ (2009-2016) are created with the assumption that online communities will spring up around their explication, analysis, and interpretation. "Lore," in this context, refers to 
+
+Perhaps most notable
+
+# hypertext publishing
+http://www.skyhunter.com/hyper.htm
+
+
+   # TV tropes pages links
+   :notes:
+   https://tvtropes.org/pmwiki/pmwiki.php/Main/Canon
+   https://tvtropes.org/pmwiki/pmwiki.php/Main/FauxSymbolism
+   https://tvtropes.org/pmwiki/pmwiki.php/Main/TVTropesWillRuinYourLife
+   :end:
+
 academics are cut off from the web
 
 
 In its alienation from the work performed in the humanities
 
 
-Yet, contrary to widespread belief, many 
+Yet, contrary to widespread belief, many
 
 
-In the 1945 article "As We May Think," Vannevar Bush famously put forward the concept of the Memex, a kind of universal machinefor research and reading. Bush's framing of the cumbersome nature of research in his era will be resoundingly familiar to scholars of the twenty-first century:
+   In the 1945 article "As We May Think," Vannevar Bush famously put forward the concept of the Memex, a kind of universal machinefor research and reading. Bush's framing of the cumbersome nature of research in his era will be resoundingly familiar to scholars of the twenty-first century:
 
-#+BEGIN_QUOTE
-If the aggregate time spent in writing scholarly works and in reading them could be evaluated, the ratio between these amounts of time might well be startling. Those who conscientiously attempt to keep abreast of current thought, even in restricted fields, by close and continuous reading might well shy away from an examination calculated to show how much of the previous month's efforts could be produced on call. Mendel's concept of the laws of genetics was lost to the world for a generation because his publication did not reach the few who were capable of grasping and extending it; and this sort of catastrophe is undoubtedly being repeated all about us, as truly significant attainments become lost in the mass of the inconsequential.
-#+END_QUOTE
+   #+BEGIN_QUOTE
+   If the aggregate time spent in writing scholarly works and in reading them could be evaluated, the ratio between these amounts of time might well be startling. Those who conscientiously attempt to keep abreast of current thought, even in restricted fields, by close and continuous reading might well shy away from an examination calculated to show how much of the previous month's efforts could be produced on call. Mendel's concept of the laws of genetics was lost to the world for a generation because his publication did not reach the few who were capable of grasping and extending it; and this sort of catastrophe is undoubtedly being repeated all about us, as truly significant attainments become lost in the mass of the inconsequential.
+   #+END_QUOTE
 
-# #+BEGIN_QUOTE
-# The human mind does not work that way. It operates by association. With one item in its grasp, it snaps instantly to the next that is suggested by the association of thoughts, in accordance with some intricate web of trails carried by the cells of the brain. It has other characteristics, of course; trails that are not frequently followed are prone to fade, items are not fully permanent, memory is transitory. Yet the speed of action, the intricacy of trails, the detail of mental pictures, is awe-inspiring beyond all else in nature.
-# #+END_QUOTE
-
-
+   # #+BEGIN_QUOTE
+   # The human mind does not work that way. It operates by association. With one item in its grasp, it snaps instantly to the next that is suggested by the association of thoughts, in accordance with some intricate web of trails carried by the cells of the brain. It has other characteristics, of course; trails that are not frequently followed are prone to fade, items are not fully permanent, memory is transitory. Yet the speed of action, the intricacy of trails, the detail of mental pictures, is awe-inspiring beyond all else in nature.
+   # #+END_QUOTE
 
 
 
-Fundamentally, the problem of corporate intermediaries in academic publishing is one of infrastructure
 
-thining about creating infrastrcture—scihub
 
-Scholarly publishing experiments such as 
+   Fundamentally, the problem of corporate intermediaries in academic publishing is one of infrastructure
 
-it is not surprising that the "sunlight" of open access is not the primarily concern of scholars in the 
+   thining about creating infrastrcture—scihub
 
-Despite this important work, humanities scholars, including myself, frequently find themselves compelled to publish work, written for little or no compensation, behind paywalls that enrich corporate actors while denying or limiting access to fellow researchers.
+   Scholarly publishing experiments such as
+
+   it is not surprising that the "sunlight" of open access is not the primarily concern of scholars in the
+
+   Despite this important work, humanities scholars, including myself, frequently find themselves compelled to publish work, written for little or no compensation, behind paywalls that enrich corporate actors while denying or limiting access to fellow researchers.
 
 ** The Last Word
 
-Another instance of corporate infrastructure that has stolen, unexamined, into almost every corner of the humanities is Microsoft Word. Word is a /de facto/ standard in the humanities, widely used, and frequently required, for tasks as diverse as submitting a publication or conference proposal, crafting syllabuses, creating curriculum vitae, and turning in coursework. Unlike the difficulties surrounding capture of labor and restriction of research in scholarly publishing, however, use of proprietary tools such as Word is not widely or consistently criticized within the academy. Word is, to draw on Wallace's metaphor, the water in which we swim. Indeed, the application name, as envisioned by Microsoft marketer Rowland Hanson, was intended to evoke the embodiment of the word processor category, preempting even the thought of alternatives:
+   Another instance of corporate infrastructure that has stolen, unexamined, into almost every corner of the humanities is Microsoft Word. Word is a /de facto/ standard in the humanities, widely used, and frequently required, for tasks as diverse as submitting a publication or conference proposal, crafting syllabuses, creating curriculum vitae, and turning in coursework. Unlike the difficulties surrounding capture of labor and restriction of research in scholarly publishing, however, use of proprietary tools such as Word is not widely or consistently criticized within the academy. Word is, to draw on Wallace's metaphor, the water in which we swim. Indeed, the application name, as envisioned by Microsoft marketer Rowland Hanson, was intended to evoke the embodiment of the word processor category, preempting even the thought of alternatives:
 
 #+BEGIN_QUOTE
 Hanson devised the approach to product branding that persists at Microsoft to this day. Each product’s name would be stripped down to its essence, creating the impression that it was the definitive—or the only—product of its type. The only ornamentation would be the Microsoft name, to make sure no one forgot who made it. ... [R]emembers Hanson, “... we wanted our name basically to define the generic." (Maher)
@@ -389,36 +458,36 @@ Out of Microsoft's ubiquitous Office product line, three applications—Microsof
 
 This is not to say that there has not been critical analysis of tools or that there has been no resistance to Word, Excel, and PowerPoint, only that we are still at the beginning stages of developing critical vocabulary for an infrastructural critique, what Patrick Svenson has called an "infrastructural turn." Safiya Noble's /Algorithms of Oppression/, for example, has turned scrutiny toward Google, analysing how "results are ... normalized as believable and often presented as factual" (24). Under the rubric of Critical Infrastructure Studies, scholars such as Tara McPherson, Matthew K. Gold, Alan Liu, and Patrick Svenson have undertaken the foundational work of a hermaneutics of infrastructure, locating infrastructure's impact on the humanities and interdisciplinary communities of practice within the academy. This recent work, too, has been undergirded by work in platform studies, Critical Code Studies, New Media Studies, and media archeology by scholars such as Matthew Kirschenbaum, Lori Emerson, Ian Bogost, and Stephanie Boluk.
 
-Objections to Word, Excel, and PowerPoint have emerged from both within and without the academy, and have been premised on ethical, preservationist, aesthetic, cognitive, and practical arguments. One of the most tireless detractors of Microsoft PowerPoint has been Edward Tufte, a statistician, political scientist, and scholar of the visual display of information. In "The Cognitive Style of PowerPoint," Tufte argues that the omnipresent presentation application encourages—and in fact almost demands—shallow, procedural, hierarchical, ritualistic, and bureaucratic thinking:
+   Objections to Word, Excel, and PowerPoint have emerged from both within and without the academy, and have been premised on ethical, preservationist, aesthetic, cognitive, and practical arguments. One of the most tireless detractors of Microsoft PowerPoint has been Edward Tufte, a statistician, political scientist, and scholar of the visual display of information. In "The Cognitive Style of PowerPoint," Tufte argues that the omnipresent presentation application encourages—and in fact almost demands—shallow, procedural, hierarchical, ritualistic, and bureaucratic thinking:
 
-#+BEGIN_QUOTE
-PP convenience for the speaker can be costly to both content and audience. These costs result from the cognitive style characteristic of the standard default PP presentation: foreshortening of evidence and thought, low spatial resolution, a deeply hierarchical single-path structure as the model for organizing every type of content, breaking up narrative and data into slides and minimal fragments, rapid temporal sequencing of thin information rather than focused spatial analysis, conspicuous decoration and Phruff, a preoccupation with format not content, an attitude of commercialism that turns everything into a sales pitch. (2)
-#+END_QUOTE
+   #+BEGIN_QUOTE
+   PP convenience for the speaker can be costly to both content and audience. These costs result from the cognitive style characteristic of the standard default PP presentation: foreshortening of evidence and thought, low spatial resolution, a deeply hierarchical single-path structure as the model for organizing every type of content, breaking up narrative and data into slides and minimal fragments, rapid temporal sequencing of thin information rather than focused spatial analysis, conspicuous decoration and Phruff, a preoccupation with format not content, an attitude of commercialism that turns everything into a sales pitch. (2)
+   #+END_QUOTE
 
-One of Tufte's principal objections to PowerPoint is that its limited information throughput requires presenters to condense ideas into slogans or cryptic fragments and that the ritual of creating a slide deck serves as a substitute for substance. Tufte offers as an example the mismanagement by NASA of the space shuttle Columbia disaster, citing a post-incident report that blamed PowerPoint for imprecision and signal distortion as information moved up the organizational hierarchy. By Tufte's reasoning, by providing the illusion that analysis had occured when it had not, and by replacing prose reports and other rhetorical constructs more reflective of genuine thought and consideration, PowerPoint presentations siloed knowledge, discouraged real discussion, and stifled the deep insights and distinctions that can only be shared through a paragraph of prose or, perhaps, a table of figures.
+   One of Tufte's principal objections to PowerPoint is that its limited information throughput requires presenters to condense ideas into slogans or cryptic fragments and that the ritual of creating a slide deck serves as a substitute for substance. Tufte offers as an example the mismanagement by NASA of the space shuttle Columbia disaster, citing a post-incident report that blamed PowerPoint for imprecision and signal distortion as information moved up the organizational hierarchy. By Tufte's reasoning, by providing the illusion that analysis had occured when it had not, and by replacing prose reports and other rhetorical constructs more reflective of genuine thought and consideration, PowerPoint presentations siloed knowledge, discouraged real discussion, and stifled the deep insights and distinctions that can only be shared through a paragraph of prose or, perhaps, a table of figures.
 
-#+CAPTION: A PowerPoint slide shown to Stanley McChrystal, the leader of American forces in Afghanistan. McChrystal is said to have quipped, “When we understand that slide, we’ll have won the war."
-#+NAME:   Powerpoint slide
-#+ATTR_HTML: :alt An extremely complicated PowerPoint slide showing dozens of arrows pointing to interlocking conceptual areas, such as "popular support" and "ANSR institutional"
-#+ATTR_HTML: :class fullwidth
-[[./images/powerpoint_slide.jpg]]
+   #+CAPTION: A PowerPoint slide shown to Stanley McChrystal, the leader of American forces in Afghanistan. McChrystal is said to have quipped, “When we understand that slide, we’ll have won the war."
+   #+NAME:   Powerpoint slide
+   #+ATTR_HTML: :alt An extremely complicated PowerPoint slide showing dozens of arrows pointing to interlocking conceptual areas, such as "popular support" and "ANSR institutional"
+   #+ATTR_HTML: :class fullwidth
+   [[./images/powerpoint_slide.jpg]]
 
-Edward Tufte has been criticized for giving talks and lectures using a slideware style evokative of the PowerPoint patterns he has frequently and publicly denounced. While his apparent inability to shake the cognitive style of PowerPoint has called his observations into question, it also illustrates the insinuating nature of infrastructure, its capacity for shaping communication and consciousness. Software such as PowerPoint and Word, having existed so long without meaningful alternative, form an infrastructural ground, a set of expectations premised on pragmatism and rhetorical and conceptional familiarity. Just as it is difficult to step away from one's culture to see it from the outside, it is difficult to step away from infrastructure to observe how it shapes decision, action, and discourse.
+   Edward Tufte has been criticized for giving talks and lectures using a slideware style evokative of the PowerPoint patterns he has frequently and publicly denounced. While his apparent inability to shake the cognitive style of PowerPoint has called his observations into question, it also illustrates the insinuating nature of infrastructure, its capacity for shaping communication and consciousness. Software such as PowerPoint and Word, having existed so long without meaningful alternative, form an infrastructural ground, a set of expectations premised on pragmatism and rhetorical and conceptional familiarity. Just as it is difficult to step away from one's culture to see it from the outside, it is difficult to step away from infrastructure to observe how it shapes decision, action, and discourse.
 
-Within the humanities, practitioners in New Media studies are perhaps most attuned to the cognitive and rhetorical influence of the software and hardware that shape our intellectual labor. Lori Emerson, for example, in her work at the Media Archeology Lab at the University of Colorado, works to excavate possibilities of interface that have been closed off by the unrelenting ubiquity of tools such as Microsoft Word, "opening up how exactly interfaces limit and create certain creative possibilities" (Emerson ix). In an interview, Emerson describes her methodology for allowing others to create distance from the cognitive and creative hegemony of Microsoft Word:
+   Within the humanities, practitioners in New Media studies are perhaps most attuned to the cognitive and rhetorical influence of the software and hardware that shape our intellectual labor. Lori Emerson, for example, in her work at the Media Archeology Lab at the University of Colorado, works to excavate possibilities of interface that have been closed off by the unrelenting ubiquity of tools such as Microsoft Word, "opening up how exactly interfaces limit and create certain creative possibilities" (Emerson ix). In an interview, Emerson describes her methodology for allowing others to create distance from the cognitive and creative hegemony of Microsoft Word:
 
-#+BEGIN_QUOTE
-That is what I use the Media Archeology Lab for. I sit people down at, say, an Osborne I computer, and I invite them to use WordStar, which is entirely text-based and requires you to use about 90 different commands. Next, I ask them to read WordStar against Microsoft Word so that they can begin to actually see how other word processors have different or more capabilities than Word, and hopefully they begin to realize Word isn’t natural—it isn’t the only, or even the best, word processor. There are other ways you can process your documents and have very different, creative results. So to me, pedagogically, the best way to get students to think critically about interfaces is to read the past and the present against each other
-#+END_QUOTE
-
-
+   #+BEGIN_QUOTE
+   That is what I use the Media Archeology Lab for. I sit people down at, say, an Osborne I computer, and I invite them to use WordStar, which is entirely text-based and requires you to use about 90 different commands. Next, I ask them to read WordStar against Microsoft Word so that they can begin to actually see how other word processors have different or more capabilities than Word, and hopefully they begin to realize Word isn’t natural—it isn’t the only, or even the best, word processor. There are other ways you can process your documents and have very different, creative results. So to me, pedagogically, the best way to get students to think critically about interfaces is to read the past and the present against each other
+   #+END_QUOTE
 
 
-emerson:
- But what is new is that the interfaces themselves and therefore their constraints are becoming ever more difficult to perceive because of the blinding seduction of the wondrous that at least partly comes back into view again once we undertake an excavation of how things (could) have been otherwise.
-opening 
 
-  
+
+   emerson:
+   But what is new is that the interfaces themselves and therefore their constraints are becoming ever more difficult to perceive because of the blinding seduction of the wondrous that at least partly comes back into view again once we undertake an excavation of how things (could) have been otherwise.
+   opening
+
+
 
 *************** TODO look up an accusation of Tuftue supposed hypocrisy and put in a citation
 *************** END
@@ -430,30 +499,30 @@ opening
 *************** TODO who else to put on the list of people doing work in Critical Infrastructure Studies? more women
 *************** END
 
-# outline for how tools screw us over
-:notes:
-microsoft word and elsivier make us conform to them. they do not conform to us.
-they are inhuman / unhuman, as norbert wiener said. use quote.
-think about what we could have, as humanities researchers, if we weren't beholden to these tools. if we could integrate things.
-hold up the memex as a utopian example of what we could do
-:end:
+   # outline for how tools screw us over
+   :notes:
+   microsoft word and elsivier make us conform to them. they do not conform to us.
+   they are inhuman / unhuman, as norbert wiener said. use quote.
+   think about what we could have, as humanities researchers, if we weren't beholden to these tools. if we could integrate things.
+   hold up the memex as a utopian example of what we could do
+   :end:
 
-:notes:
-# algos of oppression quote
-#+BEGIN_QUOTE
-Search happens in a highly commercial environment, and a variety of processes shape what can be found; these  The associate professor of sociology at Arizona State University and former president of the Association of Internet Researchers Alex Halavais points to the way that heavily used technological artifacts such as the search engine have become such a normative part of our experience with digital technology and computers that they socialize us into believing that these artifacts must therefore also provide access to credible, accurate information that is depoliticized and neutral:
-#+END_QUOTE
+   :notes:
+   # algos of oppression quote
+   #+BEGIN_QUOTE
+   Search happens in a highly commercial environment, and a variety of processes shape what can be found; these  The associate professor of sociology at Arizona State University and former president of the Association of Internet Researchers Alex Halavais points to the way that heavily used technological artifacts such as the search engine have become such a normative part of our experience with digital technology and computers that they socialize us into believing that these artifacts must therefore also provide access to credible, accurate information that is depoliticized and neutral:
+   #+END_QUOTE
 
-forced the same sort of organized resistance as other infrastrcture
+   forced the same sort of organized resistance as other infrastrcture
 
 
-One of the fiercest opponents
-:end:
+   One of the fiercest opponents
+   :end:
 
 
 *************** TODO talk about rhetorical determinism
 *************** END
-Norbert Wiener, whose statistical work on firing systems during World War II caused him to reject the value-neutral posture of high abstractions, tools, and interfaces, 
+   Norbert Wiener, whose statistical work on firing systems during World War II caused him to reject the value-neutral posture of high abstractions, tools, and interfaces,
 
 *************** TODO talk about how blind and low vision are marginalized online, use searches in folder.
 *************** END
@@ -467,34 +536,34 @@ Norbert Wiener, whose statistical work on firing systems during World War II cau
 
 
 
-tenen's plain text?
+   tenen's plain text?
 
 
-expoense is unequal
-
-
-
+   expoense is unequal
 
 
 
 
 
-  whose labor, including research, writing, and peer review, 
 
 
 
-the humanities is still ina more complacent place
+   whose labor, including research, writing, and peer review,
 
 
-These proprietary systems run counter to the values of equity, knowledge creation, and anti-corporatism widely held by humanities practitioners. These corporate intrusions into the humanities should raise both ethical and practical objections. Take, for example, Elsevier.
 
-- Kathleen Fitzpatrick on Elsivier
+   the humanities is still ina more complacent place
+
+
+   These proprietary systems run counter to the values of equity, knowledge creation, and anti-corporatism widely held by humanities practitioners. These corporate intrusions into the humanities should raise both ethical and practical objections. Take, for example, Elsevier.
+
+   - Kathleen Fitzpatrick on Elsivier
 
 
 *************** TODO look at this https://medium.com/@caseorganic/why-do-we-keep-building-cars-with-touchscreens-alt-the-hidden-lives-of-touchscreens-55faf92799bf
 *************** END
 
-:notes:
+   :notes:
 
 
 human ties doesn't reach out or connect with folk humanities / folk hermaneutics
@@ -505,61 +574,55 @@ the unhuman elemnt is explicitly trying to replace culture with technological in
 
 can haccessibility  help here? just as we must replace bad culture with good culture, we must replace bad infrastrcture with good infrastructure
 
-:end:
+   :end:
 
 
 
 *************** TODO add lori emerged quote
-Lori Emerson:
-Good question. That is what I use the Media Archeology Lab for. I sit people down at, say, an Osborne I computer, and I invite them to use WordStar, which is entirely text-based and requires you to use about 90 different commands. Next, I ask them to read WordStar against Microsoft Word so that they can begin to actually see how other word processors have different or more capabilities than Word, and hopefully they begin to realize Word isn’t natural—it isn’t the only, or even the best, word processor. There are other ways you can process your documents and have very different, creative results. So to me, pedagogically, the best way to get students to think critically about interfaces is to read the past and the present against each other
+   Lori Emerson:
+   Good question. That is what I use the Media Archeology Lab for. I sit people down at, say, an Osborne I computer, and I invite them to use WordStar, which is entirely text-based and requires you to use about 90 different commands. Next, I ask them to read WordStar against Microsoft Word so that they can begin to actually see how other word processors have different or more capabilities than Word, and hopefully they begin to realize Word isn’t natural—it isn’t the only, or even the best, word processor. There are other ways you can process your documents and have very different, creative results. So to me, pedagogically, the best way to get students to think critically about interfaces is to read the past and the present against each other
 *************** END
 
 
 ** We Had Infrastructure
-the humanities had all sorts of infrastructure that we created ourselves. we should think of it as important and think how we can preserve and translate this infrastrcture
+   the humanities had all sorts of infrastructure that we created ourselves. we should think of it as important and think how we can preserve and translate this infrastrcture
 
-to preserve this infrastrcture we need to stop thinking of certain humantiies work as not important. think librarianship
+   to preserve this infrastrcture we need to stop thinking of certain humantiies work as not important. think librarianship
 
 ** humanities values not reflected in the wder society
 ** humanities values not reflected in the way we do our work
 ** some dhers are thinking about infrastrcture
 ** more importantly, some dhers are making infrastructure
 ** what if the humanities were a public resource?
-what would it look like?
-there were visions: dram machines and the memex
+   what would it look like?
+   there were visions: dram machines and the memex
 
 
 ** can the humanities attend to negotiation, point of intersection?
-we would have to rethink:
-- public engagement
-- research
-- publication
-- teaching? this might actually be ok but materials?
+   we would have to rethink:
+   - public engagement
+   - research
+   - publication
+   - teaching? this might actually be ok but materials?
 
-haccessibility approach is one that makes it easy to go the last mile and do stuff
-forkable curriclum for dri lets people iterate on things without too much technical knowledge
-google docs gets the usability right but sucks at all the things we care about...provenance, owning your own stuff (what's the point of tenure if google can unpublish your stuff?), sustainability
+   haccessibility approach is one that makes it easy to go the last mile and do stuff
+   forkable curriclum for dri lets people iterate on things without too much technical knowledge
+   google docs gets the usability right but sucks at all the things we care about...provenance, owning your own stuff (what's the point of tenure if google can unpublish your stuff?), sustainability
 ** who is building infrastructure?
 ** if we're doing infrastrcture, are we doing humanities?
 
-* utopias
-
-
-
-https://muse-jhu-edu.ezproxy.cul.columbia.edu/article/693135
-
-
-# curb cuts and people going out at night to hack them
-https://99percentinvisible.org/episode/curb-cuts/
+# erros in excel
+http://www.sciencemag.org/news/2016/08/one-five-genetics-papers-contains-errors-thanks-microsoft-excel
 
 
 
 
-to be a machine : adventures among cyborgs, utopians, hackers, and the futurists solving the modest problem of death
-author
-“We demonstrated that the Web had failed instead of served humanity, as it was supposed to have done, and failed in many places,” he told me. The increasing centralization of the Web, he says, has “ended up producing—with no deliberate action of the people who designed the platform—a large-scale emergent phenomenon which is anti-human.”
-https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets
-
-
-
-
+* sort
+sure anything like a standard user exists—it was created by companies like Apple through persistent and
+clever marketing to convince people they should identify as standard users. By contrast, in the ’70s, when
+the computer was not yet very profitable and it was still a niche market item for tinkerers and the curious,
+it was marketed in more philosophical terms. My favorite ad from that era is for Logo, a learning-oriented
+programming language. In an issue of Byte magazine from 1982 you can find an ad that describes Logo
+as “a language for poets, scientists, and philosophers” (Logo, 1982). Incredible! At this time, computers
+were more about learning and creativity—open-ended learning and creativity.
+"as if"

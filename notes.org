@@ -1,4 +1,10 @@
 * notes
+to be a machine : adventures among cyborgs, utopians, hackers, and the futurists solving the modest problem of death
+author
+“We demonstrated that the Web had failed instead of served humanity, as it was supposed to have done, and failed in many places,” he told me. The increasing centralization of the Web, he says, has “ended up producing—with no deliberate action of the people who designed the platform—a large-scale emergent phenomenon which is anti-human.”
+https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets
+
+
 transhumanists are regarded as suspicious because they wish to apply the cure
 
 yet transhumanists don't want just to apply the cure to the disabled, they want to apply the cure to everyone
@@ -266,7 +272,8 @@ Not to be outdone, a few years later when the Messenger team needed to move 15 p
 Cover photo: Canonical MIT hacker Bill Gosper, by Michael Beeler.
 
 
-
+# curb cuts and people going out at night to hack them
+https://99percentinvisible.org/episode/curb-cuts/
 * Hale Zukas Papers, 1971-1998
 ** Outreach to the Disabled and Blind
 https://oac.cdlib.org/ark:/13030/hb4m3nb0b4/?brand=oac4
@@ -295,3 +302,17 @@ http://www.brandoncole.net/?p=261
 
 # blind lightsaber + fan representation 
 https://blackgirlnerds.com/fan-interpretation-matters/
+
+
+
+* unhuman
+Why is the mind in the head? Because there, and only there, are hosts of possible connections to be formed as time and circumstance demand. Each new connection serves to set the stage for others yet to come and better fitted to adapt us to the world, for through the cortex pass the greatest inverse feedbacks whose function is the purposive life of the human intellect. The joy of creating ideals, new and eternal, in and of a world, old and temporal, robots have it not.
+
+
+# on the role of libraries
+# svenson
+:quote:
+http://digitalhumanities.org/dhq/vol/4/1/000080/000080.html
+
+Libraries are an important part of the infrastructure of the humanities, and in a sense, a kind of humanities laboratory [7] placed outside the departments and schools. Libraries are also, by default, important players in relation to humanities-based information and information technology. It is important to acknowledge, however, that traditional research libraries come with a set of epistemic commitments pertaining to the role of collections, the types of texts handled, tool building, collaboration with humanities scholars and distribution (see [Drucker 2009b] for a critical discussion).
+:end:
