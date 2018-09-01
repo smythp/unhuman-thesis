@@ -1,8 +1,7 @@
-:Formatting:
+(:Formatting:
 #+OPTIONS: toc:nil tasks:nil
 # #+OPTIONS: html-style:nil 
 #+TITLE: Negotiated Access
-
 
 # When enabled, removes numbering of sections without removing ToC
 # ToC is not indented, however
@@ -53,7 +52,7 @@ Infrastructure, however, can be turned, subverted, or reinvented to serve commun
 
 * Introducing Negotiated Access
 ** Terry Garrett
-On May 8, 2011, a blind gamer named Terry Garrett began playing Zelda: The Ocarina of Time. The game, widely considered a classic, depicts a 3D world populated with puzzles, enemies, and difficult terrain. It also offers no intentional concessions to a blind player using only sound cues, memory, and dogged persistence to navigate the game world. 
+On May 8, 2011, a blind gamer named Terry Garrett began playing Zelda: The Ocarina of Time. The game, widely considered a classic, depicts a 3D world populated with puzzles, enemies, and difficult terrain. It also offers no intentional concessions to a blind player using only sound cues, memory, and dogged persistence to navigate the game world.
 
 Five years later, Garrett completed his playthrough. Using binaural audio, he'd found that he could map entities and terrain in the environment. Inaudible features could be struck with objects to produce identifying sounds, and a combination of trial-and-error and external research allowed him to pass traps and solve puzzles.
 
@@ -279,7 +278,7 @@ Infrastructure is frequently thought of in terms of monolithic systems and struc
 # start with an intro about critical infrastrcture studies?
 # http://cistudies.org/ci-collective/
 
-Infrastructure, perhaps because it is so large and so important—so /everywhere/—is difficult to talk about. Thomas Parke Hughes, in /Networks of Power/, observes that "Ludwig Bertalanffy, one of the most articulate of systems theorists, neededabook, not a paragraph, to define 'system'" (Hughes 5). In confronting the scale and complexity, the analysis of systems within systems, that accompanies discussions of infrastructur, we too soon encounter our human limitations. Infrastructur frequently manifests at a scale other than the "meso" level—that is, the sizes and shapes that we as people can intuitively understand. It's also ubiquitous—it's safe to say that little we do day-to-day does not involve infrastructure—and, in its ubiquity,  infrastructure fades into the background of our lives:
+Infrastructure, perhaps because it is so large and so important—so /everywhere/---is difficult to talk about. Thomas Parke Hughes, in /Networks of Power/, observes that "Ludwig Bertalanffy, one of the most articulate of systems theorists, neededabook, not a paragraph, to define 'system'." [[citep:hughes_networks_1993][p. 5]] In confronting the scale and complexity, the analysis of systems within systems, that accompanies discussions of infrastructur, we too soon encounter our human limitations. Infrastructur frequently manifests at a scale other than the "meso" level—that is, the sizes and shapes that we as people can intuitively understand. It's also ubiquitous—it's safe to say that little we do day-to-day does not involve infrastructure—and, in its ubiquity,  infrastructure fades into the background of our lives:
 
 #+BEGIN_QUOTE
 There are these two young fish swimming along, and they happen to meet an older fish swimming the other way, who nods at them and says, "Morning, boys, how's the water?" And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes, "What the hell is water?"
@@ -626,3 +625,6 @@ programming language. In an issue of Byte magazine from 1982 you can find an ad 
 as “a language for poets, scientists, and philosophers” (Logo, 1982). Incredible! At this time, computers
 were more about learning and creativity—open-ended learning and creativity.
 "as if"
+
+bibliographystyle:apalike
+bibliography:references.bib

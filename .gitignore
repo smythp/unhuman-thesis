@@ -9,3 +9,7 @@ diss_examples
 *.aux
 *.lot
 *.lof
+*.bbl
+*.blg
+*.out
+*.toc
