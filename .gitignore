@@ -13,3 +13,4 @@ diss_examples
 *.blg
 *.out
 *.toc
+*.aux
