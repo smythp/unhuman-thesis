@@ -40,9 +40,9 @@ Consuelo Ramos, the protagonist of the 1976 novel /Woman on the Edge of Time/, f
 #+BEGIN_QUOTE
 How she would celebrate her release! Her dingy two rooms with the toilet in the hall shone in her mind, vast and luxurious after the hospital. Doors she could shut! A toilet with a door! Chairs to sit in, a table of her own to eat on, a TV set that she could turn on and off and tune to whatever program she wanted to watch, her own bed with clean sheets and no stink of old piss. Her precious freedom and privacy!
 #+END_QUOTE
-Throughout the novel, Connie is, by turns, physically injured, insulted, and ignored at the hands of authority figures—social workers, mental ward attendants, doctors, and police. Yet perhaps most galling for her is the denial of autonomy over her immediate physical and social space, a betrayal not only of a connection to a wider community but also the immediate and necessary circumstances of life. 
+Throughout the novel, Connie is, by turns, physically injured, insulted, and ignored at the hands of authority figures—social workers, mental ward attendants, doctors, and police. Yet perhaps most galling for her is the denial of autonomy over her immediate physical and social space, a betrayal not only of a connection to a wider community but also the immediate and necessary circumstances of life.
 
-We, like Connie, live at a crux, poised between two futures. Increasingly, in fits and starts, in pockets and at the margins, in think pieces, in books, and at the dinner table, we grow aware that some totalizing force, some presence or trend or trend of trends, works against humanity. Many have attempted to place their finger on this force, this process or entity. For Hardt and Negri, it was Empire. For Benjamin H. Bratton, it is The Stack. For Herbert Marcuse, it was the technological society [[citep:marcuse_one-dimensional_2002][p. 50]]. My own colleague at the Graduate Center, Erin Glass, has described it, in the context of the academy, as the /invisible discipline/. XXX Though those who attempt to identify and define it each have a different sense of its shape, its scale, and its ends, there is a general sense that it is technocratic and technological—that is, comprising within itself systems of both humans and machines. There is also a sense that it is impersonal and encompassing—international or global in scope. In this project, I'll call this thing—this presence or process or entity—the /unhuman/. In using negation to identify it, I invoke humanity, a concept both elevated and workaday and also acknowledge that I am incapable of precisely, or even imprecisely, defining it.
+We, like Connie, live at a crux, poised between two futures. Increasingly, in fits and starts, in pockets and at the margins, in think pieces, in books, and at the dinner table, we grow aware that some totalizing force, some presence or trend or trend of trends, works against humanity. Many have attempted to place their finger on this force, this process or entity. For Hardt and Negri, it was /Empire/. For Benjamin H. Bratton, it is /The Stack/. For Herbert Marcuse, it was the one-dimensional or technological society [[citep:marcuse_one-dimensional_2002][p. 50]]. For Neil Postman, it was /technopoly/. My own colleague at the Graduate Center, Erin Glass, has described it, in the context of the academy, as the /invisible discipline/. XXX Though those who attempt to identify and define it each have a different sense of its shape, its scale, and its ends, there is a general sense that it is technocratic and technological—that is, comprising within itself systems of both humans and machines. There is also a sense that it is impersonal and encompassing—international or global in scope. In this project, I'll call this thing—this presence or process or entity—the /unhuman/. In using negation to identify it, I invoke humanity, a concept both elevated and workaday and also acknowledge that I am incapable of precisely, or even imprecisely, defining it.
 
 In /Woman on the Edge of Time/, the other future—the one accessed not through Luciente but through a nameless, subjugated woman, is explicitly predicated on the ascendency of machine over person. This bleak future, in which technology is used by a few to force their will  on the many, has its root in a project in Connie's present, one in which implants are used to "reform" patients:
 
@@ -51,20 +51,47 @@ Back at their own beds, Sybil whispered, “The nurse didn’t contradict us abo
 “But what for?”\\
 “Control. To turn us into machines so we obey them,” Sybil whispered.
 #+END_QUOTE
-Aside from its historical foundation in real abuses of electroshock therapy, the future depicted here, one based on a state of technological control over society, may seem far-fetched. Unfortunately, it is not. We now live in a world where individuals can be fired by a machine citep:cellan-jones_man_2018, where algorithms decide who will be imprisoned and who will go free citep:avenue_human_2018, where filters dictate who we speak to and what we read XXX, and where cryptoutopians strive to remove human trust from law and finance XXX. It is a world in which we squat on digital property that we do not own XXX, are surveilled in public and in private, and connect our bodies to the cloud XXX, sometimes without our knowledge. Connie's future, a future of domination by and through machines, may already be upon us.
+Aside from its historical foundation in real abuses of electroshock therapy, the future depicted by Piercy, one based on a state of technological control over society, may seem far-fetched. Unfortunately, it is not. We now live in a world where individuals can be fired by a machine citep:cellan-jones_man_2018, where algorithms decide who will be imprisoned and who will go free citep:avenue_human_2018, where filters dictate who we speak to and what we read XXX, and where cryptoutopians strive to remove human trust from law and finance XXX. It is a world in which we squat on digital property that we do not own XXX, are surveilled in public and in private, and connect our bodies to the cloud XXX, sometimes without our knowledge. Connie's future, a future of domination by and through machines, may already be upon us.
 
-** TODO insert citations for above claims about how the present is dominated ina new way by machines
+*************** TODO insert citations for above claims about how the present is dominated ina new way by machines
+*************** END
 
-There is a precipitous verticality to the structure and language of this machine-dominated present. Benjamin H. Bratton acknowledges this in adopting an inherently vertical term to describe an emerging political geography that "draws on the multilayered structure of software, hardware, and network 'stacks' that arrange different technologies vertically within a modular, interdependent order" citep:bratton_stack:_2016. Verticality, a height that exceeds our reach, also provides a dimension along which to think about whether technology is within our control or whether we are in the control of technology. In /Woman on the Edge of Time/, when Connie first steps into Luciente's future, she envisions a world of dominating, thrusting structures: "[r]ocket ships, skyscrapers into the stratosphere, an underground mole world miles deep." Instead, the structures she does encounter are personal and broadly accessible, horizontal rather than vertical: "[a]rm in arm they strolled toward the meetinghouse, a building long and low like a loaf of bread." We see this distinction, too, in Connie's present. While part of her vision of freedom is "a TV set that she could turn on and off and tune to whatever program she wanted to watch," part of the indignity of the mental hospital is a lack of this kind of control over her environment: "[w]omen ... were sitting vacantly along the walls or staring at the television set placed up on a shelf where no one could reach it to change the station or alter the volume level." For these incarcerated women, technology is situated outside, literally above, their control. In the dark future that is increasingly present in our lives, technology is not something that we participate in as equals. Increasingly, it is something that happens to us.
+There is a precipitous verticality to the structure and language of this machine-dominated present. Benjamin H. Bratton acknowledges this in adopting an inherently vertical term to describe an emerging political geography that "draws on the multilayered structure of software, hardware, and network 'stacks' that arrange different technologies vertically within a modular, interdependent order" citep:bratton_stack:_2016. Verticality, a height that exceeds our reach, also provides a dimension along which to think about whether technology is within our control or whether we are in the control of technology. In /Woman on the Edge of Time/, when Connie first steps into Luciente's future, she envisions a world of dominating, thrusting structures: "[r]ocket ships, skyscrapers into the stratosphere, an underground mole world miles deep." Instead, the structures she does encounter are personal and broadly accessible, horizontal rather than vertical: "[a]rm in arm they strolled toward the meetinghouse, a building long and low like a loaf of bread." We see this distinction, too, in Connie's present. While part of her vision of freedom is "a TV set that she could turn on and off and tune to whatever program she wanted to watch," part of the indignity of the mental hospital is a lack of this kind of control over her environment: "[w]omen ... were sitting vacantly along the walls or staring at the television set placed up on a shelf where no one could reach it to change the station or alter the volume level." For these incarcerated women, technology is situated outside, literally above, their control. In this increasingly present future, technology is not something that we participate in as equals. More and more, it is something that happens to us.
 
-** TODO insert page number for stack citation
+*************** TODO insert page number for stack citation
+*************** END
 
-This project, /Negotiated Access/, is about the locus of interaction—the point or edge along which we encounter our environment and exercise our autonomy. Fundamentally, it's an argument that this locus needs to be shifted from the distant, the impersonal, and the complex and placed close to the individual and the small community. This means that technology should be something we make and control, not something that happens to us. It means that social structure and infrastructure should be flexible, fluid, and federated, not one size fits all. It means, to put it less abstractly, that the damn television needs to come down from the shelf.
+This project, /Negotiated Access/, is about the locus of interaction—the point or edge along which we encounter our environment and exercise our autonomy. Fundamentally, it's an argument that this locus needs to be shifted from the distant, the impersonal, and the complex and placed close to the individual and the small community. This means that technology should be something we make and control, not something that happens to us. It means that social structure and infrastructure should be flexible, fluid, and federated, not one size fits all. It means, to put it less abstractly, that the television needs to come down from the damn shelf.
+
+*************** TODO summarize chapters?
+*************** end
 
 ** Retaking Technology
 
-Technology no longer means technology.
+/Technology/--the word—no longer means what it once did. Increasingly, the term is used not to indicate the application of knowledge to real-world problems, but to describe a new form of mediated sociality. Concerns about, for example, "what happens when kids are perpetually exposed to technology" citep:detwiler_generation_2015, are not concerns that children are spending too much time hacking and making at their workbenches or dreaming about applications of carbon nanotubes to space exploration. Rather, /technology/, in this context, has a particular and narrow meaning: using a small set of specific, proprietary services on a small set of specific, proprietary devices. The term evokes first a set of interfaces, in particular smartphones and social media apps. Secondarily, it evokes a sector, the big 4.5 tech corporations that have come to dominate data and discourse in our society. Third, perhaps, might come a somewhat less narrow set of intensely hyped technologies—machine learning or cryptocurrency. Only after these associations—if then—might we consider more fundamental applications of knowledge—immunization, advances in solar energy, the Human Genome Project. Technology, as a term, feels less and less like something that belongs to society. Instead, it is something placed between us and the world, a secret flame held by a technocratic elite, a narrative of progress that fails to live up to its triumphalism.
 
+We need, perhaps, a more holistic consideration of technology—technology broadly construed, not technology™. 
+
+
+Since the .com bust in the last gasps of the 20th century, we have opened a Pandora's box. Terrifying abstractions and twisted skewomorphs—Androids and Kindles; pushes, pings, and pokes; 
+
+universal search and the Everything Store
+chatbots and Snapchats
+Cloud
+
+
+
+
+
+# (mis)uses of the word technology
+:notes:
+The Generation That Doesn't Remember Life Before Smartphones
+https://www.popularmechanics.com/technology/a17931/technology-american-teenager/
+- You hear two opinions from experts on the topic of what happens when kids are perpetually exposed to technology.
+
+https://www.popularmechanics.com/technology/a17931/technology-american-teenager/
+Yet, generation Z is often on the receiving end of criticism for the amount of time they spend using technology.
+:end:
 
 # the bad future
 
@@ -86,11 +113,7 @@ Back at their own beds, Sybil whispered, “The nurse didn’t contradict us abo
 
 
 
-
-
 # 
-
-
 This book is not about that future, though. It's about the other one.
 
 
