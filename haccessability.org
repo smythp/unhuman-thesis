@@ -1,4 +1,4 @@
-* Formatting:
+:formatting:
 #+OPTIONS: toc:nil tasks:nil
 # #+OPTIONS: html-style:nil 
 #+TITLE: Negotiated Access
@@ -30,7 +30,6 @@
 #+LATEX: \mainmatter
 :END:
 * Introduction
-
 ** Two Futures and a Present
 
 # Two futures, superimposed, haunt our present. 
@@ -68,16 +67,45 @@ This project, /Negotiated Access/, is about the locus of interaction—the point
 
 ** Retaking Technology
 
-/Technology/--the word—no longer means what it once did. Increasingly, the term is used not to indicate the application of knowledge to real-world problems, but to describe a new form of mediated sociality. Concerns about, for example, "what happens when kids are perpetually exposed to technology" citep:detwiler_generation_2015, are not concerns that children are spending too much time hacking and making at their workbenches or dreaming about applications of carbon nanotubes to space exploration. Rather, /technology/, in this context, has a particular and narrow meaning: using a small set of specific, proprietary services on a small set of specific, proprietary devices. The term evokes first a set of interfaces, in particular smartphones and social media apps. Secondarily, it evokes a sector, the big 4.5 tech corporations that have come to dominate data and discourse in our society. Third, perhaps, might come a somewhat less narrow set of intensely hyped technologies—machine learning or cryptocurrency. Only after these associations—if then—might we consider more fundamental applications of knowledge—immunization, advances in solar energy, the Human Genome Project. Technology, as a term, feels less and less like something that belongs to society. Instead, it is something placed between us and the world, a secret flame held by a technocratic elite, a narrative of progress that fails to live up to its triumphalism.
+/Technology/--the word—no longer means what it once did. Increasingly, the term is used not to indicate the application of knowledge to real-world problems, but to describe a new form of mediated sociality. Concerns about, for example, "what happens when kids are perpetually exposed to technology" citep:detwiler_generation_2015, are not concerns that children are spending too much time hacking and making at their workbenches or dreaming about applications of carbon nanotubes to space exploration. Rather, /technology/, in this context, has a particular and narrow meaning: using a small set of specific, proprietary services on a small set of specific, proprietary devices. The term evokes first a set of interfaces, in particular smartphones and social media apps. Secondarily, it evokes a sector, the big 4.5 tech corporations that have come to dominate data and discourse in our society. Third, perhaps, might come a somewhat less narrow set of intensely hyped technologies—machine learning or cryptocurrency. Only after these associations—if then—might we consider more fundamental applications of knowledge—immunization, advances in solar energy, the Human Genome Project. Sherry Turkle employs this new usage of the word /technology/ in making a diagnosis of a sickness at the heart of our discourse:
 
-We need, perhaps, a more holistic consideration of technology—technology broadly construed, not technology™. 
+#+BEGIN_QUOTE
+Distracted at our dinner tables and living rooms, at our business meetings, and on our streets, we find traces of a new “silent spring”—a term Rachel Carson coined when we were ready to see that with technological change had come an assault on our environment. Now, we have arrived at another moment of recognition. This time, technology is implicated in an assault on empathy. citep:turkle_reclaiming_2016
+#+END_QUOTE
+When we use this word in the familiar way that Turkle does above,, we refer not to technology but to Technology™, a fixed ecosystem that converts attention into advertising dollars and trendy ideas into venture capital. Technology, used in this way, feels less and less like something that belongs to society. Instead, it is something placed between us and the world, a secret flame held by a technocratic elite, a narrative of progress that fails to live up to its triumphalism.
+
+If the very concept of technology is now suspect—if tech is now a four-letter word—how do we move forward? Since the early to mid-2000s, the ideological stance of standing apart or above culturally transformative technology has become increasingly untenable. More and more, the practical, cultural, and infrastructural impact of information technology is not confined to specific spheres, but touches on almost every aspect of daily life—a process that Steven Jones terms the "eversion." As infrastructure and social norms change to accommodate widespread use of technology, opting out of technology, practically speaking, means opting out of society. We know that we cannot roll back these technological, cultural, and infrastructural changes, that there will be no reversion to counter this eversion. How, then, can we conceive of a technology that will take us from where we are now to where we need to be? How do we envision a future like Luciente's, one where technology serves, rather than controls, humanity?
+
+** Techne
+
+In 1966, Lynn White, a historian at UCLA,  published an unusual book. /Medieval Technology and Social Change/ discussed a small set of frequently-overlooked innovations—the stirrup, the plow, the crank—arguing that they were largely responsible for the emergence of feudalism in the period. Though criticized, perhaps justly, as a lightweight adventure in technological determinism, the book's premise implied a lack of attention on the part of historians to technology associated with certain social strata—namely, those strata that did not possess the literacy or the cultural capital to pass on their own perspectives through histories and written records.
+
+When we think of "technology"—the concept or the word—we think of paradigms situated on the level of macro-scale entities and institutions—societies, nations, and corporations. This form of technology reaches, from on high, down into our lives. It offers us capabilities and connections, identity and convenience. It leverages iterative design, social science, and algorithm to nudge, rather than compel, recalcitrant humanity into engaging systems that control, flatten, and measure. We are grist in a highly abstract mill, our thoughts content, our relationships network effects, our differences market segments and our common humanity an exploited vulnerability. When we think of technology, we think of systems in which we are empowered only to the extent that we further render ourselves powerless.
 
 
+
+
+that did not pass on their own records.
+
+: knights, peasants, and artisans. 
+
+Though strong 
+
+This book is not about 
+
+We need a more holistic vision of technology—
+
+technology broadly construed, 
+
+
+# poetic doomsaying
+:notes:
 Since the .com bust in the last gasps of the 20th century, we have opened a Pandora's box. Terrifying abstractions and twisted skewomorphs—Androids and Kindles; pushes, pings, and pokes; 
 
 universal search and the Everything Store
 chatbots and Snapchats
 Cloud
+:end:
 
 
 
@@ -179,14 +207,12 @@ What conception of disability allows us to best understand Garrett's achievement
 
 How well do these models address the challenges faced by Garrett as he, a blind gamer, engaged with a creation designed without knowledge of his circumstances? The solutions offered by the medical model offer only a binary outcome. Either Garrett's disability is cured or ameliorated, allowing him to engage with the game in the socially prescribed way, or it is not. If no cure is forthcoming, then the medical model of disability is silent, offering no further recourse. Under the medical model, therefore, the challenge Garrett has set for himself could only be regarded as an impossibility.
 
-The social model has far more to offer. In the last few years, communication among disabled gamers and developers has led to the release of a small but notable list of games in formats accessible to those with mobility and sensory disabilities. This short list, which has included titles such as Skull Girls and King of Dragon Pass, has shown that awareness and advocacy can led to concrete change even in gaming, a community that is often explicitly ableist in its outlook and rhetoric. However, though notable, these successes have been limited in scope. The overwhelming majority of games and game developers do not consider the needs of mobility- and sensory-impaired gamers, and many developers that become aware of specific disabilities argue that it's simply impossible for them to adapt their games for those with disabilities such as missing limbs or blindness. Even disabilities that are common and relatively simple to mitigate in games, such as color blindness, have received only limited attention. Further, widely used platforms that must be navigated to access games in the first place, such as the menus on the Playstation 4 console or the Steam game distribution service for PC, remain inaccessible, even in the face of an ADA ruling that requires that, at minimum, the communications and chat features in games must be made accessible.
+The social model has far more to offer. In the last few years, communication among disabled gamers and developers has led to the release of a small but notable list of games in formats accessible to those with mobility and sensory disabilities. This short list, which has included titles such as /Skull Girls/ and /King of Dragon Pass/, has shown that awareness and advocacy can led to concrete change even in gaming, a community that is often explicitly ableist in its outlook and rhetoric. However, though notable, these successes have been limited in scope. The overwhelming majority of games and game developers do not consider the needs of mobility- and sensory-impaired gamers, and many developers that become aware of specific disabilities argue that it's simply impossible for them to adapt their games for those with disabilities such as missing limbs or blindness. Even disabilities that are common and relatively simple to mitigate in games, such as color blindness, have received only limited attention. Further, widely used platforms that must be navigated to access games in the first place, such as the menus on the Playstation 4 console or the Steam game distribution service for PC, remain inaccessible, even in the face of an ADA ruling that requires that, at minimum, the communications and chat features in games must be made accessible.
 
 *************** TODO State of gaming for people with disabilities
 *************** END
 
 When considering Garrett's struggle to complete a game designed exclusively for sighted players, it's clear—and unsurprising to those following disability studies—that the perspective provided by the social model is more productive than that provided by the medical model. While the medical establishment would have little or no interest in Garrett's experience as a case study, the social model suggests ways that society could change to better accommodate the goals of Garrett and other disabled gamers. Were developers in games to equip menus with audio or voice cues, for example, gamers like Garrett would not be forced to memorize interfaces through trial and error or with sighted assistance. Despite the salience of the social model to Garrett's experience, however, there is an aspect—a critical aspect—of his effort that falls outside the usual scope of the social model as we know it.
-
-
 
 ** A Negotiated Model of Disability
 
@@ -195,7 +221,6 @@ The disabled experience is typically—though not universally—characterized by
 #+BEGIN_QUOTE
 Now, moving forward, how do I manage today? ... Fortunately, I have my trusty long cane, longer than the canes used by most blind people. I call it my freedom staff.
 #+END_QUOTE
-
 Yet the cane, and the myriad other rhetorical, physical, cognitive, and emotional strategies deployed by the disabled, are not cures. Their use and deployment is necessarily idiosyncratic, unique to specific disabled individuals and their affinity groups. Their use or presence also often visibly sets disabled individuals apart. Unlike the medical cure, which seeks to normalize pathology and efface difference, the myriad strategies deployed by disabled people to negotiate physical and cultural spaces are a source of difference. This difference is primarily one of perception--it goes both ways, consisting both of how disabled people are perceived by others and how they themselves perceive the world. XXX
 
 Yet while we know that the medical model often fails to address or encompass disabled experience, the social model, for all its importance and usefulness, also does not address a significant portion of disabled life. In raising a cane—or in lip reading, using a screen reader, or adapting a vehicle to a mobility impairment——the disabled individual asserts a kind of power that does not flow from their approval or status in the wider community. Simultaneously, they assert their own identity, both individually and as part of an affinity group. Drawing on their understanding of their own situation and their relationship with the lived environment, the disabled individual /negotiates/. That is, they negotiate their environment, reforging relationships among their own bodies and the physical world. They negotiate with others, learning to survive in social milieus often characterized by ignorance and hostility. They share, build, and teach amongst themselves, creating negotiables—knowledge, physical infrastructure, and social capital that are their own. These practices, universal and critical to survival but often invisible and unacknowledged, I describe in this project as "negotiated access."
@@ -300,7 +325,17 @@ While disabled gamers continue to pursue advocacy efforts, they have also engage
 
 leg prosthesis that didn't look like a leg
 
-*** Out in the Cold, or Why I Care About This Stuff
+** Independence and Disabled Identity
+the importance of people doing things for themselves
+
+teach a man to fish
+
+this is more about the big picture
+
+if step one is hacking for yourself, step two is facilitating people in their hacking through openness, then the third step is creating a sustainable COMMUNITY based on specific affinity groups,
+
+* Autobiography
+** Out in the Cold, or Why I Care About This Stuff
 
 Imagine that you travel to a library. As you walk in, shelves of books rise up around you. They contain thousands of volumes, including discourses on every possible subject. That's ideal, since you're on a mission—a research mission.
 
@@ -357,16 +392,8 @@ you can work you way back to the social model
 could you ask a game compnay to make a game that works for blind people? maybe. but maybe it makes more sense to force companies to make things hackable. it's been shown that BP can manage to make games that are accessible to themselves. but if companies allow for more openness then BP can make games accessible themselves, and they theymselves know what is best
 
 *** Critical Making?
-** Independence and Disabled Identity
-the importance of people doing things for themselves
 
-teach a man to fish
-
-this is more about the big picture
-
-if step one is hacking for yourself, step two is facilitating people in their hacking through openness, then the third step is creating a sustainable COMMUNITY based on specific affinity groups,
-
-* Autobiography
+** Notes* 
  # approaching ahab blind
 https://muse-jhu-edu.ezproxy.cul.columbia.edu/article/693135
 
@@ -752,3 +779,16 @@ https://blogs.technet.microsoft.com/machinelearning/2018/09/10/why-would-prosthe
 
 
 techne
+
+
+# alan K saying that the problem of access isn't actual
+# access, but that people don't or can't use the access
+# see 15:00
+https://www.youtube.com/watch?v=t2L2t-D3tDA
+
+
+# destruction of fan-made project by copyright
+https://torrentfreak.com/cbs-shuts-down-stage-9-a-fan-made-recreation-of-the-uss-enterprise-180927/
+
+
+
