@@ -94,6 +94,10 @@ Such inclusiveness, however, requires an acceptance of diverse attitudes and opi
 
 Thinking about this incident afterwards I realised I felt a feeling of power which came from two sources — the feeling of solidarity with another disabled person at whom her pity was also directed, and the fact that, for once, the physical environment had been altered to suit people like me. The automatic doors meant that I did not have to accept help from someone whose help was offered on her terms and not mine. (Morris 30)
 
+
+
+** Medeval Tecnology and Social Change
+As our understanding of the history of technology increases, it becomes clear that a new device merely opens a door; it does not compel one to enter. The acceptance or rejection of an invention, or the extent to which its implications are realized if it is accepted, depends quite as much upon the condition of a society, and upon the imagination of its leaders, as upon the nature of the technological item itself. As we shall see, the Anglo—Saxons used the stirrup, but did not comprehend it; and for this they paid a fearful price. While semi-feudal relationships and institutions had long been scattered thickly over the civilized world, it was the Franks alone—presumably led by Charles Martel’s genius—who fully grasped the possibilities inherent in the stirrup and created in terms of it a new type of warfare supported by a novel structure of society which we call (28)
 * proposal
 Scholars such as David Doat have criticized transhumanism, an ideological stance and subculture advanced by technologists and futurists, especially those like Ray Kurzweil who have a connection to Silicon Valley. He and others have observed that transhumanists regard the disabled as rhetorical stepping stones who provide evidence of an essential incompleteness in humanity that must be overcome with technology. This allows transhumanists to assume the role of saviors, creating infrastructure for others while determining the boundaries of what is reasonable, achievable, and desirable.
 
@@ -102,6 +106,11 @@ I accept this critique of the transhuman ideology, yet in rejecting the role adv
 This section will advocate for haccessibility as a means of understanding the multivalent intersections among individuals and their social and technological contexts. It will also provide examples of ways in which institutional morays, practices, and rules have been (and often must be) violated by disabled individuals in pursuit of their goals. This chapter will draw on works such as Donna Haraway's /Cyborg Manifesto/, Richard Stallman's /Free Software, Free Society/, and Scott Dexter and Samir Chopra's /Decoding Liberation/ in addition to foundational works in disability studies, especially those relating to post- and transhumanism. The chapter will also examine communities that have formed around the practice of hacking personal infrastructure, such as [[http://blarbl.blogspot.com/][Blind Arduino]], [[https://talkingarch.tk/][Talking Arch]], and [[https://www.seeingwithsound.com/android.htm][seeingwithsound]].
 
 * links
+
+# Why saying everone has a disability is a lie
+https://crippledscholar.com/2015/03/02/why-saying-everyone-has-some-kind-of-disability-is-a-lie/
+
+
 # gaia hypothesis bruno lateur
 https://lareviewofbooks.org/article/bruno-latour-tracks-down-gaia/#!
 
@@ -206,7 +215,24 @@ The problem in developing such new forms of publication as these databases, howe
 elsivier implicated in peer review rings
 cate that it was not in spite of but rather due to the peer-review process that published studies of the anti-inflammatory drugs Celebra and Vioxx excluded data about those drugs’ potential for causing heart damage. See also the revelation on The Scientist that Elsevier published six fake journals (Grant 2009b), and that Merck paid the publisher “to produce several volumes of a publication that had the look of a peer-reviewed medical journal, but contained only reprinted or summarized articles—most of which presented data favorable to Merck products” (Grant 2009a). Perhaps more famously, in what has been referred to as “Climategate,” claims that peer review may have been manipulated in promoting work in climate science resulted in calls among scientists for reform of the review process (Pearce 2010); I thank Nick Mirzoeff (2010) for that referenc
 
-* Firtzpatrick
+* High Techne
+Even when the debate concerns technological change, the terms of the debate do not seem to change at all: technology—or some aspect of it—is either celebrated or decried, cast as utopian or dystopian, in terms of its capacity either to serve “humanity” or to threaten it. The repetitiveness of these arguments results from the fact that they take the definition of tech- nology for granted. For all the discussion of the implications of techno- logical change, remarkably little attention has been devoted to possible changes in the conception of technology. (2)
+
+draws attention to the idea that "high tech" serves as a distinguishing factor between haves and have nots...high tech is tech that we don't have access to
+
+To speak of a high-tech aesthetic or style is not, then, simply to speak of a particular look or style, but of a cultural concern with “stylishness,” with “aesthetics,” that is intrinsic to high tech. Indeed, high tech is by defi- nition a technology that is “at the state of the art in terms of . . . function and design.” 6 To be “at the state of the art” implies not only a certain up-to-the-second currency, an attention to the latest technological devel- opments, but also a sense that both “function and design” have become elements in an aesthetic process or movement. As state-of-the-art tech- nology, high tech comes to be defined by its status as the “cutting edge” or “leading wave” of this technological aesthetic or style. Indeed, it is no coincidence that the often overblown rhetoric associated with high tech is reminiscent of the manifestos and slogans of the avant-garde artistic movements of the early twentieth century. High tech is, in fact, often pre- sented as a kind of avant-garde movement. (5)
+
+Moreover, the very fact that metaphors such as “state of the art” and “avant-garde” have been so commonly employed— and accepted—in describing high tech is evidence that an “aesthetic” di- mension has become part of the definition of contemporary technology. Technology has come increasingly to be seen as a matter of aesthetics or style, as an “aesthetic movement.” Given this “aesthetic” aspect, the con- cept of technology in high tech might well be thought of as a kind of high techne ̄ —analogous to, though certainly quite different from, the Greek notion of techne. (5)
+
+
+* Techne in Aristole's Ethics
+relation to models supplied by the technai – variously translatable as ‘crafts’, ‘skills’, ‘arts’ or ‘forms of expertise’. (1)
+
+From etymology and early usage, then, we can determine a property of techneˉ that will remain more or less constant: namely, that whoever practises a particular techneˉ possesses a determinate form of expertise. As Felix Heini- mann affi rms, ‘Each techneˉ is correlated with a quite determinate [bestim- mte] task and type of achievement’ (106). Or as Rudolf Löbl puts it, for every techneˉ ‘there is a telos, a goal, at which it aims . . . a kind of job [Werk] or action, that has to be realised’ (211). These references to particular ‘tasks’ or ‘goals’ should not be taken to preclude an individual techneˉ having as its proper concern a plurality of actions or products. After all, smithing (for one) encompasses a diverse set of these. Rather, the unique- ness of each techneˉ lies at the level of a particular range of tasks and aims: for example, geoˉrgia aims at the production of food, grammatikeˉ at both studying and teaching spelling and grammar, and mantikeˉ at predicting the future in various ways. It is in this sense, I take it, that ‘every techneˉ must have a quite determinate goal [Ziel], which distinguishes it from other technai’
+
+
+
+* Fitzpatrick
 
 And some of that has happened. The Open Library of the Humanities, notably, was founded by two humanities scholars who are working closely with the scholars who operate the journals under its umbrella.3 And, of course, MLA Commons is a platform developed by a scholar-governed society on which members are encouraged to develop and share new projects with the field in a wide variety of ways.
 
@@ -308,11 +334,6 @@ Copyright © 2009 The Regents of The University of California
 https://vimeo.com/102393586
 There was a lot of...there was work being done in research in public policy activities in the world of disability but basically it wasn't being strongly influenced by the voices of disabled people. So one of the prime purposes of the creation of the World Institute on Disability was to bring the voices and vision of disabled individuals into the public policy arena in the area of disability.
 
-
-
-
-
-
 * unhuman
 Why is the mind in the head? Because there, and only there, are hosts of possible connections to be formed as time and circumstance demand. Each new connection serves to set the stage for others yet to come and better fitted to adapt us to the world, for through the cortex pass the greatest inverse feedbacks whose function is the purposive life of the human intellect. The joy of creating ideals, new and eternal, in and of a world, old and temporal, robots have it not.
 McCulloch
@@ -329,4 +350,148 @@ Libraries are an important part of the infrastructure of the humanities, and in 
 * Woman on the Edge of Time
 
 Rocket ships, skyscrapers into the stratosphere, an underground mole world miles deep, glass domes over everything? She was reluctant to see this world. Voices far, near, laughter, birds, a lot of birds, somewhere a dog barked. Was that—yes, a rooster crowing at midday. That pried her eyes open. A rooster? Fearfully she stared into Luciente’s face, broken open in a grin of triumph. “Where are we?”
+
+
+
+
+
+
+
+* Builders and Sustainers of the Independent Living Movement in Berkeley : Volume IV
+# http://content.cdlib.org/view?docId=kt2779n58v&&doc.view=entire_text
+Pachovas
+It was amazing how simple pleasures, like a can of tuna, can really brighten up an otherwise dreary life. Now, Jerry Brown had gotten into the act and got the legislature to support his taking a bill, by hand, to Washington to lobby the president to try to pass the National Wild and Scenic Rivers Act. So he went off to Washington. Every day as we were getting colder, we were getting word that what we were doing was very successful and that we should stay put. So they were doing all this lobbying in the background.
+
+On the tenth day that we were up there, and it was cold--and then the worst thing that happened physically is that Kale punched a knife through a pie pan and stuck it into the air mattress that I was sitting in--depriving me of any way of not hurting when I sat on the ground. So we were trying to do lots of little funny patches, trying to keep the air in, but mostly having to repump this thing up many times a day. And I started developing a bit of a kidney infection because we just weren't drinking enough.
+
+
+Breslin
+Yes.
+
+
+Pachovas
+We couldn't have warm water and the cold water was just unpalatable on a really cold day, but nonetheless, we held out. It was sort of intrepid.
+
+― 287 ―
+Dan Ellsberg decided that he was going to do this big vigil in San Francisco for us and bring more light to bear on this whole situation. The one thing that we didn't anticipate because none of us was so-minded, was that it was the opening of duck season. We hadn't thought of that. [laughter] So it was legal for anybody who was mad about what we were doing to go riding around with a shotgun looking for us, which they did.
+
+
+Breslin
+Sitting ducks, as it were.
+
+
+Pachovas
+We were. It was amazing, because at one point, about on the ninth day, I remember waking up and hearing--and we got used to talking really quietly because your voice would just boom across the canyon. We'd hear this, "Quack, quack, quack--quack, quack, quack--quack, quack, quack." Now, the previous day people had ridden by in boats, calling us out by name, just wondering if we would respond. We just stayed hidden. Everybody was looking for us: the sheriff and the police. And, well, the idiots were looking on the wrong side of the dam. They were looking up river, on the river part of it, and we were down below where the dam was, so it was kind of this exercise in stupidity. But every once in a while surveillance planes and things would fly by and we'd cover everything up with the earth covered stuff and try to make ourselves as inconspicuous as possible and be still so no one could find us. There was this massive search to try to find us. As I said, the previous day, people had been trying to call us out, saying it was okay to come out, and when we peeked out we saw there were men in boats with guns, so we didn't want to do that.
+
+
+
+#+BEGIN_QUOTE
+I learned back then that it was not some benevolent church group that carved out those curb cuts, or a member of the town council trying to get votes who mandated accessible facilities, they were due to the deliberate actions and painstaking labor of members of the disability community who fought for the changes that were made. Their work set the stage for the ongoing struggle for rights and liberties that has engaged a nation of activists. Today, while discrimination remains a constant in disabled people's lives, the right to an accessible environment, to housing, employment, and transportation is governed by laws that are increasingly exerting influence on those who discriminate. Further, the idea of integration, in education, in public accommodations and in transportation, pervades the informed discourse on disability rights and is supported, again, by legislation that mandates desegregating society.
+#+END_QUOTE
+
+
+#+BEGIN_QUOTE
+Political action kept pace with the developing awareness and institutional growth. In the early seventies, the Berkeley group successfully lobbied the city of Berkeley for curb cuts and the state legislature for attendant care funding. In 1977, scores of persons with disabilities sat in for twenty-six days at the offices of the federal Department of Health, Education, and Welfare in San Francisco, as part of a nationwide protest that eventually forced implementation of Section 504 of the Rehabilitation Act of 1973, often called the Bill of Rights for Americans with Disabilities. Many participants trace their awareness of disability as a civil rights issue and their sense of membership in a disability community to the 1977 sit-in.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+It seems to always get kind of left out of the history, [laughter] so I'm going to just throw it in there because it was, I think, a very important part. People don't realize a lot of these great ideas came after two or three joints. [laughter] You know? I mean, I'll tell you, I can remember living up at Cowell Hospital and tooling all the way down, which then was a long ways, in a twelve-volt wheelchair, from the top of Cowell Hospital all the way down to Ward Street, which is where Ed Roberts lived, on Ward Street, and getting very, very stoned, drinking good wine, smoking very good marijuana, and thinking of great ideas about how we could change this, where we could put a curb cut, or what we could do next. That's kind of always left out.
+
+Johnson
+So let's talk some more about the wild things. Is it personally that might have been part of the way you were trying to make your existence normal as opposed to the way of being viewed by the rest of society?
+
+
+Chavez
+Well, I think it was, and I think it was also a way for the disabled people to get together and socialize. You know, because Cowell Hospital itself was very isolated. I mean, we were at the top of the mountain, literally. We were across from the football stadium, which is way up there. We couldn't just sort of casually say, "Well, let's go out for a beer." You know, I mean, if you were going to do something like go to Telegraph Avenue, that was an adventure. Yes, I mean, anything where you left the hospital was an adventure.
+
+Being also isolated at the hospital, you were kind of stuck there for a lot of hours; and kind of stuck in that kind of situation with ten, twelve other people, it's pretty natural that you're going to end up, you know, drinking or partying or whatever. I mean, you're not going to study all the time, and we didn't. I think partying was a big part of the socializing that went on. We would also have these big dinners, I remember, where we'd have this outside cook come in and cook for the students, and that was a real social part of it.
+
+There were some of the early experiences of poker games at the first CIL which was on Haste Street. I happened to be dating a woman that lived in the same building and so I would often go over and frequent these poker games, or we would have poker games at her house or parties or whatever.
+
+But partying was a very big part of that whole time; it wasn't just us as disabled students. I mean the early and mid-seventies period was just a very open kind of period--not just drugs and partying, but very open sexually, too--and so disabled people were really exploring those boundaries as well. I mean, a lot of relationships and things were going on in that way, and that was very eye-opening for me. I was always very much into the opposite sex, and there was a lot of dating between attendants and people they worked for, and vice versa with attendants and attendants and disabled people and disabled people, and it was a very active time.
+
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+I mean, this coliseum example, all this renovation is a great example because we're probably going to end up winning this lawsuit and then they're going to have to go back and spend all these millions more to change what if they had done it right the first time, if they had just followed the law, wouldn't have been that much of an issue and would have saved them a lot of money in the long run and made it better for everybody. Because that's the irony: everybody I've ever talked to that has dealt with specifically architectural barrier type situations find that it's better for the overall populace.
+
+I mean, all you have to do is look at curb cuts and see, okay, well, who utilizes curb cuts? People on bicycles, people on skateboards, mothers with babies in baby carriages, little old ladies and their shopping carts. I mean, everybody utilizes curb cuts. It's just something that makes sense. Most of the things
+#+END_QUOTE
+
+
+
+** curb cut story
+http://content.cdlib.org/view?docId=kt4c6003rh;NAAN=13030&doc.view=frames&chunk.id=d0e1280&toc.id=d0e1280
+-- 23 --
+[Eric] Dibner
+
+..
+
+And the same is true today. If you can't get in the front door, it doesn't work. When I looked for this house, for instance, when Om Devi and I moved here a couple of years ago,
+
+― 24 ―
+we had to find a place that was close enough to the ground it could be ramped.
+Hessler lived on a place on Haste Street right around the corner from where I work now which was a cottage behind a large older apartment building. It had one step at the door and one step at the porch and so I built a little wooden ramp for him to get up to the porch and then to get up into the apartment. I guess maybe we had done that in France, I'm trying to remember. I think maybe we had to build a little ramp in France, so that was one of my first experiences with ramps, right, and learning that if you're closer to the ground, you don't have to build so much of a ramp, like, duh! [laughs]
+
+
+Cowan
+I certainly have heard your name associated with ramps over and over again, Eric. There is this story that you were building curb cuts and ramps in Berkeley sort of unofficially. Is there a story behind that?
+
+
+Dibner
+Well, you didn't hear about the nitroglycerin where we were blowing up curbs and [laughter] and jackhammers in the middle of the night, where we'd go and we'd jackhammer up all these intersections and then the city would have to fix them.
+
+
+Cowan
+No, I didn't hear that story. Is that a true story? [laughs]
+
+
+Dibner
+No, neither of those are true stories, actually. [laughs] That was a little later when Ed asked for some ramps to be--there were some corners where he had problems going from his house to CIL, or maybe it was the Disabled Students' Program. So I got a bag of cement and went out. They were real low curbs, like a couple of inches, at Dana and Dwight, probably at Ellsworth and Dwight, and I think I did one at Ellsworth and Blake. It was just to bevel the corner. I mean, we didn't build curb ramps, we just put some cement down to make it useable.
+
+
+O. Dibner
+They were the first ramps.
+
+
+Dibner
+There were curb ramps in other places at that time.
+
+
+O. Dibner
+Oh, were there?
+
+
+Dibner
+Yes.
+
+
+Cowan
+I did read that the city rebuilt--this was in Hale's [Zukas] interview--that the city rebuilt Telegraph Avenue and did ramps.
+
+
+** accidental access
+http://content.cdlib.org/view?docId=kt4c6003rh;NAAN=13030&doc.view=frames&chunk.id=d0e1280&toc.id=d0e1280
+
+-- 25 --
+This was a design that happened earlier in the century and it wasn't for access as much as it was for pedestrians to not have to step down at the corner. The water goes underneath the corner in a cross culvert, and that allows the intersection to stay kind of flat. I think that feature also was something of a catalyst in making it possible to live in this area.
+
+In the seventies, also, there were a lot of ticky-tacky apartment buildings built with elevators. And even though the elevators might be kind of tiny and there's other problems with the buildings, they're flat. Some of them have steps and some of them don't have steps, but generally you roll in and you can get in to the elevator. It was a massive availability of housing. The bathrooms might not be accessible but at that time people I worked with were using commodes, just not going into the bathroom.
+
+
+** hacker shit
+Cowan
+Do you recall, in terms of living independently, any kinds of gadgets or things people put together to make it easier?
+
+
+Dibner
+Yes, these were memorialized in a booklet that Susan [O'Hara] provoked be put together which showed a bunch of assistive technology--primitive assistive technology, or what we would call low-tech, these days--in use. Mary Ann Hisermam and John Hessler are in that booklet. There's a product called pip which is a rubber lever handle on a door, so that's one kind of thing. Another is one is a string on the doorknob so you can pull the door closed behind you without backing your wheelchair against it. Other things are extension handles on keys and extensions on the turn latch on a lock--you can just tape a stick on it.
+
+Let's see--Scott had a long reacher stick. He had a dowel, Scott used a dowel to reach things. I think he also had one of those reachers that you squeeze and it grips. So some of these things were available in the medical industry already. But some of them were just adaptations that people made.
+
+The concept in adaptive devices and the assistive technology really is reach and ramp to me. A ramp is a bevel between two elevations. You're trying to get from point A to point B. And reach is bringing the object closer to you by extending it or changing its shape somehow so it's more manipulable. These are principals that carry through in the accessibility standards today.
+
+In order to reach something you need location--you might have to move it closer--and ease of operation--it has to turn easily. So you extend it to make it a lever, which gives you greater force and also brings it down closer to you.
+
+To me, the ramp is really symbolic, in a way, of how I see proceeding through the system. You're trying to get from point A to point B and you need to figure out how to lever your way--a ramp is a lever--and you need to figure out how to move objects that are blocking your path. So I use that analogy a lot in looking at how we're trying to do things. People aren't really trying to make a different world; they're just trying to build ramps.
 

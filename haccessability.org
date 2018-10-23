@@ -1,7 +1,8 @@
 :formatting:
-#+OPTIONS: toc:nil tasks:nil
+#+OPTIONS: toc:nil tasks:t
 # #+OPTIONS: html-style:nil 
 #+TITLE: Negotiated Access
+
 
 # When enabled, removes numbering of sections without removing ToC
 # ToC is not indented, however
@@ -13,6 +14,7 @@
 
 #+LATEX_CLASS: thesis
 
+
 #+LATEX: \frontmatter
 
 #+LATEX: \include{./includes/Title_page}
@@ -22,6 +24,8 @@
 #+LATEX: \include{./includes/Approval_page}
 #+LATEX: \include{./includes/Abstract}
 #+LATEX: \include{./includes/Acknowledgments}
+
+
 
 #+TOC: headlines 3
 # \listoftables
@@ -42,6 +46,9 @@ How she would celebrate her release! Her dingy two rooms with the toilet in the 
 Throughout the novel, Connie is, by turns, physically injured, insulted, and ignored at the hands of authority figures—social workers, mental ward attendants, doctors, and police. Yet perhaps most galling for her is the denial of autonomy over her immediate physical and social space, a betrayal not only of a connection to a wider community but also the immediate and necessary circumstances of life.
 
 We, like Connie, live at a crux, poised between two futures. Increasingly, in fits and starts, in pockets and at the margins, in think pieces, in books, and at the dinner table, we grow aware that some totalizing force, some presence or trend or trend of trends, works against humanity. Many have attempted to place their finger on this force, this process or entity. For Hardt and Negri, it was /Empire/. For Benjamin H. Bratton, it is /The Stack/. For Herbert Marcuse, it was the one-dimensional or technological society [[citep:marcuse_one-dimensional_2002][p. 50]]. For Neil Postman, it was /technopoly/. My own colleague at the Graduate Center, Erin Glass, has described it, in the context of the academy, as the /invisible discipline/. XXX Though those who attempt to identify and define it each have a different sense of its shape, its scale, and its ends, there is a general sense that it is technocratic and technological—that is, comprising within itself systems of both humans and machines. There is also a sense that it is impersonal and encompassing—international or global in scope. In this project, I'll call this thing—this presence or process or entity—the /unhuman/. In using negation to identify it, I invoke humanity, a concept both elevated and workaday and also acknowledge that I am incapable of precisely, or even imprecisely, defining it.
+
+# borg complex: https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/
+# add moloch
 
 In /Woman on the Edge of Time/, the other future—the one accessed not through Luciente but through a nameless, subjugated woman, is explicitly predicated on the ascendency of machine over person. This bleak future, in which technology is used by a few to force their will  on the many, has its root in a project in Connie's present, one in which implants are used to "reform" patients:
 
@@ -81,6 +88,47 @@ If the very concept of technology is now suspect—if tech is now a four-letter 
 In 1966, Lynn White, a historian at UCLA,  published an unusual book. /Medieval Technology and Social Change/ discussed a small set of frequently-overlooked innovations—the stirrup, the plow, the crank—arguing that they were largely responsible for the emergence of feudalism in the period. Though criticized, perhaps justly, as a lightweight adventure in technological determinism, the book's premise implied a lack of attention on the part of historians to technology associated with certain social strata—namely, those strata that did not possess the literacy or the cultural capital to pass on their own perspectives through histories and written records.
 
 When we think of "technology"—the concept or the word—we think of paradigms situated on the level of macro-scale entities and institutions—societies, nations, and corporations. This form of technology reaches, from on high, down into our lives. It offers us capabilities and connections, identity and convenience. It leverages iterative design, social science, and algorithm to nudge, rather than compel, recalcitrant humanity into engaging systems that control, flatten, and measure. We are grist in a highly abstract mill, our thoughts content, our relationships network effects, our differences market segments and our common humanity an exploited vulnerability. When we think of technology, we think of systems in which we are empowered only to the extent that we further render ourselves powerless.
+
+This narrow version of technology—Technology™—exerts a narrative pull. Lynn White's /Medieval Technology and Social Change/ was, and still is, notable in that it called attention to a technology of the immediate personal environment. The stirrup, the plow, and the crank, in transforming the relationship between people and their immediate environment—people and animals, people and land, people and things—precipitated extraordinary change in the wider society. Yet despite their broad implications, these hyperlocal changes tended to escape attention and analysis both contemporaneously and in hindsight. Similarly, highly local changes among people and their environments are not widely considered technology. To gather the narrative impetus or cultural cachet of /Technology™/, a knowledge of practice, a working, must meet arbitrary criteria—be conceived as a platform, be backed by venture capital, be in service of the few at the expense of the many.
+
+*************** TODO some Raymond Williams here?
+*************** END
+
+Is close reading not technology? Is a family recipe not an algorithm? Is a support group not a platform? Is a personal library not infrastructure? Certain forms of technology are glorified, even fetishized, while essential ways of knowing and doing are systematically undervalued. A technology, ultimately, is knowledge put into practice. Why do we hold up technologies of control, technologies of corporations, governments, and the powerful, while eliding, downplaying, disparaging, or ignoring the technology of individuals and localities, small groups and "little" disciplines?
+
+My purpose, here and in this project, is not to say that we need more craft and less technology, or to engage the usual, unfortunately now quotidian forms of antitechnological resistance—retreat and abstention or disruption and destruction. That story, it seems to me, is written, and the genie rarely reenters the bottle. Technology, too often, is as Dickens wrote, "[t]he power that forced itself upon its iron way--its own--defiant of all paths and roads, piercing through the heart of every obstacle, and dragging living creatures of all classes, ages, and degrees behind it" [[citep:dickens_dombey_1848][p. 311]]. Technology, like culture, is mimetic, heedlessly spreading, moving forward, from mind to mind. Just as culture cannot be fought with anti-culture, but must be fought with more culture, we cannot fight technology with anti-technology. We must decide, then, how to steal the Promethean fire with which to fight fire.
+
+If "technology" evokes application of knowledge in service of control and domination, what terms, what forms and models, are left to us? By rights, technology should be a broader, more encompassing term, yet it is difficult to rally around a more holistic vision of technology when an unhuman Technology™ strives always to take its place in discourse. 
+
+Greek philosophers used a term, /technē/, to describe an associative and conceptual space that is, in many ways, richer and broader than our own derived "technology." Tom Angier refers to the technai as "variously translatable as 'crafts', 'skills', 'arts' or 'forms of expertise'" [[citep:angier_techne_2012][p. 1]]. As with "technology," however, each of these terms has its own set of modern associations that make them inadequate as translations of /technē/. /Technē/ was most often used for knowing in service of a goal. It applied to professions such as medicine, teaching, and carpentry where knowledge and practice blurred in the service of a clear purpose.
+
+#+BEGIN_QUOTE
+From etymology and early usage, then, we can determine a property of /technē/ that will remain more or less constant: namely, that whoever practises a particular /technē/ possesses a determinate form of expertise. As Felix Heini- mann affirms, "Each /technē/ is correlated with a quite determinate [/bestimmte/] task and type of achievement’ (106). Or as Rudolf Löbl puts it, for every /technē/ ‘there is a telos, a goal, at which it aims . . . a kind of job [Werk] or action, that has to be realised’ (211). These references to particular ‘tasks’ or ‘goals’ should not be taken to preclude an individual /technē/ having as its proper concern a plurality of actions or products. After all, smithing (for one) encompasses a diverse set of these. ... It is in this sense, I take it, that ‘every /technē/ must have a quite determinate goal [/Ziel/], which distinguishes it from other technai’
+#+END_QUOTE
+
+
+
+
+, Taken individually, however, none of these terms approach 
+
+
+techne is application of knowledge serving as a means to an end, as in medicince
+
+
+
+
+
+
+
+
+
+
+
+*************** TODO introduce tekne
+*************** END
+
+fighting technology is like fighting culture
+doing so is kind of like outlawing crytocraphy
 
 
 
@@ -223,9 +271,9 @@ Now, moving forward, how do I manage today? ... Fortunately, I have my trusty lo
 #+END_QUOTE
 Yet the cane, and the myriad other rhetorical, physical, cognitive, and emotional strategies deployed by the disabled, are not cures. Their use and deployment is necessarily idiosyncratic, unique to specific disabled individuals and their affinity groups. Their use or presence also often visibly sets disabled individuals apart. Unlike the medical cure, which seeks to normalize pathology and efface difference, the myriad strategies deployed by disabled people to negotiate physical and cultural spaces are a source of difference. This difference is primarily one of perception--it goes both ways, consisting both of how disabled people are perceived by others and how they themselves perceive the world. XXX
 
-Yet while we know that the medical model often fails to address or encompass disabled experience, the social model, for all its importance and usefulness, also does not address a significant portion of disabled life. In raising a cane—or in lip reading, using a screen reader, or adapting a vehicle to a mobility impairment——the disabled individual asserts a kind of power that does not flow from their approval or status in the wider community. Simultaneously, they assert their own identity, both individually and as part of an affinity group. Drawing on their understanding of their own situation and their relationship with the lived environment, the disabled individual /negotiates/. That is, they negotiate their environment, reforging relationships among their own bodies and the physical world. They negotiate with others, learning to survive in social milieus often characterized by ignorance and hostility. They share, build, and teach amongst themselves, creating negotiables—knowledge, physical infrastructure, and social capital that are their own. These practices, universal and critical to survival but often invisible and unacknowledged, I describe in this project as "negotiated access."
+Yet while we know that the medical model often fails to address or encompass disabled experience, the social model, for all its importance and usefulness, also does not address a significant portion of disabled life. In raising a cane—or in lip reading, using a screen reader, or adapting a vehicle to a mobility impairment——the disabled individual asserts a kind of power that does not flow from their approval or status in the wider community. Simultaneously, they assert their own identity, both individually and as part of an affinity group. Drawing on their understanding of their own situation and their relationship with the lived environment, the disabled individual /negotiates/. That is, they negotiate their environment, reforging relationships among their own bodies and the physical world. They negotiate with others, learning to survive in social milieus often characterized by ignorance and hostility. They share, build, and teach amongst themselves, creating negotiables—knowledge, physical infrastructure, and social capital that are their own. These practices, universal and critical to survival but often invisible and unacknowledged, I describe in this chapter as "negotiated access."
 
-Models of disability combine a means of conceiving of or envisioning disability with a prescribed way forward—that is, a way of improving—or attempting to improve—the lives of disabled people. For the medical model, this prescribed way forward is the cure, an effacement of disability. For the social model, the way forward is social change in the wider society, including advocacy for and understanding of the lives of disabled people. This chapter will articulate and explore a third model of disability, the negotiated model, intended to augment the critical work already done under the aegis of the social model. Like existing models of disability, this model provides both a way to conceive of and situate disability and a way forward, a means of improving the lives of disabled people. 
+Models of disability combine a means of conceiving of or envisioning disability with a prescribed way forward—that is, a way of improving—or attempting to improve—the lives of disabled people. For the medical model, this prescribed way forward is the cure, an effacement of disability. For the social model, the way forward is social change in the wider society, including advocacy for and understanding of the lives of disabled people. This chapter will articulate and explore a third model of disability, the negotiated model, intended to augment the critical work already done under the aegis of the social model. Like existing models of disability, this model provides both a way to conceive of and situate disability and a way forward, a means of improving the lives of disabled people.
 
 This negotiated model is not a call for new types of work to be done to improve the lives of disabled people, because negotiated forms of access have been, and continue to be, practiced by people with disabilities in myriad forms. This model of access has, however, been underexamined in the context of disability studies and in the academy more widely. A goal of this project, therefore, is to focus attention on excellent work that is, and that arguably has always been, underway by practitioners in the wider disability community, and to provide a framework to better understand and contextualize this labor. Further, this project seeks to connect a theoretical understanding of negotiated access to related work in other domains. These connections include the digital humanities, with its emphasis on critical making and infrastructure, and utopian studies, which explores alternative relationships among bodies and their environments. Just as applications of the social model of disability have advanced discourses in a variety of disciplines, the negotiated model of disability can contribute to a wider understanding of affinity groups that develop practices, knowledges, and infrastructure that push back against complicit orthodoxy and normalizing forces.
 
@@ -236,11 +284,68 @@ Finally, it's essential to note that negotiated access is not an exceptional or 
 *************** TODO Point to section on intersectionality
 *************** END
 
+
 ** What is Negotiated Access?
 
 Negotiated Access is advocacy, knowledge creation,  and the building of infrastructure that begins within an affinity group and radiates outward. It's rooted in the lived experience of people with disabilities and its locus is the idiosyncratic capabilities, skills, and practices that enable people with disabilities to survive and (sometimes) flourish in an able and ableist society. Negotiated Access addresses aspects of the disabled experience that are marginal or underacknowledged within current paradigms, particularly methods that do not rely on, or defy, the approval or approbation of the wider society. In some cases, negotiation may require, or involve, passing—temporarily merging with the perception of the dominant able class to extract withheld support or necessary acknowledgement or concessions. At other times, negotiation involves practices that are considered asocial, resistant, or antisocial by the wider able community. Negotiation, therefore, tends to be at the periphery of the disabled experience, in the actions that are not easily narrativized or made legible by the community at large, but  which are a means of survival for individuals and their affinity groups.
 
-While negotiated access flows from the personal and the idiosyncratic in the lives of people with disabilities, as a practice and as a critical lens it is also a vector for political and cultural energy. As we will see, negotiated access throws light on disability as an identity and the relationships among disability affinity groups, the narrativization of disability in media, the rise of transhumanism and the pathologization of humanity, the articulation of values through infrastructure, the implications of proprietary and commercial ideologies on the body, and the imagination and implementation of crip utopias. Negotiated access, and related concepts such as haccessibility, suggest ways we can advance both on-the-ground advocacy in the disabled community and augment our understanding of disability through the lens of the social model. Closely examining the unidealized, day-to-day interactions among disabled people and society, however, also raises a host of theoretical questions, not just about disabled life but also about how society at large reflects, or fails to reflect, our values.
+Gene Bellinger, a theorist of systems, defines a model as a "simplification of reality intended to promote understanding" citep:bellinger_model_2004. The limitations that apply to all models—that the map, however useful an aid to understanding, cannot reflect the full territory—also apply to models of disability—perhaps especially so, given the myriad manifestations of disability and disabled identity. Indeed, one practitioner's social model—or medical model, individual model, charity model, administrative model—may, and quite frequently does, differ in application and interpretation when invoked by another. Mike Oliver, said to have coined the term "social model," has gone to lengths to frame it as a "practical tool, not a theory, an idea or a concept" [[citep:oliver_social_2004][p. 19]]. Oliver contends that too much effort has gone into debating the applicability of paradigms and models to the phenomenon of disability and not enough effort into actually bringing about change: "If we imagine that throughout human history the carpenters and builders of the world had spent their time talking about whether the hammer was an adequate tool for the purpose of building houses, we would still be living in caves" [[citep:oliver_social_2004][p. 20]]. Here, Oliver is—pun intended—blunt with his analysis, and in my opinion there is clear value in theorizing disability in all its complexity. Ultimately, however, my interest in models, including a negotiated model, comes from my own individual experiences with disability and my participation in, and regard for, communities of individuals who view disability as part of their identity. In speaking of a negotiated model, I have little interest in imposing specific narratives on the complexity that is disability, but every interest in understanding specific aspects of the disabled experience. Like any model of disability, or indeed any model, thinking of disability in terms of negotiation is intended to be useful, but not totalizing or proscriptive.
+
+While negotiated access flows from the personal and the idiosyncratic in the lives of people with disabilities, as a practice and as a critical lens it is also a vector for political and cultural energy. As we will see in later chapters, negotiated access throws light on disability as an identity and the relationships among disability affinity groups, the narrativization of disability in media, the rise of transhumanism and the pathologization of humanity, the articulation of values through infrastructure, the implications of proprietary and commercial ideologies on the body, and the imagination and implementation of crip utopias. Negotiated access, and related concepts such as haccessibility, suggest ways we can advance both on-the-ground advocacy in the disabled community and augment our understanding of disability through the lens of the social model. Closely examining the unidealized, day-to-day interactions among disabled people and society, however, also raises a host of theoretical questions, not only about disabled life but also about how society at large reflects, or fails to reflect, our values.
+
+
+
+** Jaywalking Past Obstacles
+
+Meagan H. Houle, a communications specialist and disability rights blogger, uses a metaphor—waiting on the curb for a ride—to describe her experience of being blocked by society's neglect of essential accommodations:
+
+#+BEGIN_QUOTE
+Being disabled, I realized, is a lot of standing on the corner, waiting for the world to decide that it’s safe for you to cross. My life as a disabled person involves a lot of standing still, watching cars fly freely by, wondering when the light will turn green long enough for me to make some headway. Since the system is more complicated than I can wrap my head around, and there’s no handy countdown, I have no clear idea when that might happen. So I wait, getting increasingly cold and impatient, for a path forward. Some days, it feels as though the world is filled with cars, and I am the only pedestrian in sight. They are roaring along while I walk and wait, walk and wait. citep:houle_wait!_2018
+#+END_QUOTE
+Houle's experience of living with a disability is not a consistent one—in her metaphor, she contrasts her waiting with stretches of progress long enough to cause her to forget her own time spent blocked by a lack of accommodation: "Barriers are overcome, and my journey picks up speed. ... The reprieve might even be long enough for me to point at other unlucky foot travelers, and to wonder loudly what they’ve done–or left undone—to leave themselves stranded at the corner" citep:houle_wait!_2018. However, at points in this metaphorical journey when she is blocked for too long to bear, when the contrast between her lack of progress and others' ease of travel becomes too great, Houle describes another way forward:
+
+#+BEGIN_QUOTE
+Then, when the waiting becomes too much for me, I try to jaywalk. I barge right into the unsafe spaces, the heavy traffic, the uncharted territory. I might get a warning or a slap on the wrist or even an angry honk from someone’s horn; occasionally, I retreat to my corner, chastened. I am foolish and fragile. I must be protected from myself citep:houle_wait!_2018
+#+END_QUOTE
+Houle's comparison to jaywalking, part of a larger metaphor that grapples with the subjective experience of living with disability, describes an almost involuntary reaction to suppression, a reaction born of anger and frustration. This reaction, I will argue, is not only understandable—facing injustice by ignoring or circumventing constraints imposed by commercial interests, majoritarian apathy, or social propriety can help bring about lasting change. My own feelings echo Houle's benediction to the coming generation, that "when the time comes to jaywalk, to break the rules and challenge the status quo, they will have the courage to do it, and the good fortune to emerge triumphant" citep:houle_wait!_2018.
+
+#+CAPTION: Painting by Patrick William Connally, president of DREES (Disability Rights Enforcement and friend of Ed Roberts during the Independent Living Movement. The painting depicts the first curb cut near Wheelchairs of Berkeley.
+#+NAME: curb_cut_painting.png
+#+ATTR_HTML: :alt A somewhat chaotic painting of a smiling individual being pushed in a wheelchair. A curb cut is visible in the foreground, but placed up the block and not on the corner.
+[[./images/curb_cut_painting.png]]
+# Taken from http://revolution.berkeley.edu/first-curb-ramps/
+
+Houle's metaphor—waiting on a corner for change, jaywalking past obstacles—is particularly fitting in light of a history of civil disobedience by disability rights activists, many of whom, in the 60s and 70s, were explicitly concerned with the inaccessibility of streets and street corners. Once incident—the quiet reshaping at night of particular street corners to make them accessible by wheelchair—has been mythologized in the retelling:
+
+#+BEGIN_QUOTE
+# Dibner
+
+# ... so that was one of my first experiences with ramps, right, and learning that if you're closer to the ground, you don't have to build so much of a ramp, like, duh! [laughs]
+
+
+Cowan
+
+I certainly have heard your name associated with ramps over and over again, Eric. There is this story that you were building curb cuts and ramps in Berkeley sort of unofficially. Is there a story behind that?
+
+
+Dibner
+
+Well, you didn't hear about the nitroglycerin where we were blowing up curbs and [laughter] and jackhammers in the middle of the night, where we'd go and we'd jackhammer up all these intersections and then the city would have to fix them.
+
+
+Cowan
+
+No, I didn't hear that story. Is that a true story? [laughs]
+
+
+Dibner
+
+No, neither of those are true stories, actually. [laughs] That was a little later when Ed [Roberts] asked for some ramps to be--there were some corners where he had problems going from his house to CIL, or maybe it was the Disabled Students' Program. So I got a bag of cement and went out. They were real low curbs, like a couple of inches, at Dana and Dwight, probably at Ellsworth and Dwight, and I think I did one at Ellsworth and Blake. It was just to bevel the corner. I mean, we didn't build curb ramps, we just put some cement down to make it useable. [[citep:bancroft_library_regional_oral_office_builders_2000][p. 24]]
+#+END_QUOTE
+Though only a small part of the history of activism and advocacy that swirled around Berkeley's Center for Independent Living (CIL) in the 60s and 70s, Eric Dibner's intervention, though only with a bag of cement and not bombs and jackhammers, was crucial in the moment. Most significant for the time, beveling these corners allowed individuals like Ed Roberts to move more freely around the city, a change that is no less important for being highly localized. But, as the mythology around this incident shows, interventions 
+
+
+
 
 ** Hacking Accessibility
 
