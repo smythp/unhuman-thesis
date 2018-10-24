@@ -229,6 +229,7 @@ Mattapoisett
 # introduce using percey's woman at the edge of time?
 
 :notes:
+
 We must make for ourselves, or be made upon.
 
 This is the foundational argument of this project, a project grounded in disability studies and traveling outward. 
@@ -372,7 +373,9 @@ Hackers, in this early use of the word, were those who worked on a problem—oft
 
 *************** TODO How did the term "hacker" come to mean criminal?
 *************** END
-     
+
+Much ink has been spilled over the relative legitimacy of various definitions of the word "hacker," particularly whether the term should be applied to criminals who gain unauthorized access to computers or curious and playful tecnophiles. In comparing elements of hacker culture to the concerns and practices of the disabled community, however, I will treat each of these interpretations of the term as legitimate. Therefore, the term "haccessibility" as it is used in this project draws on both the tradition of the hacker as playful, deeply skilled amateur and hacker as a specialist in gaining or preventing unauthorized access to systems.
+
 ** Shared Concerns
 
 Both hackers and people with disabilities are, fundamentally, concerned with the problem of access. Old-school hackers—the Stallmanss, Drapers, and Wozniaks of the world—care about access because they have a primal need to dig into the core of a machine, system, or program. Without the access granted through informal peer groups or initiatives such as the free and open source software movement, the kind of exploratory work with which these first hackers are associated becomes impossible. Hackers of the other stripe, those appearing in news stories about state actors and data breaches, are also concerned with (frequently unauthorized) access. By definition, these hackers are outsiders seeking entrance to systems from which they have been excluded.
@@ -400,21 +403,26 @@ To put it another way, haccessibility is about creating infrastructure—for one
 
 Joshua Miele, a blind scientist and designer at the Smith-Kettlewell Eye Research Institute, has articulated this recursive property in discussions of making a meta-maker movement. In these presentations, Miele describes meta-making as creating tools for creating tools. The projects Miele himself has initiated, such as Blind Arduino, perfectly embody this meta-making ethos. Arduino is a low-cost, open source electronics platform used for prototyping devices. As the project description observes, "while blind people could independently develop projects using Arduino, many of the important accessibility steps were undocumented and unknown" (Smith-Kettlewell, 2015). The project, which included a workshop series and continues as a blog, provides essential knowledge for working eyes-free with Arduino. As the project brings blind and low vision individuals in from the cold, they, in turn, are likely to contribute to a growing ecosystem of hackers and developers. Similar projects, such as the Raspberry VI—short for Visually Impaired—mailing list, centered on the popular Raspberry Pi series of single-board (read, small) computers, have enabled communities of knowledge creation to form around technologies that that are flexible and low-cost.
 
-Haccessible infrastructure is, or should be, low cost. Disability is expensive. In developed countries, limb prosthetics, though they vary widely in cost, generally are priced in line with a car and must be replaced every few years—three years on average, but as low as a few months in some cases. Hearing aids, in 2018, cost between $1,500 and $3,000 for a single ear, about the cost of two month's rent for the average American household (Freuler, 2015). Screen readers, an essential piece of software for the blind, can also cost a great deal. The JAWS screen reader, by some measures still the most popular, costs $895 in 2018, or $1095 for the professional version. A refreshable Braille display can range in cost from around $3,500 to around $15,000.
+Haccessible infrastructure is, or should be, low cost. Disability is expensive. In developed countries, limb prosthetics, though they vary widely in cost, generally are priced in line with a car and must be replaced every few years—three years on average, but as low as a few months in some cases. Hearing aids, in 2018, cost between $1,500 and $3,000 for a single ear, about the cost of two month's rent for the average American household (Freuler, 2015). Screen readers, an essential piece of software for the blind, can also cost a great deal. The JAWS screen reader, by some measures still the most popular, costs $895 in 2018, or $1095 for the professional version. A refreshable Braille display, necessary for using Braille in conjunction with a computer, can range in cost from around $3,500 to around $15,000. The high costs for these and countless other forms of infrastructure for people with disabilities mean that these technologies do not generally respect the autonomy of their users. Because they are based on proprietary—secret and legally protected—technology, they are generally not easy to repair and cannot be modified by the user. In addition, their high cost means that an external contributor—a family, a neighborhood, a school, or a government—must frequently step in to pay the cost. While such costs are often gladly shared, such reliance can provoke feelings of guilt and can be a blow to independence for people with disabilities. Arguably the worst outcome of these high costs is their reinforcement of other forms of inequality, particularly class based, racial, and geographic inequality. For example, while many children in the Global North can take advantage of programs to subsidize prosthetic limbs—though non-veteran adults frequently cannot—limb prosthesis in the Global South is almost universally nonexistent or in affordable. According to the World Health Organization, 80% of those with a physical disability live in countries classified as low-income, and of that 80%, fewer than 2% have access to rehabilitative services (Ritter, 2015, p. 66).
+
+A number of communities have begun to coalesce around the creation and modification of low-cost alternatives to proprietary technologies for people with disabilities. Many of these communities are small and, as will be discussed in Chapter 3, suffer from issues of algorithmic effacement—that is, interested individuals frequently cannot discover such communities through online means due to the inherent majoritarianism of search and social platforms. Online communities of people with specific concerns related to disability often resemble the early internet of the 90s or the modern dark web, operating primarily through vectors such as word of mouth, a loose federation of links, and serendipity.
+
+Hearing Hacks (hearinghacks.com), a self-described "community of hearing aid users, hackers, #audpeeps, audiologists and hearingcare innovators who care about improving life with hearing loss," is one such group. The community was founded by an individual with moderately severe hearing loss who, in 2014, was inspired by the experience of helping a startup develop a smartphone-based hearing test and hearing amplifier, realizing that, in his own words, "change is possible even if it seems too hard. And that it’s easier with a group" (Trombetta, 2015). The group is organized around a blog and occasional small conferences and meetups. "Hacks," as envisioned by the group, are not necessarily technical, but can equally be social or even philosophical. The group includes both technical and non-technical contributors. A recap of one recent meetup involved a session brainstorming ideas for more effective communication with friends, family, and colleagues, including plans to draft a script to explain hearing loss to others and a filter for TripAdvisor to find quiet venues in an area. Groups such as Hearing Hacks represent both the fragility and resilience of small communities of people with disabilities online. Communities like Hearing Hacks have, in recent years, been instrumental in galvanizing support for low-cost and modifiable alternatives to expensive proprietary hearing aids, and work toward open source software, such as Leibnitz University's Cape4all, and commoditized hardware, based on inexpensive microcomputers such as the BeagleBoard, is encouraging.
+
+In the blind community, one low cost, modifiable, and community-oriented revolution has already taken place. For many years, blind computer users were faced with a dilemma: pay an extremely high, and to stay up-to-date recurring, price for the JAWS screen reader, or not use a computer at all. Frequently, the cost of even the initial license for JAWS would be more than the cost of the computer itself. Though JAWS allowed many blind and low vision people to work with computers, this high cost shut many out and was a significant burden even on those able to afford it. In 2007, two blind programmers, Michael Curran and James Teh, set out to create a screen reader that would be open source and free of charge. This was a monumental undertaking—screen readers are an esoteric technology, and unlike operating systems, compilers, or other significant forms of software infrastructure, there are no books or university courses for learning how to create one. According to Curran, speaking of the creators of other, proprietary screen readers, “'[w]hatever they created couldn’t be leveraged because we couldn’t see their code, so we had to pretty much invent everything ourselves.,... That really depended on trial and error.'" (Preusler 2017).
+
+By: Christine 
 
 
 
+
+
+
+# Such groups can appear and disappear quickly, and it already seems that Hearing Hacks most active period might remain 2015-2016. With that said, the importance of such communities to their participants and their niche nature mean that ecosystems of small communities of disabled practice online have survived in some form while larger communities that once thrived on the open web have been absorbed or destroyed by Facebook and Google. 
 
 
 # unencumbered by legal or technical limitations
 # should be resilient / work anywhere
-
-
-
- Smith-Kettlewell has a long-standing history of supporting the needs of blind STEM students, electronics enthusiasts, and technical professionals, and it fit perfectly into our mission and expertise.
-
-
-
 
 
 # #+BEGIN_QUOTE
@@ -423,10 +431,7 @@ Haccessible infrastructure is, or should be, low cost. Disability is expensive. 
 
 # -----moved-----
 
-Much ink has been spilled over the relative legitimacy of various definitions of the word "hacker," particularly whether the term should be applied to criminals who gain unauthorized access to computers or curious and playful tecnophiles. In comparing elements of hacker culture to the concerns and practices of the disabled community, however, I will treat each of these interpretations of the term as legitimate. Therefore, the term "haccessibility" as it is used in this project draws on both the tradition of the hacker as playful, deeply skilled amateur and hacker as a specialist in gaining or preventing unauthorized access to systems.
-
-
-People with disabilities, especially those in certain affinity groups, often gravitate toward playful, clever, or community-minded resolutions to daily struggles, casting them in a role similar to the "original" hacker. At the same time, the need to surmount obstacles presented by lack of accessibility just as often casts people with disabilities in the role of the hacker as outsider, criminal, and suspect.
+# People with disabilities, especially those in certain affinity groups, often gravitate toward playful, clever, or community-minded resolutions to daily struggles, casting them in a role similar to the "original" hacker. At the same time, the need to surmount obstacles presented by lack of accessibility just as often casts people with disabilities in the role of the hacker as outsider, criminal, and suspect.
 
 
 
@@ -473,14 +478,16 @@ While disabled gamers continue to pursue advocacy efforts, they have also engage
 
 leg prosthesis that didn't look like a leg
 
-** Independence and Disabled Identity
-the importance of people doing things for themselves
+# leftovers
+# ** Independence and Disabled Identity
+# the importance of people doing things for themselves
 
-teach a man to fish
+# teach a man to fish
 
-this is more about the big picture
+# this is more about the big picture
 
-if step one is hacking for yourself, step two is facilitating people in their hacking through openness, then the third step is creating a sustainable COMMUNITY based on specific affinity groups,
+# if step one is hacking for yourself, step two is facilitating people in their hacking through openness, then the third step is creating a sustainable COMMUNITY based on specific affinity groups,
+
 
 
 
