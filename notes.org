@@ -69,6 +69,83 @@ One possible arena for playful cleverness is breaking security. Hackers never ha
 Peter Samson and his friends had grown up with a specific relationship to the world, wherein things had meaning only if you found out how they worked. And how would you go about that if not by getting your hands on them?
 
 ** kurzweil
+
+*** The disability rights movement: From charity to confrontation
+ (hacessibility in a lab)
+---155---
+
+Accessible Classrooms and
+Laboratories
+Exhibiting a resourcefulness reminiscent of
+Hotchkiss's ingenuity, mechanical engineer
+Ira Cochin of the New Jersey Institute of
+Technology and biologist Ben Van Wagner
+of Fresno Pacific College created innova-
+tive classrooms and laboratories. 26 In I977
+Cochin, who was blind and later became
+deaf, devised instruments-in what he called
+the Macrolab-so that people with sen-
+sory and speech impairments could be inte-
+grated with nondisabled people in schools
+and industry. For example, Cochin con-
+nected an oscilloscope to a microphone so
+that deaf (as well as hearing) students lit-
+erally could see how frequencies changed
+by viewing sound waves on a screen. With
+Cochin's instruments, blind people-by in-
+terpreting sound-were able to determine
+the chemical constituents of a product, us-
+ing a modified spectrometer, and to accu-
+rately measure weights up to a milligram,
+using a precision balance scale. Referring to
+
+
+---156---
+
+the "designing" of an early speech synthe-
+sizer at the lab, William Skawinski, blind
+chemist at the New Jersey Institute of Tech-
+nology who directed the Macrolab, indi-
+cated that the key to the program was that
+the students served were involved in the
+development of all of these instruments.
+After his own careful research and much
+medical consultation, Ben Van Wagner cre-
+ated an environment that no longer precip-
+itated "sick-building syndrome." Van Wag-
+ner, a professor of science education, de-
+scribes how he felt when he was diagnosed
+with multiple chemical sensitivity: "The tox-
+ins of the synthetic I990S had finally weak-
+ened my immune system," Van Wagner ob-
+serves, for "I was suffering from extreme
+fatigue, lightheadedness, and arthritis so
+bad that I could barely walk." Van Wagner
+feared that since he had become allergic to
+formaldehyde, he might not be able to go
+on teaching.
+Still undaunted, Van Wagner persisted in
+his probing and ultimately discovered the
+solutions that he was seeking:
+I have adapted my zoology courses so as to use
+alternative dissection materials from the local
+fish market, non-formaldehyde substitute
+specimens and computer technology ....
+My college has ... allowed me to establish
+a new "toxin-free" classroom outside of the
+official science building and has provided me
+with an excellent office with a window that
+opens, which frees me from my ... air-tight
+office .... As I continue to research the issue
+of Environmental Illness, it is apparent that
+it is a significant problem for many students
+and adults.
+People with disabilities, including those
+with sensory and speech impairments and
+multiple chemical sensitivity, can be suc-
+cessful students and employees when they
+are afforded appropriate, reasonable accom-
+modations.
 *** spiritual machines
 It is the applications of the technology benefiting disabled people that have brought me the greatest gratification. There is a fortuitous match between the capabilities of contemporary computers and the needs of a disabled person. We're not creating cybernetic geniuses today—not yet. The intelligence of our present-day intelligent computers is narrow, which can provide effective solutions for the narrow deficits of most disabled persons. The restricted intelligence of the machine works effectively with the broad and flexible intelligence of the disabled person. Overcoming the handicaps associated with disabilities using AI technologies has long been a personal goal of mine. With regard to the major physical and sensory disabilities, I believe that in a couple of decades we will come to herald the effective end of handicaps. As amplifiers of human thought, computers have great potential to assist human expression and to expand creativity for all of us. I hope to continue playing a role in harnessing this potential. (Kurzweil 128)
 
@@ -358,7 +435,7 @@ Rocket ships, skyscrapers into the stratosphere, an underground mole world miles
 
 
 * Builders and Sustainers of the Independent Living Movement in Berkeley : Volume IV
-# http://content.cdlib.org/view?docId=kt2779n58v&&doc.view=entire_text
+# http://content~u.cdlib.org/view?docId=kt2779n58v&&doc.view=entire_text
 Pachovas
 It was amazing how simple pleasures, like a can of tuna, can really brighten up an otherwise dreary life. Now, Jerry Brown had gotten into the act and got the legislature to support his taking a bill, by hand, to Washington to lobby the president to try to pass the National Wild and Scenic Rivers Act. So he went off to Washington. Every day as we were getting colder, we were getting word that what we were doing was very successful and that we should stay put. So they were doing all this lobbying in the background.
 
@@ -495,3 +572,9 @@ In order to reach something you need location--you might have to move it closer-
 
 To me, the ramp is really symbolic, in a way, of how I see proceeding through the system. You're trying to get from point A to point B and you need to figure out how to lever your way--a ramp is a lever--and you need to figure out how to move objects that are blocking your path. So I use that analogy a lot in looking at how we're trying to do things. People aren't really trying to make a different world; they're just trying to build ramps.
 
+
+
+
+# hardcore disabled
+# old article
+https://www.washingtonpost.com/archive/opinions/1981/06/07/stop-caring-for-the-disabled/2ea92fe5-8b02-4e32-a5a2-077b87da782d/?noredirect=on&utm_term=.b7663808db19
