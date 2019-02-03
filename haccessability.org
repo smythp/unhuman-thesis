@@ -454,7 +454,6 @@ In the blind community, one low cost, modifiable, and community-oriented revolut
 
 # #+LATEX: \pagebreak
 
-
 ** Hacking As Advocacy
 
 If accessibility bridges the space between an individual and a normative goal, hacking bridges the space between an individual and a non-normative goal. That is, questions of accessibility typically apply when thinking about sanctioned actions, modes of engagement that are allowed by society. If the creators of a website wish it to be widely available to the public, then it is a failure of accessibility if that website cannot be accessed by an particular individual. If an individual wishes to read a digital book they have purchased from Amazon on a non-sanctioned device, however, that is not typically considered a question of accessibility. Instead, the space between the desire to read the book, perhaps even to share or archive it, and the reality of doing so becomes a question of hacking.
@@ -496,14 +495,45 @@ leg prosthesis that didn't look like a leg
 # if step one is hacking for yourself, step two is facilitating people in their hacking through openness, then the third step is creating a sustainable COMMUNITY based on specific affinity groups,
 
 * Autobiography
+
+** Long Threads and Short Threads
+
+In the previous chapter, we situated negotiated access at meso level or person scale—that is, somewhere between a decontextualized self and a distant, universalized, or wide-angle view of society. Autobiography, as a form, traditionally draws a line between these points: the particular and the universal, the self and the society, the body and the body politic. In /Reading Autobiography/, Sidonie Smith and Julia Watson place the emergence of autobiography in the 18th century and a preoccupation with the universal and metaphysical as manifest in the self:
+
+#+BEGIN_QUOTE
+Autobiography, now the most commonly used term for life writing, thus describes writing being produced at a particular historical juncture, the period prior to the Enlightenment in the West. Central to that movement was the concept of the self-interested individual of property who was intent on assessing the status of the soul or the meaning of public achievement. By the eighteenth century, notions of self-interest, self-consciousness, and self-knowledge informed the figure of the “Enlightened individual” described by philosophers and social and political theorists. citep:smith_reading_2002
+#+END_QUOTE
+
+For Smith and Watson, autobiography "privileges the autonomous individual and the universalizing life story as the definitive achievement of life writing" citep:smith_reading_2002. This formal preoccupation of autobiography with seeking out the universal within a life makes it a fraught site for depiction of lives experienced outside a universal norm. In /Negotiated Memory/, Julie Rak wrestles with this question, observing how non-Western epistemologies that emphasize connections among individuals and a communal spirituality cannot readily be mapped onto the Western autobiographical tradition: "It is hard for people raised in liberal traditions that assume that all people are unique and should exist as individuals, or who believe implicitly that spiritual matters are separate from material ones, to imagine this other set of ideas about what the production of knowledge and personhood itself can mean" [[citep:rak_negotiated_2005][p. 1]]. The generic form of the autobiography exerts a gravitational pull away from consideration of the local environment and toward the relationship of the self, and especially personality and morality, to the universal.
+
+Post-colonial, feminist, and Marxist critics have rightfully regarded the autobiography with suspicion given the history and limitations of the genre, including the privileging of voices and perspectives that can be easily universalized and the distortion of those that cannot. Despite the unsuitability of the form to convey the stories of the minoritarian, the disenfranchised, or the simply different, those with perspectives resistant to imposition of a universal narrative still attempt to communicate their experiences through the form. Rak, with empathy and pragmatism, touches on why this might be the case:
+
+#+BEGIN_QUOTE
+Whether autobiography critics want to admit it or not, the “traditional” discourse of autobiography still carries much cultural capital in the West. People who have historically been unable to secure representation inside of the Welds that guarantee authenticity and legitimacy in Western discourse are often very much aware of the power of autobiographical dis- course when they choose to enter it. This makes it important to under- stand why people who do not enjoy the automatic assumptions of the representability of their lives in texts use the forms that may seem to exclude them. [[citep:rak_negotiated_2005][p. 2]]
+#+END_QUOTE
+
+The stories of people with disabilities are not always well served by autobiography as a form. The pressure to universalize and moralize too often leads to predictible, if understandable, distortions and tropes—overindulging the outside or society view, for example. Many autobiographies of people with disabilities are further troubled by questions of authorship or influence, placing them somewhere between an autobiography and a family biography—in this chapter, I refer to such works as "auto-ish biographies." This chapter will attempt to read instances of disability autobiography not only for examples and instances of negotiation within the text, but also as sites of negotiation  in and of themselves. In these cases, an autobiography is not only a way of conveying a freestanding experience of disability, but in itself is an artifact of negotiation, one that, by its existence, allows the disabled individual to reconsider their relationship to those around them and to society. Autobiographies of disability, though troubled by the limitations of the genre, nonetheless can use the recursive or self-referential nature of autobiography to transcend the form and speak directly to the experience of life with a disability.
+
+# quotes about life writing
+:notes:
+
+
+#+BEGIN_QUOTE
+Autobiography, as we have seen, became the term for a particular generic practice that emerged in the Enlightenment and subsequently became definitive for life writing in the West. It remains the widely used and most (p.3) generally understood term. But because the term privileges the autonomous individual and the universalizing life story as the definitive achievement of life writing, it has been vigorously challenged in the wake of postmodern and postcolonial critiques of the Enlightenment subject. Early twentieth-century theorists installed this master narrative of “the sovereign self” as an institution of literature and culture, and identified a canon of representative self life writings. Implicit in this canonization, however, is the assumption that many other kinds of life writings produced at the same time have lesser value and were not “true” autobiography—the slave narrative, narratives of women’s domestic lives, coming-of-age and travel narratives, among others.
+
+Thus, many postmodern and postcolonial theorists contend that the term autobiography is inadequate to describe the extensive historical range and the diverse genres and practices of life writing not only in the West but around the globe. Indeed, these critics contend, the concept of autobiography, celebrated by an earlier generation of scholars such as Georges Gusdorf and Karl Joachim Weintraub as the highest achievement of individuality in western civilization, has been defined against many coexistent forms of life writing. Thus, its politics is one of exclusion. Other critics, among them Julie Rak and Leigh Gilmore, address this troubling, exclusionary aspect of autobiography by shifting the term of reference to autobiographical discourse, that is, to discursive formations of truth-telling “sustained by the trappings of identification that have underwritten what the self is and how it has been seen in much of the Western World” (Rak, Negotiated Memory ix). This shift from genre to discourse opens to the scenes of autobiographical inscription beyond the printed life story. It also attends to the aspects of power inherent in acts of autobiographical inscription and recognizes that those whose identities, experiences, and histories remain marginal, invalidated, invisible, and partial negotiate and alter normative or traditional frames of identity in their differences (Rak, Negotiated ix). citep:smith_reading_2002
+#+END_QUOTE
+
+:end:
+
+
+
+
+# might get rid of
+
 In the previous chapter, I introduced a concept, negotiation, as an attempt to focus analysis on particular aspects of the disabled experience. Rather than take a wide-angle view—focusing on society and the broader culture—or a microscopic examination of the body, we have turned our attention to the immediate environment. In particular, we focus on points of interaction at which the individual, or the small community, encounters their local physical and social surroundings. These points can be physical, such as specific material objects or locations. They can be interpersonal, such as advocates, allies, or mentors. They can also be knowledge-based, consisting of approaches, insights, and outlooks.
 
 Negotiations, as I examine them here, resist abstraction. That is, they are not easily universalized, and an insight or approach critical for the survival of one individual or community may be of little use, or actively harmful, to another. While the last chapter, in introducing concepts like negotiation and haccessibility, took a more general approach, in the following pages I draw on firsthand accounts of diverse experiences of disability. My hope here is to show that negotiation provides a productive lens for exploring subjective experiences of disability. Ultimately, too, I wish to show that a focus on the meso-level can also shed light on questions of society's stance toward disability and how we can better advocate  to address idiosyncratic or non-universal needs.
-
-
-
-
-
 
 ** disability memoir
 ** locus of control
