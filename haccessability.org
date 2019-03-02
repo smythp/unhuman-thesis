@@ -496,23 +496,93 @@ leg prosthesis that didn't look like a leg
 
 * Autobiography
 
-** Long Threads and Short Threads
 
-In the previous chapter, we situated negotiated access at meso level or person scale—that is, somewhere between a decontextualized self and a distant, universalized, or wide-angle view of society. Autobiography, as a form, traditionally draws a line between these points: the particular and the universal, the self and the society, the body and the body politic. In /Reading Autobiography/, Sidonie Smith and Julia Watson place the emergence of autobiography in the 18th century and a preoccupation with the universal and metaphysical as manifest in the self:
+** Ghosts and Levers
+
+In the previous chapter, I used the word "autonomy" to describe certain arrangements among people and things, or among people and people. The term, at least in the context of a community of hackers or a Center for Independent Living,  has positive connotations, evoking associated concepts such as freedom, dignity, and self-actualization. But what does it mean to be autonomous—or, for that matter, independent— in this sense? Upon cursory reflection, it seems obvious that we are all enmeshed in a complex web of relationships, that our lives are contingent on forces and processes beyond our direct control, and that we are all dependent on others to some greater or lesser extent. Yet terms such as autonomy, used to describe the nature, kind, and quality of subjective actions and connections, have weight. This chapter, concerned primarily with subjective experiences of disability as explored through autobiography, is concerned with accounts of day-to-day experiences in the lives of people with disabilities, and in particular the interactions between the individual and the immediate physical and social environment. But on what basis do we evaluate these relationships? Are independence and autonomy chimeras, products only of a refusal to acknowledge one's presence in an interconnected web of people and things? If the concept is, in fact, useful, should it be applied as a subjective evaluation, or can we fit it into a broader theory of a world full of people and things, or narratives and experiences?
+
+Martin Heidegger, in /Being and Time/, provides a framework for conceiving of the relationship between the subjective self and the immediate physical environment. In a well-known example, that of the hammer, Heidegger contends that entities in the world have a property, handiness, that is revealed through their use:
+
+#+BEGIN_QUOTE
+Hammering does not just have a knowledge of the useful character of the hammer; rather, it has appropriated this utensil in the most adequate way possible. ... [T]he less we just stare at the thing called hammer, the more we take hold of it and use it, the more original our relation to it becomes and the more undisguisedly it is encountered as what it is, as a useful thing. The act of hammering itself discovers the specific "handiness" ["Handlichkeit"] of the hammer. We shall call the useful thing's kind of being in which it reveals itself by itself handiness [Zuhandenheit].
+#+END_QUOTE
+
+In this Heidegarian paradigm, the world is given shape  through the use of entities that are to hand. When we tell time using a clock, the nature of the clock is revealed. Heidegger does not mean that we learn objective truths about the clock—rather, our experience of the clock becomes that of an entity useful for telling time. 
+
+Heidegger's concept of "handiness" is useful to us in how it reveals alienating 
+
+
+things are encountered in a totality: the pen is part of the desk is part of the room
+things are discovered through their work
+work up to space: http://dsq-sds.org/article/view/3219/4114
+
+
+Between this property—that the shape of one's world is revealed 
+
+
+
+
+
+
+Handiness is not grasped theoretically at all, nor is it itself initially a theme for circumspection. What is peculiar to what is initially at hand is that it withdraws, so to speak, in its character of handiness in order to be really handy. What everyday dealings are initially busy with is not tools themselves, but the work. What is to be produced in each case is what is primarily taken care of and is thus also what is at hand. The work bears the totality of references in which useful things are encountered.
+
+
+
+
+** The Thin THread
+
+# Let's talk about connections.
+
+
+In the previous chapter, we situated negotiated access at meso level or person scale—that is, somewhere between a decontextualized self and a distant, universalized, or wide-angle view of society. Autobiography, as a form, traditionally draws a line between these points: the particular and the universal, the self and the society, the body and the body politic. In /Reading Autobiography/, Sidonie Smith and Julia Watson place the emergence of autobiography in the eighteenth century and with a preoccupation with the universal and metaphysical as manifest in the self:
 
 #+BEGIN_QUOTE
 Autobiography, now the most commonly used term for life writing, thus describes writing being produced at a particular historical juncture, the period prior to the Enlightenment in the West. Central to that movement was the concept of the self-interested individual of property who was intent on assessing the status of the soul or the meaning of public achievement. By the eighteenth century, notions of self-interest, self-consciousness, and self-knowledge informed the figure of the “Enlightened individual” described by philosophers and social and political theorists. citep:smith_reading_2002
 #+END_QUOTE
 
-For Smith and Watson, autobiography "privileges the autonomous individual and the universalizing life story as the definitive achievement of life writing" citep:smith_reading_2002. This formal preoccupation of autobiography with seeking out the universal within a life makes it a fraught site for depiction of lives experienced outside a universal norm. In /Negotiated Memory/, Julie Rak wrestles with this question, observing how non-Western epistemologies that emphasize connections among individuals and a communal spirituality cannot readily be mapped onto the Western autobiographical tradition: "It is hard for people raised in liberal traditions that assume that all people are unique and should exist as individuals, or who believe implicitly that spiritual matters are separate from material ones, to imagine this other set of ideas about what the production of knowledge and personhood itself can mean" [[citep:rak_negotiated_2005][p. 1]]. The generic form of the autobiography exerts a gravitational pull away from consideration of the local environment and toward the relationship of the self, and especially personality and morality, to the universal.
+For Smith and Watson, autobiography "privileges the autonomous individual and the universalizing life story as the definitive achievement of life writing" citep:smith_reading_2002. This formal preoccupation of autobiography with seeking out the universal within a life makes it a fraught site for depiction of lives experienced outside a universal norm. In /Negotiated Memory/, Julie Rak wrestles with this question, observing how non-Western epistemologies that emphasize connections among individuals and a communal spirituality cannot readily be mapped onto the Western autobiographical tradition: "It is hard for people raised in liberal traditions that assume that all people are unique and should exist as individuals, or who believe implicitly that spiritual matters are separate from material ones, to imagine this other set of ideas about what the production of knowledge and personhood itself can mean" [[citep:rak_negotiated_2005][p. 1]]. The generic form of the autobiography exerts a gravitational pull away from consideration of the local environment or community and toward the relationship of the self, and especially personality and morality, to the universal.
 
 Post-colonial, feminist, and Marxist critics have rightfully regarded the autobiography with suspicion given the history and limitations of the genre, including the privileging of voices and perspectives that can be easily universalized and the distortion of those that cannot. Despite the unsuitability of the form to convey the stories of the minoritarian, the disenfranchised, or the simply different, those with perspectives resistant to imposition of a universal narrative still attempt to communicate their experiences through the form. Rak, with empathy and pragmatism, touches on why this might be the case:
 
 #+BEGIN_QUOTE
 Whether autobiography critics want to admit it or not, the “traditional” discourse of autobiography still carries much cultural capital in the West. People who have historically been unable to secure representation inside of the Welds that guarantee authenticity and legitimacy in Western discourse are often very much aware of the power of autobiographical dis- course when they choose to enter it. This makes it important to under- stand why people who do not enjoy the automatic assumptions of the representability of their lives in texts use the forms that may seem to exclude them. [[citep:rak_negotiated_2005][p. 2]]
 #+END_QUOTE
+In short, autobiography, reliant as a form on representability, the thin thread between the personal and the universal, does not easily serve stories and experiences that do not conform to a more general narrative. Despite this, the promise of the autobiography for self-expression and advocacy is such that those with truly divergent experiences cannot resist taking up the genre and conforming to, or attempting to transcend, its limitations.
 
-The stories of people with disabilities are not always well served by autobiography as a form. The pressure to universalize and moralize too often leads to predictible, if understandable, distortions and tropes—overindulging the outside or society view, for example. Many autobiographies of people with disabilities are further troubled by questions of authorship or influence, placing them somewhere between an autobiography and a family biography—in this chapter, I refer to such works as "auto-ish biographies." This chapter will attempt to read instances of disability autobiography not only for examples and instances of negotiation within the text, but also as sites of negotiation  in and of themselves. In these cases, an autobiography is not only a way of conveying a freestanding experience of disability, but in itself is an artifact of negotiation, one that, by its existence, allows the disabled individual to reconsider their relationship to those around them and to society. Autobiographies of disability, though troubled by the limitations of the genre, nonetheless can use the recursive or self-referential nature of autobiography to transcend the form and speak directly to the experience of life with a disability.
+In the previous chapter, we shifted our attention away from the isolated self, associated with the medical model of disability, and the broad collective, associated with the social model. Instead we focused on the local physical and social environment, the points at which an individual negotiates the world around them. This chapter on disability autobiography will share a similar concern with the local, and will consider disability autobiography from two perspectives. First, taking the texts of autobiographies at face value, we will draw on these works for examples of negotiation—local knowledge, community, and infrastructure that led to survival, autonomy, or self-actualization. Second, we will consider these autobiographies not from the inside, but from the outside, regarding the texts themselves as instances of negotiation. Considering the autobiographies themselves as pieces of infrastructure or as products of a community, or as failed or successful attempts to transcend an imposed narrative, sheds light on ongoing struggles for autonomy among people with disabilities.
+
+** TODO Fix above sentence when I know more about this chapter
+
+Many autobiographies of people with disabilities are further troubled by questions of authorship or influence, placing them somewhere between an autobiography and a family biography—in this chapter, I refer to such works as "auto-ish biographies." This chapter will attempt to read instances of disability autobiography not only for examples and instances of negotiation within the text, but also as sites of negotiation  in and of themselves. In these cases, an autobiography is not only a way of conveying a freestanding experience of disability, but in itself is an artifact of negotiation, one that, by its existence, allows the disabled individual to reconsider their relationship to those around them and to society. At the same time, many disability autobiographies demonstrate an awareness of the form, leveraging it to intervene in imposed narratives or otherwise escape the limitations of the genre. At their best, these autobiographies can use the recursive or self-referential nature of the form to transcend it, speaking directly to the experience of life with a disability.
+
+** 
+
+
+----------
+
+** Long Threads and Short Threads
+
+It is no surprise that people with disabilities who take up autobiography also contend with representability, the pressure to universalize, and the limitations of genre. In the case of disability life  writing and disability autobiography, however, the thin thread between the personal and the universal seems even more attenuated. 
+
+
+
+
+
+
+# quote: proliferation of disability life writing recently
+:notes:
+#+BEGIN_QUOTE
+Indeed, one of the most significant developments—if not the most significant development—in life writing in North America over the last three decades has been the proliferation of book-length ac- counts (from both first- and third-person points of view) of living with illness and disability. Whereas in the 1970s it was diffi- cult to find any representation of most disabling conditions in life writing, today one can find multiple representations of many conditions. Equally significant, and more remarkable, one can find autobiographical accounts of conditions that would seem to preclude first-person testimony altogeth- er—for example, autism, locked-in syn- drome, and early Alzheimer’s disease.... A comprehensive history of disability life writing has yet to be written, but it is safe to say that there was not much in the way of published autobiographical literature before World War II. War both produces and valorizes certain forms of disability; not surprisingly, then, disabled veterans pro- duced a substantial number of narratives after the war. Polio generated even more narratives; indeed, polio may be the first disability to have engendered its own sub- stantial autobiographical literature (Wil- son). [[citep:davis_disability_2013][p. 456-457]]
+#+END_QUOTE
+:end:
+
+
+
+The stories of people with disabilities are not always well served by autobiography as a form. The pressure to universalize and moralize too often leads to predictible, if understandable, distortions and tropes—overindulging the outside or society view, for example. This can lead to disability autobiography clusteringb around 
+
+
+
+
 
 # quotes about life writing
 :notes:
@@ -1037,3 +1107,6 @@ https://www.newyorker.com/news/letter-from-silicon-valley/the-complicated-legacy
 
 
 
+
+# lego prosthetic
+https://www.abc.net.au/news/2019-02-08/lego-prosthetic-arm-made-by-man-missing-limb/10792598
