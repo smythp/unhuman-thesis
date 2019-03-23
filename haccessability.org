@@ -515,7 +515,7 @@ While we make demands on the built environment—sitting in chairs, opening door
 In an incisive application of Heidegger's conception of space to a disability studies context, Josephine A Seguna outlines the differing relationship with space experienced by Nancy Mairs, a writer who moves through the world with the use of a wheelchair:
 
 #+BEGIN_QUOTE
-Heidegger (1962) maintains everything an individual deals with or engages, is either near or far relative to that individual and therefore the understanding of such 'nearness' and /or 'farness' becomes how an individual familiarizes or learns to represent oneself as space. This 'proximity' is the basis of how humankind comes to represents itself, not through containment or objective measurement but as a state of Being. Yet ... Mairs (1996), eloquent in asserting her personal perspective of the world, demonstrates the capacity of Heidegger's theory to question the alienation of the presupposed 'subjective' province of the abled-bodied experience:
+Heidegger (1962) maintains everything an individual deals with or engages, is either near or far relative to that individual and therefore the understanding of such 'nearness' and /or 'farness' becomes how an individual familiarizes or learns to represent oneself as space. This 'proximity' is the basis of how humankind comes to represents itself, not through containment or objective measurement but as a state of Being. Yet ... Mairs (1996), eloquent in asserting her personal perspective of the world, demonstrates the capacity of Heidegger's theory to question the alienation of the presupposed 'subjective' province of the abled-bodied experience ... citep:seguna_space_2015
 #+END_QUOTE 
 
 
