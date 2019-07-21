@@ -505,7 +505,7 @@ leg prosthesis that didn't look like a leg
 
 ** Encountering Stuff
 
-In the previous chapter, I used the word "autonomy" to describe certain arrangements among people and things, or among people and people. The term, at least in the context of a community of hackers or a Center for Independent Living,  has positive connotations, evoking associated concepts such as freedom, dignity, and self-actualization. But what does it mean to be autonomous—or, for that matter, independent— in this sense? Upon cursory reflection, it seems obvious that we are all enmeshed in a complex web of relationships, that our lives are contingent on forces and processes beyond our direct control, and that we are all dependent on others to some greater or lesser extent. In an absolute sense, then, no individual is truly autonomous. Yet terms such as autonomy, used to describe the nature, kind, and quality of subjective actions and connections, have weight. This chapter, concerned primarily with subjective experiences of disability as explored through autobiography, is concerned with accounts of day-to-day experiences in the lives of people with disabilities, and in particular the interactions between the individual and the immediate physical and social environment. But on what basis do we evaluate these relationships? Are independence and autonomy chimeras, products only of a refusal to acknowledge one's presence in an interconnected web of people and things? If the concept is, in fact, useful, should it be applied as a subjective evaluation, or can we fit it into a broader theory of a world full of people and things, narratives and perspectives?
+In the previous chapter, I used the word "autonomy" to describe certain arrangements among people and things, or among people and people. The term, at least in the context of a community of hackers or a Center for Independent Living,  has positive connotations, evoking associated concepts such as freedom, dignity, and self-actualization. But what does it mean to be autonomous—or, for that matter, independent— in this sense? Upon cursory reflection, it seems obvious that we are all enmeshed in a complex web of relationships, that our lives are contingent on forces and processes beyond our direct control, and that we are all dependent on others to some greater or lesser extent. In an absolute sense, then, no individual is truly autonomous. Yet terms such as autonomy, used to describe the nature, kind, and quality of subjective actions and connections, have weight. This chapter, concerned primarily with subjective experiences of disability as explored through autobiography, is concerned with accounts of day-to-day experiences in the lives of people with disabilities, and in particular the interactions between the individual and the immediate physical and social environment. But on what basis do we evaluate these relationships? Are independence and autonomy chimeras, products only of a refusal to acknowledge one's presence in an interconnected web of people and things? If the concept of autonomy is actually useful, should it be applied as a subjective evaluation, or can we fit it into a broader theory of a world full of people and things, narratives and perspectives?
 
 Martin Heidegger, in /Being and Time/, provides a framework for conceiving of the relationship between the subjective self and the immediate physical environment. In a well-known example, that of the hammer, Heidegger contends that entities in the world have a property, handiness, that is revealed through their use:
 
@@ -515,6 +515,8 @@ Hammering does not just have a knowledge of the useful character of the hammer; 
 In this Heidegarian paradigm, the world is given shape  through the use of entities that are to hand. When we tell time using a clock, the nature of the clock is revealed. Heidegger does not mean that we learn objective truths about the clock—rather, our experience of the clock becomes that of an entity useful for telling time. 
 
 Though Heidegger describes the use of a hammer or the reading of a clock as discovering, as our own subjective self, a property of handiness, we might, more or less equivalently, construe the change as a forging of a relationship between our self and the thing at hand. When we use the hammer, we draw it towards us. It becomes part of our sphere of influence, a thing over which we have, and through which we exercise, autonomy. However, thinking of the subjective universe in terms of Heidegger's handiness ignores a critical vector. /Das Zeug/, typically translated as "equipment" but which more neutrally might be called "stuff," suggests a passive or receptive world waiting to be seized. However, as anyone who has caught themselves on barbed wire can attest, stuff is neither passive nor neutral. Whoever uses stuff should see to it that in the process they do not become stuff. And as you reach out through stuff, stuff will reach out through you. To put it another way, the built environment around us isn't just composed of neutral artifacts waiting for us to discover their useful properties. Instead, they are frequently the equipment of another, serving another's purposes. In the modern environment, when we reach out for an artifact such as a vending machine, a card reader, a park bench, or a cell phone, we do not simply find useful equipment, but become useful equipment. While these objects are "to hand" and, ostensibly, serve our immediate purposes, their use coopts us into broader systems over which we have little control. In raising these tools, we, in turn, become equipment in distant hands.
+
+Does this get us closer to an understanding of autonomy, or suggest whether the concept is useful for understanding how we, as people, negotiate our environment? In this chapter, I propose to consider autonomy as the /condition of not being acted through/. To be autonomous, by this view, is to not be the tool of another. If we are drawn closer to someone or something, if we become "to hand" in the Heidegarian sense, then in that regard we are not acting with autonomy. This more specific definition of autonomy will be useful because this chapter, and this project as a whole, is concerned with negotiation—points or surfaces where the individual encounters the world. Autonomy, or a lack of it, provides one way to describe not only the shape and substance of these interfaces, but also a directionality: outward or inward, acting or acted upon. 
 
 ** Ghosts and Levers
 
@@ -561,13 +563,9 @@ Handiness is not grasped theoretically at all, nor is it itself initially a them
 
 *************** END
 
-
-
-
 ** The Thin THread
 
 # Let's talk about connections.
-
 
 In the previous chapter, we situated negotiated access at meso level or person scale—that is, somewhere between a decontextualized self and a distant, universalized, or wide-angle view of society. Autobiography, as a form, traditionally draws a line between these points: the particular and the universal, the self and the society, the body and the body politic. In /Reading Autobiography/, Sidonie Smith and Julia Watson place the emergence of autobiography in the eighteenth century and with a preoccupation with the universal and metaphysical as manifest in the self:
 
@@ -590,10 +588,17 @@ In the previous chapter, we shifted our attention away from the isolated self, a
 
 Many autobiographies of people with disabilities are further troubled by questions of authorship or influence, placing them somewhere between an autobiography and a family biography—in this chapter, I refer to such works as "auto-ish biographies." This chapter will attempt to read instances of disability autobiography not only for examples and instances of negotiation within the text, but also as sites of negotiation  in and of themselves. In these cases, an autobiography is not only a way of conveying a freestanding experience of disability, but in itself is an artifact of negotiation, one that, by its existence, allows the disabled individual to reconsider their relationship to those around them and to society. At the same time, many disability autobiographies demonstrate an awareness of the form, leveraging it to intervene in imposed narratives or otherwise escape the limitations of the genre. At their best, these autobiographies can use the recursive or self-referential nature of the form to transcend it, speaking directly to the experience of life with a disability.
 
-** 
+** Movement and Expression
+
+Two autobiographies, published more than fifty years apart, provide a study in 
+
+- 
 
 
-----------
+
+-----
+
+
 
 ** Long Threads and Short Threads
 
