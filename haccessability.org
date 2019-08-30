@@ -545,7 +545,7 @@ There are other implications to this worldview. One is that stuff has allegiance
 *************** TODO the stack might be useful here
 *************** END
 
-Thinking of the phenomenon more broadly, however, we see a key threat to the exercise of our autonomy. The more we look around our built environment, the more we see that it is filled with entities that reach out to and through us, but do not allow reaching back in return. That is, these objects, though close to us in a literal sense, are distant from us in the real way that we encounter the world. Though we will engage with this idea more fully in the next chapter when we consider the implications of infrastructure for negotiation, we can see this reality most plainly in the object, and ideology, of the smartphone. 
+Thinking of the phenomenon more broadly, however, we see a key threat to the exercise of our autonomy. The more we look around our built environment, the more we see that it is filled with entities that reach out to and through us, but do not allow reaching back in return. That is, these objects, though close to us in a literal sense, are distant from us in the real way that we encounter the world. Though we will engage with this idea more fully in the next chapter when we consider the implications of infrastructure for negotiation, we can see this reality most plainly and obtrusively in the object, and ideology, of the smartphone. 
 
 These interfaces constrain behavior, encouraging specific sanctioned uses, and especially passive consumption, while reporting detailed information on user behavior and location. Though the smartphone is an intimate companion—a majority of Americans keep them in reach as they sleep—they are, in a Heideggerian sense, alarmingly distant from the users they appear to serve. Despite their intimate physical proximity, the smartphone as an artifact is itself never drawn closer to us and is never "to hand" in the sense of the hammer—ironic, given the German word for cell phone is the faux-loanword /Handy/. The smartphone does not conform itself to us, but conforms our interactions and behavior to its abstract affordances. Some artifacts—a cane, a pot, and, yes, a hammer—create energy, connections, impetus that flow from us and our volition outward to our immediate environment. Other artifacts—the codex and the letter come to mind—allow for others in far places and times to reach out to us, and the impetus flows in great part from the world and toward out selves. These artifacts, however, allow us to encounter them largely on our own terms—my copy of /The Tipping Point/ won't report my crude marginalia to Malcolm Gladwell. The smartphone, and its eReader and tablet cousins , are not artifacts in this sense—without constant two-way communication they are the merest trash. Rather, they should be thought of as interfaces, processes, or, most evocatively, presences.
 
@@ -602,16 +602,24 @@ In short, autobiography, reliant as a form on representability, the thin thread 
 In the previous chapter, we shifted our attention away from the isolated self, associated with the medical model of disability, and the broad collective, associated with the social model. Instead we focused on the local physical and social environment, the points at which an individual negotiates the world around them. This chapter on disability autobiography will share a similar concern with the local, and will consider disability autobiography from three perspectives. First, taking the texts of autobiographies at face value, we will draw on these works for examples of negotiation—local knowledge, community, and infrastructure that led to survival, autonomy, or self-actualization. Second, we will consider these autobiographies not from the inside, but from the outside, regarding the texts themselves as instances of negotiation. Considering the autobiographies themselves as pieces of infrastructure or as products of a community, or as failed or successful attempts to transcend an imposed narrative, sheds light on ongoing struggles for autonomy among people with disabilities. Finally, we will draw on the tensions between individual and society within autobiography to explore how people with disabilities negotiate questions of universality—how do .
 
 ** TODO Fix above sentence when I know more about this chapter
-
+*************** END
 Many autobiographies of people with disabilities are further troubled by questions of authorship or influence, placing them somewhere between an autobiography and a family biography—in this chapter, I refer to such works as "auto-ish biographies." This chapter will attempt to read instances of disability autobiography not only for examples and instances of negotiation within the text, but also as sites of negotiation  in and of themselves. In these cases, an autobiography is not only a way of conveying a freestanding experience of disability, but in itself is an artifact of negotiation, one that, by its existence, allows the disabled individual to reconsider their relationship to those around them and to society. At the same time, many disability autobiographies demonstrate an awareness of the form, leveraging it to intervene in imposed narratives or otherwise escape the limitations of the genre. At their best, these autobiographies can use the recursive or self-referential nature of the form to transcend it, speaking directly to the experience of life with a disability.
 
 ** Movement and Expression
 
-Two autobiographies, published more than fifty years apart, provide a study in negotiation, including specific strategies such as hacking the immediate physical and social environment and recasting an imposed narrative. /My Left Foot/ is a 1954 autobiography by writer Christy Brown, who was born with cerebral palsy in a society where the condition was poorly understood. /Double Take/ is an autobiography by photographer Kevin Michael Connolly, who was born with no legs in the Montana of the XXX
+Two autobiographies, published more than fifty years apart, provide a useful case study in the forms of negotiation discussed here, including specific strategies such as hacking the immediate physical and social environment and recasting, through self-expression, a narrative imposed on an individual by society. /My Left Foot/ is a 1954 autobiography by writer Christy Brown, who was born with cerebral palsy in a society where the condition was poorly understood. /Double Take/ is an 2009 autobiography by photographer Kevin Michael Connolly, who was born with no legs in Helena, Montana in 1985. Both Brown and Connolly were poor, but had the full, and often unconventional, support of family members. Both find creative ways to fully participate, and eventually excel, in chosen domains—painting and writing for Brown, skiing and photography for Connolly. Both Brown and Connolly find ways to mitigate disabilities of mobility relatively early on, but for each the primarily challenge is to find a mode of expression that enables a redefinition of their relationship to society. Though their stories are similar in many ways, important differences, including their relationship to the medical establishment, show how the treatment of people with disabilities by society has at once changed and remained the same.
 
+** His Left Foot
 
+In 1932, Christy Brown was borth the tenth of an eventual 22 siblings, nine of whom would die in infancy. When he was four months old, his mother noticed that he had difficulty holding up his head during feeding. As he grew older, it became evident that Brown struggled to control his movements. His hands remained clenched at all times, he had trouble opening and closing his moth, and by one year he was still unable to sit up on his own.
+ 
+#+BEGIN_QUOTE
+Almost every doctor who saw and examined me, labelled me a very interesting but also a hopeless case. Many told mother very gently that I was mentally defective and would remain so. That was a hard blow to a young mother who had already reared five healthy children. The doctors were so very sure of themselves that mother’s faith in me seemed almost an impertinence. They assured her that nothing could be done for me. citep:brown_my_1954
+#+END_QUOTE
+Though these doctors offered little hope, Brown's mother refused to believe that the condition of her son's mind reflected the condition of his body or that he was irredeemable as a member of the family. Rather than hide Brown in a back room, a common practice at the time, and focus only on his physical needs, she persisted in working and speaking with him: "[w]hile my father was out at bricklaying earning our bread and butter for us, mother was slowly, patiently pulling down the wall, brick by brick, that seemed to thrust itself between me and the other children, slowly, patiently penetrating beyond the thick curtain that hung over my mind, separating it from theirs" citep:brown_my_1954.
 
-
+*************** TODO get decent bibliography info for my lieft foot
+*************** END
 
 -----
 
@@ -1134,10 +1142,8 @@ bigger is not better. faster is not farther.
 the singularity is queer...queer theory? munoz?
 
 
-* new intro
-this project is about autonomy—where it lives and who gets to exercise it.
-
 * sort
+
 sure anything like a standard user exists—it was created by companies like apple through persistent and
 clever marketing to convince people they should identify as standard users. by contrast, in the ’70s, when
 the computer was not yet very profitable and it was still a niche market item for tinkerers and the curious,
@@ -1146,10 +1152,6 @@ programming language. in an issue of byte magazine from 1982 you can find an ad 
 as “a language for poets, scientists, and philosophers” (logo, 1982). incredible! at this time, computers
 were more about learning and creativity—open-ended learning and creativity.
 "as if"
-
-bibliographystyle:apalike
-bibliography:references.bib
-
 
 https://blogs.technet.microsoft.com/machinelearning/2018/09/10/why-would-prosthetic-arms-need-to-see-or-connect-to-cloud-ai/
 
@@ -1193,3 +1195,22 @@ https://www.newyorker.com/news/letter-from-silicon-valley/the-complicated-legacy
 
 # lego prosthetic
 https://www.abc.net.au/news/2019-02-08/lego-prosthetic-arm-made-by-man-missing-limb/10792598
+
+# hypersane
+https://aeon.co/ideas/the-hypersane-are-among-us-if-only-we-are-prepared-to-look
+
+
+# is literature against us?
+
+https://nfb.org/sites/www.nfb.org/files/images/nfb/publications/convent/banque74.htm
+
+
+# hypersane, good for final chapter
+https://aeon.co/ideas/the-hypersane-are-among-us-if-only-we-are-prepared-to-look
+
+
+
+bibliographystyle:apalike
+bibliography:references.bib
+
+

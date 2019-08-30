@@ -1,3 +1,76 @@
+* sort
+   :notes:
+sure anything like a standard user exists—it was created by companies like apple through persistent and
+clever marketing to convince people they should identify as standard users. by contrast, in the ’70s, when
+the computer was not yet very profitable and it was still a niche market item for tinkerers and the curious,
+it was marketed in more philosophical terms. my favorite ad from that era is for logo, a learning-oriented
+programming language. in an issue of byte magazine from 1982 you can find an ad that describes logo
+as “a language for poets, scientists, and philosophers” (logo, 1982). incredible! at this time, computers
+were more about learning and creativity—open-ended learning and creativity.
+"as if"
+
+bibliographystyle:apalike
+bibliography:references.bib
+
+
+https://blogs.technet.microsoft.com/machinelearning/2018/09/10/why-would-prosthetic-arms-need-to-see-or-connect-to-cloud-ai/
+
+
+
+
+techne
+
+
+# alan k saying that the problem of access isn't actual
+# access, but that people don't or can't use the access
+# see 15:00
+https://www.youtube.com/watch?v=t2l2t-d3tda
+
+
+# destruction of fan-made project by copyright
+https://torrentfreak.com/cbs-shuts-down-stage-9-a-fan-made-recreation-of-the-uss-enterprise-180927/
+
+
+
+
+# cpap hacker
+https://motherboard.vice.com/en_us/article/xwjd4w/im-possibly-alive-because-it-exists-why-sleep-apnea-patients-rely-on-a-cpap-machine-hacker
+
+
+# computer bums
+# emacs commune
+# hacker idyll
+http://www.oreilly.com/openbook/freedom/ch06.html
+
+
+sousveillance
+https://en.wikipedia.org/wiki/sousveillance
+
+# whole earth catalog
+https://www.newyorker.com/news/letter-from-silicon-valley/the-complicated-legacy-of-stewart-brands-whole-earth-catalog
+
+
+
+
+
+# lego prosthetic
+https://www.abc.net.au/news/2019-02-08/lego-prosthetic-arm-made-by-man-missing-limb/10792598
+
+# hypersane
+https://aeon.co/ideas/the-hypersane-are-among-us-if-only-we-are-prepared-to-look
+
+
+# is literature against us?
+
+https://nfb.org/sites/www.nfb.org/files/images/nfb/publications/convent/banque74.htm
+
+
+# hypersane, good for final chapter
+https://aeon.co/ideas/the-hypersane-are-among-us-if-only-we-are-prepared-to-look
+
+:end:
+
+
 
 * notes
 to be a machine : adventures among cyborgs, utopians, hackers, and the futurists solving the modest problem of death
