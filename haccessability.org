@@ -18,6 +18,8 @@
 
 #+LATEX_CLASS: thesis
 
+# Make footnotes not spill over to next page
+#+LATEX: \interfootnotelinepenalty=10000
 
 #+LATEX: \frontmatter
 
@@ -510,7 +512,6 @@ In the previous chapter, I used the word "autonomy" to describe certain arrangem
 #+BEGIN_QUOTE
 In order to survive, we need help, and help is always the service of another, with or without intent. When I sprain my ankle, a stout stick may help me walk, and I enlist its assistance. I am now an encounter in motion, a woman-and-stick. It is hard for me to think of any challenge I might face without soliciting the assistance of others, human and not human. It is unselfconscious privilege that allows us to fantasize—counterfactually—that we each survive alone. citep:tsing_mushroom_2015
 #+END_QUOTE
-
 It seems clear that no individual can be entirely independent. Yet terms such as autonomy, used to describe the nature, kind, and quality of subjective actions and connections, have weight. This chapter, concerned primarily with subjective experiences of disability as explored through autobiography, is concerned with accounts of day-to-day experiences in the lives of people with disabilities, and in particular the interactions between the individual and the immediate physical and social environment. But on what basis do we evaluate these relationships? Are independence and autonomy chimeras, products only of a refusal to acknowledge one's presence in an interconnected web of people and things? If the concept of autonomy is actually useful, should it be applied as a subjective evaluation, or can we fit it into a broader theory of a world full of people and things, narratives and perspectives?
 
 Martin Heidegger, in /Being and Time/, provides a framework for conceiving of the relationship between the subjective self and the immediate physical environment. In a well-known example, that of the hammer, Heidegger contends that entities in the world have a property, handiness, that is revealed through their use:
@@ -552,7 +553,10 @@ These interfaces constrain behavior, encouraging specific sanctioned uses, and e
 *************** TODO update the smartphone sleep statistic above
 *************** END
 
-The corporate and government organizations that gather data and influence behavior through our smartphones exert influence that is a palpable but indistinct influence, invisible but nonetheless determinant of our subjective experiences. These ghosts are felt only in the exercise of their agendas, whether through dark patterns crafted to extract money or data or through the discouragement of actions or technologies that might disrupt the status quo.
+The corporate and government organizations that gather data and influence behavior through our smartphones exert influence that is a palpable but indistinct influence, invisible but nonetheless determinant of our subjective experiences. These ghosts are felt only in the exercise of their agendas, whether through dark patterns [fn:1] crafted to extract money or data or through the discouragement of actions or technologies that might disrupt the status quo. Therefore, when we pick up a smartphone, we are using the device, but not appropriating it, making it "to hand" in the sense of the hammer or the pot. Instead, we become ourselves "to hand," becoming a vehicle, a point of leverage, for distant and dimly apprehended presences.
+
+[fn:1] In programming, a design pattern is a broad approach to solving a common problem or category of problems. In 2010, Harry Brignull, a user experience designer, created darkpatterns.org to draw attention to a trend in user experience design that pushes users toward choices counter to their own interests, such as sending invites to a service to email contacts or signing up for recurring payments. "Dark pattern" is now an accepted term for design decisions that leverage an understanding of behavior in the aggregate for ends that are coercive or user-hostile.
+
 
 We attribute a bold claim to Archimedes: "Give me a lever long enough and a fulcrum on which to place it, and I shall move the world." Imagine, for a moment, a world of warring Archimedes, straining, with their levers, to wrest the world in their preferred direction. To us, the fulcra, these engineers are hidden from our view, the reach of their levers too long for us to follow. We can only feel the torque, and note the movement of the world as a distant contender finds purchase. When we raise a phone, scroll through a feed, and touch the screen, we know that we communicate with distant others. But there is another presence or presences with us, determining what we see and do not see. These presences set the ground, creating the environment in which we exercise volition and benefiting from our actions. The shift of the lever might create or suppress a movement, determine the outcome of a close election, destroy a business, start a trend, or alter public opinion.
 
@@ -589,6 +593,7 @@ In the previous chapter, we situated negotiated access at meso level or person s
 
 #+BEGIN_QUOTE
 Autobiography, now the most commonly used term for life writing, thus describes writing being produced at a particular historical juncture, the period prior to the Enlightenment in the West. Central to that movement was the concept of the self-interested individual of property who was intent on assessing the status of the soul or the meaning of public achievement. By the eighteenth century, notions of self-interest, self-consciousness, and self-knowledge informed the figure of the “Enlightened individual” described by philosophers and social and political theorists. citep:smith_reading_2002
+
 #+END_QUOTE
 For Smith and Watson, autobiography "privileges the autonomous individual and the universalizing life story as the definitive achievement of life writing" citep:smith_reading_2002. This formal preoccupation of autobiography with seeking out the universal within a life makes it a fraught site for depiction of lives experienced outside a universal norm. In /Negotiated Memory/, Julie Rak wrestles with this question, observing how non-Western epistemologies that emphasize connections among individuals and a communal spirituality cannot readily be mapped onto the Western autobiographical tradition: "It is hard for people raised in liberal traditions that assume that all people are unique and should exist as individuals, or who believe implicitly that spiritual matters are separate from material ones, to imagine this other set of ideas about what the production of knowledge and personhood itself can mean" [[citep:rak_negotiated_2005][p. 1]]. The generic form of the autobiography exerts a gravitational pull away from consideration of the local environment or community and toward the relationship of the self, and especially personality and morality, to the universal.
 
@@ -607,23 +612,56 @@ Many autobiographies of people with disabilities are further troubled by questio
 
 ** Movement and Expression
 
-Two autobiographies, published more than fifty years apart, provide a useful case study in the forms of negotiation discussed here, including specific strategies such as hacking the immediate physical and social environment and recasting, through self-expression, a narrative imposed on an individual by society. /My Left Foot/ is a 1954 autobiography by writer Christy Brown, who was born with cerebral palsy in a society where the condition was poorly understood. /Double Take/ is an 2009 autobiography by photographer Kevin Michael Connolly, who was born with no legs in Helena, Montana in 1985. Both Brown and Connolly were poor, but had the full, and often unconventional, support of family members. Both find creative ways to fully participate, and eventually excel, in chosen domains—painting and writing for Brown, skiing and photography for Connolly. Both Brown and Connolly find ways to mitigate disabilities of mobility relatively early on, but for each the primarily challenge is to find a mode of expression that enables a redefinition of their relationship to society. Though their stories are similar in many ways, important differences, including their relationship to the medical establishment, show how the treatment of people with disabilities by society has at once changed and remained the same.
+Two autobiographies, published more than fifty years apart, provide a useful case study in the forms of negotiation discussed here, including specific strategies such as hacking the immediate physical and social environment and recasting, through self-expression, a narrative imposed on an individual by society. /My Left Foot/ is a 1954 autobiography by writer Christy Brown, who was born with cerebral palsy in a society, mid-twentieth century Ireland, where the condition was poorly understood. /Double Take/ is an 2009 autobiography by photographer Kevin Michael Connolly, who was born with no legs in Helena, Montana in 1985. Both Brown and Connolly were poor, but had the full, and often unconventional, support of family members. Both find creative ways to fully participate, and eventually excel, in chosen domains—painting and writing for Brown, skiing and photography for Connolly. Both Brown and Connolly find ways to mitigate disabilities of mobility relatively early on, but for each the primary challenge is to find a mode of expression that enables a redefinition of their relationship to society. Though their stories are similar in many ways, important differences, including their relationship to the medical establishment, show how the treatment of people with disabilities by society has at once changed and remained the same.
 
 ** His Left Foot
 
-In 1932, Christy Brown was borth the tenth of an eventual 22 siblings, nine of whom would die in infancy. When he was four months old, his mother noticed that he had difficulty holding up his head during feeding. As he grew older, it became evident that Brown struggled to control his movements. His hands remained clenched at all times, he had trouble opening and closing his moth, and by one year he was still unable to sit up on his own.
+In 1932, Christy Brown was born the tenth of an eventual 22 siblings, nine of whom would die in infancy. When he was four months old, his mother noticed that he had difficulty holding up his head during feeding. As he grew older, it became evident that Brown struggled to control his movements. His hands remained clenched at all times, he had trouble opening and closing his moth, and by one year he was still unable to sit up on his own.
  
 #+BEGIN_QUOTE
-Almost every doctor who saw and examined me, labelled me a very interesting but also a hopeless case. Many told mother very gently that I was mentally defective and would remain so. That was a hard blow to a young mother who had already reared five healthy children. The doctors were so very sure of themselves that mother’s faith in me seemed almost an impertinence. They assured her that nothing could be done for me. citep:brown_my_1954
+Almost every doctor who saw and examined me, labelled me a very interesting but also a hopeless case. Many told mother very gently that I was mentally defective and would remain so. That was a hard blow to a young mother who had already reared five healthy children. The doctors were so very sure of themselves that mother’s faith in me seemed almost an impertinence. They assured her that nothing could be done for me. citep:brown_my_1955
+#+END_QUOTEred
+Though these doctors offered little hope, Brown's mother refused to believe that the condition of her son's mind reflected the condition of his body or that he was irredeemable as a member of the family. Rather than hide Brown in a back room, a common practice at the time, and focus only on his physical needs, she persisted in working and speaking with him: "[w]hile my father was out at bricklaying earning our bread and butter for us, mother was slowly, patiently pulling down the wall, brick by brick, that seemed to thrust itself between me and the other children, slowly, patiently penetrating beyond the thick curtain that hung over my mind, separating it from theirs" citep:brown_my_1955
+
+Brown's bridging of the gulf of communication between himself and his family, his justification of the faith placed in him by his mother, comes in a transcendent moment of haccessibility. On a typically overcast Irish day, gathered around the fire, Brown watched his older siblings practice spelling on an old slate:
+
+#+BEGIN_QUOTE
+It was the chalk that attracted me so much. ... Suddenly I wanted desperately to do what my sister was doing. Then—without thinking or knowing exactly what I was doing, I reached out and took the stick of chalk out of my sister’s hand—/with my left foot/. citep:brown_my_1955
 #+END_QUOTE
-Though these doctors offered little hope, Brown's mother refused to believe that the condition of her son's mind reflected the condition of his body or that he was irredeemable as a member of the family. Rather than hide Brown in a back room, a common practice at the time, and focus only on his physical needs, she persisted in working and speaking with him: "[w]hile my father was out at bricklaying earning our bread and butter for us, mother was slowly, patiently pulling down the wall, brick by brick, that seemed to thrust itself between me and the other children, slowly, patiently penetrating beyond the thick curtain that hung over my mind, separating it from theirs" citep:brown_my_1954.
+
+After his left foot, "apparently on its own volition, reached out and very impolitely took the chalk out of ... [his] sister’s hand" citep:brown_my_1955, all eyes in the family turn to Brown. His mother, picking up on the tension in the room and seeing Brown gripping the chalk, pushes Brown across the final divide.
+
+#+BEGIN_QUOTE
+I stiffened my body and put my left foot out again, for the third time. I drew one side of the letter. I drew half the other side. Then the stick of chalk broke and I was left with a stump. I wanted to fling it away and give up. ... I tried once more. Out went my foot. I shook, I sweated and strained every muscle. My hands were so tightly clenched that my fingernails bit into the flesh. ... Everything in the room swam till the faces around me were mere patches of white. But—I drew it—the letter ‘A’. There it was on the floor before me. Shaky, with awkward, wobbly sides and a very uneven centre line. But it was the letter ‘A’. I looked up. I saw my mother’s face for a moment, tears on her cheeks. Then my father stooped down and hoisted me on to his shoulder.
+#+END_QUOTE
+What stands out in Brown's recounting of this first achievement is the narrowness of the passage from noncommunication to communication. The description is powerfully reminiscent of a difficult labor—"I sweated and strained every muscle. My hands were so tightly clenched that my fingernails bit into the flesh." The shaky "A," with "awkward, wobbly sides," has a newborn quality. 
+
+The overwhelming suggestion here is of an event that might not have occurred, and which, in fact, was unlikely to occur. The specific circumstances—the chalk and slate, the couching of the event as a miracle, the necessity of the family presence, the difficulty of the "labor"—suggest a moment, a path forward, that is as fragile as it is powerful. Here, the thread between the individual and the universal is notably attenuated. Brown's transformation, a necessary precondition for his telling of his own story, might just as easily not have come to pass.
+
+Haccessibility, here, provides a narrow, but absolutely essential, way forward for Brown, one that is a precondition for his later work. Brown's writing of the character "A" is maximally local—one room, one slate, one piece of chalk, one foot, one letter. The chalk is not any chalk, but a "a long, slender stick of vivid yellow" citep:brown_my_1955. The foot is not a foot, or his foot, but his /left/ foot. The "one letter, scrawled on the floor with a broken bit of ... chalk ..., was my road to a new world" citep:brown_my_1955. The event is not one that can "scale," or that can be easily applied in other circumstances. And yet, in itself, it is indisputably powerful.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 *************** TODO get decent bibliography info for my lieft foot
 *************** END
 
 -----
-
-
 
 ** long threads and short threads
 
