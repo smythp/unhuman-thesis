@@ -620,7 +620,7 @@ In 1932, Christy Brown was born the tenth of an eventual 22 siblings, nine of wh
  
 #+BEGIN_QUOTE
 Almost every doctor who saw and examined me, labelled me a very interesting but also a hopeless case. Many told mother very gently that I was mentally defective and would remain so. That was a hard blow to a young mother who had already reared five healthy children. The doctors were so very sure of themselves that mother’s faith in me seemed almost an impertinence. They assured her that nothing could be done for me. citep:brown_my_1955
-#+END_QUOTEred
+#+END_QUOTE
 Though these doctors offered little hope, Brown's mother refused to believe that the condition of her son's mind reflected the condition of his body or that he was irredeemable as a member of the family. Rather than hide Brown in a back room, a common practice at the time, and focus only on his physical needs, she persisted in working and speaking with him: "[w]hile my father was out at bricklaying earning our bread and butter for us, mother was slowly, patiently pulling down the wall, brick by brick, that seemed to thrust itself between me and the other children, slowly, patiently penetrating beyond the thick curtain that hung over my mind, separating it from theirs" citep:brown_my_1955
 
 Brown's bridging of the gulf of communication between himself and his family, his justification of the faith placed in him by his mother, comes in a transcendent moment of haccessibility. On a typically overcast Irish day, gathered around the fire, Brown watched his older siblings practice spelling on an old slate:
@@ -634,11 +634,36 @@ After his left foot, "apparently on its own volition, reached out and very impol
 #+BEGIN_QUOTE
 I stiffened my body and put my left foot out again, for the third time. I drew one side of the letter. I drew half the other side. Then the stick of chalk broke and I was left with a stump. I wanted to fling it away and give up. ... I tried once more. Out went my foot. I shook, I sweated and strained every muscle. My hands were so tightly clenched that my fingernails bit into the flesh. ... Everything in the room swam till the faces around me were mere patches of white. But—I drew it—the letter ‘A’. There it was on the floor before me. Shaky, with awkward, wobbly sides and a very uneven centre line. But it was the letter ‘A’. I looked up. I saw my mother’s face for a moment, tears on her cheeks. Then my father stooped down and hoisted me on to his shoulder.
 #+END_QUOTE
-What stands out in Brown's recounting of this first achievement is the narrowness of the passage from noncommunication to communication. The description is powerfully reminiscent of a difficult labor—"I sweated and strained every muscle. My hands were so tightly clenched that my fingernails bit into the flesh." The shaky "A," with "awkward, wobbly sides," has a newborn quality. 
+What stands out in Brown's recounting of this first achievement is the narrowness of the passage from noncommunication to communication. The description is powerfully reminiscent of a difficult labor—"I sweated and strained every muscle. My hands were so tightly clenched that my fingernails bit into the flesh." The shaky "A," with "awkward, wobbly sides," even has a fragile, newborn quality.
 
-The overwhelming suggestion here is of an event that might not have occurred, and which, in fact, was unlikely to occur. The specific circumstances—the chalk and slate, the couching of the event as a miracle, the necessity of the family presence, the difficulty of the "labor"—suggest a moment, a path forward, that is as fragile as it is powerful. Here, the thread between the individual and the universal is notably attenuated. Brown's transformation, a necessary precondition for his telling of his own story, might just as easily not have come to pass.
+The overwhelming suggestion here is of an event that might not have occurred, and which, in fact, was unlikely to occur. The specific circumstances—the chalk and slate, the couching of the event as a miracle, the necessity of the family presence, the difficulty of the "labor"—suggest a moment, the appearance of a path forward, that is as fragile as it is powerful. Here, the thread between the individual and the universal is notably attenuated. Brown's transformation, a necessary precondition for his telling of his own story, might just as easily not have come to pass.
 
-Haccessibility, here, provides a narrow, but absolutely essential, way forward for Brown, one that is a precondition for his later work. Brown's writing of the character "A" is maximally local—one room, one slate, one piece of chalk, one foot, one letter. The chalk is not any chalk, but a "a long, slender stick of vivid yellow" citep:brown_my_1955. The foot is not a foot, or his foot, but his /left/ foot. The "one letter, scrawled on the floor with a broken bit of ... chalk ..., was my road to a new world" citep:brown_my_1955. The event is not one that can "scale," or that can be easily applied in other circumstances. And yet, in itself, it is indisputably powerful.
+Haccessibility, here, provides a narrow, but absolutely essential, way forward for Brown, one that is a precondition for his later work. Brown's writing of the character "A" is maximally local—one room, one slate, one piece of chalk, one foot, one letter. The chalk is not any chalk, but "a long, slender stick of vivid yellow" citep:brown_my_1955. The foot is not a foot, or his foot, but his /left/ foot. The "one letter, scrawled on the floor with a broken bit of ... chalk ..., was my road to a new world" citep:brown_my_1955. The event is not one that can "scale," or that can be easily applied in other circumstances. And yet, in itself, it is indisputably powerful.
+
+Another hyperlocal adaptation from Brown's childhood, essential but fragile and contingent, was "Old Henry," a wagon ("go-car" in Irish parlance) used by Brown's brothers to take him with them on their adventures around Dublin. In a chapter called simply "Henry," Brown describes these adventures—swimming in a local creek, going to the cinema, telling stories around a fire, hiding fruit stolen from a garden in Brown's wagon.
+
+#+BEGIN_QUOTE
+It was a ugly, battered old thing that nobody ever treated well. It was always being kicked, knocked over, shoved about and trampled on. Everybody joked about it. But to me it was something lovable, almost human.  ... I had seen my first glimpse of out-door life sitting on its seat with the feathers sticking out of it. I can remember the wet wind on my face that day as they raced me along through busy streets. I can remember sitting in it as my brothers sat playing cards with their pals under a street lamp on a dark winter night when the gutters on the road were running with water and the lamplight was reflected in them so that they looked like little rivers of gold in the dark. citep:brown_my_1955
+#+END_QUOTE
+For Brown, Henry meant inclusion. The wagon allowed him to be a full participant, to go anywhere in the city and its environs with his brothers. Despite staring and odd looks from others, Brown, at eight, was not aware of his own difference. This changed when Old Henry broke down and was put away in the coal shed to rust:
+
+#+BEGIN_QUOTE
+I was lost without it. My brothers could no longer bring me with them when they went out to play. Mother talked of getting me a new car when father went back to work, but I hardly heard her; I was bewildered. ... It wasn’t just that I missed the old car so much. It was the way I felt when I could no longer go out with my brothers. Everything was changed. I was thrown upon myself at last. That queer idea that there was something wrong which had entered my mind sometimes before now loomed larger. citep:brown_my_1955
+#+END_QUOTE
+The breaking down of the go-car forces a reckoning for Brown. Before, his full participation in the adventures and antics of his brothers insulated him from substituting his own image of himself for an image forced on him by others. After his exclusion, Brown begins to see himself as others see him:
+
+#+BEGIN_QUOTE
+Up to then I had never thought about myself. True, there had come sometimes a vague feeling that I wasn’t like the others, an uneasy sort of stirring in my mind that came and went. But it was just one dark spot in the brightness of things ...  I began to hate the sight of those hands, the sight of my wobbly head and lop-sided mouth as I saw them in the mirror, so that I soon came to hate and fear a mirror. It told me too much. It let me see what other people saw ... citep:brown_my_1955
+#+END_QUOTE
+Without Henry and the full participation -it facilitated, Brown is forced to see himself as others see him—dependent, ugly, other.
+
+Haccessibility, as a mode, provides a bridge between the individual and the immediate environment. It requires no special permission, no approbation from the wider society. In Brown's case, this is critical. Not only did doctors not believe that Brown was capable of communication through writing, they would later forbid him as a young adult from using his left foot to express himself, thinking that it would interfere with a medical cure. If Brown's writing of the letter "A" were dependent on a prior understanding by the broader society—/das Man/—it would not have occurred. Likewise, if Brown's childhood adventures with his brothers needed the permission of those Dubliners giving him "queer looks," he would not have been able to participate. Haccessibility here, as it frequently does, throws the tyranny of the idealized normal, the elusive /das Man/, into sharp relief. Brown's writing with his left foot makes clear a lack of understanding on the part of those that write with the "right" hand. There is a sense in which these acts of haccessibility are more powerful for their limitations. By creating ways forward that are contingent, local, and born of necessity, they show the narrowness and inflexibility of the physical and social environment and its inadequacy for meeting the needs of its inhabitants
+
+** Seeking Expression
+
+Brown's painting
+Medical stuff, banned
+Brown's writing again
 
 
 
@@ -646,18 +671,9 @@ Haccessibility, here, provides a narrow, but absolutely essential, way forward f
 
 
 
+** Compoarting
 
-
-
-
-
-
-
-
-
-
-
-
+Difference is that Connolly's adaptatios are encouraged and iterated on, Brown's are mostly not.
 *************** TODO get decent bibliography info for my lieft foot
 *************** END
 
