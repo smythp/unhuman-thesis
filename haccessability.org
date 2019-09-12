@@ -39,224 +39,33 @@
 #+LATEX: \mainmatter
 :END:
 * Introduction
-** Two Futures and a Present
 
-# Two futures, superimposed, haunt our present. 
+** my experience
 
-Consuelo Ramos, the protagonist of the 1976 novel /Woman on the Edge of Time/, finds herself in a present on the verge of two futures. Receiving visitations from Luciente, an occupant of the year 2137, Connie is exposed to a society that values community, self-determination, autonomy, and environmental awareness—a future based on the civil rights and environmental movements that were only beginning to gain traction in the mid-70s. Yet Luciente's future is not the only one represented in the novel. Connie receives flashes of another eventuality, one in which oligarchs dominate humanity through rigid control and categorization. Each of these futures has seeds in Connie's present. Connie, while incarcerated and ground down by a relentless bureaucratic machine, has a burning sense of what could be, how her surroundings could reflect back her own autonomy instead of her own subjugation:
+becoming aware of haccessibility as a mode of engagement and resistance 
+more i created infrastructure, etc., the more it became obvious that infrastructure is inadequate 
+** defining disability / languaged used
 
-#+BEGIN_QUOTE
-How she would celebrate her release! Her dingy two rooms with the toilet in the hall shone in her mind, vast and luxurious after the hospital. Doors she could shut! A toilet with a door! Chairs to sit in, a table of her own to eat on, a TV set that she could turn on and off and tune to whatever program she wanted to watch, her own bed with clean sheets and no stink of old piss. Her precious freedom and privacy!
-#+END_QUOTE
-Throughout the novel, Connie is, by turns, physically injured, insulted, and ignored at the hands of authority figures—social workers, mental ward attendants, doctors, and police. Yet perhaps most galling for her is the denial of autonomy over her immediate physical and social space, a betrayal not only of a connection to a wider community but also the immediate and necessary circumstances of life.
+https://is.muni.cz/el/1423/podzim2017/SPR101/um/um/Gary_L._Albrecht__Katherine_Delores_Seelman__Michael_Bury_Handbook_of_Disability_Studies.pdf
+altman chapter
 
-We, like Connie, live at a crux, poised between two futures. Increasingly, in fits and starts, in pockets and at the margins, in think pieces, in books, and at the dinner table, we grow aware that some totalizing force, some presence or trend or trend of trends, works against humanity. Many have attempted to place their finger on this force, this process or entity. For Hardt and Negri, it was /Empire/. For Benjamin H. Bratton, it is /The Stack/. For Herbert Marcuse, it was the one-dimensional or technological society [[citep:marcuse_one-dimensional_2002][p. 50]]. For Neil Postman, it was /technopoly/. My own colleague at the Graduate Center, Erin Glass, has described it, in the context of the academy, as the /invisible discipline/. XXX Though those who attempt to identify and define it each have a different sense of its shape, its scale, and its ends, there is a general sense that it is technocratic and technological—that is, comprising within itself systems of both humans and machines. There is also a sense that it is impersonal and encompassing—international or global in scope. In this project, I'll call this thing—this presence or process or entity—the /unhuman/. In using negation to identify it, I invoke humanity, a concept both elevated and workaday and also acknowledge that I am incapable of precisely, or even imprecisely, defining it.
+** Negotiation
 
-# borg complex: https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/
-# add moloch
+situatedness
+locus of control
+expanding outward
+** big ideas
+haccessibility
+negotiation
+unhuman 
 
-# add
-# Jaron Lanier
-# You Are Not a Gadget
-# Who Owns the Future
-# Bummer platform, Digital Maoism
+** What about power?
 
+What about text? What about atoms? everything is reducible to power, but that doesn't mean that power is the best level of abstraciton to discuss a phenomen, just as focusing on atoms isn't the best level of abstraction
+i am less interested in totalizing ur-explanations than the messy pragmatics of being a being in a complex world / entity in a complex system
+mushroom at the end of the world a good example, expereintial but with connections spreading outward
 
-In /Woman on the Edge of Time/, the other future—the one accessed not through Luciente but through a nameless, subjugated woman, is explicitly predicated on the ascendency of machine over person. This bleak future, in which technology is used by a few to force their will  on the many, has its root in a project in Connie's present, one in which implants are used to "reform" patients:
 
-#+BEGIN_QUOTE
-Back at their own beds, Sybil whispered, “The nurse didn’t contradict us about the electrodes. Could it be true?”\\
-“But what for?”\\
-“Control. To turn us into machines so we obey them,” Sybil whispered.
-#+END_QUOTE
-Aside from its historical foundation in real abuses of electroshock therapy, the future depicted by Piercy, one based on a state of technological control over society, may seem far-fetched. Unfortunately, it is not. We now live in a world where individuals can be fired by a machine citep:cellan-jones_man_2018, where algorithms decide who will be imprisoned and who will go free citep:avenue_human_2018, where filters dictate who we speak to and what we read XXX, and where cryptoutopians strive to remove human trust from law and finance XXX. It is a world in which we squat on digital property that we do not own XXX, are surveilled in public and in private, and connect our bodies to the cloud XXX, sometimes without our knowledge. Connie's future, a future of domination by and through machines, may already be upon us.
-
-*************** TODO insert citations for above claims about how the present is dominated ina new way by machines
-*************** END
-
-There is a precipitous verticality to the structure and language of this machine-dominated present. Benjamin H. Bratton acknowledges this in adopting an inherently vertical term to describe an emerging political geography that "draws on the multilayered structure of software, hardware, and network 'stacks' that arrange different technologies vertically within a modular, interdependent order" citep:bratton_stack:_2016. Verticality, a height that exceeds our reach, also provides a dimension along which to think about whether technology is within our control or whether we are in the control of technology. In /Woman on the Edge of Time/, when Connie first steps into Luciente's future, she envisions a world of dominating, thrusting structures: "[r]ocket ships, skyscrapers into the stratosphere, an underground mole world miles deep." Instead, the structures she does encounter are personal and broadly accessible, horizontal rather than vertical: "[a]rm in arm they strolled toward the meetinghouse, a building long and low like a loaf of bread." We see this distinction, too, in Connie's present. While part of her vision of freedom is "a TV set that she could turn on and off and tune to whatever program she wanted to watch," part of the indignity of the mental hospital is a lack of this kind of control over her environment: "[w]omen ... were sitting vacantly along the walls or staring at the television set placed up on a shelf where no one could reach it to change the station or alter the volume level." For these incarcerated women, technology is situated outside, literally above, their control. In this increasingly present future, technology is not something that we participate in as equals. More and more, it is something that happens to us.
-
-*************** TODO insert page number for stack citation
-*************** END
-
-This project, /Negotiated Access/, is about the locus of interaction—the point or edge along which we encounter our environment and exercise our autonomy. Fundamentally, it's an argument that this locus needs to be shifted from the distant, the impersonal, and the complex and placed close to the individual and the small community. This means that technology should be something we make and control, not something that happens to us. It means that social structure and infrastructure should be flexible, fluid, and federated, not one size fits all. It means, to put it less abstractly, that the television needs to come down from the damn shelf.
-
-*************** TODO summarize chapters?
-*************** end
-
-** Retaking Technology
-
-/Technology/--the word—no longer means what it once did. Increasingly, the term is used not to indicate the application of knowledge to real-world problems, but to describe a new form of mediated sociality. Concerns about, for example, "what happens when kids are perpetually exposed to technology" citep:detwiler_generation_2015, are not concerns that children are spending too much time hacking and making at their workbenches or dreaming about applications of carbon nanotubes to space exploration. Rather, /technology/, in this context, has a particular and narrow meaning: using a small set of specific, proprietary services on a small set of specific, proprietary devices. The term evokes first a set of interfaces, in particular smartphones and social media apps. Secondarily, it evokes a sector, the big 4.5 tech corporations that have come to dominate data and discourse in our society. Third, perhaps, might come a somewhat less narrow set of intensely hyped technologies—machine learning or cryptocurrency. Only after these associations—if then—might we consider more fundamental applications of knowledge—immunization, advances in solar energy, the Human Genome Project. Sherry Turkle employs this new usage of the word /technology/ in making a diagnosis of a sickness at the heart of our discourse:
-
-#+BEGIN_QUOTE
-Distracted at our dinner tables and living rooms, at our business meetings, and on our streets, we find traces of a new “silent spring”—a term Rachel Carson coined when we were ready to see that with technological change had come an assault on our environment. Now, we have arrived at another moment of recognition. This time, technology is implicated in an assault on empathy. citep:turkle_reclaiming_2016
-#+END_QUOTE
-When we use this word in the familiar way that Turkle does above,, we refer not to technology but to Technology™, a fixed ecosystem that converts attention into advertising dollars and trendy ideas into venture capital. Technology, used in this way, feels less and less like something that belongs to society. Instead, it is something placed between us and the world, a secret flame held by a technocratic elite, a narrative of progress that fails to live up to its triumphalism.
-
-If the very concept of technology is now suspect—if tech is now a four-letter word—how do we move forward? Since the early to mid-2000s, the ideological stance of standing apart or above culturally transformative technology has become increasingly untenable. More and more, the practical, cultural, and infrastructural impact of information technology is not confined to specific spheres, but touches on almost every aspect of daily life—a process that Steven Jones terms the "eversion." As infrastructure and social norms change to accommodate widespread use of technology, opting out of technology, practically speaking, means opting out of society. We know that we cannot roll back these technological, cultural, and infrastructural changes, that there will be no reversion to counter this eversion. How, then, can we conceive of a technology that will take us from where we are now to where we need to be? How do we envision a future like Luciente's, one where technology serves, rather than controls, humanity?
-
-** Techne
-
-In 1966, Lynn White, a historian at UCLA,  published an unusual book. /Medieval Technology and Social Change/ discussed a small set of frequently-overlooked innovations—the stirrup, the plow, the crank—arguing that they were largely responsible for the emergence of feudalism in the period. Though criticized, perhaps justly, as a lightweight adventure in technological determinism, the book's premise implied a lack of attention on the part of historians to technology associated with certain social strata—namely, those strata that did not possess the literacy or the cultural capital to pass on their own perspectives through histories and written records.
-
-When we think of "technology"—the concept or the word—we think of paradigms situated on the level of macro-scale entities and institutions—societies, nations, and corporations. This form of technology reaches, from on high, down into our lives. It offers us capabilities and connections, identity and convenience. It leverages iterative design, social science, and algorithm to nudge, rather than compel, recalcitrant humanity into engaging systems that control, flatten, and measure. We are grist in a highly abstract mill, our thoughts content, our relationships network effects, our differences market segments and our common humanity an exploited vulnerability. When we think of technology, we think of systems in which we are empowered only to the extent that we further render ourselves powerless.
-
-This narrow version of technology—Technology™—exerts a narrative pull. Lynn White's /Medieval Technology and Social Change/ was, and still is, notable in that it called attention to a technology of the immediate personal environment. The stirrup, the plow, and the crank, in transforming the relationship between people and their immediate environment—people and animals, people and land, people and things—precipitated extraordinary change in the wider society. Yet despite their broad implications, these hyperlocal changes tended to escape attention and analysis both contemporaneously and in hindsight. Similarly, highly local changes among people and their environments are not widely considered technology. To gather the narrative impetus or cultural cachet of /Technology™/, a knowledge of practice, a working, must meet arbitrary criteria—be conceived as a platform, be backed by venture capital, be in service of the few at the expense of the many.
-
-*************** TODO some Raymond Williams here?
-*************** END
-
-Is close reading not technology? Is a family recipe not an algorithm? Is a support group not a platform? Is a personal library not infrastructure? Certain forms of technology are glorified, even fetishized, while essential ways of knowing and doing are systematically undervalued. A technology, ultimately, is knowledge put into practice. Why do we hold up technologies of control, technologies of corporations, governments, and the powerful, while eliding, downplaying, disparaging, or ignoring the technology of individuals and localities, small groups and "little" disciplines?
-
-My purpose, here and in this project, is not to say that we need more craft and less technology, or to engage the usual, unfortunately now quotidian forms of antitechnological resistance—retreat and abstention or disruption and destruction. That story, it seems to me, is written, and the genie rarely reenters the bottle. Technology, too often, is as Dickens wrote, "[t]he power that forced itself upon its iron way--its own--defiant of all paths and roads, piercing through the heart of every obstacle, and dragging living creatures of all classes, ages, and degrees behind it" [[citep:dickens_dombey_1848][p. 311]]. Technology, like culture, is mimetic, heedlessly spreading, moving forward, from mind to mind. Just as culture cannot be fought with anti-culture, but must be fought with more culture, we cannot fight technology with anti-technology. We must decide, then, how to steal the Promethean fire with which to fight fire.
-
-If "technology" evokes application of knowledge in service of control and domination, what terms, what forms and models, are left to us? By rights, technology should be a broader, more encompassing term, yet it is difficult to rally around a more holistic vision of technology when an unhuman Technology™ strives always to take its place in discourse. 
-
-Greek philosophers used a term, /technē/, to describe an associative and conceptual space that is, in many ways, richer and broader than our own derived "technology." Tom Angier refers to the technai as "variously translatable as 'crafts', 'skills', 'arts' or 'forms of expertise'" [[citep:angier_techne_2012][p. 1]]. As with "technology," however, each of these terms has its own set of modern associations that make them inadequate as translations of /technē/. /Technē/ was most often used for knowing in service of a goal. It applied to professions such as medicine, teaching, and carpentry where knowledge and practice blurred in the service of a clear purpose.
-
-#+BEGIN_QUOTE
-From etymology and early usage, then, we can determine a property of /technē/ that will remain more or less constant: namely, that whoever practises a particular /technē/ possesses a determinate form of expertise. As Felix Heini- mann affirms, "Each /technē/ is correlated with a quite determinate [/bestimmte/] task and type of achievement’ (106). Or as Rudolf Löbl puts it, for every /technē/ ‘there is a telos, a goal, at which it aims . . . a kind of job [Werk] or action, that has to be realised’ (211). These references to particular ‘tasks’ or ‘goals’ should not be taken to preclude an individual /technē/ having as its proper concern a plurality of actions or products. After all, smithing (for one) encompasses a diverse set of these. ... It is in this sense, I take it, that ‘every /technē/ must have a quite determinate goal [/Ziel/], which distinguishes it from other technai’
-#+END_QUOTE
-
-
-
-
-, Taken individually, however, none of these terms approach 
-
-
-techne is application of knowledge serving as a means to an end, as in medicince
-
-
-
-
-
-
-
-
-
-
-
-*************** TODO introduce tekne
-*************** END
-
-fighting technology is like fighting culture
-doing so is kind of like outlawing crytocraphy
-
-
-
-
-that did not pass on their own records.
-
-: knights, peasants, and artisans. 
-
-Though strong 
-
-This book is not about 
-
-We need a more holistic vision of technology—
-
-technology broadly construed, 
-
-
-# poetic doomsaying
-:notes:
-Since the .com bust in the last gasps of the 20th century, we have opened a Pandora's box. Terrifying abstractions and twisted skewomorphs—Androids and Kindles; pushes, pings, and pokes; 
-
-universal search and the Everything Store
-chatbots and Snapchats
-Cloud
-:end:
-
-
-
-
-
-# (mis)uses of the word technology
-:notes:
-The Generation That Doesn't Remember Life Before Smartphones
-https://www.popularmechanics.com/technology/a17931/technology-american-teenager/
-- You hear two opinions from experts on the topic of what happens when kids are perpetually exposed to technology.
-
-https://www.popularmechanics.com/technology/a17931/technology-american-teenager/
-Yet, generation Z is often on the receiving end of criticism for the amount of time they spend using technology.
-:end:
-
-# the bad future
-
-# verticality in WotET
-:notes:
-
-Rocket ships, skyscrapers into the stratosphere, an underground mole world miles deep
-
-Arm in arm they strolled toward the meetinghouse, a building long and low like a loaf of bread.
-
-A surge of discomfort passed around the table. “It’s hard to explain,” Bee said, frowning. “Nobody’s supposed to discuss advances in science with you. It might be dangerous—for you, for us. Your scientists were so … childish? Carefully brought up through a course of study entered on early never to ask consequences, never to consider a broad range of effects, never to ask on whose behalf …”
-
-Barbarossa cleared his throat. “We could put it: at certain cruxes of history … forces are in conflict. Technology is imbalanced. Too few have too much power. Alternate futures are equally or almost equally probable … and that affects the … shape of time.”
-
-Back at their own beds, Sybil whispered, “The nurse didn’t contradict us about the electrodes. Could it be true?”
-“But what for?”
-“Control. To turn us into machines so we obey them,” Sybil whispered.
-:end:
-
-
-
-# 
-This book is not about that future, though. It's about the other one.
-
-
-Technology
-
-
-
-# woman at the edge of time quotes
-:notes:
-How she would celebrate her release! Her dingy two rooms with the toilet in the hall shone in her mind, vast and luxurious after the hospital. Doors she could shut! A toilet with a door! Chairs to sit in, a table of her own to eat on, a TV set that she could turn on and off and tune to whatever program she wanted to watch, her own bed with clean sheets and no stink of old piss. Her precious freedom and privacy!
-
-
-
-
-
-
-Around her kitchen she would sing and dance, she would sing love songs to the cucarachas and the chinces, her chinces! Her life that had felt so threadbare now spread out like a full red velvet rose—the rose that Claud had once brought her, loving it for its silkiness, its fragrance, and not knowing it was dark red Her ordinary penny-pinching life appeared to her full beyond the possibility of savoring every moment. A life crammed overflowing with aromas of coffee, of dope smoke in hallways, of refried cooking oil as she climbed the stairs of her tenement, of the fragrance of fresh-cut grass and new buds in Central Park. Sidewalk vendors. Cuchifritos. The spring rhythm of conga drums through the streets.
-:end:
-
-- describe good future
-- describe bad future
-- the crux of the feature is technological
-- in one, the technology serves people. in the other, technology is a means of control
-- one society is flat, the other is vertical
-- like connie, we occupy a space between two conflicting futures
-- it is not that these futures are possible. it's that they are here but exist as local conditions. "The futures are already here—they're just not very evenly distributed."
-- what is the bad future? people have called it by many names, depending on what aspect is focused on. empire, the invisible discipline, the stack. I prefer the unhuman.
-- what does the good future look like? it looks like local community, like self-determination, like the technology is the putty. we should not be the putty.
-- the aim of this project is to attend to the locus of interaction, the places where the individual encounters the environment or the small group encounters the society.
-- negotation
-- haccessibility
-- 
-
-Mattapoisett
-
-
-# introduce using percey's woman at the edge of time?
-
-:notes:
-
-We must make for ourselves, or be made upon.
-
-This is the foundational argument of this project, a project grounded in disability studies and traveling outward. 
-
-There are points of intersection between self and community, self and society, and community and society. The back-and-forth that occurs across these points, the negotiation among self, community, and society, is enabled and constrained by infrastructure—past decisions and creations that determine the possible and the impossible, the simple and the difficult, the accessible and the inaccessible. Though without infrastructure, individuals can do little, deliberate choices in how infrastructure is created constrain the self, coercing, influencing, or nudging the individual into the service of interests not their own. Infrastructure is necessary, but is frequently created to serve the powerful, the acquisitive, or the majoritarian.
-
-Infrastructure, however, can be turned, subverted, or reinvented to serve community and the individual. /Negotiated Access/ focuses on communities of practice—particularly communities of people with disabilities—who reforge the inaccessible into the accessible, or create knowledge and community in adverse circumstances.
-:end:
-
-*************** TODO Why is it important that communities create their own infrastructure? 
-*************** END
-*************** TODO How have communities been exploited? Which communities?
-*************** END
-*************** TODO What does the word "community" mean in this context?
-*************** END
 
 * Introducing Negotiated Access
 ** Terry Garrett
@@ -657,9 +466,60 @@ Up to then I had never thought about myself. True, there had come sometimes a va
 #+END_QUOTE
 Without Henry and the full participation -it facilitated, Brown is forced to see himself as others see him—dependent, ugly, other.
 
-Haccessibility, as a mode, provides a bridge between the individual and the immediate environment. It requires no special permission, no approbation from the wider society. In Brown's case, this is critical. Not only did doctors not believe that Brown was capable of communication through writing, they would later forbid him as a young adult from using his left foot to express himself, thinking that it would interfere with a medical cure. If Brown's writing of the letter "A" were dependent on a prior understanding by the broader society—/das Man/—it would not have occurred. Likewise, if Brown's childhood adventures with his brothers needed the permission of those Dubliners giving him "queer looks," he would not have been able to participate. Haccessibility here, as it frequently does, throws the tyranny of the idealized normal, the elusive /das Man/, into sharp relief. Brown's writing with his left foot makes clear a lack of understanding on the part of those that write with the "right" hand. There is a sense in which these acts of haccessibility are more powerful for their limitations. By creating ways forward that are contingent, local, and born of necessity, they show the narrowness and inflexibility of the physical and social environment and its inadequacy for meeting the needs of its inhabitants
+Haccessibility, as a mode, provides a bridge between the individual and the immediate environment. It requires no special permission, no approbation from the wider society. In Brown's case, this is critical. Not only did doctors not believe that Brown was capable of communication through writing, they would later forbid him as a young adult from using his left foot to express himself, thinking that it would interfere with a medical cure. If Brown's writing of the letter "A" were dependent on a prior understanding by the broader society—/das Man/—it would not have occurred. Likewise, if Brown's childhood adventures with his brothers needed the permission of those Dubliners giving him "queer looks," he would not have been able to participate. 
+
+Haccessibility here, as it frequently does, throws the tyranny of the idealized normal, the elusive /das Man/, into sharp relief. Brown's writing with his left foot makes clear a lack of understanding on the part of those that write with the "right" hand. There is a sense in which these acts of haccessibility are more powerful for their limitations. By creating ways forward that are contingent, local, and born of necessity, they show the narrowness and inflexibility of the physical and social environment and its inadequacy for meeting the needs of its inhabitants.
 
 ** Seeking Expression
+
+Haccessibility—the creative use of his left foot—made communication possible for Brown. However, to understand the extent of Brown's negotiation, his drawing and redrawing of the thin thread that connected the particulars of his life to a legible universal—we should consider his repeated redefinition of self through new forms of expression.
+
+Brown's first redefinition of self related to the conditions of his immediate environment and his relationship with his family. At five, Brown's writing of the letter "A" allowed him to remain physically present—that is, to not be institutionalized. It also redefined his identity, marking him a full member of the family. At the age of ten, Brown is faced with another crisis of identity. After his exclusion  from full participation in the adventures of his brothers and the realization that he is different from those around him, Brown withdraws and is considerably unhappy: "I was now ten and a half and beginning to sink deeper and deeper into myself. ... [N]othing ... could bring back the happy child that used to be me.... In his place was a tense, silent, great-eyed creature who had nerves as sharp as broken glass and as taut as telegraph wires" citep:brown_my_1955. At this crux, Brown once again redefines himself through the discovery of a new form of expression. 
+
+When one of brown's brothers receives a set of watercolors for Christmas, Brown trades for it, and, after the holiday, begins to practice. Before long, Brown has become so immersed in painting with his left foot that he has little attention left for unhappiness: "As I became further attached to painting I began to feel happier and more tranquil within myself. I was less inclined to snap at the others if they asked me anything or even spoke to me, as I did before. Painting became the one great love in my life, the main pivot of my concentration. I lived within the orbit of my paints and brushes" citep:brown_my_1955. Painting allows Brown to redefine himself as productive and useful, and he receives relatively early validation after winning a contest in the Irish Independent, a widely circulated newspaper. At fifteen, however, Brown finds himself in another crisis of identity. Brown develops an attachment to a local young woman, but finds his feelings are reciprocated only with pity. At the same time, his siblings rapidly develop into young adults with their own romantic attachments, and, eventually, family responsibilities.
+
+*************** TODO footnote on Lourdes
+*************** END
+
+Brown, as a young adult, is once more thrown into a crisis of identity by his disability, beginning to resent his family and regard his home as a prison. In the Ireland of the 1960s, this crisis becomes centered on two hopes for a cure: the seeking of a miracle at Lourdes, a Catholic holy site, and an involvement with a nascent Irish medical establishment at the early stages of an understanding of cerebral palsy. Though Brown is not particularly interested in religion, he agrees to a trip to Lourdes partly for the experience of travel and partly for the prospect of a miracle. Though the miricle, perhaps unsurprisingly, is not forthcoming, Brown does find, for the first time, that he is not the only individual with a disability:
+
+#+BEGIN_QUOTE
+As I saw all those people each with his or her own suffering, a new light began to dawn upon me. I was rather bewildered; I had not imagined there could be so much suffering in the world. I had been rather like a snail shut away in his own narrow little shell and that was only now beginning to see the great crowded world that lay beyond. Not only were all those people afflicted, but, to my surprise, their handicaps were actually worse than my own!
+#+END_QUOTE
+
+
+to begin to form relationships outside the family.
+
+
+
+
+*************** brown quotes
+
+After some months a new feeling sprang up within me—a horrible feeling. I began to be not merely miserable and gloomy, but also resentful. I resented the world as a whole because of my crooked mouth, twisted hands and useless limbs. I looked about at all that was normal and perfect around me, and asked myself for the hundredth time why was I made different, why should I have been given the same feelings, the same needs and sensitivities as other people along with a practically function-less body that not only denied me the right to live a normal life, but also made me sick at the very sight of myself? What had I to look forward to? What prospect had I of being anything else other than the cripple who painted with his toes? People always thought it was a marvellous thing that I could paint with my toes and told me I was lucky, yes, quite a remarkable boy. But what difference did painting with my left foot make? What good was it saying I was remarkable? I didn’t want to be remarkable—I only wanted to be ordinary, like everyone else. Just because I did with my left foot what others did with their hands people said it was a wonderful thing. Maybe it was—I didn’t know. I used my foot simply because I couldn’t use my hands, but it did not make me feel proud or unique. In fact I never used my left foot in the presence of anybody I didn’t know very well, because it made me feel rather silly and awkward. I always felt like a performing monkey or seal.
+
+
+---
+
+
+
+
+“He’d make the best bricklayer of the lot of you,” father would say when he was a little ‘tight’, pointing at me in front of the others. “You’d be earning five pounds a week now, Chris, building houses, a pair of dungarees on you and a good steel trowel in your hand.” I hated bricklaying because I couldn’t lay bricks.
+
+
+"I was changing.... Above all I learned to forget myself. I didn’t miss going out with my brothers now, for I had something to keep my mind active, something to make each day, a thing to look forward to" citep:brown_my_1955.
+
+I knew then, as I came to know many times later, how bitter and crushing a simple look of pity can be to someone like myself who needs something other than sympathy—the strength that only genuine human affection can give to the weakest heart.
+
+
+
+*************** END
+
+
+
+
+
+
+
 
 Brown's painting
 Medical stuff, banned
@@ -1176,7 +1036,11 @@ can haccessibility  help here? just as we must replace bad culture with good cul
 # erros in excel
 http://www.sciencemag.org/news/2016/08/one-five-genetics-papers-contains-errors-thanks-microsoft-excel
 
-* 
+
+
+* Conclusion
+** notes
+
 myth of the machine: silicon valley the new priest-kings
 pursuit of immortality, mummies and cryotherapy
 the machine created is ultimately not one of stone, steel, or silicon, but of people. technology is glue
@@ -1194,7 +1058,227 @@ find some hope...buckminster fuller? octavia butler? something local. ask carrie
 really, what is my endgame here? is there a future of radical local empowerment? civics? bootstrap ourselves to in-the-moment intervensions. vinge's jit?
 bigger is not better. faster is not farther.
 the singularity is queer...queer theory? munoz?
+steven universe?
 
+
+** Two Futures and a Present
+
+# Two futures, superimposed, haunt our present. 
+
+Consuelo Ramos, the protagonist of the 1976 novel /Woman on the Edge of Time/, finds herself in a present on the verge of two futures. Receiving visitations from Luciente, an occupant of the year 2137, Connie is exposed to a society that values community, self-determination, autonomy, and environmental awareness—a future based on the civil rights and environmental movements that were only beginning to gain traction in the mid-70s. Yet Luciente's future is not the only one represented in the novel. Connie receives flashes of another eventuality, one in which oligarchs dominate humanity through rigid control and categorization. Each of these futures has seeds in Connie's present. Connie, while incarcerated and ground down by a relentless bureaucratic machine, has a burning sense of what could be, how her surroundings could reflect back her own autonomy instead of her own subjugation:
+
+#+BEGIN_QUOTE
+How she would celebrate her release! Her dingy two rooms with the toilet in the hall shone in her mind, vast and luxurious after the hospital. Doors she could shut! A toilet with a door! Chairs to sit in, a table of her own to eat on, a TV set that she could turn on and off and tune to whatever program she wanted to watch, her own bed with clean sheets and no stink of old piss. Her precious freedom and privacy!
+#+END_QUOTE
+Throughout the novel, Connie is, by turns, physically injured, insulted, and ignored at the hands of authority figures—social workers, mental ward attendants, doctors, and police. Yet perhaps most galling for her is the denial of autonomy over her immediate physical and social space, a betrayal not only of a connection to a wider community but also the immediate and necessary circumstances of life.
+
+We, like Connie, live at a crux, poised between two futures. Increasingly, in fits and starts, in pockets and at the margins, in think pieces, in books, and at the dinner table, we grow aware that some totalizing force, some presence or trend or trend of trends, works against humanity. Many have attempted to place their finger on this force, this process or entity. For Hardt and Negri, it was /Empire/. For Benjamin H. Bratton, it is /The Stack/. For Herbert Marcuse, it was the one-dimensional or technological society [[citep:marcuse_one-dimensional_2002][p. 50]]. For Neil Postman, it was /technopoly/. My own colleague at the Graduate Center, Erin Glass, has described it, in the context of the academy, as the /invisible discipline/. XXX Though those who attempt to identify and define it each have a different sense of its shape, its scale, and its ends, there is a general sense that it is technocratic and technological—that is, comprising within itself systems of both humans and machines. There is also a sense that it is impersonal and encompassing—international or global in scope. In this project, I'll call this thing—this presence or process or entity—the /unhuman/. In using negation to identify it, I invoke humanity, a concept both elevated and workaday and also acknowledge that I am incapable of precisely, or even imprecisely, defining it.
+
+# borg complex: https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/
+# add moloch
+
+# add
+# Jaron Lanier
+# You Are Not a Gadget
+# Who Owns the Future
+# Bummer platform, Digital Maoism
+
+
+In /Woman on the Edge of Time/, the other future—the one accessed not through Luciente but through a nameless, subjugated woman, is explicitly predicated on the ascendency of machine over person. This bleak future, in which technology is used by a few to force their will  on the many, has its root in a project in Connie's present, one in which implants are used to "reform" patients:
+
+#+BEGIN_QUOTE
+Back at their own beds, Sybil whispered, “The nurse didn’t contradict us about the electrodes. Could it be true?”\\
+“But what for?”\\
+“Control. To turn us into machines so we obey them,” Sybil whispered.
+#+END_QUOTE
+Aside from its historical foundation in real abuses of electroshock therapy, the future depicted by Piercy, one based on a state of technological control over society, may seem far-fetched. Unfortunately, it is not. We now live in a world where individuals can be fired by a machine citep:cellan-jones_man_2018, where algorithms decide who will be imprisoned and who will go free citep:avenue_human_2018, where filters dictate who we speak to and what we read XXX, and where cryptoutopians strive to remove human trust from law and finance XXX. It is a world in which we squat on digital property that we do not own XXX, are surveilled in public and in private, and connect our bodies to the cloud XXX, sometimes without our knowledge. Connie's future, a future of domination by and through machines, may already be upon us.
+
+*************** TODO insert citations for above claims about how the present is dominated ina new way by machines
+*************** END
+
+There is a precipitous verticality to the structure and language of this machine-dominated present. Benjamin H. Bratton acknowledges this in adopting an inherently vertical term to describe an emerging political geography that "draws on the multilayered structure of software, hardware, and network 'stacks' that arrange different technologies vertically within a modular, interdependent order" citep:bratton_stack:_2016. Verticality, a height that exceeds our reach, also provides a dimension along which to think about whether technology is within our control or whether we are in the control of technology. In /Woman on the Edge of Time/, when Connie first steps into Luciente's future, she envisions a world of dominating, thrusting structures: "[r]ocket ships, skyscrapers into the stratosphere, an underground mole world miles deep." Instead, the structures she does encounter are personal and broadly accessible, horizontal rather than vertical: "[a]rm in arm they strolled toward the meetinghouse, a building long and low like a loaf of bread." We see this distinction, too, in Connie's present. While part of her vision of freedom is "a TV set that she could turn on and off and tune to whatever program she wanted to watch," part of the indignity of the mental hospital is a lack of this kind of control over her environment: "[w]omen ... were sitting vacantly along the walls or staring at the television set placed up on a shelf where no one could reach it to change the station or alter the volume level." For these incarcerated women, technology is situated outside, literally above, their control. In this increasingly present future, technology is not something that we participate in as equals. More and more, it is something that happens to us.
+
+*************** TODO insert page number for stack citation
+*************** END
+
+This project, /Negotiated Access/, is about the locus of interaction—the point or edge along which we encounter our environment and exercise our autonomy. Fundamentally, it's an argument that this locus needs to be shifted from the distant, the impersonal, and the complex and placed close to the individual and the small community. This means that technology should be something we make and control, not something that happens to us. It means that social structure and infrastructure should be flexible, fluid, and federated, not one size fits all. It means, to put it less abstractly, that the television needs to come down from the damn shelf.
+
+*************** TODO summarize chapters?
+*************** end
+
+** Retaking Technology
+
+/Technology/--the word—no longer means what it once did. Increasingly, the term is used not to indicate the application of knowledge to real-world problems, but to describe a new form of mediated sociality. Concerns about, for example, "what happens when kids are perpetually exposed to technology" citep:detwiler_generation_2015, are not concerns that children are spending too much time hacking and making at their workbenches or dreaming about applications of carbon nanotubes to space exploration. Rather, /technology/, in this context, has a particular and narrow meaning: using a small set of specific, proprietary services on a small set of specific, proprietary devices. The term evokes first a set of interfaces, in particular smartphones and social media apps. Secondarily, it evokes a sector, the big 4.5 tech corporations that have come to dominate data and discourse in our society. Third, perhaps, might come a somewhat less narrow set of intensely hyped technologies—machine learning or cryptocurrency. Only after these associations—if then—might we consider more fundamental applications of knowledge—immunization, advances in solar energy, the Human Genome Project. Sherry Turkle employs this new usage of the word /technology/ in making a diagnosis of a sickness at the heart of our discourse:
+
+#+BEGIN_QUOTE
+Distracted at our dinner tables and living rooms, at our business meetings, and on our streets, we find traces of a new “silent spring”—a term Rachel Carson coined when we were ready to see that with technological change had come an assault on our environment. Now, we have arrived at another moment of recognition. This time, technology is implicated in an assault on empathy. citep:turkle_reclaiming_2016
+#+END_QUOTE
+When we use this word in the familiar way that Turkle does above,, we refer not to technology but to Technology™, a fixed ecosystem that converts attention into advertising dollars and trendy ideas into venture capital. Technology, used in this way, feels less and less like something that belongs to society. Instead, it is something placed between us and the world, a secret flame held by a technocratic elite, a narrative of progress that fails to live up to its triumphalism.
+
+If the very concept of technology is now suspect—if tech is now a four-letter word—how do we move forward? Since the early to mid-2000s, the ideological stance of standing apart or above culturally transformative technology has become increasingly untenable. More and more, the practical, cultural, and infrastructural impact of information technology is not confined to specific spheres, but touches on almost every aspect of daily life—a process that Steven Jones terms the "eversion." As infrastructure and social norms change to accommodate widespread use of technology, opting out of technology, practically speaking, means opting out of society. We know that we cannot roll back these technological, cultural, and infrastructural changes, that there will be no reversion to counter this eversion. How, then, can we conceive of a technology that will take us from where we are now to where we need to be? How do we envision a future like Luciente's, one where technology serves, rather than controls, humanity?
+
+** Techne
+
+In 1966, Lynn White, a historian at UCLA,  published an unusual book. /Medieval Technology and Social Change/ discussed a small set of frequently-overlooked innovations—the stirrup, the plow, the crank—arguing that they were largely responsible for the emergence of feudalism in the period. Though criticized, perhaps justly, as a lightweight adventure in technological determinism, the book's premise implied a lack of attention on the part of historians to technology associated with certain social strata—namely, those strata that did not possess the literacy or the cultural capital to pass on their own perspectives through histories and written records.
+
+When we think of "technology"—the concept or the word—we think of paradigms situated on the level of macro-scale entities and institutions—societies, nations, and corporations. This form of technology reaches, from on high, down into our lives. It offers us capabilities and connections, identity and convenience. It leverages iterative design, social science, and algorithm to nudge, rather than compel, recalcitrant humanity into engaging systems that control, flatten, and measure. We are grist in a highly abstract mill, our thoughts content, our relationships network effects, our differences market segments and our common humanity an exploited vulnerability. When we think of technology, we think of systems in which we are empowered only to the extent that we further render ourselves powerless.
+
+This narrow version of technology—Technology™—exerts a narrative pull. Lynn White's /Medieval Technology and Social Change/ was, and still is, notable in that it called attention to a technology of the immediate personal environment. The stirrup, the plow, and the crank, in transforming the relationship between people and their immediate environment—people and animals, people and land, people and things—precipitated extraordinary change in the wider society. Yet despite their broad implications, these hyperlocal changes tended to escape attention and analysis both contemporaneously and in hindsight. Similarly, highly local changes among people and their environments are not widely considered technology. To gather the narrative impetus or cultural cachet of /Technology™/, a knowledge of practice, a working, must meet arbitrary criteria—be conceived as a platform, be backed by venture capital, be in service of the few at the expense of the many.
+
+*************** TODO some Raymond Williams here?
+*************** END
+
+Is close reading not technology? Is a family recipe not an algorithm? Is a support group not a platform? Is a personal library not infrastructure? Certain forms of technology are glorified, even fetishized, while essential ways of knowing and doing are systematically undervalued. A technology, ultimately, is knowledge put into practice. Why do we hold up technologies of control, technologies of corporations, governments, and the powerful, while eliding, downplaying, disparaging, or ignoring the technology of individuals and localities, small groups and "little" disciplines?
+
+My purpose, here and in this project, is not to say that we need more craft and less technology, or to engage the usual, unfortunately now quotidian forms of antitechnological resistance—retreat and abstention or disruption and destruction. That story, it seems to me, is written, and the genie rarely reenters the bottle. Technology, too often, is as Dickens wrote, "[t]he power that forced itself upon its iron way--its own--defiant of all paths and roads, piercing through the heart of every obstacle, and dragging living creatures of all classes, ages, and degrees behind it" [[citep:dickens_dombey_1848][p. 311]]. Technology, like culture, is mimetic, heedlessly spreading, moving forward, from mind to mind. Just as culture cannot be fought with anti-culture, but must be fought with more culture, we cannot fight technology with anti-technology. We must decide, then, how to steal the Promethean fire with which to fight fire.
+
+If "technology" evokes application of knowledge in service of control and domination, what terms, what forms and models, are left to us? By rights, technology should be a broader, more encompassing term, yet it is difficult to rally around a more holistic vision of technology when an unhuman Technology™ strives always to take its place in discourse. 
+
+Greek philosophers used a term, /technē/, to describe an associative and conceptual space that is, in many ways, richer and broader than our own derived "technology." Tom Angier refers to the technai as "variously translatable as 'crafts', 'skills', 'arts' or 'forms of expertise'" [[citep:angier_techne_2012][p. 1]]. As with "technology," however, each of these terms has its own set of modern associations that make them inadequate as translations of /technē/. /Technē/ was most often used for knowing in service of a goal. It applied to professions such as medicine, teaching, and carpentry where knowledge and practice blurred in the service of a clear purpose.
+
+#+BEGIN_QUOTE
+From etymology and early usage, then, we can determine a property of /technē/ that will remain more or less constant: namely, that whoever practises a particular /technē/ possesses a determinate form of expertise. As Felix Heini- mann affirms, "Each /technē/ is correlated with a quite determinate [/bestimmte/] task and type of achievement’ (106). Or as Rudolf Löbl puts it, for every /technē/ ‘there is a telos, a goal, at which it aims . . . a kind of job [Werk] or action, that has to be realised’ (211). These references to particular ‘tasks’ or ‘goals’ should not be taken to preclude an individual /technē/ having as its proper concern a plurality of actions or products. After all, smithing (for one) encompasses a diverse set of these. ... It is in this sense, I take it, that ‘every /technē/ must have a quite determinate goal [/Ziel/], which distinguishes it from other technai’
+#+END_QUOTE
+
+
+
+
+, Taken individually, however, none of these terms approach 
+
+
+techne is application of knowledge serving as a means to an end, as in medicince
+
+
+
+
+
+
+
+
+
+
+
+*************** TODO introduce tekne
+*************** END
+
+fighting technology is like fighting culture
+doing so is kind of like outlawing crytocraphy
+
+
+
+
+that did not pass on their own records.
+
+: knights, peasants, and artisans. 
+
+Though strong 
+
+This book is not about 
+
+We need a more holistic vision of technology—
+
+technology broadly construed, 
+
+
+# poetic doomsaying
+:notes:
+Since the .com bust in the last gasps of the 20th century, we have opened a Pandora's box. Terrifying abstractions and twisted skewomorphs—Androids and Kindles; pushes, pings, and pokes; 
+
+universal search and the Everything Store
+chatbots and Snapchats
+Cloud
+:end:
+
+
+
+
+
+# (mis)uses of the word technology
+:notes:
+The Generation That Doesn't Remember Life Before Smartphones
+https://www.popularmechanics.com/technology/a17931/technology-american-teenager/
+- You hear two opinions from experts on the topic of what happens when kids are perpetually exposed to technology.
+
+https://www.popularmechanics.com/technology/a17931/technology-american-teenager/
+Yet, generation Z is often on the receiving end of criticism for the amount of time they spend using technology.
+:end:
+
+# the bad future
+
+# verticality in WotET
+:notes:
+
+Rocket ships, skyscrapers into the stratosphere, an underground mole world miles deep
+
+Arm in arm they strolled toward the meetinghouse, a building long and low like a loaf of bread.
+
+A surge of discomfort passed around the table. “It’s hard to explain,” Bee said, frowning. “Nobody’s supposed to discuss advances in science with you. It might be dangerous—for you, for us. Your scientists were so … childish? Carefully brought up through a course of study entered on early never to ask consequences, never to consider a broad range of effects, never to ask on whose behalf …”
+
+Barbarossa cleared his throat. “We could put it: at certain cruxes of history … forces are in conflict. Technology is imbalanced. Too few have too much power. Alternate futures are equally or almost equally probable … and that affects the … shape of time.”
+
+Back at their own beds, Sybil whispered, “The nurse didn’t contradict us about the electrodes. Could it be true?”
+“But what for?”
+“Control. To turn us into machines so we obey them,” Sybil whispered.
+:end:
+
+
+
+# 
+This book is not about that future, though. It's about the other one.
+
+
+Technology
+
+
+
+# woman at the edge of time quotes
+:notes:
+How she would celebrate her release! Her dingy two rooms with the toilet in the hall shone in her mind, vast and luxurious after the hospital. Doors she could shut! A toilet with a door! Chairs to sit in, a table of her own to eat on, a TV set that she could turn on and off and tune to whatever program she wanted to watch, her own bed with clean sheets and no stink of old piss. Her precious freedom and privacy!
+
+
+
+
+
+
+Around her kitchen she would sing and dance, she would sing love songs to the cucarachas and the chinces, her chinces! Her life that had felt so threadbare now spread out like a full red velvet rose—the rose that Claud had once brought her, loving it for its silkiness, its fragrance, and not knowing it was dark red Her ordinary penny-pinching life appeared to her full beyond the possibility of savoring every moment. A life crammed overflowing with aromas of coffee, of dope smoke in hallways, of refried cooking oil as she climbed the stairs of her tenement, of the fragrance of fresh-cut grass and new buds in Central Park. Sidewalk vendors. Cuchifritos. The spring rhythm of conga drums through the streets.
+:end:
+
+- describe good future
+- describe bad future
+- the crux of the feature is technological
+- in one, the technology serves people. in the other, technology is a means of control
+- one society is flat, the other is vertical
+- like connie, we occupy a space between two conflicting futures
+- it is not that these futures are possible. it's that they are here but exist as local conditions. "The futures are already here—they're just not very evenly distributed."
+- what is the bad future? people have called it by many names, depending on what aspect is focused on. empire, the invisible discipline, the stack. I prefer the unhuman.
+- what does the good future look like? it looks like local community, like self-determination, like the technology is the putty. we should not be the putty.
+- the aim of this project is to attend to the locus of interaction, the places where the individual encounters the environment or the small group encounters the society.
+- negotation
+- haccessibility
+- 
+
+Mattapoisett
+
+
+# introduce using percey's woman at the edge of time?
+
+:notes:
+
+We must make for ourselves, or be made upon.
+
+This is the foundational argument of this project, a project grounded in disability studies and traveling outward. 
+
+There are points of intersection between self and community, self and society, and community and society. The back-and-forth that occurs across these points, the negotiation among self, community, and society, is enabled and constrained by infrastructure—past decisions and creations that determine the possible and the impossible, the simple and the difficult, the accessible and the inaccessible. Though without infrastructure, individuals can do little, deliberate choices in how infrastructure is created constrain the self, coercing, influencing, or nudging the individual into the service of interests not their own. Infrastructure is necessary, but is frequently created to serve the powerful, the acquisitive, or the majoritarian.
+
+Infrastructure, however, can be turned, subverted, or reinvented to serve community and the individual. /Negotiated Access/ focuses on communities of practice—particularly communities of people with disabilities—who reforge the inaccessible into the accessible, or create knowledge and community in adverse circumstances.
+:end:
+
+*************** TODO Why is it important that communities create their own infrastructure? 
+*************** END
+*************** TODO How have communities been exploited? Which communities?
+*************** END
+*************** TODO What does the word "community" mean in this context?
+*************** END
 
 * sort
 
