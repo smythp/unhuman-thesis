@@ -65,6 +65,12 @@ What about text? What about atoms? everything is reducible to power, but that do
 i am less interested in totalizing ur-explanations than the messy pragmatics of being a being in a complex world / entity in a complex system
 mushroom at the end of the world a good example, expereintial but with connections spreading outward
 
+#+BEGIN_QUOTE
+here are two aspects to power. The first aspect is what the German philosopher Rainer Forst in 2014 defined as ‘the capacity of A to motivate B to think or do something that B would otherwise not have thought or done’. The means through which the powerful enact their influence are varied. They include motivational speeches, recommendations, ideological descriptions of the world, seduction and credible threats. Forst argues that brute force or violence is not an exercise of power, for subjected people don’t ‘do’ anything; rather, something is done to them. But clearly brute force is an instance of power. It is counterintuitive to think of someone as powerless who is subjecting us through violence. Think of an army dominating a population, or a thug strangling you. In Economy and Society (1978), the German political economist Max Weber describes this second aspect of power as the ability for people and institutions to ‘carry out [their] own will despite resistance’.
+#+END_QUOTE
+https://aeon.co/essays/privacy-matters-because-it-empowers-us-all
+
+
 
 
 * Introducing Negotiated Access
@@ -671,6 +677,20 @@ https://muse-jhu-edu.ezproxy.cul.columbia.edu/article/693135
 
 # elephant man autobiography
 http://www.nineteenthcenturydisability.org/items/show/38
+** ending
+when we try to affect our environment (could be through expression, whatever) it's like a radio signal or a shout that gets dimmer the futher it gets out
+people like danny (from 12 words) or "there's a boy in here" guy can perhaps affect, be understood, by their own immediate family, etc.
+in order to be heard more broadly, it's required that you use a conveyance of some kind. that can be, and might need to be, a tecynology or platform of some kind, as we'll discuss in the next chapter. but perhaps even more important, we need to piggyback, build on, an idea that is already broadly understood.
+people with disabilities are disadvantaged in piggybacking. /das man/ has all these concepts that are not made to cnvey the disabled experience
+think about Wittgenstein, immenient sppech vs abstract signs. people with disabilities are often stuck in one more or the other. (danny from 12 words stuck in immenent, blind people often stuck in signs)
+finding that thread between the individual and the universal, negotiating disability identity, is fundamentally an act of hacking. we have to take a concept from the /das Man/ portfolio and hack it, make carry the individual perspective to the many. it's almost like a mimetic trojan or virus.
+the most common "hack" is just to have an able person tell the story. the disabled identity can come through only at the edges or in a mediated fashion. "a boy in here" and some of helen keller's stuff, cristy brown's first book has a subler form of this where his experience is mediated by his family and the real expereince doesn't come out until /down all the days/
+another hack is just profoundly not giving a shit and getting your perspective out there. might communicate well to a few but probably won't put a dent in /das man/. /two arms and a head/ might fit this
+it takes real transcendent hacks to bridge the gap in a more real way. i think /double take/ approaches this.
+seeking autonomy through autobiography is pretty imperfect, but in haccessibility tradition it's a way forward when there's no way forward. you need to get the attention of /das man/ for anyting real to happen.
+
+
+
 * infrastructure
 
 ** infrastructure: a local phenomenon
@@ -1350,5 +1370,7 @@ https://aeon.co/ideas/the-hypersane-are-among-us-if-only-we-are-prepared-to-look
 
 bibliographystyle:apalike
 bibliography:references.bib
+
+
 
 

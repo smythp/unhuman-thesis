@@ -72,6 +72,8 @@ https://aeon.co/ideas/the-hypersane-are-among-us-if-only-we-are-prepared-to-look
 
 
 
+
+
 * notes
 to be a machine : adventures among cyborgs, utopians, hackers, and the futurists solving the modest problem of death
 author
@@ -690,3 +692,7 @@ https://www.washingtonpost.com/archive/opinions/1981/06/07/stop-caring-for-the-d
 
 BUMMER platform
 https://lareviewofbooks.org/article/delete-your-account-a-conversation-with-jaron-lanier/#!
+
+
+* nudge stuff
+https://aeon.co/essays/our-behaviour-in-bulk-is-more-predictable-than-we-like-to-imagine
