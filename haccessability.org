@@ -38,6 +38,14 @@
 
 #+LATEX: \mainmatter
 :END:
+:citations:
+*************** citations
+cite:savicic_unpleasant_2016
+
+*************** END
+
+:end:
+
 * Introduction
 
 ** my experience
@@ -356,14 +364,16 @@ Initially and for the most part, de-distancing is a circumspect approaching, a b
 #+END_QUOTE
 The Heideggerian worldview, where space is a function of our own nature and the nature of our relationship to the objects and people around us, has implications for how we think about autonomy, not as a separation or independence from the world around us but as a measure of our ability to meaningfully act, to draw things closer to us or to distance ourselves from them.
 
-There are other implications to this worldview. One is that stuff has allegiance. While we make demands on the built environment—sitting in chairs, opening doors, looking out windows, climbing up stairs—the built environment makes demands on us. The locked door or gate bars passage, creating demarcations where there is distance for one and nearness for another. Adversarial equipment (fences, walls, doors, signs, checkpoints, in a social context, functionally determines geography, how space for us is determined.
+There are other implications to this worldview. One is that stuff has allegiance. While we make demands on the built environment—sitting in chairs, opening doors, looking out windows, climbing up stairs—the built environment makes demands on us. The locked door or gate bars passage, creating demarcations where there is distance for one and nearness for another. Adversarial equipment (fences, walls, doors, signs, checkpoints, in a social context, functionally determines geography, how space for us is determined.[fn:hostile_architecture]
+
+[fn:hostile_architecture] I use the term adversarial equipment here to contrast with Heidegger's concept of equipment as handy or to hand, and as a more general term that can apply equally to objects, devices, and architecture. In architecture more specifically, this concept has been called hostile architecture, defensive architecture, exclusionary design, or unpleasant design. Examples include spiked park benches to discourage overnight sleeping, irritating sounds to deter youth congregation, or blue lights to make it difficult for drug users to find veins. See /Callous Objects: Designs Against the Homeless/ (Robert Rosenberger)and /Unpleasant Design/ (Gordan Savicic, Selena Savic).
 
 *************** TODO the stack might be useful here
 *************** END
 
 Thinking of the phenomenon more broadly, however, we see a key threat to the exercise of our autonomy. The more we look around our built environment, the more we see that it is filled with entities that reach out to and through us, but do not allow reaching back in return. That is, these objects, though close to us in a literal sense, are distant from us in the real way that we encounter the world. Though we will engage with this idea more fully in the next chapter when we consider the implications of infrastructure for negotiation, we can see this reality most plainly and obtrusively in the object, and ideology, of the smartphone. 
 
-These interfaces constrain behavior, encouraging specific sanctioned uses, and especially passive consumption, while reporting detailed information on user behavior and location. Though the smartphone is an intimate companion—a majority of Americans keep them in reach as they sleep—they are, in a Heideggerian sense, alarmingly distant from the users they appear to serve. Despite their intimate physical proximity, the smartphone as an artifact is itself never drawn closer to us and is never "to hand" in the sense of the hammer—ironic, given the German word for cell phone is the faux-loanword /Handy/. The smartphone does not conform itself to us, but conforms our interactions and behavior to its abstract affordances. Some artifacts—a cane, a pot, and, yes, a hammer—create energy, connections, impetus that flow from us and our volition outward to our immediate environment. Other artifacts—the codex and the letter come to mind—allow for others in far places and times to reach out to us, and the impetus flows in great part from the world and toward out selves. These artifacts, however, allow us to encounter them largely on our own terms—my copy of /The Tipping Point/ won't report my crude marginalia to Malcolm Gladwell. The smartphone, and its eReader and tablet cousins , are not artifacts in this sense—without constant two-way communication they are the merest trash. Rather, they should be thought of as interfaces, processes, or, most evocatively, presences.
+These interfaces constrain behavior, encouraging specific sanctioned uses, and especially passive consumption, while reporting detailed information on user behavior and location. Though the smartphone is an intimate companion—a majority of Americans keep them in reach as they sleep—they are, in a Heideggerian sense, alarmingly distant from the users they appear to serve. Despite their intimate physical proximity, the smartphone as an artifact is itself never drawn closer to us and is never "to hand" in the sense of the hammer—ironic, given the German word for cell phone is the faux-loanword /Handy/. The smartphone does not conform itself to us, but conforms our interactions and behavior to its abstract affordances. Some artifacts—a cane, a pot, and, yes, a hammer—create energy, connections, impetus that flow from us and our volition outward to our immediate environment. Other artifacts—the codex and the letter come to mind—allow for others in far places and times to reach out to us, and the impetus flows in great part from the world and toward ourselves. These artifacts, however, allow us to encounter them largely on our own terms—my trade paperback of /Twilight/ won't report my reading habits back to Stephenie Meyer, but my Kindle edition of Snowden's /Permanent Record/ will happily, and with great irony, report on me to Amazon. The smartphone, and its eReader and tablet cousins , are not artifacts in the sense of the hammer—without constant two-way communication they are fit only for the landfill. Rather, they should be thought of as interfaces, processes, or, most evocatively, presences.
 
 *************** TODO update the smartphone sleep statistic above
 *************** END
