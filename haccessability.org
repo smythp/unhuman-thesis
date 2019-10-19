@@ -38,13 +38,6 @@
 
 #+LATEX: \mainmatter
 :END:
-:citations:
-*************** citations
-cite:savicic_unpleasant_2016
-
-*************** END
-
-:end:
 
 * Introduction
 
@@ -366,7 +359,7 @@ The Heideggerian worldview, where space is a function of our own nature and the 
 
 There are other implications to this worldview. One is that stuff has allegiance. While we make demands on the built environment—sitting in chairs, opening doors, looking out windows, climbing up stairs—the built environment makes demands on us. The locked door or gate bars passage, creating demarcations where there is distance for one and nearness for another. Adversarial equipment (fences, walls, doors, signs, checkpoints, in a social context, functionally determines geography, how space for us is determined.[fn:hostile_architecture]
 
-[fn:hostile_architecture] I use the term adversarial equipment here to contrast with Heidegger's concept of equipment as handy or to hand, and as a more general term that can apply equally to objects, devices, and architecture. In architecture more specifically, this concept has been called hostile architecture, defensive architecture, exclusionary design, or unpleasant design. Examples include spiked park benches to discourage overnight sleeping, irritating sounds to deter youth congregation, or blue lights to make it difficult for drug users to find veins. See /Callous Objects: Designs Against the Homeless/ (Robert Rosenberger)and /Unpleasant Design/ (Gordan Savicic, Selena Savic).
+[fn:hostile_architecture] I use the term adversarial equipment here to contrast with Heidegger's concept of equipment as handy or to hand, and as a more general term that can apply equally to objects, devices, and architecture. In architecture more specifically, this concept has been called hostile architecture, defensive architecture, exclusionary design, or unpleasant design. Examples include spiked park benches to discourage overnight sleeping, irritating sounds to deter youth congregation, or blue lights to make it difficult for drug users to find veins. See /Callous Objects: Designs Against the Homeless/ citep:rosenberger_callous_2017 and /Unpleasant Design/ citep:savicic_unpleasant_2016.
 
 *************** TODO the stack might be useful here
 *************** END
@@ -392,13 +385,12 @@ In an incisive application of Heidegger's conception of space to a disability st
 #+BEGIN_QUOTE
 Heidegger (1962) maintains everything an individual deals with or engages, is either near or far relative to that individual and therefore the understanding of such 'nearness' and /or 'farness' becomes how an individual familiarizes or learns to represent oneself as space. This 'proximity' is the basis of how humankind comes to represent itself, not through containment or objective measurement but as a state of Being. Yet ... Mairs (1996), eloquent in asserting her personal perspective of the world, demonstrates the capacity of Heidegger's theory to question the alienation of the presupposed "subjective" province of the abled-bodied experience ... citep:seguna_space_2015
 #+END_QUOTE
-
 Seguna argues that Heidegger's phenomenological worldview—that a bicycle makes a city smaller, that a sweater makes a room warmer—is a useful model  for disability studies in that it moves exclusionary practices from the subjective ("I feel excluded") to an understanding of the real nature of the world ("She is not allowed to be present"). If we take this proposition seriously, and perhaps we should, we might understand personal accounts and autobiography differently—that is, not as a peek into an isolated subjectivity, but as a description of the world, a universality reflected through locality. Consider briefly a passage from Mairs cited by Seguna: 
 
 #+BEGIN_QUOTE
 not one of them seemed to think that any life was going on below the level of her or his gaze… 'Down here!' I kept whimpering at the hips and buttocks and bellies pressing my wheelchair on all sides. 'Down here! There is a person down here! My only recourse was to roll to one side and hug the wall
 #+END_QUOTE
-So far, our discussion of autonomy has been largely abstract. Mairs's plea immediately and powerfully reifies the concept and its stakes. Autonomy is our ability to meaningfully act, to be fully present in the world, to be fully empersoned, to be not only an end but also a middle and a beginning. This brief passage is local to Mairs and her experience, but we easily abstract it to our own experience, drawing a connection to our understanding of the broader world and back to ourselves. In the remainder of this chapter, we will engage with other local experiences and understandings as expressed through personal accounts and, in particular, the autobiography as a form. Our concern is with the world as encountered, how built structures and presences as /da Man/ constrain autonomy, and how individuals negotiate through practices such as recasting—changing up their own narrative—haccessibility.
+So far, our discussion of autonomy has been largely abstract. Mairs's plea immediately and powerfully reifies the concept and its stakes. Autonomy is our ability to meaningfully act, to be fully present in the world, to be fully empersoned, to be not only an end but also a middle and a beginning. This brief passage is local to Mairs and her experience, but we easily abstract it to our own experience, drawing a connection to our understanding of the broader world and back to ourselves. In the remainder of this chapter, we will engage with other local experiences and understandings as expressed through personal accounts and, in particular, the autobiography as a form. Our concern is with the world as encountered, how built structures and presences as /das Man/ constrain autonomy, and how individuals negotiate through practices such as recasting—changing up their own narrative—haccessibility.
 
 *************** TODO cite above quote, it's cited by Seguna, she says (p.59
 http://dsq-sds.org/article/view/3219/4114
@@ -429,11 +421,14 @@ Whether autobiography critics want to admit it or not, the “traditional” dis
 #+END_QUOTE
 In short, autobiography, reliant as a form on representability, the thin thread between the personal and the universal, does not easily serve stories and experiences that do not conform to a more general narrative. Despite this, the promise of the autobiography for self-expression and advocacy is such that those with truly divergent experiences cannot resist taking up the genre and conforming to, or attempting to transcend, its limitations.
 
-In the previous chapter, we shifted our attention away from the isolated self, associated with the medical model of disability, and the broad collective, associated with the social model. Instead we focused on the local physical and social environment, the points at which an individual negotiates the world around them. This chapter on disability autobiography will share a similar concern with the local, and will consider disability autobiography from three perspectives. First, taking the texts of autobiographies at face value, we will draw on these works for examples of negotiation—local knowledge, community, and infrastructure that led to survival, autonomy, or self-actualization. Second, we will consider these autobiographies not from the inside, but from the outside, regarding the texts themselves as instances of negotiation. Considering the autobiographies themselves as pieces of infrastructure or as products of a community, or as failed or successful attempts to transcend an imposed narrative, sheds light on ongoing struggles for autonomy among people with disabilities. Finally, we will draw on the tensions between individual and society within autobiography to explore how people with disabilities negotiate questions of universality—how do .
+In the previous chapter, we shifted our attention away from the isolated self, associated with the medical model of disability, and the broad collective, associated with the social model. Instead we focused on the local physical and social environment, the points at which an individual negotiates the world around them. This chapter on disability autobiography will share a similar concern with the local, and will consider disability autobiography from three perspectives. First, taking the texts of autobiographies at face value, we will draw on these works for examples of negotiation—local knowledge, community, and infrastructure that led to survival, autonomy, or self-actualization. Second, we will consider these autobiographies not from the inside, but from the outside, regarding the texts themselves as instances of negotiation. Considering the autobiographies themselves as pieces of infrastructure or as products of a community, or as failed or successful attempts to transcend an imposed narrative, sheds light on ongoing struggles for autonomy among people with disabilities. Finally, we will draw on the tensions between individual and society within autobiography to explore how people with disabilities negotiate between the local and the universal. As we will see, people with disabilities frequently struggle against narratives imposed on them by society. In biographies of disability, we see the struggle for purchase on the universal, the strategies employed by people with disabilities to contend with a casually hostile social consensus—the ignorant, apathetic, and sometimes cruel /das Man/. Like Scheherazade, they must tell a story to change the story, and the stakes are high.
 
-** TODO Fix above sentence when I know more about this chapter
+
+** DONE Fix above sentence when I know more about this chapter
+   CLOSED: [2019-10-18 Fri 19:22]
 *************** END
 Many autobiographies of people with disabilities are further troubled by questions of authorship or influence, placing them somewhere between an autobiography and a family biography—in this chapter, I refer to such works as "auto-ish biographies." This chapter will attempt to read instances of disability autobiography not only for examples and instances of negotiation within the text, but also as sites of negotiation  in and of themselves. In these cases, an autobiography is not only a way of conveying a freestanding experience of disability, but in itself is an artifact of negotiation, one that, by its existence, allows the disabled individual to reconsider their relationship to those around them and to society. At the same time, many disability autobiographies demonstrate an awareness of the form, leveraging it to intervene in imposed narratives or otherwise escape the limitations of the genre. At their best, these autobiographies can use the recursive or self-referential nature of the form to transcend it, speaking directly to the experience of life with a disability.
+
 
 ** Movement and Expression
 
@@ -441,7 +436,7 @@ Two autobiographies, published more than fifty years apart, provide a useful cas
 
 ** His Left Foot
 
-In 1932, Christy Brown was born the tenth of an eventual 22 siblings, nine of whom would die in infancy. When he was four months old, his mother noticed that he had difficulty holding up his head during feeding. As he grew older, it became evident that Brown struggled to control his movements. His hands remained clenched at all times, he had trouble opening and closing his moth, and by one year he was still unable to sit up on his own.
+In 1932, Christy Brown was born the tenth of an eventual 22 siblings, nine of whom would die in infancy. When he was four months old, his mother noticed that he had difficulty holding up his head during feeding. As he grew older, it became evident that Brown struggled to control his movements. His hands remained clenched at all times, he had trouble opening and closing his mouth, and by one year he was still unable to sit up on his own.
  
 #+BEGIN_QUOTE
 Almost every doctor who saw and examined me, labelled me a very interesting but also a hopeless case. Many told mother very gently that I was mentally defective and would remain so. That was a hard blow to a young mother who had already reared five healthy children. The doctors were so very sure of themselves that mother’s faith in me seemed almost an impertinence. They assured her that nothing could be done for me. citep:brown_my_1955
@@ -503,8 +498,21 @@ Brown, as a young adult, is once more thrown into a crisis of identity by his di
 As I saw all those people each with his or her own suffering, a new light began to dawn upon me. I was rather bewildered; I had not imagined there could be so much suffering in the world. I had been rather like a snail shut away in his own narrow little shell and that was only now beginning to see the great crowded world that lay beyond. Not only were all those people afflicted, but, to my surprise, their handicaps were actually worse than my own!
 #+END_QUOTE
 
+Brown's experience at Lourdes holds a suggestion of the universal, a narrative into which he might fit. Leaving aside the possibility of a cure and inauguration into /das Man/, in this experience he sees for the first time that he is not alone in his disability. Religion suggested a prescribed path for Brown, one of the few available in the Ireland of the 1960s—embrace temporal suffering and look for deliverance and commonality in the coming world. This path to the universal, however, is not for Brown:
 
-to begin to form relationships outside the family.
+#+BEGIN_QUOTE
+I remembered Lourdes and the people I had met on the way to the Grotto, and again I tried to be like them—patient, cheerful, resigned to their suffering, knowing the reward that awaited them in the next world. But it was no use. I was too human. There was too much of the man in me and not enough of the humble servant who submits willingly to his Master’s will. I wanted to see and to know more of this world before I thought about the next.
+#+END_QUOTE
+Religion, should Brown choose to embrace it, would provide a path to the universal, granting legibility and meaning through an approved narrative. His local circumstances, his aspirations, his struggle to participate and communicate would all be subsumed into a larger story. Though Brown senses this path at Lourdes, he finds it impracticable at home.
+
+
+
+*************** religious moment quote
+"As we wended our way through the little town on the road to the Grotto the crowd lifted their voices and sang ‘Ave Maria’. ... The crowd, still singing, knelt in a semi-circle round the Shrine, the flames from their candles lighting up the scene and sparkling on the crown of pearls circling the Virgin’s head. ... It was the most beautiful moment of my life."
+*************** END
+
+
+
 
 
 
@@ -529,13 +537,6 @@ I knew then, as I came to know many times later, how bitter and crushing a simpl
 
 
 *************** END
-
-
-
-
-
-
-
 
 Brown's painting
 Medical stuff, banned
