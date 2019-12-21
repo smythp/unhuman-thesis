@@ -89,7 +89,14 @@ The social model has far more to offer. In the last few years, communication amo
 *************** TODO State of gaming for people with disabilities
 *************** END
 
-When considering Garrett's struggle to complete a game designed exclusively for sighted players, it's clear—and unsurprising to those following disability studies—that the perspective provided by the social model is more productive than that provided by the medical model. While the medical establishment would have little or no interest in Garrett's experience as a case study, the social model suggests ways that society could change to better accommodate the goals of Garrett and other disabled gamers. Were developers in games to equip menus with audio or voice cues, for example, gamers like Garrett would not be forced to memorize interfaces through trial and error or with sighted assistance. Despite the salience of the social model to Garrett's experience, however, there is an aspect—a critical aspect—of his effort that falls outside the usual scope of the social model as we know it.
+When considering Garrett's struggle to complete a game designed exclusively for sighted players, it's clear—and unsurprising to those following disability studies—that the perspective provided by the social model is more productive than that provided by the medical model. While the medical establishment would have little or no interest in Garrett's experience as a case study, the social model suggests ways that society could change to better accommodate the goals of Garrett and other disabled gamers. Were developers in games to equip menus with audio or voice cues, for example, gamers like Garrett would not be forced to memorize interfaces through trial and error or with sighted assistance.[fn:making-games-accessible] Despite the salience of the social model to Garrett's experience, however, there is an aspect—a critical aspect—of his effort that falls outside the usual scope of the social model as we know it.
+
+[fn:making-games-accessible] My point here is that the current state of gaming is, by and large, not accessible, and that it makes sense for gamers  with disabilities to look outside of advocacy for ways to pursue their aims in the present. However, I do not want to understate the progress taking place in this area or the potential long-term importance of changes brought about by advocacy.
+
+Developments in this area have included accessibility initiatives by gaming-adjacent communities such as LEGO citep:kacala_legos_2019 and the incorporation of combination optical character recognition and screen reader functionality features into game emulator platforms citep:matteis_retroarch_2019. A number of mainstream games have implemented accessibility-related features such as color blind and large font modes, and a handful, such as Madden 2018, have taken steps toward playability for the fully blind citep:electronic_arts_madden_2018. Some more serious projects, such as the Accessible Player Experiences (APX) initiative by nonprofit AbleGamers, appear to have enough impetus to potentially move the needle on attitudes toward accessibility. 
+
+Finally, due perhaps to FCC rules that went into effect in 2015 mandating that certain game console functionality be made accessible, there has been an uptick in researcher interest in the challenges associated with creating accessible games [[citep:garber_game_2013][p. 17]] and a growing awareness of the central role of gaming in culture, therapy, and education [[citep:yuan_game_2011][p. 2]]. Though these developments are exciting, advocacy around changing attitudes toward accessibility in gaming are still in their early stages.
+
 
 ** A Negotiated Model of Disability
 
@@ -152,9 +159,21 @@ Houle's comparison to jaywalking, part of a larger metaphor that grapples with t
 
 ** Cementing the Future
 
-Houle's metaphor—waiting on a corner for change, jaywalking past obstacles—is particularly fitting in light of a history of civil disobedience by disability rights activists, many of whom, in the 60s and 70s, were explicitly concerned with the inaccessibility of streets and street corners. One incident—the quiet reshaping at night of particular street corners to make them accessible by wheelchair—has been mythologized in the retelling.
+Houle's metaphor—waiting on a corner for change, jaywalking past obstacles—is particularly fitting in light of a history of civil disobedience by disability rights activists, many of whom, in the 60s and 70s, were explicitly concerned with the inaccessibility of streets and street corners. One incident—the quiet reshaping at night of particular street corners to make them accessible by wheelchair—has been mythologized in the retelling. 
 
-In 1962, Ed Roberts, a quadriplegic polio survivor, became the first student at Berkeley with a profound disability. Roberts had to overcome a series of obstacles to enroll, among them securing dormitory space for his 800-pound iron lung. Famously, a dean at the university reportedly claimed that "[w]e’ve tried cripples before and it didn’t work" citep:dawson_ed_2015. Over the next decade, Roberts and a growing circle of activists with disabilities would create the Center for Independent Living, a community that advocated for students with disabilities on campus and which would prove instrumental in the burgeoning disability rights movement. In the early years of the Center, however, Roberts was faced with a critical issue: a lack of curb cuts on street corners made it difficult to organize and attend meetings. In an interview for an oral history of the independent living movement at Berkeley, Eric Dibner, a friend and sometime medical attendant for Roberts, describes the mythos that sprung up around guerilla modification of street corners:
+In 1962, Ed Roberts, a quadriplegic polio survivor, became the first student at Berkeley with a profound disability. Roberts had to overcome a series of obstacles to enroll, among them securing dormitory space for his 800-pound iron lung. Famously, a dean at the university reportedly claimed that "[w]e’ve tried cripples before and it didn’t work" citep:dawson_ed_2015. Over the next decade, Roberts and a growing circle of activists with disabilities would create the Center for Independent Living, a community that advocated for students with disabilities on campus and which would prove instrumental in the burgeoning disability rights movement. In the early years of the Center, however, Roberts was faced with a critical issue: a lack of curb cuts on street corners made it difficult to organize and attend meetings.[fn:curb-cuts]
+
+[fn:curb-cuts] Curb cuts, the small ramps or "cuts" in the sidewalk at almost every modern street corner, are generally taken for granted by the public. Before the rise of the disability rights movement in the 1960s, curbs on corners were generally raised about six inches off the street, making every block a barrier to those using wheelchairs. Between 1970-1974, largely in response to advocacy by the Independent Living Movement, Berkeley created the first accessible wheelchair route in the United States, and by 1990 the passing of the Americans with Disabilities Act mandated curb cuts on all street corners. 
+
+The fact that curb cuts are so useful to every member of the community, not just those with disabilities, means they are frequently held up as a fundamental example of Universal Design, a philosophy or methodology that considers accessibility to be a normal and integrated part of any design process citep:williamson_peoples_2012, and the term "curb cut effect" is sometimes used to describe changes made for disadvantaged groups that ultimately benefit the wider society [[citep:glover_blackwell_curb-cut_2017][p. 28]].
+# End footnote
+# End footnote !!!!!
+
+
+Ultimately, the activities and advocacy of the Independent Living Movement would result in the creation of one of the first accessible wheelchair routes in the United States. Before these systemic changes took place years later, however, Roberts still needed to move around Berkeley. As a temporary solution, and in an act of civil disobedience, a number of individuals connected to the Independent Living Movement went out into the streets at night and, with bags of cement, created ramps when no ramps had existed before.
+
+In an interview for an oral history of the independent living movement at Berkeley, Eric Dibner, a friend and sometime medical attendant for Roberts, describes the mythos that sprung up around this guerilla modification of street corners. The following is an excerpt from a conversation between Dibner and interviewer Kathy Cowan recorded in 1997-1998 as part of the Disability Rights and Independent Living Movement Project, an initiative that created an extensive oral history of the period.
+
 
 #+BEGIN_QUOTE
 # Dibner
@@ -162,25 +181,31 @@ In 1962, Ed Roberts, a quadriplegic polio survivor, became the first student at 
 # ... so that was one of my first experiences with ramps, right, and learning that if you're closer to the ground, you don't have to build so much of a ramp, like, duh! [laughs]
 
 
-Cowan
+Cowan (interviewer)
 
 I certainly have heard your name associated with ramps over and over again, Eric. There is this story that you were building curb cuts and ramps in Berkeley sort of unofficially. Is there a story behind that?
 
 
-Dibner
+Eric Dibner
 
 Well, you didn't hear about the nitroglycerin where we were blowing up curbs and [laughter] and jackhammers in the middle of the night, where we'd go and we'd jackhammer up all these intersections and then the city would have to fix them.
 
 
-Cowan
+Cowan (interviewer)
 
 No, I didn't hear that story. Is that a true story? [laughs]
 
 
-Dibner
+Eric Dibner
 
 No, neither of those are true stories, actually. [laughs] That was a little later when Ed [Roberts] asked for some ramps to be--there were some corners where he had problems going from his house to CIL, or maybe it was the Disabled Students' Program. So I got a bag of cement and went out. They were real low curbs, like a couple of inches, at Dana and Dwight, probably at Ellsworth and Dwight, and I think I did one at Ellsworth and Blake. It was just to bevel the corner. I mean, we didn't build curb ramps, we just put some cement down to make it useable. [[citep:bancroft_library_regional_oral_office_builders_2000][p. 24]]
 #+END_QUOTE
+
+
+
+
+
+
 Though only a small part of the history of activism and advocacy that swirled around Berkeley's Center for Independent Living (CIL) in the 60s and 70s, Eric Dibner's intervention, though only with a bag of cement and not bombs and jackhammers, was crucial in the moment. Most significant for the time, beveling these corners allowed individuals like Ed Roberts to move more freely around the city, a change that is no less important for being highly localized. But, as the mythology around this incident shows, interventions such as these occupy their own psychological and social space. The dramatization of Dibner's small reshaping of Berkeley infrastructure, transforming a bag of cement into jackhammers and nitroglycerin in the popular imagination, shows the need for images of resistance that galvanize activists, shame the adherents to the status quo, and crystallize change.
 
 It is no coincidence that this intervention happened, and was remembered, in the early 70s and not decades earlier. Dibner's intervention resonates with other movements underway at that time. The parallels with the first, the civil rights movement, were clear to early disability rights advocates who followed its model of civil disobedience, including the use of peaceful demonstrations and sit-ins. Relations between the civil rights movement and the disability rights movement were not always smooth, and the early disability rights movement has been criticized for an overrepresentation of white perspectives and for "sometimes borrow[ing] from the iconography of black history in awkward ways" [[citep:erkulwater_how_2018][p. 368]]. Despite this friction, the position of the civil rights movement as antecedent and inspiration for the disability rights movement is difficult to deny. Similarly, disability rights advocates in this period also participated in other political movements, such as the nascent environmental movement, including occupation of wetlands in support of the National Wild and Scenic Rivers Act [[citep:bancroft_library_regional_oral_office_builders_2000][p. 279]].
@@ -504,6 +529,9 @@ Brown's experience at Lourdes holds a suggestion of the universal, a narrative i
 I remembered Lourdes and the people I had met on the way to the Grotto, and again I tried to be like them—patient, cheerful, resigned to their suffering, knowing the reward that awaited them in the next world. But it was no use. I was too human. There was too much of the man in me and not enough of the humble servant who submits willingly to his Master’s will. I wanted to see and to know more of this world before I thought about the next.
 #+END_QUOTE
 Religion, should Brown choose to embrace it, would provide a path to the universal, granting legibility and meaning through an approved narrative. His local circumstances, his aspirations, his struggle to participate and communicate would all be subsumed into a larger story. Though Brown senses this path at Lourdes, he finds it impracticable at home.
+
+*************** TODO apophantic (heideggerian term) relevant)?
+*************** END
 
 
 
@@ -1388,3 +1416,31 @@ bibliography:references.bib
 
 
 
+
+* links to sort
+the future of my games on Apple (post-Catalina) and what this means for art games in general
+
+http://www.nathalielawhead.com/candybox/the-future-of-my-games-on-apple-post-catalina-and-what-this-means-for-art-games-in-general
+
+"That Deep Romantic Chasm": Libertarianism, Neoliberalism, and the Computer Culture
+
+http://www.uvm.edu/~tstreete/romantic_chasm.html
+
+The Semantic Apocalypse
+
+https://speculativeheresy.wordpress.com/2008/11/26/the-semantic-apocalypse/
+
+The Fantasy of Opting Out
+
+https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/
+
+
+Infinite Machines: 1 – An Introduction
+
+https://www.ribbonfarm.com/2019/03/11/infinite-machines-1-an-introduction/
+
+
+
+How to Make History
+
+https://www.ribbonfarm.com/2017/09/14/how-to-make-history/

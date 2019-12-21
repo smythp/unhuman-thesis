@@ -1,0 +1,243 @@
+:formatting:
+#+OPTIONS: toc:nil
+
+# Uncomment to export without tasks or notes
+#+OPTIONS: tasks:nil inline:nil
+
+# #+OPTIONS: html-style:nil 
+#+TITLE: Negotiated Access
+
+
+# When enabled, removes numbering of sections without removing ToC
+# ToC is not indented, however
+# #+LATEX: \setcounter{secnumdepth}{0}
+
+# Fancy CSS
+#+HTML_HEAD: <link rel="stylesheet" href="tufte.css"/>
+
+
+#+LATEX_CLASS: thesis
+
+# Make footnotes not spill over to next page
+#+LATEX: \interfootnotelinepenalty=10000
+
+#+LATEX: \frontmatter
+
+#+LATEX: \include{./includes/Title_page}
+#+LATEX: \setcounter{page}{2}
+
+#+LATEX: \include{./includes/Copyright_page}
+#+LATEX: \include{./includes/Approval_page}
+#+LATEX: \include{./includes/Abstract}
+#+LATEX: \include{./includes/Acknowledgments}
+
+
+#+TOC: headlines 3
+# \listoftables
+#+LATEX: \listoffigures
+
+#+LATEX: \mainmatter
+:END:
+
+* Introduction
+
+** my experience
+
+becoming aware of haccessibility as a mode of engagement and resistance 
+more i created infrastructure, etc., the more it became obvious that infrastructure is inadequate 
+** defining disability / languaged used
+
+https://is.muni.cz/el/1423/podzim2017/SPR101/um/um/Gary_L._Albrecht__Katherine_Delores_Seelman__Michael_Bury_Handbook_of_Disability_Studies.pdf
+altman chapter
+
+** Negotiation
+
+situatedness
+locus of control
+expanding outward
+** big ideas
+haccessibility
+negotiation
+unhuman 
+
+** What about power?
+
+What about text? What about atoms? everything is reducible to power, but that doesn't mean that power is the best level of abstraciton to discuss a phenomen, just as focusing on atoms isn't the best level of abstraction
+i am less interested in totalizing ur-explanations than the messy pragmatics of being a being in a complex world / entity in a complex system
+mushroom at the end of the world a good example, expereintial but with connections spreading outward
+
+#+BEGIN_QUOTE
+here are two aspects to power. The first aspect is what the German philosopher Rainer Forst in 2014 defined as ‘the capacity of A to motivate B to think or do something that B would otherwise not have thought or done’. The means through which the powerful enact their influence are varied. They include motivational speeches, recommendations, ideological descriptions of the world, seduction and credible threats. Forst argues that brute force or violence is not an exercise of power, for subjected people don’t ‘do’ anything; rather, something is done to them. But clearly brute force is an instance of power. It is counterintuitive to think of someone as powerless who is subjecting us through violence. Think of an army dominating a population, or a thug strangling you. In Economy and Society (1978), the German political economist Max Weber describes this second aspect of power as the ability for people and institutions to ‘carry out [their] own will despite resistance’.
+#+END_QUOTE
+https://aeon.co/essays/privacy-matters-because-it-empowers-us-all
+
+
+
+
+* Introducing Negotiated Access 
+
+#+LATEX: \vspace*{100px}
+
+
+(Excerpt from /Negotiated Access: Community, Accessibility, and Infrastructure in the Age of the Unhuman/, a dissertation to be submitted to the Graduate Faculty in English in partial fulfillment of the requirements for the degree of Doctor of Philosophy, The City University of New York)
+#+LATEX: \clearpage
+
+
+
+** Terry Garrett
+On May 8, 2011, a blind gamer named Terry Garrett began playing Zelda: The Ocarina of Time. The game, widely considered a classic, depicts a 3D world populated with puzzles, enemies, and difficult terrain. It also offers no intentional concessions to a blind player using only sound cues, memory, and dogged persistence to navigate the game world. 
+
+Five years later, Garrett completed his playthrough. Using binaural audio, he'd found that he could map entities and terrain in the environment. Inaudible features could be struck with objects to produce identifying sounds, and a combination of trial-and-error and external research allowed him to pass traps and solve puzzles.
+
+What conception of disability allows us to best understand Garrett's achievement? Two models have come to dominate narratives of and advocacy for disability. The first, the medical model, sees disability as a personal tragedy that can only be resolved by a cure or mitigation from the medical community. Implicit in this perspective is the assumption that disability is a social aberration, a condition that must be cured or obscured. The social model of disability, on the other hand, envisions disability as a societal concern, and contends that most negative outcomes from disability stem from the ignorance, indifference, or bias of the wider, largely able, community. Proponents of the social model seek attitudinal and public policy changes to eliminate difficulties associated with stigma and a lack of understanding about disabled lives.
+
+How well do these models address the challenges faced by Garrett as he, a blind gamer, engaged with a creation designed without knowledge of his circumstances? The solutions offered by the medical model offer only a binary outcome. Either Garrett's disability is cured or ameliorated, allowing him to engage with the game in the socially prescribed way, or it is not. If no cure is forthcoming, then the medical model of disability is silent, offering no further recourse. Under the medical model, therefore, the challenge Garrett has set for himself could only be regarded as an impossibility.
+
+The social model has far more to offer. In the last few years, communication among disabled gamers and developers has led to the release of a small but notable list of games in formats accessible to those with mobility and sensory disabilities. This short list, which has included titles such as /Skull Girls/ and /King of Dragon Pass/, has shown that awareness and advocacy can led to concrete change even in gaming, a community that is often explicitly ableist in its outlook and rhetoric. However, though notable, these successes have been limited in scope. The overwhelming majority of games and game developers do not consider the needs of mobility- and sensory-impaired gamers, and many developers that become aware of specific disabilities argue that it's simply impossible for them to adapt their games for those with disabilities such as missing limbs or blindness. Even disabilities that are common and relatively simple to mitigate in games, such as color blindness, have received only limited attention. Further, widely used platforms that must be navigated to access games in the first place, such as the menus on the Playstation 4 console or the Steam game distribution service for PC, remain inaccessible, even in the face of an ADA ruling that requires that, at minimum, the communications and chat features in games must be made accessible.
+
+*************** TODO State of gaming for people with disabilities
+*************** END
+
+When considering Garrett's struggle to complete a game designed exclusively for sighted players, it's clear—and unsurprising to those following disability studies—that the perspective provided by the social model is more productive than that provided by the medical model. While the medical establishment would have little or no interest in Garrett's experience as a case study, the social model suggests ways that society could change to better accommodate the goals of Garrett and other disabled gamers. Were developers in games to equip menus with audio or voice cues, for example, gamers like Garrett would not be forced to memorize interfaces through trial and error or with sighted assistance. Despite the salience of the social model to Garrett's experience, however, there is an aspect—a critical aspect—of his effort that falls outside the usual scope of the social model as we know it.
+
+** A Negotiated Model of Disability
+
+The disabled experience is typically—though not universally—characterized by distinct relationships between the individual and the lived environment. Consider the cane, an implement that, in its differing forms, is almost metanymous with mobility and sensory disabilities. For the blind and for many who are mobility impaired, the cane is an emblem of independence. When picking up a cane, the relationship among certain disabled individuals and their lived environment is powerfully altered. Distances shrink and senses expand. Daniel Kish, an advocate for unorthodox mobility strategies for the blind, describes the experience:
+
+#+BEGIN_QUOTE
+Now, moving forward, how do I manage today? ... Fortunately, I have my trusty long cane, longer than the canes used by most blind people. I call it my freedom staff. (Kish, 2015)
+#+END_QUOTE
+Yet the cane, and the myriad other rhetorical, physical, cognitive, and emotional strategies deployed by people with disabilities, are not cures. Their use and deployment is necessarily idiosyncratic, unique to specific disabled individuals and their affinity groups. Their use or presence also often visibly sets disabled individuals apart. Unlike the medical cure, which seeks to normalize pathology and efface difference, the myriad strategies deployed by disabled people to negotiate physical and cultural spaces are a source of difference. This difference is primarily one of perception, altering both how people with disabilities perceive society and the built environment and how others perceive them in turn.
+
+Yet while we know that the medical model often fails to address or encompass disabled experience, the social model, for all its importance and usefulness, is perhaps more effective as a tool for advocacy on a large scale than as a means through which to grapple with the subjective experience of living with a specific disability. Tom Shakespeare offers a considered, and highly nuanced, appraisal of the strengths and weaknesses of the social model. In his analysis, the comprehensibility of the fundamental idea behind the social model—that disability results from barriers put in place by society—makes it an ideal tool for activism, including the breaking down of specific social barriers. Secondarily, the social model allows for a change in affect: ""It is not the disabled person who is to blame, but society. She does not have to change, society does. Rather than feeling self-pity, she can feel anger and pride" (Shakespeare, 2013, p. 217). Shakespeare contends that the primary strength of the social model—its straightforward comprehensibility—makes it less desirable as an academic account of disability. Further, its articulation by a highly specific group—white, heterosexual men, primarily with disabilities of mobility and primarily in Britain, calls into question its ability to represent the full spectrum of experiences with disability. Shakespeare is in agreement with Liz Crow, who argues that,
+
+#+BEGIN_QUOTE
+[a]s individuals, most of us simply cannot pretend with any conviction that our impair- ments are irrelevant because they influence every aspect of our lives. We must find a way to integrate them into our whole experience and identity for the sake of our physical and emotional well-being, and, subsequently, for our capacity to work against Disability (Crow, 1992, 7)
+#+END_QUOTE
+
+My own experiences with disability lead me to agree with the perspectives offered by Shakespeare and Crow. The social model, as important and useful as it is, should be expanded, at least in contexts outside of activism, to be sensitive to the full gamut of disabled experience, a range that includes chronic pain and conditions that may result in early death.
+
+In this chapter, I offer another imperfect model, a negotiated model of disability, intended to augment the social model and a more holistic understanding of disability. I offer it for the same reason the social model was offered: to provide understanding of a specific aspect of the disabled experience in order to break down barriers and allow for greater autonomy and independence. In later chapters, I also articulate how a negotiated model can speak to larger questions of expressing values in contexts where essential infrastructure and cultural understanding are not present. I do not think, nor do I encourage, the world to be viewed exclusively through the lens of negotiation. Yet by focusing not on the body exclusively (the medical model) or macro-scale society (a common articulation of the social model), but on the interplay between the individual and the immediate social and built environment, I beleive that one can reach a set of new conclusions and, in doing so, break down a set of old barriers, barriers different from those targeted in activism supported by the social model. These conclusions, essentially, revolve around a single idea: that individuals, and by extension local communities of practice, should be able to have autonomy over their immediate environment. When put this way, the proposition sounds agreeable and, perhaps, even simple. Yet nothing could be less simple, and this project attempts to contend with that reality. The forces arrayed against even the merest individual autonomy and self-determination are numerous, and have been laid out in part in the introduction under the rubric "the unhuman." These forces, unthinking and unfeeling but purposeful and relentless, are like the Moloch of Alan Ginsberg's /Howl/: "Moloch whose mind is pure machinery! Moloch whose blood is running money! ... Moloch whose breast is a cannibal dynamo! ... Moloch whose factories dream and croak in the fog! Moloch whose smoke-stacks and antennae crown the cities! ... They broke their backs lifting Moloch to Heaven!" (Ginsberg, 1955). Whether or not one feels the encroachment of the unhuman, Empire, technopoly, or Moloch at the periphery of one's existence, this project, and the negotiated model, attempts to contend with forces that make the locus of control remote, rather than local; centralized, rather than federated; and in processes, rather than with people.
+
+The negotiated model argues that, in raising a cane—or in lip reading, using a screen reader, or adapting a vehicle to a mobility impairment——the disabled individual asserts a kind of power that does not flow from their approval or status in the wider community. Simultaneously, they assert their own identity, both individually and as part of an affinity group. Drawing on their understanding of their own situation and their relationship with the lived environment, the disabled individual /negotiates/. That is, they negotiate their environment, reforging relationships among their own bodies and the physical world. They negotiate with others, learning to survive in social milieus often characterized by ignorance and hostility. They share, build, and teach amongst themselves, creating negotiables—knowledge, physical infrastructure, and social capital that are their own. These practices are universal and critical to survival but are often invisible and unacknowledged.
+
+Models of disability combine a means of conceiving of or envisioning disability with a prescribed way forward—that is, a way of improving—or attempting to improve—the lives of disabled people. For the medical model, this prescribed way forward is the cure, an effacement of disability. For the social model, the way forward is social change in the wider society, including advocacy for and understanding of the lives of disabled people. In articulating and exploring a third model, the negotiated model, intended to augment the critical work already done under the aegis of the social model. Like existing models of disability, this model provides both a way to conceive of and situate disability and a way forward, a means of improving the lives of disabled people.
+
+The negotiated model articulated here is not a call for new types of work to be done to improve the lives of people with disabilities, because negotiated forms of access have been, and continue to be, practiced by individuals and communities in myriad forms. This model of access has, however, been underexamined in the context of disability studies and in the academy more widely. A goal of this project, therefore, is to focus attention on excellent work that is, and that arguably has always been, underway by practitioners in the wider disability community, and to provide a framework to better understand and contextualize this labor. Further, this project seeks to connect a theoretical understanding of negotiated access to related work in other domains. These connections include the digital humanities, with its emphasis on critical making and infrastructure, and utopian studies, which explores alternative relationships among bodies and their environments. Just as applications of the social model of disability have advanced discourses in a variety of disciplines, the negotiated model of disability can contribute to a wider understanding of affinity groups that develop practices, knowledges, and infrastructure that push back against complicit orthodoxy and normalizing forces.
+
+So, again: what conception of disability allows us to best understand Garrett's achievement—completing, independently as a blind individual, a game designed exclusively for the sighted? If it's not yet clear, my answer to this question is the negotiated model of disability. While advocacy and social progress on the rights of disabled gamers might have helped, and could yet help, individuals such as Garrett, it was not this form of social progress that allowed Garrett to overcome this challenge. It also goes without saying that no (entirely theoretical) cure contributed to his victory. Rather, Garrett's accomplishment was the result of a successful negotiation of the lived environment. In approaching an apparently inaccessible game as he did, Garrett forced a redefinition of his relationship with it. creating infrastructure—a path—where no infrastructure existed before. Garrett's achievement also shares many characteristics of negotiated access that will be discussed in depth in this chapter, among them an idiosyncratic, exploratory,  or free-form approach to the creation of localized infrastructure—"haccessability."
+
+Finally, it's essential to note that negotiated access is not an exceptional or extraordinary state for disabled individuals. Rather, it's a daily, or even hourly, fact of life. Case studies such as Garrett's and the others that will be discussed below garner focus and attention in both disabled and non-disabled communities, making them attractive for citation, discussion, and inclusion in a text such as this one. For disabled individuals, however, negotiation of the lived environment is simply a fact of life, one generally performed without fanfare or even, in most cases, acknowledgment. In addition, those individuals whose achievements come to wider public attention are often, despite their disabled status, privileged in other ways. While this study will attempt to balance extraordinary examples of negotiated access with those in keeping with the daily struggles and successes of disabled life, I wish to acknowledge that "notable" achievements in this context are unfortunately often those marked out by able, rather than disabled, communities. To the extent that it is possible within the bounds of this project, I have sought out first-hand accounts and voices of disabled experience whenever possible.
+*************** TODO Point to section on intersectionality
+*************** END
+
+** What is Negotiated Access?
+
+Negotiated Access is advocacy, knowledge creation,  and the building of infrastructure that begins within an affinity group and radiates outward. It's rooted in the lived experience of people with disabilities and its locus is the idiosyncratic capabilities, skills, and practices that enable people with disabilities to survive and (sometimes) flourish in an able and ableist society. Negotiated Access addresses aspects of the disabled experience that are marginal or underacknowledged within current paradigms, particularly methods that do not rely on, or defy, the approval or approbation of the wider society. In some cases, negotiation may require, or involve, passing—temporarily merging with the perception of the dominant able class to extract withheld support or necessary acknowledgement or concessions. At other times, negotiation involves practices that are considered asocial, resistant, or antisocial by the wider able community. Negotiation, therefore, tends to be at the periphery of the disabled experience, in the actions that are not easily narrativized or made legible by the community at large, but  which are a means of survival for individuals and their affinity groups.
+
+Gene Bellinger, a theorist of systems, defines a model as a "simplification of reality intended to promote understanding" citep:bellinger_model_2004. The limitations that apply to all models—that the map, however useful an aid to understanding, cannot reflect the full territory—also apply to models of disability—perhaps especially so, given the myriad manifestations of disability and disabled identity. Indeed, one practitioner's social model—or medical model, individual model, charity model, administrative model—may, and quite frequently does, differ in application and interpretation when invoked by another. Mike Oliver, said to have coined the term "social model," has gone to lengths to frame it as a "practical tool, not a theory, an idea or a concept" [[citep:oliver_social_2004][p. 19]]. Oliver contends that too much effort has gone into debating the applicability of paradigms and models to the phenomenon of disability and not enough effort into actually bringing about change: "If we imagine that throughout human history the carpenters and builders of the world had spent their time talking about whether the hammer was an adequate tool for the purpose of building houses, we would still be living in caves" [[citep:oliver_social_2004][p. 20]]. Here, Oliver is—pun intended—blunt with his analysis, and in my opinion there is clear value in theorizing disability in all its complexity. Ultimately, however, my interest in models, including a negotiated model, comes from my own individual experiences with disability and my participation in, and regard for, communities of individuals who view disability as part of their identity. In speaking of a negotiated model, I have little interest in imposing specific narratives on the complexity that is disability, but every interest in understanding specific aspects of the disabled experience. Like any model of disability, or indeed any model, thinking of disability in terms of negotiation is intended to be useful, but not totalizing or proscriptive.
+
+While negotiated access flows from the personal and the idiosyncratic in the lives of people with disabilities, as a practice and as a critical lens it is also a vector for political and cultural energy. As we will see in later chapters, negotiated access throws light on disability as an identity and the relationships among disability affinity groups, the narrativization of disability in media, the rise of transhumanism and the pathologization of humanity, the articulation of values through infrastructure, the implications of proprietary and commercial ideologies on the body, and the imagination and implementation of crip utopias. Negotiated access, and related concepts such as haccessibility, suggest ways we can advance both on-the-ground advocacy in the disabled community and augment our understanding of disability through the lens of the social model. Closely examining the unidealized, day-to-day interactions among disabled people and society, however, also raises a host of theoretical questions, not only about disabled life but also about how society at large reflects, or fails to reflect, our values.
+
+** Jaywalking Past Obstacles
+
+Meagan H. Houle, a communications specialist and disability rights blogger, uses a metaphor—waiting on the curb for a ride—to describe her experience of being blocked by society's neglect of essential accommodations:
+
+#+BEGIN_QUOTE
+Being disabled, I realized, is a lot of standing on the corner, waiting for the world to decide that it’s safe for you to cross. My life as a disabled person involves a lot of standing still, watching cars fly freely by, wondering when the light will turn green long enough for me to make some headway. Since the system is more complicated than I can wrap my head around, and there’s no handy countdown, I have no clear idea when that might happen. So I wait, getting increasingly cold and impatient, for a path forward. Some days, it feels as though the world is filled with cars, and I am the only pedestrian in sight. They are roaring along while I walk and wait, walk and wait. citep:houle_wait!_2018
+#+END_QUOTE
+Houle's experience of living with a disability is not a consistent one—in her metaphor, she contrasts her waiting with stretches of progress long enough to cause her to forget her own time spent blocked by a lack of accommodation: "Barriers are overcome, and my journey picks up speed. ... The reprieve might even be long enough for me to point at other unlucky foot travelers, and to wonder loudly what they’ve done–or left undone—to leave themselves stranded at the corner" citep:houle_wait!_2018. However, at points in this metaphorical journey when she is blocked for too long to bear, when the contrast between her lack of progress and others' ease of travel becomes too great, Houle describes another way forward:
+
+#+BEGIN_QUOTE
+Then, when the waiting becomes too much for me, I try to jaywalk. I barge right into the unsafe spaces, the heavy traffic, the uncharted territory. I might get a warning or a slap on the wrist or even an angry honk from someone’s horn; occasionally, I retreat to my corner, chastened. I am foolish and fragile. I must be protected from myself citep:houle_wait!_2018
+#+END_QUOTE
+Houle's comparison to jaywalking, part of a larger metaphor that grapples with the subjective experience of living with disability, describes an almost involuntary reaction to suppression, a reaction born of anger and frustration. This reaction, I will argue, is not only understandable—facing injustice by ignoring or circumventing constraints imposed by commercial interests, majoritarian apathy, or social propriety can help bring about lasting change. My own feelings echo Houle's benediction to the coming generation, that "when the time comes to jaywalk, to break the rules and challenge the status quo, they will have the courage to do it, and the good fortune to emerge triumphant" citep:houle_wait!_2018.
+
+#+CAPTION: Painting by Patrick William Connally, president of DREES (Disability Rights Enforcement and friend of Ed Roberts during the Independent Living Movement. The painting depicts the first curb cut near Wheelchairs of Berkeley.
+#+NAME: curb_cut_painting.png
+#+ATTR_HTML: :alt A somewhat chaotic painting of a smiling individual being pushed in a wheelchair. A curb cut is visible in the foreground, but placed up the block and not on the corner.
+[[./images/curb_cut_painting.png]]
+# Taken from http://revolution.berkeley.edu/first-curb-ramps/
+
+** Cementing the Future
+
+Houle's metaphor—waiting on a corner for change, jaywalking past obstacles—is particularly fitting in light of a history of civil disobedience by disability rights activists, many of whom, in the 60s and 70s, were explicitly concerned with the inaccessibility of streets and street corners. One incident—the quiet reshaping at night of particular street corners to make them accessible by wheelchair—has been mythologized in the retelling.
+
+In 1962, Ed Roberts, a quadriplegic polio survivor, became the first student at Berkeley with a profound disability. Roberts had to overcome a series of obstacles to enroll, among them securing dormitory space for his 800-pound iron lung. Famously, a dean at the university reportedly claimed that "[w]e’ve tried cripples before and it didn’t work" citep:dawson_ed_2015. Over the next decade, Roberts and a growing circle of activists with disabilities would create the Center for Independent Living, a community that advocated for students with disabilities on campus and which would prove instrumental in the burgeoning disability rights movement. In the early years of the Center, however, Roberts was faced with a critical issue: a lack of curb cuts on street corners made it difficult to organize and attend meetings. In an interview for an oral history of the independent living movement at Berkeley, Eric Dibner, a friend and sometime medical attendant for Roberts, describes the mythos that sprung up around guerilla modification of street corners:
+
+#+BEGIN_QUOTE
+# Dibner
+
+# ... so that was one of my first experiences with ramps, right, and learning that if you're closer to the ground, you don't have to build so much of a ramp, like, duh! [laughs]
+
+
+Cowan
+
+I certainly have heard your name associated with ramps over and over again, Eric. There is this story that you were building curb cuts and ramps in Berkeley sort of unofficially. Is there a story behind that?
+
+
+Dibner
+
+Well, you didn't hear about the nitroglycerin where we were blowing up curbs and [laughter] and jackhammers in the middle of the night, where we'd go and we'd jackhammer up all these intersections and then the city would have to fix them.
+
+
+Cowan
+
+No, I didn't hear that story. Is that a true story? [laughs]
+
+
+Dibner
+
+No, neither of those are true stories, actually. [laughs] That was a little later when Ed [Roberts] asked for some ramps to be--there were some corners where he had problems going from his house to CIL, or maybe it was the Disabled Students' Program. So I got a bag of cement and went out. They were real low curbs, like a couple of inches, at Dana and Dwight, probably at Ellsworth and Dwight, and I think I did one at Ellsworth and Blake. It was just to bevel the corner. I mean, we didn't build curb ramps, we just put some cement down to make it useable. [[citep:bancroft_library_regional_oral_office_builders_2000][p. 24]]
+#+END_QUOTE
+Though only a small part of the history of activism and advocacy that swirled around Berkeley's Center for Independent Living (CIL) in the 60s and 70s, Eric Dibner's intervention, though only with a bag of cement and not bombs and jackhammers, was crucial in the moment. Most significant for the time, beveling these corners allowed individuals like Ed Roberts to move more freely around the city, a change that is no less important for being highly localized. But, as the mythology around this incident shows, interventions such as these occupy their own psychological and social space. The dramatization of Dibner's small reshaping of Berkeley infrastructure, transforming a bag of cement into jackhammers and nitroglycerin in the popular imagination, shows the need for images of resistance that galvanize activists, shame the adherents to the status quo, and crystallize change.
+
+It is no coincidence that this intervention happened, and was remembered, in the early 70s and not decades earlier. Dibner's intervention resonates with other movements underway at that time. The parallels with the first, the civil rights movement, were clear to early disability rights advocates who followed its model of civil disobedience, including the use of peaceful demonstrations and sit-ins. Relations between the civil rights movement and the disability rights movement were not always smooth, and the early disability rights movement has been criticized for an overrepresentation of white perspectives and for "sometimes borrow[ing] from the iconography of black history in awkward ways" [[citep:erkulwater_how_2018][p. 368]]. Despite this friction, the position of the civil rights movement as antecedent and inspiration for the disability rights movement is difficult to deny. Similarly, disability rights advocates in this period also participated in other political movements, such as the nascent environmental movement, including occupation of wetlands in support of the National Wild and Scenic Rivers Act [[citep:bancroft_library_regional_oral_office_builders_2000][p. 279]].
+
+Though the connections and influences among disability rights and a number of activist, political, and artistic movements that took shape between the late 60s and early 80s have received commentary and attention, a resonance between disability rights and another influential movement—hacker subculture—has not been explicitly drawn. A few individuals and groups participated in, or were influenced by, both the culture of the early disability rights movement and early hacker culture, among them contributors to the Smith-Kettlewell Technical File, a publication for blind engineers and tinkerers, and the inventor Ray Kurzweil, a figure who I will argue embodies the dangers of infrastructure created by outsiders to a community. By and large, however, my observations, in the next sections, about correspondences between the concerns of communities of people with disabilities and communities of hackers are clear more in retrospect—that is, the comparison is intended primarily to highlight the resilience, persistence, shared knowledge, and infrastructure creation of groups of people with disabilities rather than demonstrate extensive historical connections between these groups. In presenting these shared concerns, I also aim to outline a concept—haccessibility, or the creation of infrastructure that is personal, small scale, and local.
+
+# It is not surprising that early activists in the disability rights movement were unaware of the emergence of hacker culture, despite its early spread from MIT and its environs to outposts on the west coast, including Stanford and the Bay Area. Early hacker culture  m
+
+# Despite pockets of direct overlap between disability rights and hacker culture—, discussed later in this chapter—a set of similarities in concerns between people with disabilities and hacker subculture is not obvious in this period. 
+
+# As technology has reshaped relationships between individuals and their environments, and as people with disabilities have developed technology and communities of practice to address shared concerns, correspondences between people with disabilities and hackers have become more clear over time.
+
+** What Is a Hacker?
+
+"Hacker" is a contested term, one with a set of meanings and associations highly dependent on context and culture. For most, the hacker is figured as a modern-day boogieman or, at best, a trickster. In the news, depictions of the hacker have shifted from a suburban adolescent capable of bringing about nuclear Armageddon to a faceless assortment of criminal collectives to, more recently, the chosen tool of adversarial state actors for subverting Western institutions. Casually and less consistently, individuals in government, corporations, or other positions of power may use the term "hacker" to delegitimize whistleblowers who exfiltrate data, such as Chelsea Manning and Edward Snowden, or researchers who point out security vulnerabilities created by technical or policy decisions on the part of corporations or the government. In fiction, especially film and television, the hacker appears as an unreliable guide or, tamed, clears impediments from the path of the protagonist.
+
+The original use of the word "hacker," one that survives to this day in a number of subcultures, is quite different from this popular figuration. The terms "hack" and "hacker" originated at MIT in the early sixties amongst a group of technically-minded students, many of whom participated in MIT's Tech model train club, the AI lab, or both.
+
+#+BEGIN_QUOTE
+The core members hung out at the club for hours; constantly improving The System, arguing about what could be done next, developing a jargon of their own that seemed incomprehensible to outsiders who might chance on these teen-aged fanatics [...]. [...] one who insisted on studying for courses was a "tool"; garbage was called "cruft"; and a project undertaken or a product built not solely to fulfill some constructive goal, but with some wildpleasure taken in mere involvement, was called a "hack." (Levy, 1984, p. 8)
+#+END_QUOTE
+For these early hackers, the word "hack" already had a number of related usages. One could "hack away" on a task or project, artlessly expending effort but making progress. One might implement a "quick hack," a suspect or unreliable solution that solves a problem in the short term. Most important, however, was the "excellent hack"—a striking or even transcendent solution that demonstrated intimate familiarity or mastery of a system.
+
+#+BEGIN_QUOTE
+But as the TMRC [Tech Model Railroad Club] people used the word, there was serious respect implied. While someone might call a clever connection between relays a "mere hack," it would be understood that, to qualify as a hack, the feat must be imbued with innovation, style, and technical virtuosity. [...] The most productive people working on Signals and Power called themselves "hackers" with great pride. (Levy, 1984, p. 8)
+#+END_QUOTE
+
+Hackers, in this early use of the word, were those who worked on a problem—often technical——out of passion rather than obligation, and who sought a deep understanding of a system or domain. This early hacker culture valued "playful cleverness" (Stallman, 2002), collaborative work, and the sharing of resources and results. 
+
+# They also frequently flouted rules, procedures, and restrictions on access, often in attempts to gain a commodity that, at the time, was highly valuable and frequently out of reach—computer time. 
+
+*************** TODO How did the term "hacker" come to mean criminal?
+*************** END
+
+Much ink has been spilled over the relative legitimacy of various definitions of the word "hacker," particularly whether the term should be applied to criminals who gain unauthorized access to computers or curious and playful tecnophiles. Hackers who connect themselves to the subculture that originated at MIT often attempt to distance themselves from the more widespread usage, insisting that hackers who specialize in gaining access to computer systems be called "crackers" instead. This effort, by and large, has been unsuccessful, and the ambiguity surrounding the word "hacker" remains. In comparing elements of hacker culture to the concerns and practices of the disabled community, however, I will treat each of these interpretations of the term as legitimate. Therefore, the term "haccessibility" as it is used in this project draws on both the tradition of the hacker as playful, deeply skilled amateur and hacker as a specialist in gaining or preventing unauthorized access to systems.
+
+** Shared Concerns
+
+Both hackers and people with disabilities are, fundamentally, concerned with the problem of access. Old-school hackers—the Stallmanss, Drapers, and Wozniaks of the world—care about access because they have a primal need to dig into the core of a machine, system, or program. Without the access granted through informal peer groups or initiatives such as the free and open source software movement, the kind of exploratory work with which these first hackers are associated becomes impossible. Hackers of the other stripe, those appearing in news stories about state actors and data breaches, are also concerned with (frequently unauthorized) access. By definition, these hackers are outsiders seeking entrance to systems from which they have been excluded.
+
+To illustrate the basis of these shared concerns, we might compare the story of Eric Dibner's intervention—illicitly beveling street corners in Berkeley during the height of the Independent Living movement—to the origin story of one of the most famous hackers of the MIT scene. As with the beveling intervention, Richard Stallman, in 1980, contended with a question of accessibility that, like the raised street corner, served as a metanym for an existential threat to a thriving culture. In the AI Lab of the 70s and early 80s, programmers had created an environment based on radical sharing and radical trust. Any individual could, and did, contribute to the lab's infrastructure, accessing at will any machine, code, or account. In 1980, however, a gift from outside the lab—a cutting-edge printer provided by engineers at the famous Xerox PARC in Palo Alto—threatened to disrupt this ethos. The printer, a modified Xerox copier, would jam frequently, leading to confusion and a lack of coordination as jobs piled up and no single individual knew that repairs were necessary. Stallman, in the past, had resolved similar issues by writing additional functionality for the printer and the network that sent messages about the status of the printer to those actively using it. However, in this case, when Stallman requested the source code for the printer from an individual working with PARC, he was refused. Stallman, surprised and mortified by this breach of the ethos of sharing that prevailed among hackers at the time, sensed that the incident foretold trouble for the culture of sharing, exploration, and autonomy he had come to value:
+
+#+BEGIN_QUOTE
+Now that the laser printer had insinuated itself within the AI Lab's network, however, something had changed. The machine worked fine, barring the occasional paper jam, but the ability to modify according to personal taste had disappeared. ... From Stallman's viewpoint, the printer was a Trojan Horse. After a decade of failure, privately owned software-future hackers would use the term " proprietary" software-had gained a foothold inside the AI Lab through the sneakiest of methods. It had come disguised as a gift. (Williams, 2002)
+#+END_QUOTE
+Stallman was correct. In the years following, startups and corporations seeking to monetize work done in and around MIT and the AI Lab, snapped up hackers from the community, asking them to sign non-disclosure agreements that wore away the culture of openness at the lab and ultimately led to Stallman's exile. This experience, a traumatic one for Stallman, eventually resulted in his creation of the Free Software Foundation, an organization that has deeply influenced how software is developed, both politically and pragmatically. Stallman's philosophy that comprehensibility and freedom in the development of software are questions of morality and ethics, and not merely of business practices, has not always been accepted in the field—the more widely-known open source movement arose as a business-friendly, "neutral" alternative to the free software movement. Nonetheless, Stallman's FSF has been instrumental in developments that serve billions, including the creation of the Linux operating system and the innovation that is copyleft licensing.
+
+Dibner and Stallman's stories are not equivalent—for one, Dibner's "hacking" of Berkeley street corners helped strengthen the community around the Center for Independent Living and the early disability rights movement, while Stallman, despite his efforts, failed to preserve intact the hacker community at the AI Lab. Yet both encountered infrastructure that threatened their communities and both took steps to change that infrastructure. Each sought to bring technology in the built environment, technology originating outside of their community's locus of control, into tractability, making it serve not only those with the power to create infrastructure in the first place but also their own community. In both cases, redesigned infrastructure—curb cuts and improved printer software—would better serve everyone, not just the community in question, a generally accepted outcome of attention to accessibility that is today called "universal access." Finally, these interventions, whether successful, limited in their success, or unsuccessful, served to galvanize the individual, and their community, around activism that brought about wider change.
+
+Communities of hackers and communities of people with disabilities share other, arguably more superficial, similarities. Frequently, the concept of "user-friendliness" is viewed with suspicion by hackers and by people with disabilities, by hackers because the ideology frequently obscures the real nature of a system and by people with disabilities because user-friendly design too often makes assumptions based on "normal" or "average" users. Both communities share a tendency toward function over form—that is, appreciating what something can do over how it looks while doing it. These similar tendencies, far from universal, will be discussed further in Chapters 2 and 3. For now, however, the most important correspondence between these communities—hackers and people with disabilities—is a desire, grounded in both moral urgency and pragmatic self-interest, to make technology, especially infrastructure, serve the local as well as the remote, the low as well as the high, the distributed as well as the central, and those without power as well as those with power.
+
