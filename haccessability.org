@@ -38,7 +38,6 @@
 
 #+LATEX: \mainmatter
 :END:
-
 * Introduction
 
 ** my experience
@@ -70,9 +69,6 @@ mushroom at the end of the world a good example, expereintial but with connectio
 here are two aspects to power. The first aspect is what the German philosopher Rainer Forst in 2014 defined as ‘the capacity of A to motivate B to think or do something that B would otherwise not have thought or done’. The means through which the powerful enact their influence are varied. They include motivational speeches, recommendations, ideological descriptions of the world, seduction and credible threats. Forst argues that brute force or violence is not an exercise of power, for subjected people don’t ‘do’ anything; rather, something is done to them. But clearly brute force is an instance of power. It is counterintuitive to think of someone as powerless who is subjecting us through violence. Think of an army dominating a population, or a thug strangling you. In Economy and Society (1978), the German political economist Max Weber describes this second aspect of power as the ability for people and institutions to ‘carry out [their] own will despite resistance’.
 #+END_QUOTE
 https://aeon.co/essays/privacy-matters-because-it-empowers-us-all
-
-
-
 
 * Introducing Negotiated Access
 ** Terry Garrett
@@ -283,12 +279,16 @@ The figure of the hacker, like the figure of the highwayman, says a great deal a
 
 Both hackers and people with disabilities are, fundamentally, concerned with the problem of access. Old-school hackers—the Stallmanss, Drapers, and Wozniaks of the world—care about access because they have a primal need to dig into the core of a machine, system, or program. Without the access granted through informal peer groups or initiatives such as the free and open source software movement, the kind of exploratory work with which these first hackers are associated becomes impossible. Hackers of the other stripe, those appearing in news stories about state actors and data breaches, are also concerned with (frequently unauthorized) access. By definition, these hackers are outsiders seeking entrance to systems from which they have been excluded.
 
-To illustrate the basis of these shared concerns, we might compare the story of Eric Dibner's intervention—illicitly beveling street corners in Berkeley during the height of the Independent Living movement—to the origin story of one of the most famous hackers of the MIT scene. As with the beveling intervention, Richard Stallman, in 1980, contended with a question of accessibility that, like the raised street corner, served as a metanym for an existential threat to a thriving culture. In the AI Lab of the 70s and early 80s, programmers had created an environment based on radical sharing and radical trust. Any individual could, and did, contribute to the lab's infrastructure, accessing at will any machine, code, or account. In 1980, however, a gift from outside the lab—a cutting-edge printer provided by engineers at the famous Xerox PARC in Palo Alto—threatened to disrupt this ethos. The printer, a modified Xerox copier, would jam frequently, leading to confusion and a lack of coordination as jobs piled up and no single individual knew that repairs were necessary. Stallman, in the past, had resolved similar issues by writing additional functionality for the printer and the network that sent messages about the status of the printer to those actively using it. However, in this case, when Stallman requested the source code for the printer from an individual working with PARC, he was refused. Stallman, surprised and mortified by this breach of the ethos of sharing that prevailed among hackers at the time, sensed that the incident foretold trouble for the culture of sharing, exploration, and autonomy he had come to value:
+To illustrate the basis of these shared concerns, we might compare the story of Eric Dibner's intervention—illicitly beveling street corners in Berkeley during the height of the Independent Living movement—to the origin story of one of the most famous hackers of the MIT scene. As with the beveling intervention, Richard Stallman, in 1980, contended with a question of accessibility that, like the raised street corner, served as a microcosm for an existential threat to a thriving culture. In the AI Lab of the 70s and early 80s, programmers had created an environment based on radical sharing and radical trust. Any individual could, and did, contribute to the lab's infrastructure, accessing at will any machine, code, or account. In 1980, however, a gift from outside the lab—a cutting-edge printer provided by engineers at the famous Xerox PARC in Palo Alto—threatened to disrupt this ethos. The printer, a modified Xerox copier, would jam frequently, leading to confusion and a lack of coordination as jobs piled up and no single individual knew that repairs were necessary. Stallman, in the past, had resolved similar issues by writing additional functionality for the printer and the network that sent messages about the status of the printer to those actively using it. However, in this case, when Stallman requested the source code for the printer from an individual working with PARC, he was refused. Stallman, surprised and mortified by this breach of the ethos of sharing that prevailed among hackers at the time, sensed that the incident foretold trouble for the culture of sharing, exploration, and autonomy he had come to value:
 
 #+BEGIN_QUOTE
 Now that the laser printer had insinuated itself within the AI Lab's network, however, something had changed. The machine worked fine, barring the occasional paper jam, but the ability to modify according to personal taste had disappeared. ... From Stallman's viewpoint, the printer was a Trojan Horse. After a decade of failure, privately owned software-future hackers would use the term " proprietary" software-had gained a foothold inside the AI Lab through the sneakiest of methods. It had come disguised as a gift. (Williams, 2002)
 #+END_QUOTE
-Stallman was correct. In the years following, startups and corporations seeking to monetize work done in and around MIT and the AI Lab, snapped up hackers from the community, asking them to sign non-disclosure agreements that wore away the culture of openness at the lab and ultimately led to Stallman's exile. This experience, a traumatic one for Stallman, eventually resulted in his creation of the Free Software Foundation, an organization that has deeply influenced how software is developed, both politically and pragmatically. Stallman's philosophy that comprehensibility and freedom in the development of software are questions of morality and ethics, and not merely of business practices, has not always been accepted in the field—the more widely-known open source movement arose as a business-friendly, "neutral" alternative to the free software movement. Nonetheless, Stallman's FSF has been instrumental in developments that serve billions, including the creation of the Linux operating system and the innovation that is copyleft licensing.
+Stallman was correct. In the years following, startups and corporations seeking to monetize work done in and around MIT and the AI Lab, snapped up hackers from the community, asking them to sign non-disclosure agreements that wore away the culture of openness at the lab and ultimately led to Stallman's exile. This experience, a traumatic one for Stallman, eventually resulted in his creation of the Free Software Foundation, an organization that has deeply influenced how software is developed, both politically and pragmatically. Stallman's philosophy that comprehensibility and freedom in the development of software are questions of morality and ethics, and not merely of business practices, has not always been accepted in the field—the more widely-known open source movement arose as a business-friendly, "neutral" alternative to the free software movement. Nonetheless, Stallman's FSF has been instrumental in developments that serve billions, including the creation of the Linux operating system and the innovation that is copyleft licensing [fn:copyleft].
+
+[fn:copyleft] According to copyleft.org, "[c]opyleft is a strategy of utilizing copyright law to pursue the policy goal of fostering and encouraging the equal and inalienable right to copy, share, modify and improve creative works of authorship" citep:copyleft.org_copyleft.org_2014. The best-known vehicles for copyleft are the GNU General Public License (GPL) for code and the Creative Commons suite of licenses for non-code works. Copyleft licenses have been called viral because when a work with a GPL or CC license is incorporated into or used as the basis for another work, that work, too, must also bear the same or a compatible copyleft license. This encourages, and in some cases mandates, the growth of a commons of freely usable works. For copyleft works, the only restrictive right exercised under copyright law is the right to further restrict.
+### END FOOTNOTE !!!
+
 
 Dibner and Stallman's stories are not equivalent—for one, Dibner's "hacking" of Berkeley street corners helped strengthen the community around the Center for Independent Living and the early disability rights movement, while Stallman, despite his efforts, failed to preserve intact the hacker community at the AI Lab. Yet both encountered infrastructure that threatened their communities and both took steps to change that infrastructure. Each sought to bring technology in the built environment, technology originating outside of their community's locus of control, into tractability, making it serve not only those with the power to create infrastructure in the first place but also their own community. In both cases, redesigned infrastructure—curb cuts and improved printer software—would better serve everyone, not just the community in question, a generally accepted outcome of attention to accessibility that is today called "universal access." Finally, these interventions, whether successful, limited in their success, or unsuccessful, served to galvanize the individual, and their community, around activism that brought about wider change.
 
@@ -306,7 +306,15 @@ To put it another way, haccessibility is about creating infrastructure—for one
 
 Joshua Miele, a blind scientist and designer at the Smith-Kettlewell Eye Research Institute, has articulated this recursive property in discussions of making a meta-maker movement. In these presentations, Miele describes meta-making as creating tools for creating tools. The projects Miele himself has initiated, such as Blind Arduino, perfectly embody this meta-making ethos. Arduino is a low-cost, open source electronics platform used for prototyping devices. As the project description observes, "while blind people could independently develop projects using Arduino, many of the important accessibility steps were undocumented and unknown" (Smith-Kettlewell, 2015). The project, which included a workshop series and continues as a blog, provides essential knowledge for working eyes-free with Arduino. As the project brings blind and low vision individuals in from the cold, they, in turn, are likely to contribute to a growing ecosystem of hackers and developers. Similar projects, such as the Raspberry VI—short for Visually Impaired—mailing list, centered on the popular Raspberry Pi series of single-board (read, small) computers, have enabled communities of knowledge creation to form around technologies that that are flexible and inexpensive.
 
-Haccessible infrastructure is, or should be, low cost. Living with a disability is expensive. In developed countries, limb prosthetics, though they vary widely in cost, generally are priced in line with a car and must be replaced every few years—three years on average, but as low as a few months in some cases. Hearing aids, in 2018, cost between $1,500 and $3,000 for a single ear, about the cost of two month's rent for the average American household (Freuler, 2015). Screen readers, an essential piece of software for the blind, can also cost a great deal. The JAWS screen reader, by some measures still the most popular, costs $895 in 2018, or $1095 for the professional version. A refreshable Braille display, necessary for using Braille in conjunction with a computer, can range in cost from around $3,500 to around $15,000. The high costs for these and countless other forms of infrastructure for people with disabilities mean that these technologies do not generally respect the autonomy of their users. Because they are based on proprietary—secret and legally protected—technology, they are generally not easy to repair and cannot be modified by the user. In addition, their high cost means that an external contributor—a family, a neighborhood, a school, or a government—must frequently step in to pay. While such costs are often gladly shared, such reliance can provoke feelings of guilt and can be a blow to independence for people with disabilities. Arguably the worst outcome of these high costs is their reinforcement of other forms of inequality, particularly class based, racial, and geographic inequality. For example, while many children in the Global North can take advantage of programs to subsidize prosthetic limbs—though non-veteran adults frequently cannot—limb prosthesis in the Global South is almost universally nonexistent or in affordable. According to the World Health Organization, 80% of those with a physical disability live in countries classified as low-income, and of that 80%, fewer than 2% have access to rehabilitative services (Ritter, 2015, p. 66).
+
+** Hacking High Costs
+
+# leg link
+
+# https://blogs.technet.microsoft.com/machinelearning/2018/09/10/why-would-prosthetic-arms-need-to-see-or-connect-to-cloud-ai/
+
+
+Haccessible infrastructure is, or should be, low cost. Living with a disability is expensive. In developed countries, limb prosthetics, though they vary widely in cost, generally are priced in line with a car and must be replaced every few years—three years on average, but as low as a few months in some cases. Hearing aids, in 2018, cost between $1,500 and $3,000 for a single ear, about the cost of two month's rent for the average American household (Freuler, 2015). Screen readers, an essential piece of software for the blind, can also cost a great deal. The JAWS screen reader, by some measures still the most popular, cost $895 in 2018, or $1095 for the professional version. A refreshable Braille display, necessary for using Braille in conjunction with a computer, can range in cost from around $3,500 to around $15,000. The high costs for these and countless other forms of infrastructure for people with disabilities mean that these technologies do not generally respect the autonomy of their users. Because they are based on proprietary—secret and legally protected—technology, they are generally not easy to repair and cannot be modified by the user. In addition, their high cost means that an external contributor—a family, a neighborhood, a school, or a government—must frequently step in to pay. While such costs are often gladly shared, such reliance can provoke feelings of guilt and can be a blow to independence for people with disabilities. Arguably the worst outcome of these high costs is their reinforcement of other forms of inequality, particularly class based, racial, and geographic inequality. For example, while many children in the Global North can take advantage of programs to subsidize prosthetic limbs—though non-veteran adults frequently cannot—limb prosthesis in the Global South is almost universally nonexistent or in affordable. According to the World Health Organization, 80% of those with a physical disability live in countries classified as low-income, and of that 80%, fewer than 2% have access to rehabilitative services [[citep:dally_characteristics_2015][p. 66]].
 
 A number of communities have begun to coalesce around the creation and modification of low-cost alternatives to proprietary technologies for people with disabilities. Many of these communities are small and, as will be discussed in Chapter 3, suffer from issues of algorithmic effacement—that is, interested individuals frequently cannot discover such communities through online means due to the inherent majoritarianism of search and social platforms. Online communities of people with specific concerns related to disability often resemble the early internet of the 90s or the modern dark web, operating primarily through vectors such as word of mouth, a loose federation of links, and serendipity.
 
@@ -330,45 +338,55 @@ In the blind community, one low cost, modifiable, and community-oriented revolut
 # -----moved-----
 
 # People with disabilities, especially those in certain affinity groups, often gravitate toward playful, clever, or community-minded resolutions to daily struggles, casting them in a role similar to the "original" hacker. At the same time, the need to surmount obstacles presented by lack of accessibility just as often casts people with disabilities in the role of the hacker as outsider, criminal, and suspect.
- 
 
-# end of sample for harvard, remove later
+** Hacking Norms
+intro with google glass?
 
-# -----
-
-# End of excerpt
-
-# #+LATEX: \pagebreak
-
+leg prosthesis that didn't look like a leg
 ** Hacking As Advocacy
 
 If accessibility bridges the space between an individual and a normative goal, hacking bridges the space between an individual and a non-normative goal. That is, questions of accessibility typically apply when thinking about sanctioned actions, modes of engagement that are allowed by society. If the creators of a website wish it to be widely available to the public, then it is a failure of accessibility if that website cannot be accessed by an particular individual. If an individual wishes to read a digital book they have purchased from Amazon on a non-sanctioned device, however, that is not typically considered a question of accessibility. Instead, the space between the desire to read the book, perhaps even to share or archive it, and the reality of doing so becomes a question of hacking.
 
+
+** Stepping Back From the Hacker
+
+Occasionally, the straightest path between two points is a straight line. This chapter opened with Terry Garrett and his goal to play a particular game to completion. In realizing this goal, Garrett, unfortunately, did not bring sweeping changes to the video game industry. Even less surprisingly, Garrett did not uncover a universal cure for blindness. Yet it would be unfair to say that, in completing /Ocarina of Time/, Garrett accomplished nothing in the wider world. Brush was cleared from a path. A lamp was lit. A thought became easier to think. A small impossibility became, briefly, a small possibility.
+
+In this chapter, I've drawn a series of parallels between people with disabilities and hackers. There is a sense in which I mean this as a notable, highly literal, and perhaps underrealized comparison. Hacking, as a practice, is broadly useful to many people with disabilities. Many people with disabilities, myself included, consider ourselves hackers. Many who are unaware of, or uncomfortable with, the term would be a credit to hackers everywhere should they choose to embrace it. People with disabilities and hackers, as we have seen, challenge the status quo, defy norms, distain barriers, create strong affinity groups, and build our own stuff. [fn:no-one] [fn:cool] [fn:annoying-emails]
+
+[fn:no-one] Because no one else will.
+
+
+[fn:cool] Pretty cool, right?
+
+
+[fn:annoying-emails] Hackers and the accessibility-obsessed also send a lot of annoying emails to companies and expect them to change their websites and apps. And once in a while we even get paid for these services.
+
+
+# End footnotes !!!!
+
+Though I think this comparison is productive in itself, I also use it here as a starting point for a larger set of questions and concerns. These, fundamentally, revolve around autonomy—that is, the nature of the relationship between a subject and its environment, or the inside and the outside. In this chapter, we've focused on hacking as a mode of negotiation between the individual and the physical and social environment. In the next, we'll theorize autonomy in the context of disabled identity. Among other things, we'll consider autobiographies of disability, seeing how—and whether—they resist the majoritarian worldview enforced by society.
+
+As we move forward in this project, we'll move outward. Haccessibility, fundamentally, is a mode that aids an individual, or an affinity group, to negotiate the immediate physical and social environment. Sometimes, it inspires or enables the creation of infrastructure, such as hackable hearing aids or the Non-Visual Desktop Access screen reader. It can also precipitate broader advocacy-based change. In focusing on autonomy and autobiography in the next chapter, we'll consider the ways individuals with disabilities express their own identities, but we'll also explore the relationship between a shared, constructed disability identity and the broader society. In Chapter 3, we'll examine larger built structures, specifically infrastructure, and while we'll still be concerned with the individual we will begin to consider threatened subject positions of larger entities and collectives such as the humanities or the academy. By the final chapter, we'll consider humanity's autonomy in a totalizing environment it—we—have constructed.
+
+Though we step away from the hacker as representative of a mode of negotiation, we'll ultimately revisit haccessibility and the ethos of the hacker as we search for solutions to larger questions of autonomy. Though hacking itself is limited as a mode of resistance and a vector for change, the hacking ethos, which holds up decentralization, locality, repurposing, and sharing, may provide us with ways forward as we contend with systems that promote injustice, inequality, waste, disenfranchisement, and exploitation. Though hacking frequently only grants autonomy to the hacker, and hacking itself requires forms of privilege that are not widely available, in building social and physical structures that are alterable and responsive to local needs it may be possible to democratize the kind of autonomy that is currently only available to the few.
+
+
+
+
+# some leftovers
+:leftovers:
  # Clearly there are major differences in these communities, most notably that the subject position of the hacker as an outsider seeking access is frequently chosen, while the subject position of the disabled individual as an outsider is forced upon them.
-
-
-
-
 
 
 # The [[https://theoutline.com/post/2458/there-are-still-some-people-on-twitter-who-don-t-have-280-characters][blind social media manager stuck using 180 characters when others can use 280]]. 
 
 # While disabled gamers continue to pursue advocacy efforts, they have also engaged in a form of disability mitigation that is not generally acknowledged by the medical or social models of disability. If gaming interfaces are construed as a kind of infrastructure, one that attempts to determine not only the "what" of content and experience but also the "how" of method and interaction, then disabled gamers have, in large numbers, created their own infrastructure and support systems that defy constraints and carve new methods of engagement. 
+:end:
 
 
 
 
-
-
-
-—is opposed by the social model of disability, a view which contends that disability as a phenomenon is largely socially constructed.
-
-
-
-
- The medical model of disability—the view that disability is a  The social model of disability has found traction among those 
-
-leg prosthesis that didn't look like a leg
 
 # leftovers
 # ** Independence and Disabled Identity
@@ -768,8 +786,6 @@ seeking autonomy through autobiography is pretty imperfect, but in haccessibilit
 12 words
 https://www.kenyonreview.org/journal/septoct-2019/selections/brian-trapp/
 
-
-
 * infrastructure
 
 ** infrastructure: a local phenomenon
@@ -1135,8 +1151,6 @@ can haccessibility  help here? just as we must replace bad culture with good cul
 # erros in excel
 http://www.sciencemag.org/news/2016/08/one-five-genetics-papers-contains-errors-thanks-microsoft-excel
 
-
-
 * Conclusion
 ** notes
 
@@ -1388,9 +1402,9 @@ it was marketed in more philosophical terms. my favorite ad from that era is for
 programming language. in an issue of byte magazine from 1982 you can find an ad that describes logo
 as “a language for poets, scientists, and philosophers” (logo, 1982). incredible! at this time, computers
 were more about learning and creativity—open-ended learning and creativity.
-"as if"
+"as if" (interview with lori emerson)
 
-https://blogs.technet.microsoft.com/machinelearning/2018/09/10/why-would-prosthetic-arms-need-to-see-or-connect-to-cloud-ai/
+
 
 
 
