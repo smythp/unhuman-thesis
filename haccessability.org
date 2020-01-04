@@ -419,24 +419,24 @@ It may seem that these iron lung survivors, as an example of the absolute need f
 # We should find it unacceptable for data to bypass the patient. We all 
 :end:
 
+*************** TODO revisit the hacking norms section (notes below)
+# ** Hacking Norms
+# intro with google glass?
 
-** Hacking Norms
-intro with google glass?
+# leg prosthesis that didn't look like a leg
 
-leg prosthesis that didn't look like a leg
+# use:
 
-use:
+# Simone Browne
+# dark matters
+# "dark sousveillance" 
 
-Simone Browne
-dark matters
-"dark sousveillance" 
-
+*************** END
 
 
+# ** Hacking As Advocacy
 
-** Hacking As Advocacy
-
-If accessibility bridges the space between an individual and a normative goal, hacking bridges the space between an individual and a non-normative goal. That is, questions of accessibility typically apply when thinking about sanctioned actions, modes of engagement that are allowed by society. If the creators of a website wish it to be widely available to the public, then it is a failure of accessibility if that website cannot be accessed by an particular individual. If an individual wishes to read a digital book they have purchased from Amazon on a non-sanctioned device, however, that is not typically considered a question of accessibility. Instead, the space between the desire to read the book, perhaps even to share or archive it, and the reality of doing so becomes a question of hacking.
+# If accessibility bridges the space between an individual and a normative goal, hacking bridges the space between an individual and a non-normative goal. That is, questions of accessibility typically apply when thinking about sanctioned actions, modes of engagement that are allowed by society. If the creators of a website wish it to be widely available to the public, then it is a failure of accessibility if that website cannot be accessed by an particular individual. If an individual wishes to read a digital book they have purchased from Amazon on a non-sanctioned device, however, that is not typically considered a question of accessibility. Instead, the space between the desire to read the book, perhaps even to share or archive it, and the reality of doing so becomes a question of hacking.
 
 
 ** Stepping Back From the Hacker
@@ -528,12 +528,20 @@ Initially and for the most part, de-distancing is a circumspect approaching, a b
 #+END_QUOTE
 The Heideggerian worldview, where space is a function of our own nature and the nature of our relationship to the objects and people around us, has implications for how we think about autonomy, not as a separation or independence from the world around us but as a measure of our ability to meaningfully act, to draw things closer to us or to distance ourselves from them.
 
-There are other implications to this worldview. One is that stuff has allegiance. While we make demands on the built environment—sitting in chairs, opening doors, looking out windows, climbing up stairs—the built environment makes demands on us. The locked door or gate bars passage, creating demarcations where there is distance for one and nearness for another. Adversarial equipment (fences, walls, doors, signs, checkpoints, in a social context, functionally determines geography, how space for us is determined.[fn:hostile_architecture]
+There are other implications to this worldview. One is that stuff has allegiance. While we make demands on the built environment—sitting in chairs, opening doors, looking out windows, climbing up stairs—the built environment makes demands on us. The locked door or gate bars passage, creating demarcations where there is distance for one and nearness for another. Adversarial equipment (fences, walls, doors, signs, checkpoints, in a social context, functionally determines geography, how space for us is constituted.[fn:hostile_architecture]
 
 [fn:hostile_architecture] I use the term adversarial equipment here to contrast with Heidegger's concept of equipment as handy or to hand, and as a more general term that can apply equally to objects, devices, and architecture. In architecture more specifically, this concept has been called hostile architecture, defensive architecture, exclusionary design, or unpleasant design. Examples include spiked park benches to discourage overnight sleeping, irritating sounds to deter youth congregation, or blue lights to make it difficult for drug users to find veins. See /Callous Objects: Designs Against the Homeless/ citep:rosenberger_callous_2017 and /Unpleasant Design/ citep:savicic_unpleasant_2016.
 
+
+# END FOOTNOTE !!!
+
 *************** TODO the stack might be useful here
 *************** END
+
+#+caption: Concrete spikes placed under a bridge in Guangzhou, a city in China, to deter the homeless. An example of hostile architecture.
+#+name: spikes_under_bridge.jpg
+#+attr_html: :alt Scary-looking spikes under an overpass as cars drive by.
+[[./images/spikes_under_bridge.jpg]]
 
 Thinking of the phenomenon more broadly, however, we see a key threat to the exercise of our autonomy. The more we look around our built environment, the more we see that it is filled with entities that reach out to and through us, but do not allow reaching back in return. That is, these objects, though close to us in a literal sense, are distant from us in the real way that we encounter the world. Though we will engage with this idea more fully in the next chapter when we consider the implications of infrastructure for negotiation, we can see this reality most plainly and obtrusively in the object, and ideology, of the smartphone. 
 
@@ -547,7 +555,16 @@ The corporate and government organizations that gather data and influence behavi
 [fn:1] In programming, a design pattern is a broad approach to solving a common problem or category of problems. In 2010, Harry Brignull, a user experience designer, created darkpatterns.org to draw attention to a trend in user experience design that pushes users toward choices counter to their own interests, such as sending invites to a service to email contacts or signing up for recurring payments. "Dark pattern" is now an accepted term for design decisions that leverage an understanding of behavior in the aggregate for ends that are coercive or user-hostile.
 
 
-We attribute a bold claim to Archimedes: "Give me a lever long enough and a fulcrum on which to place it, and I shall move the world." Imagine, for a moment, a world of warring Archimedes, straining, with their levers, to wrest the world in their preferred direction. To us, the fulcra, these engineers are hidden from our view, the reach of their levers too long for us to follow. We can only feel the torque, and note the movement of the world as a distant contender finds purchase. When we raise a phone, scroll through a feed, and touch the screen, we know that we communicate with distant others. But there is another presence or presences with us, determining what we see and do not see. These presences set the ground, creating the environment in which we exercise volition and benefiting from our actions. The shift of the lever might create or suppress a movement, determine the outcome of a close election, destroy a business, start a trend, or alter public opinion.
+We attribute a bold claim to Archimedes: "Give me a lever long enough and a fulcrum on which to place it, and I shall move the world." Imagine, for a moment, a world of warring Archimedes, straining, with their levers, to wrest the world in their preferred direction. To us, the fulcra, these engineers are hidden from our view, the reach of their levers too long for us to follow. We can only feel the torque, and note the movement of the world as a distant contender finds purchase. When we raise a phone, scroll through a feed, and touch the screen, we know that we communicate with distant others. But there is another presence or presences with us, determining what we see and do not see. These presences set the ground, creating the environment in which we exercise volition and benefiting from our actions. The shift of the lever might create or suppress a movement, determine the outcome of a close election, destroy a business, start a trend, or alter public opinion. [fn:nudges]
+
+[fn:nudges] These are rapidly becoming uncontroversial claims. It is superficially true that, throughout history, powerful, influential, or talented groups or individuals have suaded populations by various means. Though sophistry, demagoguery, and appeals to self-interest and group affiliation are ancient, the sophistication, reliability, and marked effectiveness of methods developed in this connected era make for a qualitative change. In the mid-2000s, scholars such as Phillip Howard noted that modern information technology was creating, and would continue to create, large differences in how political campaigns were conducted citep:howard_new_2006. Roughly contemporaneously, in industry, an awareness of the susceptibility of consumers to stimuli that could be effectively tested in real time began to coalesce under the loose designation "neuromarketing" citep:zaltman_how_2003,renvoise_neuromarketing:_2008,fisher_defining_2010, which used, or misused, techniques from neuroscience such as electroencephalogram, eye tracking, and facial coding to sell people more stuff. In citeyear:thaler_nudge:_2009, Cass Sunstein and Richard Thaler released the popular /Nudge/, coining the terms "libertarian paternalism" and "choice architect" and advocating for the more concerted use of modern technological and scientific influence to public-facing domains such as law, commercial finance, and medicine.
+
+In 2000, Google ran the first known A/B test of the internet age, using a specialized, though simple, statistical and scientific technique to determine which of two choices would be preferred by users, later using the method to choose the optimal blue for advertisement links from 41 options citep:hern_why_2014. As a former Google enginner said, chillingly enough, of a later A/B test at Amazon: Everyone must be able to experiment, learn, and iterate. Position, obedience, and tradition should hold no power. For innovation to flourish, measurement must rule" citep:linden_early_2006.
+
+Tracing this history could be a dissertation and not a footnote, but after revelations of emotion inducement at Facebook, promotion of extremism in pursuit of engagement at YouTube, and the use of platform data by foreign powers to influence elections, this area is receiving a great deal of attention from academics and public intellectuals and is unlikely to go unexplored.
+
+
+# END FOOTNOTE !!!
 
 Another presence can be felt through the preferences of the normative majority in the lived environment. Conveniently, Heidegger presents another term for this normative entity: /das Man/, derived from the German equivalent of "one," as in "one must not do that." /Das Man/ shapes the nature of our built environment, determining who is included an who is excluded. /Das Man/ has working legs, and so the built environment gives precedence to stairs. /Das Man/ can drive, and so the dominant mode of transportation is the car. /Das Man/ is not pregnant, carries government-issued identification, and does not experience chronic pain. The environment around us is built for /Das Man/, and the presence of this normative entity, this demographic chimera, is felt in every assumption about our capabilities as we move through the world. To draw once again on our spatial metaphor, /Das Man/ exists in a world of short distances, open portals, and unimposed restrictions.
 
@@ -1002,7 +1019,7 @@ there are many possible causes for the rise of academics sans academy, among the
 
 the rise of idea arbitrage—buying thought and analysis low and, after applying a figurative coat of paint, selling high—is one development that shows the relative inaccessibility of academic writing to the wider society. though popularizers such as gladwell have been criticized for distorting and cherrypicking academic research (gray, 2013; fitts, 2013), their work is still recognizable as drawing on disciplinary authority and traditions. more alien to the traditions of the academy and more indicative of the weakness of humanities infrastructure for performing research and engaging with the wider society, however, is the rise of traditions of critical and interpretive activity independent of the academy. these developing interpretive traditions, often associated with specific subcultures or fan communities, demonstrate broad engagement and a level of infrastructural awareness rarely matched by academics. while terms such as "outsider art" and "architecture naïve" have been used to describe creative work that falls outside of any established tradition, for various reasons—condescension notwithstanding—equivalent terms do not readily apply to non-academic communities built around interpretive activity. indeed, given the popularity of such communities, a case could be made that humanities practitioners working within the academy are the outsiders. a more appropriate term for these rising interpretative communities might be "lay hermaneutics."
 
-#+caption: clarence schmidt's house of mirrors in woodstock, new york, an instance of architecture naïve.
+#+caption: Clarence Schmidt's house of mirrors in woodstock, new york, an instance of architecture naïve.
 #+name: mirrors.jpg
 #+attr_html: :alt an extremely odd-looking house in winter.
 [[./images/mirrors.jpg]]
