@@ -94,7 +94,6 @@ Developments in this area have included accessibility initiatives by gaming-adja
 
 Finally, due perhaps to FCC rules that went into effect in 2015 mandating that certain game console functionality be made accessible, there has been an uptick in researcher interest in the challenges associated with creating accessible games [[citep:garber_game_2013][p. 17]] and a growing awareness of the central role of gaming in culture, therapy, and education [[citep:yuan_game_2011][p. 2]]. Though these developments are exciting, advocacy around changing attitudes toward accessibility in gaming are still in their early stages.
 
-
 ** A Negotiated Model of Disability
 
 The disabled experience is typically—though not universally—characterized by distinct relationships between the individual and the lived environment. Consider the cane, an implement that, in its differing forms, is almost metanymous with mobility and sensory disabilities. For the blind and for many who are mobility impaired, the cane is an emblem of independence. When picking up a cane, the relationship among certain disabled individuals and their lived environment is powerfully altered. Distances shrink and senses expand. Daniel Kish, an advocate for unorthodox mobility strategies for the blind, describes the experience:
@@ -123,7 +122,6 @@ The negotiated model articulated here is not a call for new types of work to be 
 So, again: what conception of disability allows us to best understand Garrett's achievement—completing, independently as a blind individual, a game designed exclusively for the sighted? If it's not yet clear, my answer to this question is the negotiated model of disability. While advocacy and social progress on the rights of disabled gamers might have helped, and could yet help, individuals such as Garrett, it was not this form of social progress that allowed Garrett to overcome this challenge. It also goes without saying that no (entirely theoretical) cure contributed to his victory. Rather, Garrett's accomplishment was the result of a successful negotiation of the lived environment. In approaching an apparently inaccessible game as he did, Garrett forced a redefinition of his relationship with it. creating infrastructure—a path—where no infrastructure existed before. Garrett's achievement also shares many characteristics of negotiated access that will be discussed in depth in this chapter, among them an idiosyncratic, exploratory,  or free-form approach to the creation of localized infrastructure—"haccessability."
 
 Finally, it's essential to note that negotiated access is not an exceptional or extraordinary state for disabled individuals. Rather, it's a daily, or even hourly, fact of life. Case studies such as Garrett's and the others that will be discussed below garner focus and attention in both disabled and non-disabled communities, making them attractive for citation, discussion, and inclusion in a text such as this one. For disabled individuals, however, negotiation of the lived environment is simply a fact of life, one generally performed without fanfare or even, in most cases, acknowledgment. In addition, those individuals whose achievements come to wider public attention are often, despite their disabled status, privileged in other ways. While this study will attempt to balance extraordinary examples of negotiated access with those in keeping with the daily struggles and successes of disabled life, I wish to acknowledge that "notable" achievements in this context are unfortunately often those marked out by able, rather than disabled, communities. To the extent that it is possible within the bounds of this project, I have sought out first-hand accounts and voices of disabled experience whenever possible.
-
 
 ** What is Negotiated Access?
 
@@ -273,7 +271,6 @@ There is a great deal to laud in the hacker ethos, at least as idealized, and th
 
 The figure of the hacker, like the figure of the highwayman, says a great deal about our cultural circumstances. If the highwayman is, quintessentially, nobility in the face of venality, the hacker is unrestricted freedom in the face of rationalizing and racinating system. The figure of the hacker, I hope, can be useful to us in the same way the highwayman was useful centuries ago, even if literal, real-world highwaymen and hackers turn out to be disappointing in comparison to the ideal.
 # End footnote !!!!!
-
 
 ** Shared Concerns
 
@@ -622,7 +619,6 @@ In short, autobiography, reliant as a form on representability, the thin thread 
 
 In the previous chapter, we shifted our attention away from the isolated self, associated with the medical model of disability, and the broad collective, associated with the social model. Instead we focused on the local physical and social environment, the points at which an individual negotiates the world around them. This chapter on disability autobiography will share a similar concern with the local, and will consider disability autobiography from three perspectives. First, taking the texts of autobiographies at face value, we will draw on these works for examples of negotiation—local knowledge, community, and infrastructure that led to survival, autonomy, or self-actualization. Second, we will consider these autobiographies not from the inside, but from the outside, regarding the texts themselves as instances of negotiation. Considering the autobiographies themselves as pieces of infrastructure or as products of a community, or as failed or successful attempts to transcend an imposed narrative, sheds light on ongoing struggles for autonomy among people with disabilities. Finally, we will draw on the tensions between individual and society within autobiography to explore how people with disabilities negotiate between the local and the universal. As we will see, people with disabilities frequently struggle against narratives imposed on them by society. In biographies of disability, we see the struggle for purchase on the universal, the strategies employed by people with disabilities to contend with a casually hostile social consensus—the ignorant, apathetic, and sometimes cruel /das Man/. Like Scheherazade, they must tell a story to change the story, and the stakes are high.
 
-
 ** DONE Fix above sentence when I know more about this chapter
    CLOSED: [2019-10-18 Fri 19:22]
 *************** END
@@ -631,7 +627,7 @@ Many autobiographies of people with disabilities are further troubled by questio
 
 ** Movement and Expression
 
-Two autobiographies, published more than fifty years apart, provide a useful case study in the forms of negotiation discussed here, including specific strategies such as hacking the immediate physical and social environment and recasting, through self-expression, a narrative imposed on an individual by society. /My Left Foot/ is a 1954 autobiography by writer Christy Brown, who was born with cerebral palsy in a society, mid-twentieth century Ireland, where the condition was poorly understood. /Double Take/ is an 2009 autobiography by photographer Kevin Michael Connolly, who was born with no legs in Helena, Montana in 1985. Both Brown and Connolly were poor, but had the full, and often unconventional, support of family members. Both find creative ways to fully participate, and eventually excel, in chosen domains—painting and writing for Brown, skiing and photography for Connolly. Both Brown and Connolly find ways to mitigate disabilities of mobility relatively early on, but for each the primary challenge is to find a mode of expression that enables a redefinition of their relationship to society. Though their stories are similar in many ways, important differences, including their relationship to the medical establishment, show how the treatment of people with disabilities by society has at once changed and remained the same.
+Two autobiographies, published more than fifty years apart, provide a useful case study in the forms of negotiation discussed here, including specific strategies such as hacking the immediate physical and social environment and recasting, through self-expression, a narrative imposed on an individual by society. /My Left Foot/ is a 1954 autobiography by writer Christy Brown, who was born with cerebral palsy in a society, mid-twentieth century Ireland, where the condition was poorly understood. /Double Take/ is an 2009 autobiography by photographer Kevin Michael Connolly, who was born with no legs in Helena, Montana in 1985. Both Brown and Connolly were poor, but had the full, and often unconventional, support of family members. Both find creative ways to fully participate, and eventually excel, in chosen domains—painting and writing for Brown, skiing and photography for Connolly. Both Brown and Connolly find ways to mitigate disabilities of mobility relatively early on, but for each the primary challenge is to find a mode of expression that enables a redefinition of their relationship to society. Though their stories are similar in many ways, important differences, including their relationship to the medical establishment, show how the treatment of people with disabilities by society has changed since the mid-twentieth century, but also how the concerns of people with disabilities between these periods are fundamentally similar.
 
 ** His Left Foot
 
@@ -647,7 +643,6 @@ Brown's bridging of the gulf of communication between himself and his family, hi
 #+BEGIN_QUOTE
 It was the chalk that attracted me so much. ... Suddenly I wanted desperately to do what my sister was doing. Then—without thinking or knowing exactly what I was doing, I reached out and took the stick of chalk out of my sister's hand—/with my left foot/. citep:brown_my_1955
 #+END_QUOTE
-
 After his left foot, "apparently on its own volition, reached out and very impolitely took the chalk out of ... [his] sister's hand" citep:brown_my_1955, all eyes in the family turn to Brown. His mother, picking up on the tension in the room and seeing Brown gripping the chalk, pushes Brown across the final divide.
 
 #+BEGIN_QUOTE
@@ -674,9 +669,9 @@ The breaking down of the go-car forces a reckoning for Brown. Before, his full p
 #+BEGIN_QUOTE
 Up to then I had never thought about myself. True, there had come sometimes a vague feeling that I wasn't like the others, an uneasy sort of stirring in my mind that came and went. But it was just one dark spot in the brightness of things ...  I began to hate the sight of those hands, the sight of my wobbly head and lop-sided mouth as I saw them in the mirror, so that I soon came to hate and fear a mirror. It told me too much. It let me see what other people saw ... citep:brown_my_1955
 #+END_QUOTE
-Without Henry and the full participation -it facilitated, Brown is forced to see himself as others see him—dependent, ugly, other.
+Without Henry and the full participation -it facilitated, Brown is forced to see himself as others see him—dependent, ugly, other. Henry, an incidental piece of the environment, almost the definition of local infrastructure, shows how critical individualized adaptations can be for negotiation, not only in everyday physical interactions but also in the creation of an image of self. The informal nature of these adaptations makes them contingent and vulnerable, but can also facilitate a defiance of social conventions that seek to restrict the actions of people with disabilities.
 
-Haccessibility, as a mode, provides a bridge between the individual and the immediate environment. It requires no special permission, no approbation from the wider society. In Brown's case, this is critical. Not only did doctors not believe that Brown was capable of communication through writing, they would later forbid him as a young adult from using his left foot to express himself, thinking that it would interfere with a medical cure. If Brown's writing of the letter "A" were dependent on a prior understanding by the broader society—/das Man/—it would not have occurred. Likewise, if Brown's childhood adventures with his brothers needed the permission of those Dubliners giving him "queer looks," he would not have been able to participate. 
+Haccessibility, as a mode, provides a bridge between the individual and the immediate environment. It requires no special permission, no approbation from the wider society. In Brown's case, this is critical. Not only did doctors not believe that Brown was capable of communication through writing, they would later forbid him as a young adult from using his left foot to express himself, thinking that it would interfere with a medical cure. If Brown's writing of the letter "A" were dependent on a prior understanding by the broader society—/das Man/—it would not have occurred. Likewise, if Brown's childhood adventures with his brothers needed the permission of those Dubliners giving him "queer looks," he would not have been able to participate.
 
 Haccessibility here, as it frequently does, throws the tyranny of the idealized normal, the elusive /das Man/, into sharp relief. Brown's writing with his left foot makes clear a lack of understanding on the part of those that write with the "right" hand. There is a sense in which these acts of haccessibility are more powerful for their limitations. By creating ways forward that are contingent, local, and born of necessity, they show the narrowness and inflexibility of the physical and social environment and its inadequacy for meeting the needs of its inhabitants.
 
@@ -723,10 +718,7 @@ Religion, should Brown choose to embrace it, would provide a path to the univers
 
 After some months a new feeling sprang up within me—a horrible feeling. I began to be not merely miserable and gloomy, but also resentful. I resented the world as a whole because of my crooked mouth, twisted hands and useless limbs. I looked about at all that was normal and perfect around me, and asked myself for the hundredth time why was I made different, why should I have been given the same feelings, the same needs and sensitivities as other people along with a practically function-less body that not only denied me the right to live a normal life, but also made me sick at the very sight of myself? What had I to look forward to? What prospect had I of being anything else other than the cripple who painted with his toes? People always thought it was a marvellous thing that I could paint with my toes and told me I was lucky, yes, quite a remarkable boy. But what difference did painting with my left foot make? What good was it saying I was remarkable? I didn't want to be remarkable—I only wanted to be ordinary, like everyone else. Just because I did with my left foot what others did with their hands people said it was a wonderful thing. Maybe it was—I didn't know. I used my foot simply because I couldn't use my hands, but it did not make me feel proud or unique. In fact I never used my left foot in the presence of anybody I didn't know very well, because it made me feel rather silly and awkward. I always felt like a performing monkey or seal.
 
-
----
-
-
+-----
 
 
 “He'd make the best bricklayer of the lot of you,” father would say when he was a little ‘tight', pointing at me in front of the others. “You'd be earning five pounds a week now, Chris, building houses, a pair of dungarees on you and a good steel trowel in your hand.” I hated bricklaying because I couldn't lay bricks.
@@ -1266,7 +1258,11 @@ can haccessibility  help here? just as we must replace bad culture with good cul
    google docs gets the usability right but sucks at all the things we care about...provenance, owning your own stuff (what's the point of tenure if google can unpublish your stuff?), sustainability
 ** who is building infrastructure?
 ** if we're doing infrastrcture, are we doing humanities?
+** solutions
 
+"This utopian desire fundamentally counters the idea of the built environment as a commodity product. Rather than a singular output, architectural design becomes a sustained"
+
+https://imaginariesofthefuture.files.wordpress.com/2017/11/concreteutopiasintroduction.pdf
 # erros in excel
 http://www.sciencemag.org/news/2016/08/one-five-genetics-papers-contains-errors-thanks-microsoft-excel
 
@@ -1620,7 +1616,8 @@ https://loriemerson.net/2019/10/16/media-archaeology-lab-as-platform-for-undoing
 
 https://aeon.co/essays/is-the-world-ordered-as-a-system-or-as-a-project?utm_medium=feed&utm_source=atom-feed
 
-
+# boone on blackboard
+https://teleogistic.net/2011/09/19/i-develop-free-software-because-of-cuny-and-blackboard/
 
 
 bibliographystyle:apalike
