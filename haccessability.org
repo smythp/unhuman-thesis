@@ -373,6 +373,12 @@ Though sleep apnea is a serious and potentially life-threatening condition, the 
 
 Since the late 2000s, there has been increased advocacy and awareness for patients' rights and, specifically, the right to access devices and data protected by industry DRM [fn:digital-rights-management]. As medical information available online is increasingly consumed by patients as well as doctors, an e-patient movement has formed around this new form of participatory medicine. "E-patient," originally coined to refer to "electronic patients" or patients that perform their own research on the web, has become a self-designation for those who are, according to a white paper released by the Society for Participatory Medicine, "empowered, equipped, engaged, [and] enabled in their health and healthcare decisions" citep:ferguson_e-patients:_2007. In 2009, a self-designated e-patient, Dave deBronkart, was invited to give a keynote at a medical conference from a patient perspective and, out of frustration, titled his talk "Gimme My Damn Data, Because You Guys Can't Be Trusted" citep:debronkart_gimme_2019.  The talk, and the provokative title, became a rallying cry and sub-movement of the larger patients' rights, e-patient, and participatory medicine movements. These developments are paralleled in recent, and at least mildly successful, advocacy initiatives such as the Right to Repair movement. There is a sad irony in the fact that farmers seeking access to the repair specifications and data products of their tractors share almost identical concerns to patients seeking insight into the operations of their pacemakers, glucose monitors, bladder stimulators, and hearing aids. However, due to the enclosure of fundamental rights through the application of technological and legal measures such as DRM and the DMCA, the e-patient and Right to Repair movements are natural allies, and progress in advocacy, infrastructure development,  and the law might prove broadly beneficial. [fn:software-concentration]
 
+*************** TODO article for right to repair
+For tech-weary Midwest farmers, 40-year-old tractors now a hot commodity
+
+http://www.startribune.com/for-tech-weary-midwest-farmers-40-year-old-tractors-now-a-hot-commodity/566737082/
+*************** END
+
 
 [fn:digital-rights-management] Digital Rights Management, or DRM, is software or software features intended to restrict a user's use of the software or an associated device. Essentially, DRM is a digital lock, or an attempt to put something like a lock in place in an environment, the general-purpose computer, in which such restrictions are inherently technically difficult. Cory Doctorow  observes that "DRMs are technologies that treat the owner of a computer or other device as an attacker, someone against whom the system must be armored. Like the electrical meter on the side of your house, a DRM is a technology that you possess, but that you are never supposed to be able to manipulate or modify" citep:doctorow_content:_2008. DRM is often more of a legal barrier than a technical one—putting in place technical restrictions gives corporations the ability to pursue violations in court under laws such as the Digital Millennium Copyright Act.
 
@@ -554,6 +560,8 @@ The corporate and government organizations that gather data and influence behavi
 
 [fn:1] In programming, a design pattern is a broad approach to solving a common problem or category of problems. In 2010, Harry Brignull, a user experience designer, created darkpatterns.org to draw attention to a trend in user experience design that pushes users toward choices counter to their own interests, such as sending invites to a service to email contacts or signing up for recurring payments. "Dark pattern" is now an accepted term for design decisions that leverage an understanding of behavior in the aggregate for ends that are coercive or user-hostile.
 
+*************** TODO hammah arrent references below i think
+*************** END
 
 We attribute a bold claim to Archimedes: "Give me a lever long enough and a fulcrum on which to place it, and I shall move the world." Imagine, for a moment, a world of warring Archimedes, straining, with their levers, to wrest the world in their preferred direction. To us, the fulcra, these engineers are hidden from our view, the reach of their levers too long for us to follow. We can only feel the torque, and note the movement of the world as a distant contender finds purchase. When we raise a phone, scroll through a feed, and touch the screen, we know that we communicate with distant others. But there is another presence or presences with us, determining what we see and do not see. These presences set the ground, creating the environment in which we exercise volition and benefiting from our actions. The shift of the lever might create or suppress a movement, determine the outcome of a close election, destroy a business, start a trend, or alter public opinion. [fn:nudges]
 
@@ -1567,16 +1575,6 @@ https://nfb.org/sites/www.nfb.org/files/images/nfb/publications/convent/banque74
 # hypersane, good for final chapter
 https://aeon.co/ideas/the-hypersane-are-among-us-if-only-we-are-prepared-to-look
 
-
-
-bibliographystyle:apalike
-bibliography:references.bib
-
-
-
-
-
-* links to sort
 the future of my games on Apple (post-Catalina) and what this means for art games in general
 
 http://www.nathalielawhead.com/candybox/the-future-of-my-games-on-apple-post-catalina-and-what-this-means-for-art-games-in-general
@@ -1598,8 +1596,32 @@ Infinite Machines: 1 – An Introduction
 
 https://www.ribbonfarm.com/2019/03/11/infinite-machines-1-an-introduction/
 
-
-
 How to Make History
 
 https://www.ribbonfarm.com/2017/09/14/how-to-make-history/
+
+# For tech-weary Midwest farmers, 40-year-old tractors now a hot commodity
+
+http://www.startribune.com/for-tech-weary-midwest-farmers-40-year-old-tractors-now-a-hot-commodity/566737082/
+
+# Pacemakers and Piracy: The Unintended Consequences of the DMCA for Medical Implants
+
+https://www.eff.org/deeplinks/2016/04/pacemakers-and-piracy-why-dmca-has-no-business-medical-implants
+
+# nil postman tech summary thing
+
+https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf
+
+# Media Archaeology Lab as Platform for Undoing and Reimagining Media History
+
+https://loriemerson.net/2019/10/16/media-archaeology-lab-as-platform-for-undoing-and-reimagining-media-history/
+
+# Project and system
+
+https://aeon.co/essays/is-the-world-ordered-as-a-system-or-as-a-project?utm_medium=feed&utm_source=atom-feed
+
+
+
+
+bibliographystyle:apalike
+bibliography:references.bib
