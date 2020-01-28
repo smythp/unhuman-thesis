@@ -748,12 +748,48 @@ I knew then, as I came to know many times later, how bitter and crushing a simpl
 
 Though Brown's inspired act of haccessibility as a child was a necessary, if precarious, precondition for his full participation in society, it is ultimately his writing that enables him to recontextualize his social reality and exert a measure of autonomy over his circumstances. Indeed, a development in Brown's life—his being persuaded to attend 
 
-Ultimately, to the extent that Brown is able to assume autonomy over his identity, it is through his writing. After Brown receives what he and his family perceive to be a rare oppurtunity—being invited to visit a specialist in London—Brown receives another promise of a miracle, one that comes at much higher cost to his identity:
+Ultimately, to the extent that Brown is able to assume autonomy over his identity, it is through his writing. After Brown receives what he and his family perceive to be a rare oppurtunity—being invited to visit a specialist at Middlesex Hospital in London—Brown receives another promise of a miracle, one that comes at much higher cost to his identity:
 
 #+BEGIN_QUOTE
-“Well, Christy,” she said. “You haven’t come to London in vain. I can find no reason why you shouldn’t be cured eventually. ... But—” here she paused, looked steadily at me, and went on—“you must first make a big sacrifice. Nothing good is ever obtained without one, and yours is—you must resolve never to use your left foot again.” ... My left foot! But that meant everything to me—I could speak only with that, create only with that! It was my only means of communication with the outside world, my only way of reaching the minds of other people and making myself articulate and intelligible. The rest of me was useless, worthless, and that one limb, my left foot, was the only workable thing in my whole body. Without it I would be lost, silent, powerless. [[citep:brown_my_1955][p. 123]]
+“Well, Christy,” she said. “You haven’t come to London in vain. I can find no reason why you shouldn’t be cured eventually. ... But—” here she paused, looked steadily at me, and went on—“you must first make a big sacrifice. Nothing good is ever obtained without one, and yours is—you must resolve never to use your left foot again.” ... My left foot! But that meant everything to me—I could speak only with that, create only with that! It was my only means of communication with the outside world, my only way of reaching the minds of other people and making myself articulate and intelligible. The rest of me was useless, worthless, and that one limb, my left foot, was the only workable thing in my whole body. Without it I would be lost, silent, powerless. [[citep:brown_my_1955][p. 123]] [fn:little-mermaid]
 #+END_QUOTE
+A modern reading of Brown's experience with doctors and clinicians is frustrating—though Brown generally has an unambiguously positive opinion of the medical professionals he encounters, therapy for cerebral palsy in the 40s and 50s was at an early stage and it is unclear what, if any, benefits he received from his treatment. At the same time, the loss of his left foot for Brown's ability to express himself  represented another crisis of identity—"I felt as if I was about to lock myself up and throw away the key" [[cite:brown_my_1955][p. 125]]. 
 
+
+[fn:little-mermaid] There seems something notably perverse about this injunction for Brown not to use his foot for communication. I am reminded of Anderson's /The Little Mermaid/, in which the title character gives up her speech: "this voice you must give to me; the best thing you possess will I have for the price of my draught." ... "But if you take away my voice," said the little mermaid, “what is left for me?" "Your beautiful form, your graceful walk ..." [[citep:andersen_complete_2011][p. 69]].
+
+
+# END FOOTNOTE !!!
+
+Contained in Brown's forbiddance from using his left foot is the germ of a new opportunity for identity and communication. At St. Brendan's, where Brown goes to receive physical therapy, Brown encounters  Robert Collis, a doctor who was also a noted author. Collis, finding that Brown spent much of his time writing and had attempted to write an autobiography, mentored him, found him a tutor, and, eventually, drew on connections to help see /My Left Foot/ published. The autobiography was, and has been, successful, setting Brown on a different life trajectory. The book was popular enough to be adapted into a 1989 film that won Brenda Fricker and Daniel Day-Lewis academy awards. [fn:bono]
+
+There is a strong recursive [fn:recursion] element to Brown's /My Left Foot/, especially as expressed in relation to his life and identity. This is not unusual for autobiographies of disability, though this autobiography serves as a particularly powerful example. 
+
+[fn:bono] In a, perhaps excessively Irish, twist, Brown's semi-autobiographical /Down All the Days/ also inspired a U2 track by the same name.
+
+
+# END FOOTNOTE !!!
+
+[fn:recursion] Recursion, in symbolic logic and programming, is the property of being defined in terms of oneself. 
+
+so you can define things by the selves
+as it turns out, lots of things are defined by themselves
+dictionary words are defined in terms of themselvres
+programming languages can be self-hosting 
+
+
+
+make an interdependently recursive footnote
+
+
+you can build something in itself
+
+escaping / quoting
+
+
+# END FOOTNOTE !!!
+
+The last chapter recounts a reading of the first
 
 
 
