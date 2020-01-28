@@ -566,7 +566,7 @@ We attribute a bold claim to Archimedes: "Give me a lever long enough and a fulc
 
 In 2000, Google ran the first known A/B test of the internet age, using a specialized, though simple, statistical and scientific technique to determine which of two choices would be preferred by users, later using the method to choose the optimal blue for advertisement links from 41 options citep:hern_why_2014. As a former Google enginner said, chillingly enough, of a later A/B test at Amazon: Everyone must be able to experiment, learn, and iterate. Position, obedience, and tradition should hold no power. For innovation to flourish, measurement must rule" citep:linden_early_2006.
 
-Tracing this history could be a dissertation and not a footnote, but after revelations of emotion inducement at Facebook, promotion of extremism in pursuit of engagement at YouTube, and the use of platform data by foreign powers to influence elections, this area is receiving a great deal of attention from academics and public intellectuals and is unlikely to go unexplored.
+Tracing this history could be another dissertation and not a footnote, but after revelations of emotion inducement at Facebook, promotion of extremism in pursuit of engagement at YouTube, and the use of platform data by foreign powers to influence elections, this area is receiving a great deal of attention from academics and public intellectuals and is unlikely to go unexplored.
 
 
 # END FOOTNOTE !!!
@@ -627,7 +627,7 @@ Many autobiographies of people with disabilities are further troubled by questio
 
 ** Movement and Expression
 
-Two autobiographies, published more than fifty years apart, provide a useful case study in the forms of negotiation discussed here, including specific strategies such as hacking the immediate physical and social environment and recasting, through self-expression, a narrative imposed on an individual by society. /My Left Foot/ is a 1954 autobiography by writer Christy Brown, who was born with cerebral palsy in a society, mid-twentieth century Ireland, where the condition was poorly understood. /Double Take/ is an 2009 autobiography by photographer Kevin Michael Connolly, who was born with no legs in Helena, Montana in 1985. Both Brown and Connolly were poor, but had the full, and often unconventional, support of family members. Both find creative ways to fully participate, and eventually excel, in chosen domains—painting and writing for Brown, skiing and photography for Connolly. Both Brown and Connolly find ways to mitigate disabilities of mobility relatively early on, but for each the primary challenge is to find a mode of expression that enables a redefinition of their relationship to society. Though their stories are similar in many ways, important differences, including their relationship to the medical establishment, show how the treatment of people with disabilities by society has changed since the mid-twentieth century, but also how the concerns of people with disabilities between these periods are fundamentally similar.
+Two autobiographies, published more than fifty years apart, provide a useful case study in the forms of negotiation discussed here, including specific strategies such as hacking the immediate physical and social environment and recasting, through self-expression, a narrative imposed on an individual by society. /My Left Foot/ is a 1954 autobiography by writer Christy Brown, who was born with cerebral palsy in a society, mid-twentieth century Ireland, where the condition was poorly understood. /Double Take/ is an 2009 autobiography by photographer Kevin Michael Connolly, who was born with no legs in Helena, Montana in 1985. Both Brown and Connolly were poor, but had the full, and often unconventional, support of family members. Both find creative ways to fully participate, and eventually excel, in chosen domains—painting and writing for Brown, skiing and photography for Connolly. Both Brown and Connolly find ways to mitigate disabilities of mobility relatively early on, but for each the primary challenge is to find a mode of expression that enables a redefinition of their relationship to society. Though their stories are similar in many ways, important differences, including their relationship to the medical establishment, show how the treatment of people with disabilities by society has changed since the mid-twentieth century, but also how the concerns of people with disabilities between these periods are fundamentally similar. More to our point, these accounts are useful entry points into a larger discussion of negotiation—that is, how autonomy can be exercised at the physical, social, and cultural places where the individual encounters society. Brown and Connolly's accounts detail encounters with the limits of specific physical infrastructure, including a few almost transcendent moments of haccessibility. Perhaps more significantly, their experiences, up to and including the publication of the accounts themselves, represent attempts to change the narrative and, potentially, the culture, to draw that thin line between the local and the universal.
 
 ** His Left Foot
 
@@ -697,15 +697,24 @@ Brown's experience at Lourdes holds a suggestion of the universal, a narrative i
 #+BEGIN_QUOTE
 I remembered Lourdes and the people I had met on the way to the Grotto, and again I tried to be like them—patient, cheerful, resigned to their suffering, knowing the reward that awaited them in the next world. But it was no use. I was too human. There was too much of the man in me and not enough of the humble servant who submits willingly to his Master's will. I wanted to see and to know more of this world before I thought about the next.
 #+END_QUOTE
-Religion, should Brown choose to embrace it, would provide a path to the universal, granting legibility and meaning through an approved narrative. His local circumstances, his aspirations, his struggle to participate and communicate would all be subsumed into a larger story. Though Brown senses this path at Lourdes, he finds it impracticable at home.
+Religion, should Brown choose to embrace it, would provide a path to the universal, granting legibility and meaning through an approved narrative. His local circumstances, his aspirations, his struggle to participate and communicate would all be subsumed into a larger story. Though Brown senses this path at Lourdes, he finds it impracticable at home. To use another term from Heidegger, the narratives experienced at Lourdes, and the contrasting narratives at home, are apophantic—"to let something be seen in its togetherness with something, to let something be seen as something" [[citep:heidegger_being_2010][p. 31]]. Brown, here, is struggling with received wisdom, a shared vision of the nature of the relationships among people, places, and things that includes a defined, if decidedly marginal, place for himself. To reject the roles in which he is cast—holy cripple, pitiable cripple, medicalized cripple—he must reject not only that specific role, but some significant portion of the social and cultural reality that situates and contextualizes his identity. It is for this reason that Brown's gradual emancipation is at once greatly impressive and entirely piecemeal. Though, after his experience at Lourdes, Brown consciously and unambiguously rejects the role of the holy cripple, he cannot fully reject the roles of pitiable cripple, with which he struggles, and medicalized cripple, which he largely accepts, without first rejecting his family and community, a practical impossibility given his environment at the time of writing /My Left Foot/ and the social and historical context. [fn:down-all-the-days]
 
-*************** TODO apophantic (heideggerian term) relevant)?
+[fn:down-all-the-days] The significance of Brown's immediate physical and social environment on the writing of /My Left Foot/, written while Brown lived with his family in the 1940s and 50s, can be seen by contrasting the autobiography with his semi-autobiographical novel /Down All the Days/ (1970). The latter was written after the death of his parents and thus under entirely different social and, given the elapsed time, cultural circumstances, and in it Brown is far more candid about topics omitted or downplayed in /My Left Foot/. These include his father's alcoholism and his sexual awakening and frustrations.
+
+
+# END FOOTNOTE !!!!
+
+*************** TODO insert down all the days year as linkable abomve
+*************** END
+
+*************** DONE apophantic (heideggerian term) relevant)?
+		CLOSED: [2020-01-28 Tue 13:30]
 *************** END
 
 
 
 *************** religious moment quote
-"As we wended our way through the little town on the road to the Grotto the crowd lifted their voices and sang ‘Ave Maria'. ... The crowd, still singing, knelt in a semi-circle round the Shrine, the flames from their candles lighting up the scene and sparkling on the crown of pearls circling the Virgin's head. ... It was the most beautiful moment of my life."
+# "As we wended our way through the little town on the road to the Grotto the crowd lifted their voices and sang ‘Ave Maria'. ... The crowd, still singing, knelt in a semi-circle round the Shrine, the flames from their candles lighting up the scene and sparkling on the crown of pearls circling the Virgin's head. ... It was the most beautiful moment of my life."
 *************** END
 
 
@@ -732,11 +741,18 @@ I knew then, as I came to know many times later, how bitter and crushing a simpl
 
 *************** END
 
-Brown's painting
-Medical stuff, banned
-Brown's writing again
+# Brown's painting
+# Medical stuff, banned
+# Brown's writing again
 
 
+Though Brown's inspired act of haccessibility as a child was a necessary, if precarious, precondition for his full participation in society, it is ultimately his writing that enables him to recontextualize his social reality and exert a measure of autonomy over his circumstances. Indeed, a development in Brown's life—his being persuaded to attend 
+
+Ultimately, to the extent that Brown is able to assume autonomy over his identity, it is through his writing. After Brown receives what he and his family perceive to be a rare oppurtunity—being invited to visit a specialist in London—Brown receives another promise of a miracle, one that comes at much higher cost to his identity:
+
+#+BEGIN_QUOTE
+“Well, Christy,” she said. “You haven’t come to London in vain. I can find no reason why you shouldn’t be cured eventually. ... But—” here she paused, looked steadily at me, and went on—“you must first make a big sacrifice. Nothing good is ever obtained without one, and yours is—you must resolve never to use your left foot again.” ... My left foot! But that meant everything to me—I could speak only with that, create only with that! It was my only means of communication with the outside world, my only way of reaching the minds of other people and making myself articulate and intelligible. The rest of me was useless, worthless, and that one limb, my left foot, was the only workable thing in my whole body. Without it I would be lost, silent, powerless. [[citep:brown_my_1955][p. 123]]
+#+END_QUOTE
 
 
 
@@ -1618,6 +1634,11 @@ https://aeon.co/essays/is-the-world-ordered-as-a-system-or-as-a-project?utm_medi
 
 # boone on blackboard
 https://teleogistic.net/2011/09/19/i-develop-free-software-because-of-cuny-and-blackboard/
+
+# movie theater with no humans
+"a future with a friendlier past"
+https://m.signalvnoise.com/i-went-to-see-a-movie-and-instead-i-saw-the-future/
+
 
 
 bibliographystyle:apalike
