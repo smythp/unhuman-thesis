@@ -625,6 +625,8 @@ In the previous chapter, we shifted our attention away from the isolated self, a
 Many autobiographies of people with disabilities are further troubled by questions of authorship or influence, placing them somewhere between an autobiography and a family biography—in this chapter, I refer to such works as "auto-ish biographies." This chapter will attempt to read instances of disability autobiography not only for examples and instances of negotiation within the text, but also as sites of negotiation  in and of themselves. In these cases, an autobiography is not only a way of conveying a freestanding experience of disability, but in itself is an artifact of negotiation, one that, by its existence, allows the disabled individual to reconsider their relationship to those around them and to society. At the same time, many disability autobiographies demonstrate an awareness of the form, leveraging it to intervene in imposed narratives or otherwise escape the limitations of the genre. At their best, these autobiographies can use the recursive or self-referential nature of the form to transcend it, speaking directly to the experience of life with a disability.
 
 
+
+
 ** Movement and Expression
 
 Two autobiographies, published more than fifty years apart, provide a useful case study in the forms of negotiation discussed here, including specific strategies such as hacking the immediate physical and social environment and recasting, through self-expression, a narrative imposed on an individual by society. /My Left Foot/ is a 1954 autobiography by writer Christy Brown, who was born with cerebral palsy in a society, mid-twentieth century Ireland, where the condition was poorly understood. /Double Take/ is an 2009 autobiography by photographer Kevin Michael Connolly, who was born with no legs in Helena, Montana in 1985. Both Brown and Connolly were poor, but had the full, and often unconventional, support of family members. Both find creative ways to fully participate, and eventually excel, in chosen domains—painting and writing for Brown, skiing and photography for Connolly. Both Brown and Connolly find ways to mitigate disabilities of mobility relatively early on, but for each the primary challenge is to find a mode of expression that enables a redefinition of their relationship to society. Though their stories are similar in many ways, important differences, including their relationship to the medical establishment, show how the treatment of people with disabilities by society has changed since the mid-twentieth century, but also how the concerns of people with disabilities between these periods are fundamentally similar. More to our point, these accounts are useful entry points into a larger discussion of negotiation—that is, how autonomy can be exercised at the physical, social, and cultural places where the individual encounters society. Brown and Connolly's accounts detail encounters with the limits of specific physical infrastructure, including a few almost transcendent moments of haccessibility. Perhaps more significantly, their experiences, up to and including the publication of the accounts themselves, represent attempts to change the narrative and, potentially, the culture, to draw that thin line between the local and the universal.
@@ -753,7 +755,7 @@ Ultimately, to the extent that Brown is able to assume autonomy over his identit
 #+BEGIN_QUOTE
 “Well, Christy,” she said. “You haven’t come to London in vain. I can find no reason why you shouldn’t be cured eventually. ... But—” here she paused, looked steadily at me, and went on—“you must first make a big sacrifice. Nothing good is ever obtained without one, and yours is—you must resolve never to use your left foot again.” ... My left foot! But that meant everything to me—I could speak only with that, create only with that! It was my only means of communication with the outside world, my only way of reaching the minds of other people and making myself articulate and intelligible. The rest of me was useless, worthless, and that one limb, my left foot, was the only workable thing in my whole body. Without it I would be lost, silent, powerless. [[citep:brown_my_1955][p. 123]] [fn:little-mermaid]
 #+END_QUOTE
-A modern reading of Brown's experience with doctors and clinicians is frustrating—though Brown generally has an unambiguously positive opinion of the medical professionals he encounters, therapy for cerebral palsy in the 40s and 50s was at an early stage and it is unclear what, if any, benefits he received from his treatment. At the same time, the loss of his left foot for Brown's ability to express himself  represented another crisis of identity—"I felt as if I was about to lock myself up and throw away the key" [[cite:brown_my_1955][p. 125]]. 
+A modern reading of Brown's experience with doctors and clinicians is frustrating—though Brown generally has an unambiguously positive opinion of the medical professionals he encounters, therapy for cerebral palsy in the 40s and 50s was at an early stage and it is unclear what, if any, benefits he received from his treatment. At the same time, the loss of the use of his left foot for Brown's ability to express himself  represented another crisis of identity—"I felt as if I was about to lock myself up and throw away the key" [[cite:brown_my_1955][p. 125]]. 
 
 
 [fn:little-mermaid] There seems something notably perverse about this injunction for Brown not to use his foot for communication. I am reminded of Anderson's /The Little Mermaid/, in which the title character gives up her speech: "this voice you must give to me; the best thing you possess will I have for the price of my draught." ... "But if you take away my voice," said the little mermaid, “what is left for me?" "Your beautiful form, your graceful walk ..." [[citep:andersen_complete_2011][p. 69]].
@@ -770,7 +772,18 @@ There is a strong recursive [fn:recursion] element to Brown's /My Left Foot/, es
 
 # END FOOTNOTE !!!
 
-[fn:recursion] Recursion, in symbolic logic and programming, is the property of being defined in terms of oneself. 
+[fn:recursion] Recursion, in symbolic logic and programming, is the property of being defined in terms of oneself. Though recursion can seem like a logical contradiction or tautology—"a dog means a dog"—interdependent, mutually recursive relationships actually inform or underlie many or most abstract or symbolic systems. The OED defines /ability/ as "[s]uitableness or adaptation for a purpose; fitness, aptitude." It defines /aptitude/ as "[n]atural capacity, endowment, or ability; talent for any pursuit." (The entry for /disability/ opens boldly with "lack of ability.") nocite:oed_aptitude_2020,oed_ability_2020,oed_disability_2020 factthat the definitions are defined in terms of one another in endless referentiality is not a problem for the integrity of the symbolic system. As Douglas Hofstadter observes, "[a]nyone can see that all words eventually are defined in terms of some fundamental set that is not further reducible, but simply goes round and round endlessly" [[citep:hofstadter_metamagical_1985][p. 433"]]. Language, at least as it is formalized and encountered in a dictionary, can be conceived as a network of mutually recursive definitions. In programming, this form of paradox is common—not only can a function refer to itself in its own definition, but a programming language can be self-hosted, meaning that it is written in itself.
+
+
+
+
+
+# END FOOTNOTE !!!
+
+*************** TODO will probably need to define a dicionary entry for the bibliography
+*************** END
+
+self hosting
 
 so you can define things by the selves
 as it turns out, lots of things are defined by themselves
@@ -1675,7 +1688,19 @@ https://teleogistic.net/2011/09/19/i-develop-free-software-because-of-cuny-and-b
 "a future with a friendlier past"
 https://m.signalvnoise.com/i-went-to-see-a-movie-and-instead-i-saw-the-future/
 
+# When home is two sisters, a houseful of vulnerable men, and a lot of tough love
+https://aeon.co/videos/when-home-is-two-sisters-a-houseful-of-vulnerable-men-and-a-lot-of-tough-love?utm_medium=feed&utm_source=atom-feed
+
+# the ipad needs its hypercard
+http://radar.oreilly.com/2010/03/the-ipad-needs-its-hypercard.html
+
+# why i won't buy ipad 10 years later
+https://boingboing.net/2020/01/27/nascent-boulangism.html
 
 
 bibliographystyle:apalike
 bibliography:references.bib
+
+
+
+
