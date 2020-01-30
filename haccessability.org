@@ -566,7 +566,7 @@ We attribute a bold claim to Archimedes: "Give me a lever long enough and a fulc
 
 In 2000, Google ran the first known A/B test of the internet age, using a specialized, though simple, statistical and scientific technique to determine which of two choices would be preferred by users, later using the method to choose the optimal blue for advertisement links from 41 options citep:hern_why_2014. As a former Google enginner said, chillingly enough, of a later A/B test at Amazon: Everyone must be able to experiment, learn, and iterate. Position, obedience, and tradition should hold no power. For innovation to flourish, measurement must rule" citep:linden_early_2006.
 
-Tracing this history could be another dissertation and not a footnote, but after revelations of emotion inducement at Facebook, promotion of extremism in pursuit of engagement at YouTube, and the use of platform data by foreign powers to influence elections, this area is receiving a great deal of attention from academics and public intellectuals and is unlikely to go unexplored.
+Tracing this history could be another dissertation and not a footnote, but after revelations of emotion inducement at Facebook, promotion of extremism in pursuit of engagement at YouTube, and the use of platform data by foreign powers to influence elections, this area is receiving a great deal of attention from academics and public intellectuals and is unlikely to go unexplored. 
 
 
 # END FOOTNOTE !!!
@@ -633,7 +633,7 @@ Two autobiographies, published more than fifty years apart, provide a useful cas
 
 ** His Left Foot
 
-In 1932, Christy Brown was born the tenth of an eventual 22 siblings, nine of whom would die in infancy. When he was four months old, his mother noticed that he had difficulty holding up his head during feeding. As he grew older, it became evident that Brown struggled to control his movements. His hands remained clenched at all times, he had trouble opening and closing his mouth, and by one year he was still unable to sit up on his own.
+In 1932 in a suburb of Dublin, Christy Brown was born the tenth of an eventual 22 siblings, nine of whom would die in infancy. When he was four months old, his mother noticed that he had difficulty holding up his head during feeding. As he grew older, it became evident that Brown struggled to control his movements. His hands remained clenched at all times, he had trouble opening and closing his mouth, and by one year he was still unable to sit up on his own.
  
 #+BEGIN_QUOTE
 Almost every doctor who saw and examined me, labelled me a very interesting but also a hopeless case. Many told mother very gently that I was mentally defective and would remain so. That was a hard blow to a young mother who had already reared five healthy children. The doctors were so very sure of themselves that mother's faith in me seemed almost an impertinence. They assured her that nothing could be done for me. citep:brown_my_1955
@@ -763,19 +763,43 @@ A modern reading of Brown's experience with doctors and clinicians is frustratin
 
 # END FOOTNOTE !!!
 
-Contained in Brown's forbiddance from using his left foot is the germ of a new opportunity for identity and communication. At St. Brendan's, where Brown goes to receive physical therapy, Brown encounters  Robert Collis, a doctor who was also a noted author. Collis, finding that Brown spent much of his time writing and had attempted to write an autobiography, mentored him, found him a tutor, and, eventually, drew on connections to help see /My Left Foot/ published. The autobiography was, and has been, successful, setting Brown on a different life trajectory. The book was popular enough to be adapted into a 1989 film that won Brenda Fricker and Daniel Day-Lewis academy awards. [fn:bono]
-
-There is a strong recursive [fn:recursion] element to Brown's /My Left Foot/, especially as expressed in relation to his life and identity. This is not unusual for autobiographies of disability, though this autobiography serves as a particularly powerful example. 
+Contained in Brown's forbiddance from using his left foot is the germ of a new opportunity for identity and communication. At St. Brendan's, where Brown goes to receive physical therapy, Brown encounters  Robert Collis, a doctor who was also a noted author. Collis, finding that Brown spent much of his time writing and had attempted to write an autobiography, mentored him, found him a tutor, and, eventually, drew on connections to help see /My Left Foot/ published. The autobiography was, and has been, successful, setting Brown on a different life trajectory. The book was popular enough to be adapted into a 1989 film that won Brenda Fricker and Daniel Day-Lewis academy awards. [fn:bono] Materially, the novel allowed Brown to live a markedly different economic and social life that, enventually, included romantic partnerships, independent living, and aspirations and personal relationships that exceeded the expectations of the Ireland's rigid mid-twentieth century class system.
 
 [fn:bono] In a, perhaps excessively Irish, twist, Brown's semi-autobiographical /Down All the Days/ also inspired a U2 track by the same name.
 
 
 # END FOOTNOTE !!!
 
-[fn:recursion] Recursion, in symbolic logic and programming, is the property of being defined in terms of oneself. Though recursion can seem like a logical contradiction or tautology—"a dog means a dog"—interdependent, mutually recursive relationships actually inform or underlie many or most abstract or symbolic systems. The OED defines /ability/ as "[s]uitableness or adaptation for a purpose; fitness, aptitude." It defines /aptitude/ as "[n]atural capacity, endowment, or ability; talent for any pursuit." (The entry for /disability/ opens boldly with "lack of ability.") nocite:oed_aptitude_2020,oed_ability_2020,oed_disability_2020 factthat the definitions are defined in terms of one another in endless referentiality is not a problem for the integrity of the symbolic system. As Douglas Hofstadter observes, "[a]nyone can see that all words eventually are defined in terms of some fundamental set that is not further reducible, but simply goes round and round endlessly" [[citep:hofstadter_metamagical_1985][p. 433"]]. Language, at least as it is formalized and encountered in a dictionary, can be conceived as a network of mutually recursive definitions. In programming, this form of paradox is common—not only can a function refer to itself in its own definition, but a programming language can be self-hosted, meaning that it is written in itself.
+** Creating Oneself
+
+There is a strong recursive element to Brown's /My Left Foot/, especially as expressed in relation to his life and identity. This is not unusual for autobiographies of disability, though /My Left Foot/ serves as a particularly powerful example. Recursion, in symbolic logic and programming, is the property of being defined in terms of oneself. Though recursion can seem like a logical contradiction or tautology—"a dog means a dog"—interdependent, mutually recursive relationships actually inform or underlie many or most abstract or symbolic systems. The OED defines /ability/ as "[s]uitableness or adaptation for a purpose; fitness, aptitude." It defines /aptitude/ as "[n]atural capacity, endowment, or ability; talent for any pursuit." (The entry for /disability/ opens boldly with "lack of ability.") nocite:oed_aptitude_2020,oed_ability_2020,oed_disability_2020 factthat the definitions are defined in terms of one another in endless referentiality is not a problem for the integrity of the symbolic system. As Douglas Hofstadter observes, "[a]nyone can see that all words eventually are defined in terms of some fundamental set that is not further reducible, but simply goes round and round endlessly" [[citep:hofstadter_metamagical_1985][p. 433"]]. Language, at least as it is formalized and encountered in a dictionary, can be conceived as a network of mutually recursive definitions. In programming, this form of paradox is common—not only can a function refer to itself in its own definition, but a programming language can be self-hosted, or itself written in itself.
+
+One might also think about identity, autobiography, and lived experience as mutually recursive, defined in mutual reference to one another. As one lives, one forms an identity that is presented to the world. The identity necessarily is defined in terms of one's lived experience, and one's life is shaped by one's identity. When one writes an autobiography, one draws on lived experiences and identity, but once it exists in the world one's identity and future experiences cannot be fully described without reference to the autobiography. Placing an autobiography in the world creates an odd sort of resonance. The identity is founded on the life, and the autobiography on the identity, but once published the life and the identity must contain the autobiography. The autobiography, in a sense, anticipates and contains its own existence.
+
+It feels intuitively as if the relationship among life, identity, and autobiography should be an unstable one. However, recursion is only a paradox, not a contradiction. Language is mutually recursive and, though language changes over time, this recursive property does not invalidate language or mean that it is fundamentally unstable. In computation, a recursive function either resolves itself or settles into a stable loop. What is remarkable about autobiography is not that it exists unstably or uncomfortably in relation to its subject, but rather that it can create something out of nothing. Who wrote /My Left Foot/? The answer, necessarily, must also carry the autobiography along with it. 
+
+# The act of writing an autobiography is one of self-creation, not re-creation—the autobiography. In describing the life and identity of the author, the autobiography renders the non-author who did not write it unthinkable.
+
+in terms of identity, there is no Christy Brown 
+
+
+There exists no life and identity for that non-author.
 
 
 
+ Autobiography is an uncomfortable act of self-creation. But, just as re
+
+But an autobiography can also create something out of nothing.
+
+ There is something unstable in all this—
+
+
+# END FOOTNOTE !!!
+
+# [fn:selfhosted] Meaning that it is written in itself. And, yes, these footnotes are mutually recursive. 
+
+*************** TODO try to get this joke working if I have time
+*************** END
 
 
 # END FOOTNOTE !!!
@@ -788,7 +812,12 @@ self hosting
 so you can define things by the selves
 as it turns out, lots of things are defined by themselves
 dictionary words are defined in terms of themselvres
-programming languages can be self-hosting 
+programming languages can be self-hosting  
+
+
+
+
+
 
 
 
