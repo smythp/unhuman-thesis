@@ -770,77 +770,66 @@ Contained in Brown's forbiddance from using his left foot is the germ of a new o
 
 # END FOOTNOTE !!!
 
-** Creating Oneself
+** Recursion, Recounting, Re-Creation
 
 There is a strong recursive element to Brown's /My Left Foot/, especially as expressed in relation to his life and identity. This is not unusual for autobiographies of disability, though /My Left Foot/ serves as a particularly powerful example. Recursion, in symbolic logic and programming, is the property of being defined in terms of oneself. Though recursion can seem like a logical contradiction or tautology—"a dog means a dog"—interdependent, mutually recursive relationships actually inform or underlie many or most abstract or symbolic systems. The OED defines /ability/ as "[s]uitableness or adaptation for a purpose; fitness, aptitude." It defines /aptitude/ as "[n]atural capacity, endowment, or ability; talent for any pursuit." (The entry for /disability/ opens boldly with "lack of ability.") nocite:oed_aptitude_2020,oed_ability_2020,oed_disability_2020 factthat the definitions are defined in terms of one another in endless referentiality is not a problem for the integrity of the symbolic system. As Douglas Hofstadter observes, "[a]nyone can see that all words eventually are defined in terms of some fundamental set that is not further reducible, but simply goes round and round endlessly" [[citep:hofstadter_metamagical_1985][p. 433"]]. Language, at least as it is formalized and encountered in a dictionary, can be conceived as a network of mutually recursive definitions. In programming, this form of paradox is common—not only can a function refer to itself in its own definition, but a programming language can be self-hosted, or itself written in itself.
 
 One might also think about identity, autobiography, and lived experience as mutually recursive, defined in mutual reference to one another. As one lives, one forms an identity that is presented to the world. The identity necessarily is defined in terms of one's lived experience, and one's life is shaped by one's identity. When one writes an autobiography, one draws on lived experiences and identity, but once it exists in the world one's identity and future experiences cannot be fully described without reference to the autobiography. Placing an autobiography in the world creates an odd sort of resonance. The identity is founded on the life, and the autobiography on the identity, but once published the life and the identity must contain the autobiography. The autobiography, in a sense, anticipates and contains its own existence.
 
-It feels intuitively as if the relationship among life, identity, and autobiography should be an unstable one. However, recursion is only a paradox, not a contradiction. Language is mutually recursive and, though language changes over time, this recursive property does not invalidate language or mean that it is fundamentally unstable. In computation, a recursive function either resolves itself or settles into a stable loop. What is remarkable about autobiography is not that it exists unstably or uncomfortably in relation to its subject, but rather that it can create something out of nothing. Who wrote /My Left Foot/? The answer, necessarily, must also carry the autobiography along with it. 
+It feels intuitively as if the relationship among life, identity, and autobiography should be an unstable one. However, recursion is only a paradox, not a contradiction. Language is mutually recursive and, though language changes over time, this recursive property does not invalidate language or mean that it is fundamentally unstable. In computation, a recursive function either resolves itself or settles into a stable loop. What is remarkable about autobiography is not that it exists unstably or uncomfortably in relation to its subject, but rather that it can create something from nothing. Once an autobiography is written, a new stable equilibrium must emerge between it and the author's life and identity. Though, in order to be legible, an autobiography must attend to commonly shared or universal concepts and archetypes, writing an autobiography can also be a powerful act of self-creation, an exercise in autonomy.
 
+This recursive property of autobiography is in powerful evidence in /My Left Foot/. Fundamentally, the autobiography centers around Brown's writing of the autobiography. Its first chapter, "The Letter A," recounts Brown's first step toward telling his own story. The last chapter, recursively enough, recounts a recounting of the first. /My Left Foot/ closes with a description of a charity concert for cerebral palsy organized by Robert Collis, the doctor who encouraged Brown in his writing. At the concert, his first chapter about the use of his left foot to write the letter "A" is read to the public. 
+
+#+BEGIN_QUOTE
+ For the first few minutes there was still a good deal of noise in the audience, people shuffling their feet, and coughing. I saw one man reading a morning paper. Obviously he had come to enjoy a concert, not to be made listen to a lecture on cripples. ... Gradually, however, as the doctor read on, movement and noise ceased; there was silence, complete stillness. I looked down at the faces before me, but now they were no longer just questioning faces with peering eyes, but intent friendly faces full of interest, no longer seeming to look at me, but fixed on the doctor as he went on reading my chapter. They were listening...!
+#+END_QUOTE
+In this final scene of /My Left Foot/, we see the stable emergence, the renegotiation, of Brown's locality to the universal and of the universal to the particularity of Brown's experience. The scene here echoes and recasts Brown's earliest traumatic encounters with /das Man/, exemplified in the casual indifference of the man with the newspaper and the "peering eyes" that judged him as a child on the streets of Dublin. What we see here is negotiation. Brown has eased—partially, imperfectly, and temporarily—a relationship with the universal that is, in his own words in this scene, "tense, ... taut as a telegraph wire" (Brown, 1954). The thin thread between the local and the universal, between the feeling person and /das Man/, grows a little less tenuous.
+
+
+
+
+:leftovers:
 # The act of writing an autobiography is one of self-creation, not re-creation—the autobiography. In describing the life and identity of the author, the autobiography renders the non-author who did not write it unthinkable.
 
-in terms of identity, there is no Christy Brown 
+# [fn:selfhosted Meaning that it is written in itself. And, yes, these footnotes are mutually recursive. 
+:end:
+:recursion-notes:
+# so you can define things by the selves
+# as it turns out, lots of things are defined by themselves
+# dictionary words are defined in terms of themselvres
+# programming languages can be self-hosting  
 
+# make an interdependently recursive footnote
 
-There exists no life and identity for that non-author.
+# you can build something in itself
 
+# escaping / quoting
 
+# The last chapter recounts a reading of the first
 
- Autobiography is an uncomfortable act of self-creation. But, just as re
+:end:
 
-But an autobiography can also create something out of nothing.
-
- There is something unstable in all this—
-
-
-# END FOOTNOTE !!!
-
-# [fn:selfhosted] Meaning that it is written in itself. And, yes, these footnotes are mutually recursive. 
-
-*************** TODO try to get this joke working if I have time
+*************** DONE try to get this joke working if I have time
+		CLOSED: [2020-01-31 Fri 17:33]
 *************** END
 
 
-# END FOOTNOTE !!!
 
-*************** TODO will probably need to define a dicionary entry for the bibliography
+
+*************** TODO will probably need to define a dictionary entry for the bibliography
 *************** END
 
-self hosting
-
-so you can define things by the selves
-as it turns out, lots of things are defined by themselves
-dictionary words are defined in terms of themselvres
-programming languages can be self-hosting  
-
-
-
-
-
-
-
-
-make an interdependently recursive footnote
-
-
-you can build something in itself
-
-escaping / quoting
-
-
-# END FOOTNOTE !!!
-
-The last chapter recounts a reading of the first
-
-
-
-
-** Compoarting
-
-Difference is that Connolly's adaptatios are encouraged and iterated on, Brown's are mostly not.
 *************** TODO get decent bibliography info for my lieft foot
 *************** END
+
+
+** Double Take
+
+If the recursion of Brown's /My Left Foot/ suggests the recursion of language, another disability autobiography, Kevin Michael Connolly's /Double Take/, suggests an infinity mirror [fn:infinity-mirror].
+
+[fn:infinity-mirror] An infinity mirror is two (or more) mirrors that, in concert, create the effect of reflections receding to infinity. The name for the endlessly narrowing geometrical figure created in an infinity mirror is "Gabriel's horn." The figure resembles a horn due to the widened area subjectively close to the viewer that narrows into a flute as it moves further away. The reference to Gabriel, the archangel who will blow a horn to announce judgment day, suggests an encounter between the finite and the infinite. The image also seems suggestive of the near-to-hand, meso-scale local—the first few reflections one sees in an infinity mirror—and the inaccessible and distant universal.
+
+
 
 -----
 
@@ -1725,6 +1714,10 @@ http://radar.oreilly.com/2010/03/the-ipad-needs-its-hypercard.html
 
 # why i won't buy ipad 10 years later
 https://boingboing.net/2020/01/27/nascent-boulangism.html
+
+# for final chapter: transhumanism
+https://www.upress.umn.edu/book-division/books/transhumanism
+
 
 
 bibliographystyle:apalike
