@@ -301,7 +301,7 @@ If infrastructure comprises material and social circumstances, such as roads, ho
 
 To put it another way, haccessibility is about creating infrastructure—for oneself or for one's community—with resources that are local to the immediate environment. Practically speaking, this often means repurposing resources or infrastructure already present. In its ideal form, haccessibility means the creation of a certain kind of infrastructure, one that is responsive not only to its creator but also to its users. This is not user-friendliness, since user-friendliness as an ideology attempts to anticipate the needs of its users, and this anticipation cannot take into account the full gamut of preferences and capabilities of all groups and individuals. Rather, it is the acknowledgment that such anticipation is impossible and the encouragement, in design and intent, of further repurposing by users. In this sense, haccessibility is what programmers would call recursive, or self-referential and repeating. This is because a well-designed piece of haccessible infrastructure will lead to further repurposings, hacks and contributions, which may in turn lead to their own, and so on. 
 
-Joshua Miele, a blind scientist and designer at the Smith-Kettlewell Eye Research Institute, has articulated this recursive property in discussions of making a meta-maker movement. In these presentations, Miele describes meta-making as creating tools for creating tools. The projects Miele himself has initiated, such as Blind Arduino, perfectly embody this meta-making ethos. Arduino is a low-cost, open source electronics platform used for prototyping devices. As the project description observes, "while blind people could independently develop projects using Arduino, many of the important accessibility steps were undocumented and unknown" (Smith-Kettlewell, 2015). The project, which included a workshop series and continues as a blog, provides essential knowledge for working eyes-free with Arduino. As the project brings blind and low vision individuals in from the cold, they, in turn, are likely to contribute to a growing ecosystem of hackers and developers. Similar projects, such as the Raspberry VI—short for Visually Impaired—mailing list, centered on the popular Raspberry Pi series of single-board (read, small) computers, have enabled communities of knowledge creation to form around technologies that that are flexible and inexpensive.
+Joshua Miele, a blind scientist and designer at the Smith-Kettlewell Eye Research Institute, has articulated this recursive property in discussions of making a meta-maker movement. In these presentations, Miele describes meta-making as creating tools for creating tools. The projects Miele himself has initiated, such as Blind Arduino, perfectly embody this meta-making ethos. Arduino is a low-cost, open source electronics platform used for prototyping devices. As the project description observes, "while blind people could independently develop projects using Arduino, many of the important accessibility steps were undocumented and unknown" (Smith-Kettlewell, 2015). The project, which included a workshop series and continues as a blog, provides essential knowledge for working eyes-free with Arduino. As the project brings blind and low vision individuals in from the cold, they, in turn, are likely to contribute to a growing ecosystem of hackers and developers. Similar projects, such as the Raspberry VI—short for Visually Impaired—mailing list, centered on the popular Raspberry Pi series of single-board (read, small) computers, have enabled communities of knowledge creation to form around technologies that are flexible and inexpensive.
 
 
 ** Hacking High Costs
@@ -825,9 +825,49 @@ In this final scene of /My Left Foot/, we see the stable emergence, the renegoti
 
 ** Double Take
 
-If the recursion of Brown's /My Left Foot/ suggests the recursion of language, another disability autobiography, Kevin Michael Connolly's /Double Take/, suggests an infinity mirror [fn:infinity-mirror].
+If the recursion of Brown's /My Left Foot/ suggests the recursion of language, another disability autobiography, Kevin Michael Connolly's /Double Take/, suggests an infinity mirror [fn:infinity-mirror]. /Double Take/ is a 2009 memoir by Kevin Michael Connolly, a photographer and skier born without legs. 
+n
+
+# similarities:
+
+# - disabilities of mobilitiy
+# - family support very important 
+# - the immediate social / historical context is key for identity
+# - transcendent hack
+# - self-expression is critical
+
+
+
+
+# why:
+
+# - comparison illustrates necessity of individual, not group, adaptations
+# - connly shows that haccessibility is even more key today, wide variety of technologies and resources not available to prior generations
+
+
+
+
+Like Brown, Connolly's experience of disability is characterized by a single, transcendent hack that changes his relationship with his environment, and which, even more so than Brown, requires a defiance of social norms. Like Brown, Connolly also resolves the tension between himself and /das Man/ through an act of self-expression that redefines his relationship to those around him. At an early age, Connolly is exposed to haccessible infrastructure created specifically for him. The year of Connolly's birth, 1985, saw the airing of MacGyver, a television show in which the title character solved problems through quick thinking and mechanical improvisation. Connolly traces how each successive season of the show coincided with a new adaptive invention by his father, a fan of MacGyver. These adaptations included thick "leathers" which prevented Connolly from wearing out his pants, levers at ground level to control lights, and a special device—the "throne"—that prevented Connolly from falling into the toilet. Connolly's relationship with more conventional technology for accessible mobility was more strained. Though he loved the Reeboks that came with his prosthetic legs—"you know your marketing is solid when you can get a no-legged kid excited about buying a new pair of sneakers" (18)—Connolly found the superficial appearance of normalcy that came with his prosthetics to be a poor trade-off for their weight and lack of mobility. On the other hand, Connolly found the more conventional narrative of disability that accompanied his use of a wheelchair to be equally restrictive.
+
+Ultimately, Connolly's chosen, and highly individual, technology of mobility became the skateboard. Here, Connolly explains why the skateboard, and not the wheelchair, fit his approach to life and travel:
+
+#+BEGIN_QUOTE
+I had found that the longboard was a much more practical tool than a wheelchair for getting around in another country. It was fairly cheap, as my full setup cost $150. Another crucial element was that it was replaceable. Unlike a wheelchair or set of legs, I could buy a longboard off the shelf of a local skate shop—a hugely comforting convenience. Most important, though, was its speed. On flat land, I could nearly keep up with a bicycle, and on it I was able to get almost anywhere ... (Connolly, 2009)
+#+END_QUOTE
+Connolly's reasons for choosing a skateboard resonate with the philosophy of the patient rights, e-patient, and Right to Repair movements discussed in Chapter 2—that is, he can exercise autonomy over a device that is, in a broader sense, essential to the working of his own body. Another way of thinking about the skateboard, however, is as a negotiation of his position in relation to /das Man/. Skateboards, because they are non-essential recreational good for a mass audience, are cheap and widely available. Wheelchairs, more frequently regarded as institutional infrastructure, are typically available only within a defined aphysical and social structure that makes extensive assumptions about how they will be used.
+
+
+
+# , an adaptation suited to his athleticism, his tolerance for pain and injury, and his rejection of imposed narratives of disability. The personalized adaptations developed by his father during childhood influenced Connolly in his adoption of the skateboard, leading to his own development of adaptations such as a thick glove or "gauntlet" used to avoid injury while propelling himself through urban environments. Connolly's adoption of the skateboard as his primary mobility adaptation was key to his ability to travel the world for The Rolling Exhibition. Unlike expensive prosthetics, his skateboard could be repaired cheaply in any country and allowed him to move at greater speed and through obstacles such as stairs and sand.
+
+
+
+
 
 [fn:infinity-mirror] An infinity mirror is two (or more) mirrors that, in concert, create the effect of reflections receding to infinity. The name for the endlessly narrowing geometrical figure created in an infinity mirror is "Gabriel's horn." The figure resembles a horn due to the widened area subjectively close to the viewer that narrows into a flute as it moves further away. The reference to Gabriel, the archangel who will blow a horn to announce judgment day, suggests an encounter between the finite and the infinite. The image also seems suggestive of the near-to-hand, meso-scale local—the first few reflections one sees in an infinity mirror—and the inaccessible and distant universal.
+
+
+# END FOOTNOTE !!!
 
 
 
