@@ -825,9 +825,24 @@ In this final scene of /My Left Foot/, we see the stable emergence, the renegoti
 
 ** Double Take
 
-If the recursion of Brown's /My Left Foot/ suggests the recursion of language, another disability autobiography, Kevin Michael Connolly's /Double Take/, suggests an infinity mirror [fn:infinity-mirror]. /Double Take/ is a 2009 memoir by Kevin Michael Connolly, a photographer and skier born without legs. 
-n
+If the recursion of Brown's /My Left Foot/ suggests the recursion of language, another disability autobiography, Kevin Michael Connolly's /Double Take/, suggests the visual recursion of an infinity mirror [fn:infinity-mirror]. /Double Take/ is a 2009 memoir by Kevin Michael Connolly, a photographer and skier born without legs to a working-class family in Helena, Montana. As with Brown, Connolly's autobiography is characterized by the support of family, unconventional adaptations for mobility, and a negotiation of the bounds of self-expression in an able society.
 
+Coming from a working-class background in Montana, Connolly's family, for better or worse, emphasized toughness, resilience, and a tolerance for pain. After a formative episode at a McDonalds playplace that mirrors Brown's realization, upon the breakdown of the go-car Old Henry, that he is different from others, Connolly's mother prepares him for anticipated slights at school by playing a game called "What if?"
+
+#+BEGIN_QUOTE
+"Kev?" Mom asked, her head twisting so her eyes could make contact with mine. She smiled. "Let’s play a game." ... The rules to "What If" were simple. At the beginning of every game, a hypothetical scenario was thrown out, and I tried to field the answer. ... "What if you look up in the grocery store, and I’m not there?" ... "What if someone starts beating on you on the playground?" ... And, of course, "What if someone comes up to you and says, ‘You don’t have legs’?" [[citep:connolly_double_2009][p. 23]]
+#+END_QUOTE
+At school, Connolly faces a variety of physical and social challenges with a tolerance for bodily and social discomfort. When drawn into a fight on the playground, for example, Connolly, unable to throw a punch while controlling his wheelchair, chooses to simply take the blows. In Connolly's family, and in rural Montana more broadly, competitive sports are highly valued, and with his strong upper body Connolly opts to join his school's wrestling team. After joining, however, Connolly finds that his lack of height, and thus leverage, can be exploited for a win by physically weaker opponents. Despite the fact that he has little chance of winning, Connolly and his father agree that the correct action is for him to take the punishment in order to complete the season, seeing through to the end his commitment to the team. When Connolly tries skiing as a possible new sport, he is introduced to a new subculture: "dirtbags," hard-drinking skiers with no attention to their appearance and only little attention to self-preservation on the slopes. Connolly is given a literal crash course in skiing by his dirtbag instructor, becoming proficient and even talented within the sport but not without serious injury, including multiple concussions. Connolly's tolerance of risk and pain mirrors the attitude demonstrated by family members such as his father, who exacerbates back and eye injuries sustained on the job in order to drive Connolly to ski competitions. [fn:disability-masculinity-performance]
+
+[fn:disability-masculinity-performance] It almost goes without saying that disabled people have something to prove. There's a prevailing and reflexive disregard, even a contempt, for displays of disabled athleticism, a disregard recently demonstrated in the poor treatment of the Paralympic Games when they were hosted by Brazil in 2016 citep:ashley_london_2016. In many cultural and historical contexts, disabled people were largely excluded from exercise, which was more socially regimented [[citep:jackson_reframing_2014][p. 12]], and means of social advancement via physical prowess, almost a prerequisite for any success in some cultures, was barred or limited. When not being treated as contemptible for their efforts, people with disabilities are frequently painted as superhuman, again minimizing their achievements and setting them apart—the "supercrip" trope citep:hartnett_escaping_2000,silva__2012. There is a machismo to Connolly's desire to excel in sports and to the wider cultural context that drives him to prove himself in this specific way, and on that basis, and on the basis of his taking on risk and pain, one might be tempted to consider hisefforts ridiculous. On the other hand, one might also fethishize his efforts, attaching him to a narrative of the superhuman or the supercrip. I think his flexibility, pain tolerance, and persistence are most productively conceived not as something to reflexively denounce or commend, but rather as something ideosyncratic, a local set of circumstances that affect how he moves in the world.
+
+For a deeper take on intersections at disability, masculinity, and sport, I recommend citep:kuppers_wheelchairs_2007 along with Murderball, the 2005 documentary it critically examines.
+
+
+# !!!! END FOOTNOTE
+
+
+:outline:
 # similarities:
 
 # - disabilities of mobilitiy
@@ -835,7 +850,7 @@ n
 # - the immediate social / historical context is key for identity
 # - transcendent hack
 # - self-expression is critical
-
+:end:
 
 
 
@@ -864,7 +879,7 @@ Connolly's reasons for choosing a skateboard resonate with the philosophy of the
 
 
 
-[fn:infinity-mirror] An infinity mirror is two (or more) mirrors that, in concert, create the effect of reflections receding to infinity. The name for the endlessly narrowing geometrical figure created in an infinity mirror is "Gabriel's horn." The figure resembles a horn due to the widened area subjectively close to the viewer that narrows into a flute as it moves further away. The reference to Gabriel, the archangel who will blow a horn to announce judgment day, suggests an encounter between the finite and the infinite. The image also seems suggestive of the near-to-hand, meso-scale local—the first few reflections one sees in an infinity mirror—and the inaccessible and distant universal.
+[fn:infinity-mirror] An infinity mirror is a set of two (or more) mirrors that, in concert, create the effect of reflections receding to infinity. The name for the endlessly narrowing geometrical figure created in an infinity mirror is "Gabriel's horn." The figure resembles a horn due to the widened area subjectively close to the viewer that narrows into a flute as it moves further away. The reference to Gabriel, the archangel who will blow a horn to announce judgment day, suggests an encounter between the finite and the infinite. The image also seems suggestive of the near-to-hand, meso-scale local—the first few reflections one sees in an infinity mirror—and the inaccessible and distant universal.
 
 
 # END FOOTNOTE !!!
