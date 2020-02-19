@@ -825,6 +825,21 @@ In this final scene of /My Left Foot/, we see the stable emergence, the renegoti
 
 ** Double Take
 
+:outline:
+# similarities:
+
+# - disabilities of mobilitiy
+# - family support very important 
+# - the immediate social / historical context is key for identity
+# - transcendent hack
+# - self-expression is critical
+
+# why:
+
+# - comparison illustrates necessity of individual, not group, adaptations
+# - connly shows that haccessibility is even more key today, wide variety of technologies and resources not available to prior generations
+:end:
+
 If the recursion of Brown's /My Left Foot/ suggests the recursion of language, another disability autobiography, Kevin Michael Connolly's /Double Take/, suggests the visual recursion of an infinity mirror [fn:infinity-mirror]. /Double Take/ is a 2009 memoir by Kevin Michael Connolly, a photographer and skier born without legs to a working-class family in Helena, Montana. As with Brown, Connolly's autobiography is characterized by the support of family, unconventional adaptations for mobility, and a negotiation of the bounds of self-expression in an able society.
 
 Coming from a working-class background in Montana, Connolly's family, for better or worse, emphasized toughness, resilience, and a tolerance for pain. After a formative episode at a McDonalds playplace that mirrors Brown's realization, upon the breakdown of the go-car Old Henry, that he is different from others, Connolly's mother prepares him for anticipated slights at school by playing a game called "What if?"
@@ -834,33 +849,14 @@ Coming from a working-class background in Montana, Connolly's family, for better
 #+END_QUOTE
 At school, Connolly faces a variety of physical and social challenges with a tolerance for bodily and social discomfort. When drawn into a fight on the playground, for example, Connolly, unable to throw a punch while controlling his wheelchair, chooses to simply take the blows. In Connolly's family, and in rural Montana more broadly, competitive sports are highly valued, and with his strong upper body Connolly opts to join his school's wrestling team. After joining, however, Connolly finds that his lack of height, and thus leverage, can be exploited for a win by physically weaker opponents. Despite the fact that he has little chance of winning, Connolly and his father agree that the correct action is for him to take the punishment in order to complete the season, seeing through to the end his commitment to the team. When Connolly tries skiing as a possible new sport, he is introduced to a new subculture: "dirtbags," hard-drinking skiers with no attention to their appearance and only little attention to self-preservation on the slopes. Connolly is given a literal crash course in skiing by his dirtbag instructor, becoming proficient and even talented within the sport but not without serious injury, including multiple concussions. Connolly's tolerance of risk and pain mirrors the attitude demonstrated by family members such as his father, who exacerbates back and eye injuries sustained on the job in order to drive Connolly to ski competitions. [fn:disability-masculinity-performance]
 
-[fn:disability-masculinity-performance] It almost goes without saying that disabled people have something to prove. There's a prevailing and reflexive disregard, even a contempt, for displays of disabled athleticism, a disregard recently demonstrated in the poor treatment of the Paralympic Games when they were hosted by Brazil in 2016 citep:ashley_london_2016. In many cultural and historical contexts, disabled people were largely excluded from exercise, which was more socially regimented [[citep:jackson_reframing_2014][p. 12]], and means of social advancement via physical prowess, almost a prerequisite for any success in some cultures, was barred or limited. When not being treated as contemptible for their efforts, people with disabilities are frequently painted as superhuman, again minimizing their achievements and setting them apart—the "supercrip" trope citep:hartnett_escaping_2000,silva__2012. There is a machismo to Connolly's desire to excel in sports and to the wider cultural context that drives him to prove himself in this specific way, and on that basis, and on the basis of his taking on risk and pain, one might be tempted to consider hisefforts ridiculous. On the other hand, one might also fethishize his efforts, attaching him to a narrative of the superhuman or the supercrip. I think his flexibility, pain tolerance, and persistence are most productively conceived not as something to reflexively denounce or commend, but rather as something ideosyncratic, a local set of circumstances that affect how he moves in the world.
+[fn:disability-masculinity-performance] It almost goes without saying that disabled people have something to prove. There's a prevailing and reflexive disregard, even a contempt, for displays of disabled athleticism, a disregard recently demonstrated in the poor treatment of the Paralympic Games when they were hosted by Brazil in 2016 citep:ashley_london_2016. In many cultural and historical contexts, disabled people were largely excluded from exercise, which was more socially regimented [[citep:jackson_reframing_2014][p. 12]], and means of social advancement via physical prowess, almost a prerequisite for any success in some cultural and historical contexts, was barred or limited. When not being treated as contemptible for their efforts, people with disabilities are frequently painted as superhuman, again minimizing their achievements and setting them apart—the "supercrip" trope citep:hartnett_escaping_2000,silva__2012. There is a machismo to Connolly's desire to excel in sports and to the wider cultural context that drives him to prove himself in this specific way, and on that basis, and on the basis of his taking on risk and pain, one might be tempted to consider his efforts ridiculous. On the other hand, one might also fethishize his efforts, attaching him to a narrative of the superhuman or the supercrip. I think his flexibility, pain tolerance, and persistence are most productively conceived not as something to reflexively denounce or commend, but rather as something ideosyncratic, a local set of circumstances that affect how he moves in the world.
 
-For a deeper take on intersections at disability, masculinity, and sport, I recommend citep:kuppers_wheelchairs_2007 along with Murderball, the 2005 documentary it critically examines.
+For a deeper take on intersections at disability, masculinity, and sport, I recommend "The Wheelchair's Rhetoric: The Performance of Disability" citep:kuppers_wheelchairs_2007 along with /Murderball/, the 2005 documentary it critically examines.
 
 
 # !!!! END FOOTNOTE
 
-
-:outline:
-# similarities:
-
-# - disabilities of mobilitiy
-# - family support very important 
-# - the immediate social / historical context is key for identity
-# - transcendent hack
-# - self-expression is critical
-:end:
-
-
-
-# why:
-
-# - comparison illustrates necessity of individual, not group, adaptations
-# - connly shows that haccessibility is even more key today, wide variety of technologies and resources not available to prior generations
-
-
-
+** Taking the Low Road
 
 Like Brown, Connolly's experience of disability is characterized by a single, transcendent hack that changes his relationship with his environment, and which, even more so than Brown, requires a defiance of social norms. Like Brown, Connolly also resolves the tension between himself and /das Man/ through an act of self-expression that redefines his relationship to those around him. At an early age, Connolly is exposed to haccessible infrastructure created specifically for him. The year of Connolly's birth, 1985, saw the airing of MacGyver, a television show in which the title character solved problems through quick thinking and mechanical improvisation. Connolly traces how each successive season of the show coincided with a new adaptive invention by his father, a fan of MacGyver. These adaptations included thick "leathers" which prevented Connolly from wearing out his pants, levers at ground level to control lights, and a special device—the "throne"—that prevented Connolly from falling into the toilet. Connolly's relationship with more conventional technology for accessible mobility was more strained. Though he loved the Reeboks that came with his prosthetic legs—"you know your marketing is solid when you can get a no-legged kid excited about buying a new pair of sneakers" (18)—Connolly found the superficial appearance of normalcy that came with his prosthetics to be a poor trade-off for their weight and lack of mobility. On the other hand, Connolly found the more conventional narrative of disability that accompanied his use of a wheelchair to be equally restrictive.
 
@@ -1772,6 +1768,12 @@ https://boingboing.net/2020/01/27/nascent-boulangism.html
 
 # for final chapter: transhumanism
 https://www.upress.umn.edu/book-division/books/transhumanism
+
+# The Quantified Employee: How Companies Use Tech to Track Workers
+https://www.pcmag.com/news/the-quantified-employee-how-companies-use-tech-to-track-workers
+
+# Tesla Remotely Removes Autopilot Features From Customer's Used Tesla Without Any Notice
+https://jalopnik.com/tesla-remotely-removes-autopilot-features-from-customer-1841472617
 
 
 
