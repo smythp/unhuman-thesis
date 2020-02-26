@@ -854,7 +854,7 @@ For a deeper take on intersections at disability, masculinity, and sport, I reco
 
 Like Brown, Connolly's experience of disability is characterized by a single, transcendent hack that changes his relationship with his environment, and which, even more so than Brown, requires a defiance of social norms. Like Brown, Connolly also resolves the tension between himself and /das Man/ through an act of self-expression that redefines his relationship to those around him. At an early age, Connolly is exposed to haccessible infrastructure created specifically for him. The year of Connolly's birth, 1985, saw the airing of MacGyver, a television show in which the title character solved problems through quick thinking and mechanical improvisation. Connolly traces how each successive season of the show coincided with a new adaptive invention by his father, a fan of MacGyver. These adaptations included thick "leathers" which prevented Connolly from wearing out his pants, levers at ground level to control lights, and a special device—the "throne"—that prevented Connolly from falling into the toilet. Connolly's relationship with more conventional technology for accessible mobility was more strained. Though he loved the Reeboks that came with his prosthetic legs—"you know your marketing is solid when you can get a no-legged kid excited about buying a new pair of sneakers" [[citep:connolly_double_2009%E2%80%94Connolly][p. 18]] found the superficial appearance of normalcy that came with his prosthetics to be a poor trade-off for their weight and lack of mobility. On the other hand, Connolly found the more conventional narrative of disability that accompanied his use of a wheelchair to be equally restrictive.
 
-Ultimately, Connolly's chosen, and highly individual, technology of mobility became the longboard, a variant of the skateboard optimized for cruising over distances rather than tricks. Here, Connolly explains why the longboard, and not the wheelchair, fit his approach to life and travel:
+Ultimately, Connolly's chosen, and highly individual, technology of mobility became the longboard, a variant of the skateboard optimized for cruising over distances rather than doing tricks. Here, Connolly explains why the longboard, and not the wheelchair, fit his approach to life and travel:
 
 #+BEGIN_QUOTE
 I had found that the longboard was a much more practical tool than a wheelchair for getting around in another country. It was fairly cheap, as my full setup cost $150. Another crucial element was that it was replaceable. Unlike a wheelchair or set of legs, I could buy a longboard off the shelf of a local skate shop—a hugely comforting convenience. Most important, though, was its speed. On flat land, I could nearly keep up with a bicycle, and on it I was able to get almost anywhere ... (Connolly, 2009)
@@ -872,11 +872,45 @@ These clever (and inexpensive) approaches to the physical challenges of moving t
 
 ** Looking Back
 
-Connelly looks back.
+Like Brown's revelation—grasping chalk with his left foot and opening the door to self-expression—a means for Connolly to resist these imposed narratives comes in a sudden moment of inspiration. In Vienna, after being strong-armed to accept money, and pity, from a stranger on the street, Connolly finds himself at his wit's end after being started at, and photographed, by a group in a public square:
+
+#+BEGIN_QUOTE
+I said out loud, as they began to scatter, trying to avoid being called out. I’d had people sneak photos of me before, but what really offended me was the fact that they used their camera phone. I was just something shocking on the street; a grainy photo to send their friends. Who knew where that photo went or how many laughs were gotten out of the image? ...Everyone nearby had begun to stare. Real anger—the sort of emotion that makes you puff out your chest and clench your jaw—burned in my gut. cite:connolly_double_2009
+#+END_QUOTE
+
+After these early experiences in the city, Connolly finds himself avoiding crowds. But, upon encountering the familiar stare one more time, Connolly tries somethign different.
+
+#+BEGIN_QUOTE
+His steps stuttered for a moment as he did a double take. Still fuming from my earlier encounter, I did something impulsive. I looked across the street and tried to keep my eyes from meeting his. My right hand still had a white-knuckle grip on my camera as I held it at my side, floating mere inches off the concrete, and I hoped he wouldn’t notice the lens slowly aiming up at him. .. I pushed the button and heard the muffled chik-ticht ... I’d used my own form of staring. citep:connolly_double_2009
+#+END_QUOTE
+On getting back to his hostel and viewing the photo, Connolly is taken by surprise. The photo is striking, the sharp low angle, combined with the shocked expression of the subject, giving it an urgent feel. The photo captured his reality, holding the potential to concretely convey his day-in, day-out lived experience to others. Perhaps more importantly, the photo, and the moment of taking it, reverses a fundamental dynamic, exchanging the positions of observer and subject and recasting Connolly's self-narrative from pitied to proactive. All at once, Connolly did not wish to hide from reactions to his legless condition, but seek them out. 
+
+Taking this form of photo became a challenge for Connolly—he took over 900 viable photos during the remainder of his trip—and eventually a major artistic endeavor. In 2009, Connolly turned his photography into an exhibit, /The Rolling Exhibition/.
 
 
 
+# double take insight quotes
+:notes:
+# Vienna
 
+
+
+# ...
+
+# But by calling them out, all I’d managed to do was draw more attention to myself. Now that my face had turned upward, away from the ground; I started to realize that it was more than just the five teens. 
+
+# It was late afternoon, and I’d managed to avoid people fairly well when I saw a man rounding the corner at the end of the block. He was coming toward me, and even from a distance, I saw his pace slow. His steps stuttered for a moment as he did a double take. Still fuming from my earlier encounter, I did something impulsive. I looked across the street and tried to keep my eyes from meeting his. My right hand still had a white-knuckle grip on my camera as I held it at my side, floating mere inches off the concrete, and I hoped he wouldn’t notice the lens slowly aiming up at him.
+
+# C’mon, keep looking, I thought, listening to the sound of his footsteps and trying to gauge the moment when he’d pass. With the camera at my hip, I pushed the button and heard the muffled chik-ticht. I didn’t have any idea what the photo looked like or if I’d even managed to capture him, but it didn’t matter: I’d used my own form of staring.
+
+# It wasn’t until the photo of the man came up that I stopped. What I saw was unlike any photo I’d seen before. The lens was barely hovering off the ground, with a full third of the image taken up by the concrete walkway. The angle was dramatically skewed and showed a distorted, towering world, in the center of which was the startled man. The look on his face was a blurred combination of curiosity, worry, and shock. As I studied the image, a sense of vindication and excitement hit me. Technically, the photo wasn’t that great, the colors washed out, and the image blurred from the motion of my skateboard, but it hinted at something larger.
+
+# ...
+
+# By the time I was boarding the flight back to the States, I had racked up nine hundred photographs of men, women, and children from two different countries looking at me in exactly the same way. I’d shot beggars, school kids, couples, and even one very shocked-looking priest. When I viewed the images on the screen, each of my subjects appeared identical, if only for a moment. That curious glance was linked, from person to person, across the spectrum of age, money, culture, or anything else.
+
+# There was something empowering in taking those photos; realizing that I created such a universal effect on people. The feeling of power stemmed from the feeling that I could go almost anywhere in the world, and while people’s reactions may be unpleasant, they would always be predictable. Until now, being stared at had been a frustrating—but unpreventable—burden that I had to bear with a grin. Finally, I was able to find my own use for that stare, and it felt good.
+:end:
 
 # Connolly wrestles with these imposed narratives, alternately resenting that they are forced on him and contending with regret that his visible disability causes distress in contexts where he is an outsider.
 
@@ -897,7 +931,7 @@ Connelly looks back.
 
 
 
-Connolly's use of the 
+
 
 
 
