@@ -546,10 +546,15 @@ There are other implications to this worldview. One is that stuff has allegiance
 
 Thinking of the phenomenon more broadly, however, we see a key threat to the exercise of our autonomy. The more we look around our built environment, the more we see that it is filled with entities that reach out to and through us, but do not allow reaching back in return. That is, these objects, though close to us in a literal sense, are distant from us in the real way that we encounter the world. Though we will engage with this idea more fully in the next chapter when we consider the implications of infrastructure for negotiation, we can see this reality most plainly and obtrusively in the object, and ideology, of the smartphone. 
 
-These interfaces constrain behavior, encouraging specific sanctioned uses, and especially passive consumption, while reporting detailed information on user behavior and location. Though the smartphone is an intimate companion—a majority of Americans keep them in reach as they sleep—they are, in a Heideggerian sense, alarmingly distant from the users they appear to serve. Despite their intimate physical proximity, the smartphone as an artifact is itself never drawn closer to us and is never "to hand" in the sense of the hammer—ironic, given the German word for cell phone is the faux-loanword /Handy/. The smartphone does not conform itself to us, but conforms our interactions and behavior to its abstract affordances. Some artifacts—a cane, a pot, and, yes, a hammer—create energy, connections, impetus that flow from us and our volition outward to our immediate environment. Other artifacts—the codex and the letter come to mind—allow for others in far places and times to reach out to us, and the impetus flows in great part from the world and toward ourselves. These artifacts, however, allow us to encounter them largely on our own terms—my trade paperback of /Twilight/ won't report my reading habits back to Stephenie Meyer, but my Kindle edition of Snowden's /Permanent Record/ will happily, and with great irony, report on me to Amazon. The smartphone, and its eReader and tablet cousins , are not artifacts in the sense of the hammer—without constant two-way communication they are fit only for the landfill. Rather, they should be thought of as interfaces, processes, or, most evocatively, presences.
+These interfaces constrain behavior, encouraging specific sanctioned uses, and especially passive consumption, while reporting detailed information on user behavior and location. Though the smartphone is an intimate companion—a majority of Americans keep them in reach as they sleep—they are, in a Heideggerian sense, alarmingly distant from the users they appear to serve. Despite their intimate physical proximity, the smartphone as an artifact is itself never drawn closer to us and is never "to hand" in the sense of the hammer—ironic, given the German word for cell phone is the faux-loanword /Handy/. The smartphone does not conform itself to us, but conforms our interactions and behavior to its abstract affordances. Some artifacts—a cane, a pot, and, yes, a hammer—create energy, connections, impetus that flow from us and our volition outward to our immediate environment. Other artifacts—the codex and the letter come to mind—allow for others in far places and times to reach out to us, and the impetus flows in great part from the world and toward ourselves. These artifacts, however, allow us to encounter them largely on our own terms—my trade paperback of /Twilight/ won't report my reading habits back to Stephenie Meyer, but my Kindle edition of Snowden's /Permanent Record/ will happily, and with great irony, report on me to Amazon. The smartphone, and its eReader and tablet cousins , are not artifacts in the sense of the hammer—without constant two-way communication they are fit only for the landfill. Rather, they should be thought of as interfaces, processes, or, most evocatively, presences. [fn:creepy]
 
 *************** TODO update the smartphone sleep statistic above
 *************** END
+
+[fn:creepy] The ubiquity of the term "creepy" to describe the feeling of presence evoked by a literally proximate but subjectively distant piece of equipment alludes to the ambiguous relationship we have with these interfaces. Our cell phone is creepy for the same reason a ghost is creepy: it is both present and not present, and its nature, goals, and relationship to us can only be engaged with, at least for most of us mortals, on the level of intuition.
+
+
+# !!! END FOOTNOTE
 
 The corporate and government organizations that gather data and influence behavior through our smartphones exert influence that is a palpable but indistinct influence, invisible but nonetheless determinant of our subjective experiences. These ghosts are felt only in the exercise of their agendas, whether through dark patterns [fn:1] crafted to extract money or data or through the discouragement of actions or technologies that might disrupt the status quo. Therefore, when we pick up a smartphone, we are using the device, but not appropriating it, making it "to hand" in the sense of the hammer or the pot. Instead, we become ourselves "to hand," becoming a vehicle, a point of leverage, for distant and dimly apprehended presences.
 
@@ -583,7 +588,7 @@ Seguna argues that Heidegger's phenomenological worldview—that a bicycle makes
 #+END_QUOTE
 A naive commentator, reading this moving passage, might appreciate some insight into the disabled experience and perspective. I would argue, however, that this view is limited and self-protective, an act of seperation. We are all tyrannized by /das Man/, the normative and the majoritarian, yet some of us feel the disconnect between the local and the universal every day, every hour, or even every minute. For Mairs, this physical and social separation is not just a perspective, but the world as it exists.
 
-So far, our discussion of autonomy has been largely abstract. Mairs's plea immediately and powerfully reifies the concept and its stakes. Autonomy is our ability to meaningfully act, to be fully present in the world, to be fully empersoned, to be not only an end but also a middle and a beginning. This brief passage is local to Mairs and her experience, but we easily abstract it to our own experience, drawing a connection to our understanding of the broader world and back to ourselves. In the remainder of this chapter, we will engage with other local experiences and understandings as expressed through personal accounts and, in particular, the autobiography as a form. Our concern is with the world as encountered, how built structures and presences as /das Man/ constrain autonomy, and how individuals negotiate through practices such as recasting—changing up their own narrative—haccessibility.
+So far, our discussion of autonomy has been largely abstract. Mairs's plea immediately and powerfully reifies the concept and its stakes. Autonomy is our ability to meaningfully act, to be fully present in the world, to be fully empersoned, to be not only an end but also a middle and a beginning. This brief passage is local to Mairs and her experience, but we easily abstract it to our own experience, drawing a connection to our understanding of the broader world and back to ourselves. In the remainder of this chapter, we will engage with other local experiences and understandings as expressed through personal accounts and, in particular, the autobiography as a form. Our concern is with the world as encountered, how built structures and presences as /das Man/ constrain autonomy, and how individuals negotiate through practices such as autobiographical recursion—that is, writing that reflects and affects life, and life that affects and reflects writing.
 
 *************** DONE cite above quote, it's cited by Seguna, she says (p.59
 		CLOSED: [2020-01-08 Wed 11:19]
@@ -742,9 +747,9 @@ I knew then, as I came to know many times later, how bitter and crushing a simpl
 # Brown's writing again
 
 
-Though Brown's inspired act of haccessibility as a child was a necessary, if precarious, precondition for his full participation in society, it is ultimately his writing that enables him to recontextualize his social reality and exert a measure of autonomy over his circumstances. Indeed, a development in Brown's life—his being persuaded to attend 
+# Ultimately, to the extent that Brown is able to assume autonomy over his identity, it is through his writing.
 
-Ultimately, to the extent that Brown is able to assume autonomy over his identity, it is through his writing. After Brown receives what he and his family perceive to be a rare oppurtunity—being invited to visit a specialist at Middlesex Hospital in London—Brown receives another promise of a miracle, one that comes at much higher cost to his identity:
+Though Brown's inspired act of haccessibility as a child was a necessary, if precarious, precondition for his full participation in society, it is ultimately his writing that enables him to recontextualize his social reality and exert a measure of autonomy over his circumstances. After Brown receives what he and his family perceive to be a rare oppurtunity—being invited to visit a specialist at Middlesex Hospital in London—Brown receives another promise of a miracle, one that comes at much higher cost to his identity:
 
 #+BEGIN_QUOTE
 “Well, Christy,” she said. “You haven’t come to London in vain. I can find no reason why you shouldn’t be cured eventually. ... But—” here she paused, looked steadily at me, and went on—“you must first make a big sacrifice. Nothing good is ever obtained without one, and yours is—you must resolve never to use your left foot again.” ... My left foot! But that meant everything to me—I could speak only with that, create only with that! It was my only means of communication with the outside world, my only way of reaching the minds of other people and making myself articulate and intelligible. The rest of me was useless, worthless, and that one limb, my left foot, was the only workable thing in my whole body. Without it I would be lost, silent, powerless. [[citep:brown_my_1955][p. 123]] [fn:little-mermaid]
@@ -757,7 +762,7 @@ A modern reading of Brown's experience with doctors and clinicians is frustratin
 
 # END FOOTNOTE !!!
 
-Contained in Brown's forbiddance from using his left foot is the germ of a new opportunity for identity and communication. At St. Brendan's, where Brown goes to receive physical therapy, Brown encounters  Robert Collis, a doctor who was also a noted author. Collis, finding that Brown spent much of his time writing and had attempted to write an autobiography, mentored him, found him a tutor, and, eventually, drew on connections to help see /My Left Foot/ published. The autobiography was, and has been, successful, setting Brown on a different life trajectory. The book was popular enough to be adapted into a 1989 film that won Brenda Fricker and Daniel Day-Lewis academy awards. [fn:bono] Materially, the novel allowed Brown to live a markedly different economic and social life that, enventually, included romantic partnerships, independent living, and aspirations and personal relationships that exceeded the expectations of Ireland's rigid mid-twentieth century class system.
+Contained in Brown's forbiddance from using his left foot is the germ of a new opportunity for identity and communication. At St. Brendan's, where Brown goes to receive physical therapy, Brown encounters  Robert Collis, a doctor who was also a noted author. Collis, finding that Brown spent much of his time writing and had attempted to write an autobiography, mentored him, found him a tutor, and, eventually, drew on connections to help see /My Left Foot/ published. The autobiography was, and continues to be, successful, setting Brown on a different life trajectory. The book was popular enough to be adapted into a 1989 film that won Brenda Fricker and Daniel Day-Lewis academy awards. [fn:bono] Materially, the novel allowed Brown to live a markedly different economic and social life that, enventually, included romantic partnerships, independent living, and aspirations and personal relationships that exceeded the expectations of Ireland's rigid mid-twentieth century class system.
 
 [fn:bono] In a, perhaps excessively Irish, twist, Brown's semi-autobiographical /Down All the Days/ also inspired a U2 track by the same name.
 
@@ -868,23 +873,56 @@ Connolly's reasons for choosing a longboard resonate with the philosophy of the 
 
 Once Connolly had chosen to use a longboard for transport, there were two forms of challenge he still needed to overcome to use it while traveling the world. The first, and the more surmountable, was practical and physical. Extended time on the board could be bumpy, and to better absorb shocks Connolly had a friend create a device similar to his childhood "leathers," essentially a combination shoe and seat that, in Connolly's words, resembled a "leather flowerpot." Another issue was propulsion. While Connolly had tough hands, using a hand all day to propel his board would normally be untenable. To resolve this, Connolly took a glove and wrapped it in so many layers of duct tape that it resembled a gauntlet. After burning through layers of duct tape during the day—the object was "incredibly smelly"—he could simply add more tape.
 
-These clever (and inexpensive) approaches to the physical challenges of moving through a wide variety of environments came relatively easily to Connolly. A second category of challenges to his free movement, social challenges, proved more difficult to resolve. Wherever he went, Connolly encountered stares and dramatic reactions. Some of these are simply rude or ignorant. Frequently, however, Connolly learns that his encounters with others are mediated through their own historical and cultural narratives. In Sarajevo, Connolly is apologized to, seen by locals as a childhood victim of a legacy of war. In coastal New Zealand, a child questions whether he was attacked by a shark. In his own Montana, he is often mistaken for a veteran of the Iraq War, while in central Europe he is frequently accosted for blessings and intercessions by religious individuals. Connolly resents these narrative impositions on his own image of self, yet also questions whether he, as an outsider, has the right to resist these readings of his disability. In practice, however, these aggregated interactions are difficult for Connolly, and the way these reactions wear on his own story of self make him questions whether he should, or can, continue his travels.
+These clever (and inexpensive) approaches to the physical challenges of moving through a wide variety of environments came relatively easily to Connolly. A second category of challenges to his free movement, social challenges, proved more difficult to resolve. Wherever he went, Connolly encountered stares and dramatic reactions. Some of these were simply rude or ignorant. Frequently, however, Connolly learns that his encounters with others are mediated through their own historical and cultural narratives. In Sarajevo, Connolly is apologized to, seen by locals as a childhood victim of a legacy of war. In coastal New Zealand, a child questions whether he was attacked by a shark. In his own Montana, he is often mistaken for a veteran of the Iraq War, while in central Europe he is frequently accosted for blessings and intercessions by religious individuals. Connolly resents these narrative impositions on his own image of self, yet also questions whether he, as an outsider, has the right to resist these readings of his disability. In practice, however, these aggregated interactions are difficult for Connolly, and the way these reactions wear on his own story of self make him questions whether he should, or can, continue his travels.
 
 ** Looking Back
 
-Like Brown's revelation—grasping chalk with his left foot and opening the door to self-expression—a means for Connolly to resist these imposed narratives comes in a sudden moment of inspiration. In Vienna, after being strong-armed to accept money, and pity, from a stranger on the street, Connolly finds himself at his wit's end after being started at, and photographed, by a group in a public square:
+Like Brown's revelation—grasping chalk with his left foot and opening the door to self-expression—a means for Connolly to resist these imposed narratives comes in a sudden moment of inspiration. In Vienna, after being strong-armed to accept money, and pity, from a stranger on the street, Connolly finds himself at his wit's end after being stared at, and photographed, by a group in a public square:
 
 #+BEGIN_QUOTE
-I said out loud, as they began to scatter, trying to avoid being called out. I’d had people sneak photos of me before, but what really offended me was the fact that they used their camera phone. I was just something shocking on the street; a grainy photo to send their friends. Who knew where that photo went or how many laughs were gotten out of the image? ...Everyone nearby had begun to stare. Real anger—the sort of emotion that makes you puff out your chest and clench your jaw—burned in my gut. cite:connolly_double_2009
+"Really?" I said out loud, as they began to scatter, trying to avoid being called out. I’d had people sneak photos of me before, but what really offended me was the fact that they used their camera phone. I was just something shocking on the street; a grainy photo to send their friends. Who knew where that photo went or how many laughs were gotten out of the image? ...Everyone nearby had begun to stare. Real anger—the sort of emotion that makes you puff out your chest and clench your jaw—burned in my gut. citep:connolly_double_2009
 #+END_QUOTE
-After these early experiences in the city, Connolly finds himself avoiding crowds. But, upon encountering the familiar stare one more time, Connolly tries somethign different.
+After these early experiences in the city, Connolly finds himself avoiding crowds. But, upon encountering the familiar stare one more time, Connolly tries something different.
 
 #+BEGIN_QUOTE
 His steps stuttered for a moment as he did a double take. Still fuming from my earlier encounter, I did something impulsive. I looked across the street and tried to keep my eyes from meeting his. My right hand still had a white-knuckle grip on my camera as I held it at my side, floating mere inches off the concrete, and I hoped he wouldn’t notice the lens slowly aiming up at him. .. I pushed the button and heard the muffled chik-ticht ... I’d used my own form of staring. citep:connolly_double_2009
 #+END_QUOTE
-On getting back to his hostel and viewing the photo, Connolly is taken by surprise. The photo is striking, the sharp low angle, combined with the shocked expression of the subject, giving it an urgent feel. The photo captured his reality, holding the potential to concretely convey his day-in, day-out lived experience to others. Perhaps more importantly, the photo, and the moment of taking it, reverses a fundamental dynamic, exchanging the positions of observer and subject and recasting Connolly's self-narrative from pitied to proactive. All at once, Connolly did not wish to hide from reactions to his legless condition, but seek them out. 
+On getting back to his hostel and viewing the photo, Connolly is taken by surprise. The photo is striking, the sharp low angle, combined with the shocked expression of the subject, gives it an urgent feel. The photo captured his reality, holding the potential to concretely convey his day-in, day-out lived experience to others. Perhaps more importantly, the photo, and the moment of taking it, reverses a fundamental dynamic, exchanging the positions of observer and subject and recasting Connolly's self-narrative from pitied to proactive. All at once, Connolly did not wish to hide from reactions to his legless condition, but sought them out. 
 
-Taking this form of photo became a challenge for Connolly—he took over 900 viable photos during the remainder of his trip—and Connolly was soon able to transform his "double takes" into a major artistic endeavor. In 2006, Connolly had embarked on his trip around the world, taking photos for what he called his "Rolling Exhibition." By 2008, the exhibit had been featured in NPR, CNET, ABC, and the Washington Post, among others citep:brown_man_2008,beckman_lens_2008,jackson_photographer_2008,handel_photographer_2008. Following this media coverage, The Rolling Exhibition was featured as part of the Kennedy Center for the Performing Arts. This media attention led HarperCollins to invite Connolly to write the book that would become Double Take. Since Double Take's publication in 2009, Connolly has continued to receive media attention, including an appearance on the Today Show. In 2013, Connolly starred in Armed and Ready, a one-season series for the Travel Channel that saw him attempt challenges such as surfing, street luge, jousting, and moving in zero gravity.
+Taking this form of photo became a challenge for Connolly—he took over 900 viable photos during the remainder of his trip—and Connolly was soon able to transform his "double takes" into a major artistic endeavor. In 2006, Connolly had embarked on his trip around the world, taking photos for what he called his /Rolling Exhibition/. By 2008, the exhibition had been featured in NPR, CNET, ABC, and the Washington Post, among others citep:brown_man_2008,beckman_lens_2008,jackson_photographer_2008,handel_photographer_2008. Following this media coverage, /The Rolling Exhibition/ was featured as part of the Kennedy Center for the Performing Arts. This media attention led HarperCollins to invite Connolly to write the memoir that would become /Double Take/. Since the publication of /Double Take/ in 2009, Connolly has continued to receive media attention, including an appearance on the Today Show. In 2013, Connolly starred in /Armed and Ready/, a one-season series for the Travel Channel that saw him attempt challenges such as surfing, street luge, jousting, and moving in zero gravity.
+
+** Recurring Images
+
+Connolly's inspired moment in Vienna—taking a picture of a man staring at him—does a great deal of work along many dimensions. First, it renders legible to others, to the universal, the reality he lives in, one in which movement in public is fundamentally fraught. Second, it resists a forcible rewriting, an unthinking narrativization as an object of pity, hilarity , or curiosity. Third, it creates and sustains a stable identity, that of artist and photographer. Fourth, in depicting the same reaction in an extremely broad variety of contexts, the larger project of the /Rolling Exhibition/ gestures toward an underlying reality, that of a universal manifest in local contexts. Lastly, the moment shows a crack, a small way forward, in the edifice of the tyrannical relationship between the particular and the universal.
+
+
+
+
+
+
+Connolly's photography is powerfully recursive. 
+
+
+certain shapes suggest abuse of power: flattening/reducability, centralization, obscurity, convenience
+
+others suggest the service of autonomy: transparency, expression, an embrace of complexity
+
+
+
+** Fighting the Man
+
+The world, as we encounter it, is shaped by our "suitability," whether we can 
+
+
+
+the world as a place of geography determined by suitbility and circumstance
+the majority is both tyrannical and tyrannized
+  tyrannical - things are built for the majority
+ tyrannized - the majority is predictable and can be manipulated
+
+
+
+
 
 
 
@@ -927,16 +965,7 @@ Taking this form of photo became a challenge for Connolly—he took over 900 via
 # #+END_QUOTE
 :end:
 
-
-
-
-
-
-
-
 # , an adaptation suited to his athleticism, his tolerance for pain and injury, and his rejection of imposed narratives of disability. The personalized adaptations developed by his father during childhood influenced Connolly in his adoption of the skateboard, leading to his own development of adaptations such as a thick glove or "gauntlet" used to avoid injury while propelling himself through urban environments. Connolly's adoption of the skateboard as his primary mobility adaptation was key to his ability to travel the world for The Rolling Exhibition. Unlike expensive prosthetics, his skateboard could be repaired cheaply in any country and allowed him to move at greater speed and through obstacles such as stairs and sand.
-
-
 
 
 
@@ -953,18 +982,12 @@ Taking this form of photo became a challenge for Connolly—he took over 900 via
 
 it is no surprise that people with disabilities who take up autobiography also contend with representability, the pressure to universalize, and the limitations of genre. in the case of disability life  writing and disability autobiography, however, the thin thread between the personal and the universal seems even more attenuated. 
 
-
-
-
-
-
 # quote: proliferation of disability life writing recently
 :notes:
 #+begin_quote
 indeed, one of the most significant developments—if not the most significant development—in life writing in north america over the last three decades has been the proliferation of book-length ac- counts (from both first- and third-person points of view) of living with illness and disability. whereas in the 1970s it was diffi- cult to find any representation of most disabling conditions in life writing, today one can find multiple representations of many conditions. equally significant, and more remarkable, one can find autobiographical accounts of conditions that would seem to preclude first-person testimony altogeth- er—for example, autism, locked-in syn- drome, and early alzheimer's disease.... a comprehensive history of disability life writing has yet to be written, but it is safe to say that there was not much in the way of published autobiographical literature before world war ii. war both produces and valorizes certain forms of disability; not surprisingly, then, disabled veterans pro- duced a substantial number of narratives after the war. polio generated even more narratives; indeed, polio may be the first disability to have engendered its own sub- stantial autobiographical literature (wil- son). [[citep:davis_disability_2013][p. 456-457]]
 #+end_quote
 :end:
-
 
 
 the stories of people with disabilities are not always well served by autobiography as a form. the pressure to universalize and moralize too often leads to predictible, if understandable, distortions and tropes—overindulging the outside or society view, for example. this can lead to disability autobiography clusteringb around 
