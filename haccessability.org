@@ -893,7 +893,39 @@ Taking this form of photo became a challenge for Connolly—he took over 900 via
 
 ** Recurring Images
 
-Connolly's inspired moment in Vienna—taking a picture of a man staring at him—does a great deal of work along many dimensions. First, it renders legible to others, to the universal, the reality he lives in, one in which movement in public is fundamentally fraught. Second, it resists a forcible rewriting, an unthinking narrativization as an object of pity, hilarity , or curiosity. Third, it creates and sustains a stable identity, that of artist and photographer. Fourth, in depicting the same reaction in an extremely broad variety of contexts, the larger project of the /Rolling Exhibition/ gestures toward an underlying reality, that of a universal manifest in local contexts. Lastly, the moment shows a crack, a small way forward, in the edifice of the tyrannical relationship between the particular and the universal.
+Connolly's inspired moment in Vienna—taking a picture of a man staring at him—does a great deal of work along many dimensions. First, it renders legible to others, to the universal, the reality he lives in, one in which movement in public is fundamentally fraught. Second, it resists a forcible rewriting, an unthinking narrativization as an object of pity, hilarity , or curiosity. Third, it creates and sustains a stable identity, that of artist and photographer. Fourth, in depicting the same reaction in broad contexts, the larger project of the /Rolling Exhibition/ gestures toward an underlying reality, that of a universal manifest in local contexts. Lastly, the moment shows a crack, a small way forward, in the edifice of the tyrannical relationship between the particular and the universal.
+
+Connolly's /Rolling Exhibition/ captures something fundamental in the relationship between the particular and the universal, the identity of the self and the understanding of the collective. The photographs, in depicting a collective response to difference, suggest an imposition of identity from above. These reactions, as experienced by Connolly prior to his taking of that first photograph, cast him not as an independent agent with a self-created identity but as an object of surprise, curiosity, or pity. In capturing and representing these impositions, Connolly establishes a recursive relationship with the universal. The reactions of the collective become a basis for a new identity. Though the new identity is based on resistance through art, it also contains within itself the initial reaction. Connolly's autonomy, achieved through his photography, is not complete independence, a cutting off of the tyranny of the universal, but the redefinition of the relationship from a form that is unidirectional to one with push and pull. His identity contains the gazes directed at him, re recontextualizing them and, through the exhibition and the autobiography, reframing them for consumption by the universal. 
+
+In the opening to this discussion of /Double Take/, I suggested that the central image of the autobiography was that of an infinity mirror—that is, a set of two opposed mirrors that create a series of endlessly receding reflections. The image is apt for describing Connolly's approach to photography, but also the line between local and universal drawn in autobiography. In mathematics, the name for the endlessly narrowing geometrical figure created in an infinity mirror is "Gabriel's horn." The figure resembles a horn due to the widened area subjectively close to the viewer that narrows into a flute as it moves further away. The reference to Gabriel, the archangel who will blow a horn to announce judgment day, suggests an encounter between the finite and the infinite. The image also seems suggestive of the near-to-hand, meso-scale local—the first few reflections one sees in an infinity mirror—and the inaccessible and distant universal. Looking into an infinity mirror, we understand, see, and affect our near-to-hand reflections, those close to us. Our relationship with reflections in the distance, however, is more ambiguous. The connection is there, but attenuated—the relationship is technically reciprocal, but not evenly so. Looking at the shape of Gabriel's horn, with one end broad and one increasingly narrow, we feel, perhaps, that every aspect of our individual reality is touched by, imposed on, by the universal, but the concessions to our particularity on the part of the universal are small, even minute. How, then, can we blow Gabriel's horn? How can we cultivate autonomy, resisting the tyranny of /das Man/ and creating an immediate environment adapted to our needs as individuals and members of local communities? And, if it is even possible, How can we affect real change, not only in our immediate locality, but in contexts that widen out from where we stand?
+
+#+caption: Gabriel's Horn is a geometric figure broad on one side with the other side narrowing into infinity
+#+name: gabriels_horn.png
+#+attr_html: :alt A figure that looks like a horn, broad on one side and narrow on the other.
+[[./images/gabriels_horn.png]]
+
+
+** Fighting the Man
+
+# What is the shape of the relationship between the local and the universal? Or, to be more specific to the subject at hand—autobiographies and the self-told stories of people with disabilities—what is the nature of the relationship between an individual and a collective identity?
+
+*************** TODO fit this in above or transition
+*************** END
+
+Brown (/My Left Foot/) and Connolly (/Double Take/) understand, as many people with disabilities must, that their stories are in some sense unrepresentative. The challenge, then, is not so much to do as most autobiographies do—hold up the subject as representative of a larger collective narrative or identity, a worthy subject of broad interest—but to do so while honoring real difference. Locality cannot always be rendered legible, and some truths are too particular to be universalized. The result, naturally, is compromise—in autobiographies of disability, it is not generally the universal that accommodates the disabled identity, but the disabled identity, the local difference, that must be shaped to the limited understanding of the universal. The perennial hope in these circumstances is potential for reciprocity: that, through repetition, inspiration, rhetoric, or chance, the universal will shift to incorporate a new understanding, that something lasting will come of powerful but transient local experiences.
+
+definition of circumstance, repositioning in relations to immediate environment
+Arrent here
+
+
+autonomy
+
+
+
+legible
+resists rewriting
+autonomous identity
+
 
 
 
@@ -969,7 +1001,7 @@ the majority is both tyrannical and tyrannized
 
 
 
-[fn:infinity-mirror] An infinity mirror is a set of two (or more) mirrors that, in concert, create the effect of reflections receding to infinity. The name for the endlessly narrowing geometrical figure created in an infinity mirror is "Gabriel's horn." The figure resembles a horn due to the widened area subjectively close to the viewer that narrows into a flute as it moves further away. The reference to Gabriel, the archangel who will blow a horn to announce judgment day, suggests an encounter between the finite and the infinite. The image also seems suggestive of the near-to-hand, meso-scale local—the first few reflections one sees in an infinity mirror—and the inaccessible and distant universal.
+[fn:infinity-mirror] An infinity mirror is a set of two (or more) mirrors that, in concert, create the effect of reflections receding to infinity. We'll return to this image to elaborate it more fuly later in the chapter.
 
 
 # END FOOTNOTE !!!
@@ -1863,6 +1895,9 @@ https://www.pcmag.com/news/the-quantified-employee-how-companies-use-tech-to-tra
 # Tesla Remotely Removes Autopilot Features From Customer's Used Tesla Without Any Notice
 https://jalopnik.com/tesla-remotely-removes-autopilot-features-from-customer-1841472617
 
+# Infantilization by interfaces
+# School Will Never End: On Infantilization in Digital Environments - Amplifying Empowerment or Propagating Stupidity?
+http://sigwait.tk/~alex/doc/bunz%2Cmercedes__school-will-never-end/
 
 
 bibliographystyle:apalike
