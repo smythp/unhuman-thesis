@@ -920,21 +920,45 @@ Can autobiographies of disability really be representative? That is, can they co
 
 When communicating outward—that is, not to one's local community but to a broader collective that does not share critical context—it becomes necessary to adopt a suitable narrative, one that reconciles the local context to the concerns and understanding of the larger group. These narratives are abstractions, rendering high-context understandings of local circumstance legible and comprehensible to a collective that has less immediate interest or relevant knowledge. This dynamic should be immediately familiar to any academic who attempts to convey their specialized research to a broad audience—or, for that matter, explain their work at a dinner party. Unfortunately, when choosing narratives with which to render experiences of disability to a wider audience, the problem is twofold. First, there exist a variety of narratives related to disability in the public consciousness, many or most of which are regressive and have little relation to specific experiences of disability. Second, other narratives, those not directly related to disability, are likely to be inadequate when conveying these experiences. The result is narrative incommensurability—the lack of a common basis for understanding premised on the inadequacy of existing narratives to convey experiences of disability.
 
-In /Narrative Prosthesis: Disability and the Dependencies of Discourse/, David Mitchell and Sharon Snyder make the case that disability is conceptualized as fundamentally unknowable, and that that unknowability, when it presents itself, demands explication and resolution:
+** Facing Narrative Incommensurability
+
+In /Narrative Prosthesis: Disability and the Dependencies of Discourse/, David Mitchell and Sharon Snyder make the case that disability is conceptualized as fundamentally unknowable, and that that unknowability, when it presents itself, demands explication and resolution.
 
 #+BEGIN_QUOTE
 Most basic to the identification of character through disability is the way in which physical and cognitive differences have been narrated as alien to the normal course of human affairs. To represent disability is to engage oneself in an encounter with that which is believed to be off the map of “recognizable” human experiences. Making comprehensible that which appears to be inherently unknowable situates narrative in the powerful position of mediator between two separate worlds. ... [I]t is the narrative of disability’s very unknowability that consolidates the need to tell a story about it. [[citep:mitchell_narrative_2000][p. 5-6]]
 #+END_QUOTE
-Narrative, as it is typically encountered, is not forgiving to accounts from a disability perspective. Mitchell and Snyder suggest that disability reads as alien, and that alienation reads as unknowability. That unknowability, when it appears in a narrative, demands explanation—in their words, "disability inaugurates the act of interpretation" [[citep:mitchell_narrative_2000][p. 6]]. 
+Narrative, as it is typically encountered, is not forgiving to accounts from a disability perspective. Mitchell and Snyder suggest that disability reads as alien, and that alienation reads as unknowability. That unknowability, when it appears in a narrative, demands explanation—in their words, "disability inaugurates the act of interpretation" [[citep:mitchell_narrative_2000][p. 6]]. Paradoxically, the perceived unknowability of the disabled experience has not resulted in underrepresentation in media and culture, but a combination of over representation and misrepresentation. [fn:disability-everywhere]
 
-These explanations, as they have appeared in narratives over centuries, have worn tracks in the collective consciousness, and these tracks take a limited number of predictable forms. In a 1974address to the National Federation of the Blind, for example, Kenneth Jernigan argued that there were only nine identifiable narratives that adhered to the blindas they appear in literature:
+[fn:disability-everywhere] Narratives of disability are surprisingly ubiquitous. Michael Bérubé remarks that, "[a]fter a decade of working in disability studies, I still find myself surprised by the presence of disability in narratives I had never considered to be "about" disability, in animated films from Dumbo to Finding Nemo; in literary texts from Huckleberry Finn to Joan Didion's /Play It As It Lays/; and, most curiously, even in the world of science fiction and superheroes, a world that turns out to be populated by blind Daredevils, mutant supercrips, and posthuman cyborgs of all kinds" [[citep:berube_disability_2005][p. 568]].
+
+
+# !!!!! END FOOTNOTE
+
+These representations, as they have appeared in narratives over centuries, have worn tracks in the collective consciousness, and these tracks take a limited number of predictable forms. In a powerful 1974address to the National Federation of the Blind, for example, Kenneth Jernigan argued that there were only nine identifiable narratives that adhered to the blindas they appear in literature:
 
 #+BEGIN_QUOTE
-Yet, upon closer examination the principal themes and motifs of literature and popular culture are nine in number and may be summarized as follows: blindness as compensatory or miraculous power, blindness as total tragedy; blindness as foolishness and helplessness; blindness as unrelieved wickedness and evil; blindness as perfect virtue; blindness as punishment for sin; blindness as abnormality or dehumanization; blindness as purification; and blindness as symbol or parable.
+Yet, upon closer examination the principal themes and motifs of literature and popular culture are nine in number and may be summarized as follows: blindness as compensatory or miraculous power, blindness as total tragedy; blindness as foolishness and helplessness; blindness as unrelieved wickedness and evil; blindness as perfect virtue; blindness as punishment for sin; blindness as abnormality or dehumanization; blindness as purification; and blindness as symbol or parable. citep:jernigan_blindness:_1974
 #+END_QUOTE
+In this address, Jernigan calls out literature dependent on these well-worn tropes, from the preposterous—blind defectives shooting by sound—to the infuriating, such as Maeterlinck's /The Blind/, which depicts a grotesquery of sightless groping to make a philosophical point.
 
-blindness: is literature against us?
-https://www.nfb.org/images/nfb/publications/convent/banque74.htm
+Whether or not there are, as Jernigan contends, nine—or five, or twenty—interpretations that adhere to blindness is beside the point. The address gestures toward a disturbing truth: depictions of the disabled in literature are rarely about the disabled experience. Rather, they serve an outside view of disability, or, more confoundingly, they provide a vector for commentary about something completely unrelated to disability. Jernigan's final listed trope, "blindness as symbol or parable," is perhaps most damaging to public consciousness of the real lives of people with disabilities. Take, for example, the 2008 film /Blindness/, directed by Fernando Meirelles, which leans into the use, or exploitation, of blindness as metaphor or parable. The /Los Angeles Times/, in a glowing profile written during the shooting of the film, inadvertently summarizes the film's distortions in service of a universalizing metaphor:
+
+#+BEGIN_QUOTE
+Mark Ruffalo and Julianne Moore are traipsing through a trash-strewn urban wasteland, scavenging for salvation. All around them, dozens of pitiful human beings dressed in filthy, mismatched clothes grope their way past wrecked cars and graffiti-splattered highway ramps, like dancers in some grotesque ballet of the damned. ... In both book and film, blindness is not only a physical condition but a metaphor for the darker side of human nature: prejudice, selfishness, violence and willful indifference. citep:johnson_eyes_2008
+#+END_QUOTE
+The IMDB page for this film appears as a top-ten Google result for the search term "blindness," and its Wikipedia page is about two-thirds the length of the article for visual impairment. It is no exaggeration to say that this film, for many, will be some combination of their first, their only, their strongest, or their last exposure to the concept of blindness or visual impairment, and what they will take away from it will be blindness as depravity, blindness as helplessness, and blindness as abstracted metaphor. Though I have used the domain of visual impairment for this example, this problem is shared across depictions of disability. When attempting to share or depict the real lives and experiences of people with disabilities, whether in literature or autobiography, one must not simply ignore, but actively compensate for, this unreformed cultural slurry. Without active compensation—and, frequently, even after great effort—depictions of disability will fall into well-worn tracks, riding on rails to false, unflattering, malign, or irrelevant destinations. 
+
+The problem facing autobiographies of disability, therefore, is not simply a lack of relevant narratives with which to convey local experiences to the universal. The issue is also not limited to counteracting existing narratives of disability. Not only must autobiography contend with the above, but it must engage with the fact that disability, in cultural representations, has been used as a medium and not an end. To speak once more of threads—lines connecting the rich local to the more abstract universal—disability, as a concept, has been used to entwine associations between concrete characters and situations and universal ideas and structures. When we are conditioned to read disability as a conveyance—a depiction of punishment for sin, a representation of universal human folly, an unredeemed tragedy suggesting the indifference of the world or the triumph of the spirit—how are we to attend to disability as a valid subjectivity, something not to learn from but to learn about?
+
+** Semiautobiography and Dependence
+
+
+
+
+
+
+# blindness: is literature against us?
+# https://www.nfb.org/images/nfb/publications/convent/banque74.htm
 
 
 
