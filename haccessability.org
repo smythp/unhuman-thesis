@@ -762,7 +762,7 @@ A modern reading of Brown's experience with doctors and clinicians is frustratin
 
 # END FOOTNOTE !!!
 
-Contained in Brown's forbiddance from using his left foot is the germ of a new opportunity for identity and communication. At St. Brendan's, where Brown goes to receive physical therapy, Brown encounters  Robert Collis, a doctor who was also a noted author. Collis, finding that Brown spent much of his time writing and had attempted to write an autobiography, mentored him, found him a tutor, and, eventually, drew on connections to help see /My Left Foot/ published. The autobiography was, and continues to be, successful, setting Brown on a different life trajectory. The book was popular enough to be adapted into a 1989 film that won Brenda Fricker and Daniel Day-Lewis academy awards. [fn:bono] Materially, the novel allowed Brown to live a markedly different economic and social life that, enventually, included romantic partnerships, independent living, and aspirations and personal relationships that exceeded the expectations of Ireland's rigid mid-twentieth century class system.
+Contained in Brown's forbiddance from using his left foot is the germ of a new opportunity for identity and communication. At St. Brendan's, where Brown goes to receive physical therapy, Brown encounters  Robert Collis, a doctor who was also a noted author. Collis, finding that Brown spent much of his time writing and had attempted to write an autobiography, mentored him, found him a tutor, and, eventually, drew on connections to help see /My Left Foot/ published. The autobiography was, and continues to be, successful, setting Brown on a different life trajectory. The book was popular enough to be adapted into a 1989 film that won Brenda Fricker and Daniel Day-Lewis academy awards. [fn:bono] Materially, the novel allowed Brown to live a markedly different economic and social life that, enventually, included romantic partnerships, independent living, and aspirations and personal relationships that exceeded the expectations of Ireland's rigid mid-twentieth century class system. In writing /My Left Foot/, in writing about his life, Brown altered that life. And, Because these changes are, themselves, reflected in his writing, the act of autobiography, and the assertion of autonomy, create a resonance. This self-referential relationship between life and narrative, autonomy and autobiography, is, like haccessibility, a powerful form of negotiation, one that has some capability, though always tenuous, to provoke significant change.
 
 [fn:bono] In a, perhaps excessively Irish, twist, Brown's semi-autobiographical /Down All the Days/ also inspired a U2 track by the same name.
 
@@ -820,7 +820,6 @@ In this final scene of /My Left Foot/, we see the stable emergence, the renegoti
 
 *************** TODO get decent bibliography info for my lieft foot
 *************** END
-
 
 ** Double Take
 
@@ -959,14 +958,16 @@ it becomes strange indeed that illness has not taken its place with love, battle
 #+END_QUOTE
 Woolf notes that it is not only our inclination, but our language, that is ill-suited to depicting the realities and vicissitudes of inhabiting an unwell body, that "English, which can express the thoughts of Hamlet and the tragedy of Lear, has no words for the shiver and the headache" [[citep:woolf_selected_2009][p. 102]]. Indeed, in the case of disability, it is not simply that there is little vernacular for communicating experience, or even that stories of disabled life, self-told or otherwise, must distort themselves to some other shape or plot to get across. Worse, experiences of disability have themselves become a vernacular. When we see a cane or a crutch on stage or screen, we are not in the habit of preparing ourselves to embody a radically different experience. Rather, we parse these experiences, not as ends, fully realized subjectivity's, in themselves, but as metaphors and patterns aimed at speaking to the universal. In making disability a language, we make it so that there is no language for disability. Woolfe criticized literature for treating the body as a vessel, incident rather than object. Those who wish to convey their experiences of disability to a broader audience must not only contend with antipathy and discomfort, but also a similar sort of transparency—disability becoming "a sheet of plain glass," something through which to look upon the universal but not itself a fitting subject for consideration.
 
+# blindness: is literature against us?
+# https://www.nfb.org/images/nfb/publications/convent/banque74.htm
+
 ** 
 
 
 
 
 
-# blindness: is literature against us?
-# https://www.nfb.org/images/nfb/publications/convent/banque74.htm
+
 
 # ** Auto-ish Biographies and Dependence
 
