@@ -916,7 +916,9 @@ Looking into an infinity mirror, we understand, see, and affect our near-to-hand
 
 Brown (/My Left Foot/) and Connolly (/Double Take/) understand, as many people with disabilities must, that their stories are in some sense unrepresentative. The challenge, then, is not so much to do as most autobiographies do—hold up the subject as representative of a larger collective narrative or identity, a worthy subject of broad interest—but to do so while honoring real difference. Locality cannot always be rendered legible, and some truths are too particular to be universalized. The result, naturally, is compromise—in autobiographies of disability, it is not generally the universal that accommodates the disabled identity, but the disabled identity, the local difference, that must be shaped to the limited understanding of /das Man/. The perennial hope in these circumstances is potential for reciprocity: that, through repetition, inspiration, rhetoric, or chance, the universal will shift to incorporate a new understanding, that something lasting will come of powerful but transient local experiences.
 
-Can autobiographies of disability really be representative? That is, can they convey local truth, some fundamental understanding of a complex context, to the broader society? It is also possible here to take an even more pessamistic view, which might prompt the question—"Can autobiographies of disability even be fully or faithfully representative of their local context, of the lived experiences of their authors?" There are powerful forces, among them various narrative, structural, and pragmatic headwinds, arrayed against a person with disabilities who wishes to communicate their local circumstances and life experiences in the form of autobiography. Naturally, even at the best of times, communicating one's experiences to a broad and unknown audience is a difficult proposition. However, of the many challenges facing the disability autobiographer, two stand out as of particular concern: narrative incommensurability and local dependence.
+Can autobiographies of disability really be representative? That is, can they convey local truth, some fundamental understanding of a complex context, to the broader society? It is also possible here to take an even more pessamistic view, which might prompt the question—"Can autobiographies of disability even be fully or faithfully representative of their local context, of the lived experiences of their authors?" There are powerful forces, among them various narrative, structural, and pragmatic headwinds, arrayed against a person with disabilities who wishes to communicate their local circumstances and life experiences in the form of autobiography. Naturally, even at the best of times, communicating one's experiences to a broad and unknown audience is a difficult proposition. However, of the many challenges facing the disability autobiographer, one stands out as of particular concern: narrative incommensurability.
+
+# if i add something on local dependence / auto-ish biographies, add something above and create a new section for it after the section belwo
 
 When communicating outward—that is, not to one's local community but to a broader collective that does not share critical context—it becomes necessary to adopt a suitable narrative, one that reconciles the local context to the concerns and understanding of the larger group. These narratives are abstractions, rendering high-context understandings of local circumstance legible and comprehensible to a collective that has less immediate interest or relevant knowledge. This dynamic should be immediately familiar to any academic who attempts to convey their specialized research to a broad audience—or, for that matter, explain their work at a dinner party. Unfortunately, when choosing narratives with which to render experiences of disability to a wider audience, the problem is twofold. First, there exist a variety of narratives related to disability in the public consciousness, many or most of which are regressive and have little relation to specific experiences of disability. Second, other narratives, those not directly related to disability, are likely to be inadequate when conveying these experiences. The result is narrative incommensurability—the lack of a common basis for understanding premised on the inadequacy of existing narratives to convey experiences of disability.
 
@@ -941,7 +943,7 @@ Yet, upon closer examination the principal themes and motifs of literature and p
 #+END_QUOTE
 In this address, Jernigan calls out literature dependent on these well-worn tropes, from the preposterous—blind defectives shooting by sound—to the infuriating, such as Maeterlinck's /The Blind/, which depicts a grotesquery of sightless groping to make a philosophical point.
 
-Whether or not there are, as Jernigan contends, nine—or five, or twenty—interpretations that adhere to blindness is beside the point. The address gestures toward a disturbing truth: depictions of the disabled in literature are rarely about the disabled experience. Rather, they serve an outside view of disability, or, more confoundingly, they provide a vector for commentary about something completely unrelated to disability. Jernigan's final listed trope, "blindness as symbol or parable," is perhaps most damaging to public consciousness of the real lives of people with disabilities. Take, for example, the 2008 film /Blindness/, directed by Fernando Meirelles, which leans into the use, or exploitation, of blindness as metaphor or parable. The /Los Angeles Times/, in a glowing profile written during the shooting of the film, inadvertently summarizes the film's distortions in service of a universalizing metaphor:
+Whether or not there are, as Jernigan contends, nine—or five, or twenty—interpretations that adhere to blindness is beside the point. The address gestures toward a disturbing truth: depictions of the disabled in literature are rarely about the disabled experience. Rather, they serve an outside view of disability, or, more confoundingly, they provide a vector for commentary about something completely unrelated to disability. Jernigan's final listed trope, "blindness as symbol or parable," is perhaps most damaging to public consciousness of the real lives of people with disabilities. Take, for example, the 2008 film /Blindness/, directed by Fernando Meirelles, which leans into the use, or exploitation, of blindness as metaphor or parable. The /Los Angeles Times/, in a glowing profile written during the shooting of /Blindness/ in 2008, inadvertently provides a summary of the film's distortions in service of a universalizing metaphor:
 
 #+BEGIN_QUOTE
 Mark Ruffalo and Julianne Moore are traipsing through a trash-strewn urban wasteland, scavenging for salvation. All around them, dozens of pitiful human beings dressed in filthy, mismatched clothes grope their way past wrecked cars and graffiti-splattered highway ramps, like dancers in some grotesque ballet of the damned. ... In both book and film, blindness is not only a physical condition but a metaphor for the darker side of human nature: prejudice, selfishness, violence and willful indifference. citep:johnson_eyes_2008
@@ -950,8 +952,14 @@ The IMDB page for this film appears as a top-ten Google result for the search te
 
 The problem facing autobiographies of disability, therefore, is not simply a lack of relevant narratives with which to convey local experiences to the universal. The issue is also not limited to counteracting existing narratives of disability. Not only must autobiography contend with the above, but it must engage with the fact that disability, in cultural representations, has been used as a medium and not an end. To speak once more of threads—lines connecting the rich local to the more abstract universal—disability, as a concept, has been used to entwine associations between concrete characters and situations and universal ideas and structures. When we are conditioned to read disability as a conveyance—a depiction of punishment for sin, a representation of universal human folly, an unredeemed tragedy suggesting the indifference of the world or the triumph of the spirit—how are we to attend to disability as a valid subjectivity, something not to learn from but to learn about?
 
-** Semiautobiography and Dependence
+In /On Being Ill/, Virginia Woolf laments a lost literature, one that does justice to the day-to-day struggle of occupying a body:
 
+#+BEGIN_QUOTE
+it becomes strange indeed that illness has not taken its place with love, battle, and jealousy among the prime themes of literature. Novels, one would have thought, would have been devoted to influenza; epic poems to typhoid; odes to pneumonia, lyrics to toothache. But no; with a few exceptions, ... literature does its best to maintain that its concern is with the mind; that the body is a sheet of plain glass through which the soul looks straight and clear, and, save for one or two passions such as desire and greed, is null, negligible and nonexistent. [[citep:woolf_selected_2009][p. 101]]
+#+END_QUOTE
+Woolf notes that it is not only our inclination, but our language, that is ill-suited to depicting the realities and vicissitudes of inhabiting an unwell body, that "English, which can express the thoughts of Hamlet and the tragedy of Lear, has no words for the shiver and the headache" [[citep:woolf_selected_2009][p. 102]]. Indeed, in the case of disability, it is not simply that there is little vernacular for communicating experience, or even that stories of disabled life, self-told or otherwise, must distort themselves to some other shape or plot to get across. Worse, experiences of disability have themselves become a vernacular. When we see a cane or a crutch on stage or screen, we are not in the habit of preparing ourselves to embody a radically different experience. Rather, we parse these experiences, not as ends, fully realized subjectivity's, in themselves, but as metaphors and patterns aimed at speaking to the universal. In making disability a language, we make it so that there is no language for disability. Woolfe criticized literature for treating the body as a vessel, incident rather than object. Those who wish to convey their experiences of disability to a broader audience must not only contend with antipathy and discomfort, but also a similar sort of transparency—disability becoming "a sheet of plain glass," something through which to look upon the universal but not itself a fitting subject for consideration.
+
+** 
 
 
 
@@ -959,6 +967,10 @@ The problem facing autobiographies of disability, therefore, is not simply a lac
 
 # blindness: is literature against us?
 # https://www.nfb.org/images/nfb/publications/convent/banque74.htm
+
+# ** Auto-ish Biographies and Dependence
+
+# If narrative incommensurability is a failure of universal abstractions to convey local experiences, then another major challenge to disability autobiography has been, and to a lesser extent continues to be, more local. People with disabilities, too frequently, face challenges related to independent or autonomous living that make honest and unexpurgated communication about their lives, and especially their immediate physical and social circumstances, difficult or impossible. 
 
 
 
@@ -968,28 +980,23 @@ eventually:
 - use arrent to talk about breaking out of a painful narrative lockdown. how can we neter the realm of action as people with disabilities?
 - end by abstracting to larger problem of having your expereicnes/values reflected in the larger containing collective
 
-
-
-
-
-
-
-
-
-
-
-
 they must fit a narrative
 - dumbo quote
 - different kinds of blind story quote
 
 they must overcome local circumstances
 
+# removed start of section and notes  on auto-ish biography and dependence
+:notes:
+# just the footnote from above
+
+ # The significance of Brown's immediate physical and social environment on the writing of /My Left Foot/, written while Brown lived with his family in the 1940s and 50s, can be seen by contrasting the autobiography with his semi-autobiographical novel /Down All the Days/ (1970). The latter was written after the death of his parents and thus under entirely different social and, given the elapsed time, cultural circumstances, and in it Brown is far more candid about topics omitted or downplayed in /My Left Foot/. These include his father's alcoholism and his sexual awakening and frustrations.
 
 
-
- The significance of Brown's immediate physical and social environment on the writing of /My Left Foot/, written while Brown lived with his family in the 1940s and 50s, can be seen by contrasting the autobiography with his semi-autobiographical novel /Down All the Days/ (1970). The latter was written after the death of his parents and thus under entirely different social and, given the elapsed time, cultural circumstances, and in it Brown is far more candid about topics omitted or downplayed in /My Left Foot/. These include his father's alcoholism and his sexual awakening and frustrations.
-
+# #+BEGIN_QUOTE
+# The other element is carpentry. Good memoirs are a careful act of construction. We like to think that an interesting life will simply fall into place on the page. It won’t. We like to think that Thoreau went home to Concord and just wrote up his notes. He didn’t. He wrote seven drafts of Walden in eight years, piecing together by what Margaret Fuller called the mosaic method a book that seems casual and even chatty. Thoreau wasn’t a woodsman when he went to the woods; he was a writer, and he wrote one of our sacred texts. Memoir writers must manufacture a text, imposing narrative order on a jumble of half-remembered events. With that feat of manipulation they arrive at a truth that is theirs alone, not quite like that of anybody else who was present at the same events.
+# #+END_QUOTE
+:end:
 
 
 definition of circumstance, repositioning in relations to immediate environment
