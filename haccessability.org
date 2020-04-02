@@ -919,7 +919,22 @@ Can autobiographies of disability really be representative? That is, can they co
 
 # if i add something on local dependence / auto-ish biographies, add something above and create a new section for it after the section belwo
 
-When communicating outward—that is, not to one's local community but to a broader collective that does not share critical context—it becomes necessary to adopt a suitable narrative, one that reconciles the local context to the concerns and understanding of the larger group. These narratives are abstractions, rendering high-context understandings of local circumstance legible and comprehensible to a collective that has less immediate interest or relevant knowledge. This dynamic should be immediately familiar to any academic who attempts to convey their specialized research to a broad audience—or, for that matter, explain their work at a dinner party. Unfortunately, when choosing narratives with which to render experiences of disability to a wider audience, the problem is twofold. First, there exist a variety of narratives related to disability in the public consciousness, many or most of which are regressive and have little relation to specific experiences of disability. Second, other narratives, those not directly related to disability, are likely to be inadequate when conveying these experiences. The result is narrative incommensurability—the lack of a common basis for understanding premised on the inadequacy of existing narratives to convey experiences of disability.
+When communicating outward—that is, not to one's local community but to a broader collective that does not share critical context—it becomes necessary to adopt a suitable narrative, one that reconciles the local context to the concerns and understanding of the larger group. These narratives are abstractions [fn:abstraction], rendering high-context understandings of local circumstance legible and comprehensible to a collective that has less immediate interest or relevant knowledge. This dynamic should be immediately familiar to any academic who attempts to convey their specialized research to a broad audience—or, for that matter, explain their work at a dinner party. Unfortunately, when choosing narratives with which to render experiences of disability to a wider audience, the problem is twofold. First, there exist a variety of narratives related to disability in the public consciousness, many or most of which are regressive and have little relation to specific experiences of disability. Second, other narratives, those not directly related to disability, are likely to be inadequate when conveying these experiences. The result is narrative incommensurability—the lack of a common basis for understanding premised on the inadequacy of existing narratives to convey experiences of disability.
+
+[fn:abstraction] Abstraction is a term that, perhaps, needs little elaboration. However, I am somewhat concerned that my use of the term in the following sections might be colored by an understanding of abstraction as considered in the context of programming and computer science, and to a lesser extent philosophy and philosophy of mind. Briefly considering abstraction here might also be useful in considering the larger theme here—the relationship between the particular and the general, or the local and the universal.
+
+Locke writes, by way of definition, that "[t]he use of words then being to stand as outward marks of our internal ideas, and those ideas being taken from particular things, if every particular idea that we take in should have a distinct name, names must be endless. To prevent this, the mind makes the particular ideas received from particular objects to become general; which is done by considering them as they are in the mind such appearances,--separate from all other existences, and the circumstances of real existence, as time, place, or any other concomitant ideas. This is called Abstraction" . In summarizing this definition, philosopher John Linnell gets at the heart of the matter: "Abstract ideas are framed by the mind from particular ideas (perceptions) by a process of omission.... Perception becomes conception through omission of context" [[citep:linnell_lockes_1956][p. 404]]. That is to say, abstraction is the process of moving from the particular to the general. This process involves finding commonalities in the particular, dropping their associated context, and leaving in their place some idea or concept.
+
+For our larger purposes here in this chapter, we should take away two insights about abstraction. The first is that, as described above, abstraction leads to a loss of context, a flattening. As we create ideas, as we generalize, we lose sight of the local. Second, abstractions, as they are conjured from nothing, seem fictive, easily dismissed or re conceived. This is not the case. Abstractions, once loosed, may be difficult to recall. 
+
+On the first page of /Structure and Interpretation of Computer Programs/ Sussman and Abelson write that "[c]omputational processes are abstract beings that inhabit computers.. ... A computational process is indeed much like a sorcerer's idea of a spirit. It cannot be seen or touched. It is not composed of matter at all. However, it is very real. It can perform intellectual work. It can answer questions. It can affect the world by disbursing money at a bank or by controlling a robot arm in a factory. The programs we use to conjure processes are like a sorcerer's spells" [[citep:abelson_structure_1996][p. 1-2]]. We linve in a time when abstractions, in a concrete and literal sense, perform physical and intellectual labor. However, broadly speaking, abstractions have always had a similar power. The abstractions we choose to create and embrace determine what we attend to and what we ignore, and what questions are answered even before they are asked.
+
+Abstract, literally, means to move away, to increase distance. Part of this project is to do the opposite, something we have little vocabulary for. (Intract? Reparticularize? Concretize?) However, this project is, and will continue to be, guilty of many an abstraction, even more so as we forge ahead.
+
+
+# !!!! END FOOTNOTE
+
+
 
 ** Facing Narrative Incommensurability
 
@@ -969,6 +984,16 @@ Woolf notes that it is not only our inclination, but our language, that is ill-s
 ** The Disabled Condition
 
 Hannah Arrent section
+
+The world, as we encounter it, is shaped by our "suitability," whether we can 
+
+
+
+the world as a place of geography determined by suitbility and circumstance
+the majority is both tyrannical and tyrannized
+  tyrannical - things are built for the majority
+ tyrannized - the majority is predictable and can be manipulated
+
 
 
 ** Fighting the Man
@@ -1055,24 +1080,6 @@ Connolly's photography is powerfully recursive.
 certain shapes suggest abuse of power: flattening/reducability, centralization, obscurity, convenience
 
 others suggest the service of autonomy: transparency, expression, an embrace of complexity
-
-
-z
-** Fighting the Man
-
-The world, as we encounter it, is shaped by our "suitability," whether we can 
-
-
-
-the world as a place of geography determined by suitbility and circumstance
-the majority is both tyrannical and tyrannized
-  tyrannical - things are built for the majority
- tyrannized - the majority is predictable and can be manipulated
-
-
-
-
-
 
 
 # double take insight quotes
