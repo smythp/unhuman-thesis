@@ -888,7 +888,7 @@ His steps stuttered for a moment as he did a double take. Still fuming from my e
 #+END_QUOTE
 On getting back to his hostel and viewing the photo, Connolly is taken by surprise. The photo is striking, the sharp low angle, combined with the shocked expression of the subject, gives it an urgent feel. The photo captured his reality, holding the potential to concretely convey his day-in, day-out lived experience to others. Perhaps more importantly, the photo, and the moment of taking it, reverses a fundamental dynamic, exchanging the positions of observer and subject and recasting Connolly's self-narrative from pitied to proactive. All at once, Connolly did not wish to hide from reactions to his legless condition, but sought them out. 
 
-Taking this form of photo became a challenge for Connolly—he took over 900 viable photos during the remainder of his trip—and Connolly was soon able to transform his "double takes" into a major artistic endeavor. In 2006, Connolly had embarked on his trip around the world, taking photos for what he called his /Rolling Exhibition/. By 2008, the exhibition had been featured in NPR, CNET, ABC, and the Washington Post, among others citep:brown_man_2008,beckman_lens_2008,jackson_photographer_2008,handel_photographer_2008. Following this media coverage, /The Rolling Exhibition/ was featured as part of the Kennedy Center for the Performing Arts. This media attention led HarperCollins to invite Connolly to write the memoir that would become /Double Take/. Since the publication of /Double Take/ in 2009, Connolly has continued to receive media attention, including an appearance on the Today Show. In 2013, Connolly starred in /Armed and Ready/, a one-season series for the Travel Channel that saw him attempt challenges such as surfing, street luge, jousting, and moving in zero gravity.
+Taking this form of photo became a challenge for Connolly—he took over 900 viable photos during the remainder of his trip—and Connolly was soon able to transform his "double takes" into a major artistic endeavor. In 2006, Connolly had embarked on his trip around the world, taking photos for what he called his /Rolling Exhibition/. By 2008, the exhibition had been featured in NPR, CNET, ABC, and the Washington Post, among others citep:brown_man_2008,beckman_lens_2008,jackson_photographer_2008,handel_photographer_2008. Following this media coverage, /The Rolling Exhibition/ was featured as part of the Kennedy Center for the Performing Arts. This media attention led HarperCollins to invite Connolly to write the memoir that would become /Double Take/. Since the publication of /Double Take/ in 2009, Connolly has continued to receive media attention, including an appearance on the Today Show. In 2013, Connolly starred in /Armed and Ready/, a one-season series for the Travel Channel that saw him attempt challenges such as surfing, street luge, jousting, and moving in zero gravity. As occured with Brown, Connolly's ability to recontextualize his disability and tell his own story led to changes in his life, changes that largely resulted in greater autonomy.
 
 ** Recurring Images
 
@@ -945,9 +945,14 @@ In this address, Jernigan calls out literature dependent on these well-worn trop
 Whether or not there are, as Jernigan contends, nine—or five, or twenty—interpretations that adhere to blindness is beside the point. The address gestures toward a disturbing truth: depictions of the disabled in literature are rarely about the disabled experience. Rather, they serve an outside view of disability, or, more confoundingly, they provide a vector for commentary about something completely unrelated to disability. Jernigan's final listed trope, "blindness as symbol or parable," is perhaps most damaging to public consciousness of the real lives of people with disabilities. Take, for example, the 2008 film /Blindness/, directed by Fernando Meirelles, which leans into the use, or exploitation, of blindness as metaphor or parable. The /Los Angeles Times/, in a glowing profile written during the shooting of /Blindness/ in 2008, inadvertently provides a summary of the film's distortions in service of a universalizing metaphor:
 
 #+BEGIN_QUOTE
-Mark Ruffalo and Julianne Moore are traipsing through a trash-strewn urban wasteland, scavenging for salvation. All around them, dozens of pitiful human beings dressed in filthy, mismatched clothes grope their way past wrecked cars and graffiti-splattered highway ramps, like dancers in some grotesque ballet of the damned. ... In both book and film, blindness is not only a physical condition but a metaphor for the darker side of human nature: prejudice, selfishness, violence and willful indifference. citep:johnson_eyes_2008
+Mark Ruffalo and Julianne Moore are traipsing through a trash-strewn urban wasteland, scavenging for salvation. All around them, dozens of pitiful human beings dressed in filthy, mismatched clothes grope their way past wrecked cars and graffiti-splattered highway ramps, like dancers in some grotesque ballet of the damned. ... In both book and film, blindness is not only a physical condition but a metaphor for the darker side of human nature: prejudice, selfishness, violence and willful indifference. citep:johnson_eyes_2008 [fn:blind-zombies]
 #+END_QUOTE
-The IMDB page for this film appears as a top-ten Google result for the search term "blindness," and its Wikipedia page is about two-thirds the length of the article for visual impairment. It is no exaggeration to say that this film, for many, will be some combination of their first, their only, their strongest, or their last exposure to the concept of blindness or visual impairment, and what they will take away from it will be blindness as depravity, blindness as helplessness, and blindness as abstracted metaphor. Though I have used the domain of visual impairment for this example, this problem is shared across depictions of disability. When attempting to share or depict the real lives and experiences of people with disabilities, whether in literature or autobiography, one must not simply ignore, but actively compensate for, this unreformed cultural slurry. Without active compensation—and, frequently, even after great effort—depictions of disability will fall into well-worn tracks, riding on rails to false, unflattering, malign, or irrelevant destinations. 
+The IMDB page for this film appears as a top-ten Google result for the search term "blindness," and its Wikipedia page is about two-thirds the length of the article for visual impairment. It is no exaggeration to say that this film, for many, will be some combination of their first, their only, their strongest, or their last exposure to the concept of blindness or visual impairment, and what they will take away from it will be blindness as depravity, blindness as helplessness, and blindness as inhumanity. Though I have used the domain of visual impairment for this example, this problem is shared across depictions of disability. When attempting to share or depict the real lives and experiences of people with disabilities, whether in literature or autobiography, one must not simply ignore, but actively compensate for, this unreformed cultural slurry. Without active compensation—and, frequently, even after great effort—depictions of disability will fall into well-worn tracks, riding on rails to false, unflattering, malign, or irrelevant destinations. 
+
+[fn:blind-zombies] If this description makes it sound like /Blindness/ is a somewhat pretentious zombie flick that casts blind people as zombies, that's because /Blindness/ is, in fact, a somewhat pretentious zombie flick that casts blind people as zombies.
+
+
+# !!! END FOOTNOTE
 
 The problem facing autobiographies of disability, therefore, is not simply a lack of relevant narratives with which to convey local experiences to the universal. The issue is also not limited to counteracting existing narratives of disability. Not only must autobiography contend with the above, but it must engage with the fact that disability, in cultural representations, has been used as a medium and not an end. To speak once more of threads—lines connecting the rich local to the more abstract universal—disability, as a concept, has been used to entwine associations between concrete characters and situations and universal ideas and structures. When we are conditioned to read disability as a conveyance—a depiction of punishment for sin, a representation of universal human folly, an unredeemed tragedy suggesting the indifference of the world or the triumph of the spirit—how are we to attend to disability as a valid subjectivity, something not to learn from but to learn about?
 
@@ -956,12 +961,25 @@ In /On Being Ill/, Virginia Woolf laments a lost literature, one that does justi
 #+BEGIN_QUOTE
 it becomes strange indeed that illness has not taken its place with love, battle, and jealousy among the prime themes of literature. Novels, one would have thought, would have been devoted to influenza; epic poems to typhoid; odes to pneumonia, lyrics to toothache. But no; with a few exceptions, ... literature does its best to maintain that its concern is with the mind; that the body is a sheet of plain glass through which the soul looks straight and clear, and, save for one or two passions such as desire and greed, is null, negligible and nonexistent. [[citep:woolf_selected_2009][p. 101]]
 #+END_QUOTE
-Woolf notes that it is not only our inclination, but our language, that is ill-suited to depicting the realities and vicissitudes of inhabiting an unwell body, that "English, which can express the thoughts of Hamlet and the tragedy of Lear, has no words for the shiver and the headache" [[citep:woolf_selected_2009][p. 102]]. Indeed, in the case of disability, it is not simply that there is little vernacular for communicating experience, or even that stories of disabled life, self-told or otherwise, must distort themselves to some other shape or plot to get across. Worse, experiences of disability have themselves become a vernacular. When we see a cane or a crutch on stage or screen, we are not in the habit of preparing ourselves to embody a radically different experience. Rather, we parse these experiences, not as ends, fully realized subjectivity's, in themselves, but as metaphors and patterns aimed at speaking to the universal. In making disability a language, we make it so that there is no language for disability. Woolfe criticized literature for treating the body as a vessel, incident rather than object. Those who wish to convey their experiences of disability to a broader audience must not only contend with antipathy and discomfort, but also a similar sort of transparency—disability becoming "a sheet of plain glass," something through which to look upon the universal but not itself a fitting subject for consideration.
+Woolf notes that it is not only our inclination, but our language, that is ill-suited to depicting the realities and vicissitudes of inhabiting an unwell body, that "English, which can express the thoughts of Hamlet and the tragedy of Lear, has no words for the shiver and the headache" [[citep:woolf_selected_2009][p. 102]]. Indeed, in the case of disability, it is not simply that there is little vernacular for communicating experience, or even that stories of disabled life, self-told or otherwise, must distort themselves to some other shape or plot to get across. Worse, experiences of disability have themselves become a vernacular. When we see a cane or a crutch on stage or screen, we are not in the habit of preparing ourselves to embody a radically different experience. Rather, we parse these experiences, not as ends, fully realized subjectivity's, in themselves, but as metaphors and patterns aimed at speaking to the universal. In making disability a language, we make it so that there is no language for disability. Woolfe criticized literature for treating the body as a vessel, incident rather than object. Those who wish to convey their experiences of disability to a broader audience must not only contend with antipathy and discomfort, but also a similar sort of transparency—disability becoming "a sheet of plain glass," something through which to look upon the universal but not itself a fitting subject for understanding.
 
 # blindness: is literature against us?
 # https://www.nfb.org/images/nfb/publications/convent/banque74.htm
 
-** 
+** The Disabled Condition
+
+Hannah Arrent section
+
+
+** Fighting the Man
+
+In the last chapter, we considered the immediate social and physical environment and introduced haccessibility, a mode of negotiation that is hyperlocal and contingent, a way of interacting with the world that is resistant to scale but which, in certain circumstances, can presage or catalyze a larger change. In this chapter, we have considered a broader concept, autonomy, through an understanding of how the local (individual and close communal experiences and identity) relates to the universal (narratives and structures that encompasss commonality or purport to represent a majority). In doing so, we figured the universal as /das Man/, a creature of broad generalities and overdetermined commonality. Based loosely on linguistic constructions that imply a universally representative individual ("one" or "your" in English, "man" in German, as in "One does not do that"), /das Man/ represents normality, and deviating from narratives comprehended by /das Man/ risks a response from the encircling collective based on apathy, misunderstanding, or pathologization.
+
+In this chapter, I have depicted /das Man/ as a faceless foe, an entity that effaces local difference, that refuses to make accommodations, that is shocked by stories and bodies that don't fit its (his?) preconceptions. In this context—people with disabilities telling their own stories or struggling against inflexible physical and social environments—this feels apt and, perhaps, just. This project, however, is concerned not only with cataloging slights and injuries against the local perpetrated by the universal. As we seek ways to move forward, to propagate real change not only in the immediate environment but on a broader scale, we must consider ways of contending with the universal that do not only resist impositions on the local from above, but that change the above to accomodate we below.
+
+If Chapter 2 of this project is concerned with the individual negotiating the immediate physical and social environment, then this chapter has been concerned with the relationship, the thin thread, between the individual and the broad universal, the society as an abstraction. Our theme here, negotiation, is the experience of being embedded in something larger, a structure which we have limited ability to resist and, likely, an even more limited ability to change. Yet change, however unlikely, is conceivable, even possible. Change happens. How can we, embedded as we are in structures we did not choose, travel, first from survival in adverse circumstances, to thriving in ourselves and in our communities, to creating change on a larger scale? How can the local, at first scrabbling but with increasing confidence, find purchase on the universal?
+
+As we conclude this chapter, and gesture to the next, I will increasingly commit the sin of /das Man/: abstraction. Our next chapter will consider infrastructure, and, while the individual and the small collective will continue to be prominent, we will also consider the position of larger institutions and organizations—specific fields of research within the academy, the academy within a broader, and often hostile, social context, and so on. In the final chapter, we will consider humanity as embedded in a larger system, an Agaia that is fundamentally unhuman. As we /matryoshka/ our way up and out, we will continue to leaven a concern for the increasingly universal with a continued regard for the local. Fundamentally, we wish to ask—how is it to be local in a world so interconnected, so dominated by larger and larger entities over which we have less and less purchase? Though the thread, that thin line between local and universal, will be stretched to its limit, we will hope that it does not break.
 
 
 
@@ -969,10 +987,23 @@ Woolf notes that it is not only our inclination, but our language, that is ill-s
 
 
 
+, in its broad or plural nature
+
+
+
+
+hypersane
+
+
+
+
+
+# discarded section on auto-ish biography :(
+:discarded:
 # ** Auto-ish Biographies and Dependence
 
 # If narrative incommensurability is a failure of universal abstractions to convey local experiences, then another major challenge to disability autobiography has been, and to a lesser extent continues to be, more local. People with disabilities, too frequently, face challenges related to independent or autonomous living that make honest and unexpurgated communication about their lives, and especially their immediate physical and social circumstances, difficult or impossible. 
-
+:end:
 
 
 eventually:
@@ -1026,7 +1057,7 @@ certain shapes suggest abuse of power: flattening/reducability, centralization, 
 others suggest the service of autonomy: transparency, expression, an embrace of complexity
 
 
-
+z
 ** Fighting the Man
 
 The world, as we encounter it, is shaped by our "suitability," whether we can 
