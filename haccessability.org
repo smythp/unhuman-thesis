@@ -983,16 +983,53 @@ Woolf notes that it is not only our inclination, but our language, that is ill-s
 
 ** The Disabled Condition
 
-Hannah Arrent section
-
-The world, as we encounter it, is shaped by our "suitability," whether we can 
+In a discussion of the public realm and its separation from the private, Hannah Arendt, in /The Human Condition/, offers insight into the incommensurability of specific experiences that is in accordance with Woolfe's:
 
 
+#+BEGIN_QUOTE
+Indeed, the most intense feeling we know of, intense to the point of blotting out all other experiences, namely, the experience of great bodily pain, is at the same time the most private and least communicable of all. Not only is it perhaps the only experience which we are unable to transform into a shape fit for public appearance, it actually deprives us of our feeling for reality to such an extent that we can forget it more quickly and easily than anything else. There seems to be no bridge from the most radical subjectivity, in which I am no longer “recognizable,” to the outer world of life.
+#+END_QUOTE
+As we struggle with the relative incommensurability of the disabled experience, the inherent difficulties in communicating outward a subjectivity that cannot be easily universalized, Arendt's work on the dynamics of the individual's relationship with the broader society may provide a useful framework. In the opening to /The Human Condition/, Arendt conceives of the fundamental activities of humanity, /vita activa/, as labor, work, and action. In this trichotomy, labor is the realm of activity bound to cycles and seasons and concerned with the basic processes of life. Work is the realm of artifice, of craft and devices, what we might now call the built environment, and which Arendt calls "worldliness" or "the world." The realm of action is concerned with history and immortality, that which sustains itself through time, such as institutions and, in an elevated rather than conventional sense, politics.
 
-the world as a place of geography determined by suitbility and circumstance
-the majority is both tyrannical and tyrannized
-  tyrannical - things are built for the majority
- tyrannized - the majority is predictable and can be manipulated
+Though Arendt is primarily concerned with the /vita activa/ of action, /The Human Condition/ is not prescriptive, not a guide to bringing about desired change through action. This is partly due to a definition of action similar to our concept of /das Man/—that is, creation of new institutions or movements is inherently unpredictable, and the realm of action, definitionally plural and collective, does not, or perhaps cannot, regard the individual and the local. Further, Arendt's conception of action suggests that certain kinds of knowledge, as we suspected from our explorations of narrative incommensurability, cannot survive the harsh light of the public realm: "... there are a great many things which cannot withstand the implacable, bright light of the constant presence of others on the public scene; there, only what is considered to be relevant, worthy of being seen or heard, can be tolerated, so that the irrelevant becomes automatically a private matter."
+
+Where does all this take us? Our first impulse, reasonably, is to look outward and upward. How can we make change in the larger society, in the collective in which we are embedded? Our impulse is to abstract, to generalize, to translate our local knowledge to the universal We wish to make them /understand/, to make /change/. We are trapped in the realm of labor, or, if we are fortunate, of work, and we wish to move toward action.
+
+This is, perhaps, where we will be served by our early distinction between autonomy and power. As we abstract ourselves, as we grow upward and outward, as we chase /das Man/ or enter the realm of action, we are seeking power. We take our local context above and, in bringing about change, we cannot help but to reflect our subjectivity, our experiences, on those left below. This may help, or harm, or, perhaps most likely, help and harm. We are become /das Man/—for better, or worse, or both.
+
+Autonomy, in contradistinction, does not require abstraction, a surrender of the local to create a chink in the armor of the universal. Rather, in the ways we have explored in this chapter, it reparticularizes. We intract, rather than abstract. [fn:no-words] We make the universal serve our local need. We take something designed with no thought, or active hostility, to us—a skateboard, a stick, a piece of chalk, or, more broadly and speculatively, a gig economy job, a park bench, an app that reports on us—and, improbably and imperfectly, we make it our own.
+
+[fn:no-words] Note that we don't even have vocabulary for thought in this direction. Reparticularize? Intract? Yes, I am offering my failure to neologize here as evidence.
+
+
+# !!!!! END FOOTNOTE
+
+This attention to autonomy is not a call to non-action. We need, and will likely always need, contestants on the public stage, activists and advocates, those who will boldly aspire to action. However, local negotiation, the exercise of specific forms of autonomy, can create ripe conditions for, can presage, action. The hackig of a CPAP, the writing of a free screen reader, the transformation of household materials into a medical mask—in an age that restricts and limits our autonomy for the ends of the powerful, these become political acts, and ones that can have far-reaching consequences. Rather than "tend your garden," a concolusion here might be: "Let your garden grow wild."
+
+Finally, we might consider that autonomy, rather than power, change from the side rather than from the top, might be all we get. We can strive to survive, to build our local community, and to determine our own stories as best we can. Every student taught, word written, package delivered, line of code compiled, or post shared has the chance to ripple outward, and, perhaps, even be felt and the top. Finally, as we move forward to a chapter on infrastructure and its role in negotiation, I will gesture here to a proposal the will be elaborated on there in greater detail: that, if we enter the realm of activism, advocacy, or action, we continue to attend to the local even as we aspire to the universal. In the structures we create, or the futures we imagine, we should leave room for broken wagons, ones that can be fixed up with a can of oil and a little care.
+
+# second, it may be all we get
+# attend to the need for autonomy
+
+
+
+# interstitials:
+
+# before labor: survival
+# between labor and work: haccessibility
+# between work and action: infrastructure
+# beyod action: 
+
+
+
+# Hannah Arrent section
+
+# The world, as we encounter it, is shaped by our "suitability," whether we can 
+
+# the world as a place of geography determined by suitbility and circumstance
+# the majority is both tyrannical and tyrannized
+#   tyrannical - things are built for the majority
+#  tyrannized - the majority is predictable and can be manipulated
 
 
 
@@ -1004,24 +1041,7 @@ In this chapter, I have depicted /das Man/ as a faceless foe, an entity that eff
 
 If Chapter 2 of this project is concerned with the individual negotiating the immediate physical and social environment, then this chapter has been concerned with the relationship, the thin thread, between the individual and the broad universal, the society as an abstraction. Our theme here, negotiation, is the experience of being embedded in something larger, a structure which we have limited ability to resist and, likely, an even more limited ability to change. Yet change, however unlikely, is conceivable, even possible. Change happens. How can we, embedded as we are in structures we did not choose, travel, first from survival in adverse circumstances, to thriving in ourselves and in our communities, to creating change on a larger scale? How can the local, at first scrabbling but with increasing confidence, find purchase on the universal?
 
-As we conclude this chapter, and gesture to the next, I will increasingly commit the sin of /das Man/: abstraction. Our next chapter will consider infrastructure, and, while the individual and the small collective will continue to be prominent, we will also consider the position of larger institutions and organizations—specific fields of research within the academy, the academy within a broader, and often hostile, social context, and so on. In the final chapter, we will consider humanity as embedded in a larger system, an Agaia that is fundamentally unhuman. As we /matryoshka/ our way up and out, we will continue to leaven a concern for the increasingly universal with a continued regard for the local. Fundamentally, we wish to ask—how is it to be local in a world so interconnected, so dominated by larger and larger entities over which we have less and less purchase? Though the thread, that thin line between local and universal, will be stretched to its limit, we will hope that it does not break.
-
-
-
-
-
-
-
-, in its broad or plural nature
-
-
-
-
-hypersane
-
-
-
-
+As we conclude this chapter, and gesture to the next, I will increasingly commit the sin of /das Man/: abstraction. Our next chapter will consider infrastructure, and, while the individual and the small collective will continue to be prominent, we will also consider the position of larger institutions and organizations—specific fields of research within the academy, the academy within a broader, and often hostile, social context, and so on. In the final chapter, we will consider humanity as embedded in a larger system, an Agaia that is fundamentally unhuman. As we /matryoshka/ our way up and out, we will continue to leaven a concern for the increasingly universal with a continued regard for the local. Fundamentally, we wish to ask—how is it to be local in a world so interconnected, so dominated by larger and larger entities over which we have less and less purchase? Though the thread, that thin line between local and universal, will be stretched to its limit, we will hope that it does not break. In looking into the infinite, we will grasp tightly the finite. And, as we look outward to the universal, we will stand firmly in the local.
 
 # discarded section on auto-ish biography :(
 :discarded:
@@ -1031,55 +1051,50 @@ hypersane
 :end:
 
 
-eventually:
+# outline
 
-- talk about dependence (semi-autobiographical works)
-- use arrent to talk about breaking out of a painful narrative lockdown. how can we neter the realm of action as people with disabilities?
-- end by abstracting to larger problem of having your expereicnes/values reflected in the larger containing collective
+# - talk about dependence (semi-autobiographical works)
+# - use arrent to talk about breaking out of a painful narrative lockdown. how can we neter the realm of action as people with disabilities?
+# - end by abstracting to larger problem of having your expereicnes/values reflected in the larger containing collective
 
-they must fit a narrative
-- dumbo quote
-- different kinds of blind story quote
+# they must fit a narrative
+# - dumbo quote
+# - different kinds of blind story quote
 
-they must overcome local circumstances
+# they must overcome local circumstances
 
-# removed start of section and notes  on auto-ish biography and dependence
-:notes:
-# just the footnote from above
+# # removed start of section and notes  on auto-ish biography and dependence
+# :notes:
+# # just the footnote from above
 
- # The significance of Brown's immediate physical and social environment on the writing of /My Left Foot/, written while Brown lived with his family in the 1940s and 50s, can be seen by contrasting the autobiography with his semi-autobiographical novel /Down All the Days/ (1970). The latter was written after the death of his parents and thus under entirely different social and, given the elapsed time, cultural circumstances, and in it Brown is far more candid about topics omitted or downplayed in /My Left Foot/. These include his father's alcoholism and his sexual awakening and frustrations.
-
-
-# #+BEGIN_QUOTE
-# The other element is carpentry. Good memoirs are a careful act of construction. We like to think that an interesting life will simply fall into place on the page. It won’t. We like to think that Thoreau went home to Concord and just wrote up his notes. He didn’t. He wrote seven drafts of Walden in eight years, piecing together by what Margaret Fuller called the mosaic method a book that seems casual and even chatty. Thoreau wasn’t a woodsman when he went to the woods; he was a writer, and he wrote one of our sacred texts. Memoir writers must manufacture a text, imposing narrative order on a jumble of half-remembered events. With that feat of manipulation they arrive at a truth that is theirs alone, not quite like that of anybody else who was present at the same events.
-# #+END_QUOTE
-:end:
+#  # The significance of Brown's immediate physical and social environment on the writing of /My Left Foot/, written while Brown lived with his family in the 1940s and 50s, can be seen by contrasting the autobiography with his semi-autobiographical novel /Down All the Days/ (1970). The latter was written after the death of his parents and thus under entirely different social and, given the elapsed time, cultural circumstances, and in it Brown is far more candid about topics omitted or downplayed in /My Left Foot/. These include his father's alcoholism and his sexual awakening and frustrations.
 
 
-definition of circumstance, repositioning in relations to immediate environment
-Arrent here
+# # #+BEGIN_QUOTE
+# # The other element is carpentry. Good memoirs are a careful act of construction. We like to think that an interesting life will simply fall into place on the page. It won’t. We like to think that Thoreau went home to Concord and just wrote up his notes. He didn’t. He wrote seven drafts of Walden in eight years, piecing together by what Margaret Fuller called the mosaic method a book that seems casual and even chatty. Thoreau wasn’t a woodsman when he went to the woods; he was a writer, and he wrote one of our sacred texts. Memoir writers must manufacture a text, imposing narrative order on a jumble of half-remembered events. With that feat of manipulation they arrive at a truth that is theirs alone, not quite like that of anybody else who was present at the same events.
+# # #+END_QUOTE
+# :end:
 
 
-autonomy
+# definition of circumstance, repositioning in relations to immediate environment
+# Arrent here
 
 
-
-legible
-resists rewriting
-autonomous identity
+# autonomy
 
 
 
+# legible
+# resists rewriting
+# autonomous identity
 
 
+# Connolly's photography is powerfully recursive. 
 
 
-Connolly's photography is powerfully recursive. 
+# certain shapes suggest abuse of power: flattening/reducability, centralization, obscurity, convenience
 
-
-certain shapes suggest abuse of power: flattening/reducability, centralization, obscurity, convenience
-
-others suggest the service of autonomy: transparency, expression, an embrace of complexity
+# others suggest the service of autonomy: transparency, expression, an embrace of complexity
 
 
 # double take insight quotes
@@ -1132,21 +1147,21 @@ others suggest the service of autonomy: transparency, expression, an embrace of 
 
 
 
------
+# -----
 
-** long threads and short threads
+# ** long threads and short threads
 
-it is no surprise that people with disabilities who take up autobiography also contend with representability, the pressure to universalize, and the limitations of genre. in the case of disability life  writing and disability autobiography, however, the thin thread between the personal and the universal seems even more attenuated. 
+# it is no surprise that people with disabilities who take up autobiography also contend with representability, the pressure to universalize, and the limitations of genre. in the case of disability life  writing and disability autobiography, however, the thin thread between the personal and the universal seems even more attenuated. 
 
-# quote: proliferation of disability life writing recently
-:notes:
-#+begin_quote
-indeed, one of the most significant developments—if not the most significant development—in life writing in north america over the last three decades has been the proliferation of book-length ac- counts (from both first- and third-person points of view) of living with illness and disability. whereas in the 1970s it was diffi- cult to find any representation of most disabling conditions in life writing, today one can find multiple representations of many conditions. equally significant, and more remarkable, one can find autobiographical accounts of conditions that would seem to preclude first-person testimony altogeth- er—for example, autism, locked-in syn- drome, and early alzheimer's disease.... a comprehensive history of disability life writing has yet to be written, but it is safe to say that there was not much in the way of published autobiographical literature before world war ii. war both produces and valorizes certain forms of disability; not surprisingly, then, disabled veterans pro- duced a substantial number of narratives after the war. polio generated even more narratives; indeed, polio may be the first disability to have engendered its own sub- stantial autobiographical literature (wil- son). [[citep:davis_disability_2013][p. 456-457]]
-#+end_quote
-:end:
+# # quote: proliferation of disability life writing recently
+# :notes:
+# #+begin_quote
+# indeed, one of the most significant developments—if not the most significant development—in life writing in north america over the last three decades has been the proliferation of book-length ac- counts (from both first- and third-person points of view) of living with illness and disability. whereas in the 1970s it was diffi- cult to find any representation of most disabling conditions in life writing, today one can find multiple representations of many conditions. equally significant, and more remarkable, one can find autobiographical accounts of conditions that would seem to preclude first-person testimony altogeth- er—for example, autism, locked-in syn- drome, and early alzheimer's disease.... a comprehensive history of disability life writing has yet to be written, but it is safe to say that there was not much in the way of published autobiographical literature before world war ii. war both produces and valorizes certain forms of disability; not surprisingly, then, disabled veterans pro- duced a substantial number of narratives after the war. polio generated even more narratives; indeed, polio may be the first disability to have engendered its own sub- stantial autobiographical literature (wil- son). [[citep:davis_disability_2013][p. 456-457]]
+# #+end_quote
+# :end:
 
 
-the stories of people with disabilities are not always well served by autobiography as a form. the pressure to universalize and moralize too often leads to predictible, if understandable, distortions and tropes—overindulging the outside or society view, for example. this can lead to disability autobiography clusteringb around 
+# the stories of people with disabilities are not always well served by autobiography as a form. the pressure to universalize and moralize too often leads to predictible, if understandable, distortions and tropes—overindulging the outside or society view, for example. this can lead to disability autobiography clusteringb around 
 
 
 
@@ -1156,11 +1171,12 @@ the stories of people with disabilities are not always well served by autobiogra
 :notes:
 
 
-#+begin_quote
-autobiography, as we have seen, became the term for a particular generic practice that emerged in the enlightenment and subsequently became definitive for life writing in the west. it remains the widely used and most (p.3) generally understood term. but because the term privileges the autonomous individual and the universalizing life story as the definitive achievement of life writing, it has been vigorously challenged in the wake of postmodern and postcolonial critiques of the enlightenment subject. early twentieth-century theorists installed this master narrative of “the sovereign self” as an institution of literature and culture, and identified a canon of representative self life writings. implicit in this canonization, however, is the assumption that many other kinds of life writings produced at the same time have lesser value and were not “true” autobiography—the slave narrative, narratives of women's domestic lives, coming-of-age and travel narratives, among others.
 
-thus, many postmodern and postcolonial theorists contend that the term autobiography is inadequate to describe the extensive historical range and the diverse genres and practices of life writing not only in the west but around the globe. indeed, these critics contend, the concept of autobiography, celebrated by an earlier generation of scholars such as georges gusdorf and karl joachim weintraub as the highest achievement of individuality in western civilization, has been defined against many coexistent forms of life writing. thus, its politics is one of exclusion. other critics, among them julie rak and leigh gilmore, address this troubling, exclusionary aspect of autobiography by shifting the term of reference to autobiographical discourse, that is, to discursive formations of truth-telling “sustained by the trappings of identification that have underwritten what the self is and how it has been seen in much of the western world” (rak, negotiated memory ix). this shift from genre to discourse opens to the scenes of autobiographical inscription beyond the printed life story. it also attends to the aspects of power inherent in acts of autobiographical inscription and recognizes that those whose identities, experiences, and histories remain marginal, invalidated, invisible, and partial negotiate and alter normative or traditional frames of identity in their differences (rak, negotiated ix). citep:smith_reading_2002
-#+end_quote
+# #+begin_quote
+# autobiography, as we have seen, became the term for a particular generic practice that emerged in the enlightenment and subsequently became definitive for life writing in the west. it remains the widely used and most (p.3) generally understood term. but because the term privileges the autonomous individual and the universalizing life story as the definitive achievement of life writing, it has been vigorously challenged in the wake of postmodern and postcolonial critiques of the enlightenment subject. early twentieth-century theorists installed this master narrative of “the sovereign self” as an institution of literature and culture, and identified a canon of representative self life writings. implicit in this canonization, however, is the assumption that many other kinds of life writings produced at the same time have lesser value and were not “true” autobiography—the slave narrative, narratives of women's domestic lives, coming-of-age and travel narratives, among others.
+
+# thus, many postmodern and postcolonial theorists contend that the term autobiography is inadequate to describe the extensive historical range and the diverse genres and practices of life writing not only in the west but around the globe. indeed, these critics contend, the concept of autobiography, celebrated by an earlier generation of scholars such as georges gusdorf and karl joachim weintraub as the highest achievement of individuality in western civilization, has been defined against many coexistent forms of life writing. thus, its politics is one of exclusion. other critics, among them julie rak and leigh gilmore, address this troubling, exclusionary aspect of autobiography by shifting the term of reference to autobiographical discourse, that is, to discursive formations of truth-telling “sustained by the trappings of identification that have underwritten what the self is and how it has been seen in much of the western world” (rak, negotiated memory ix). this shift from genre to discourse opens to the scenes of autobiographical inscription beyond the printed life story. it also attends to the aspects of power inherent in acts of autobiographical inscription and recognizes that those whose identities, experiences, and histories remain marginal, invalidated, invisible, and partial negotiate and alter normative or traditional frames of identity in their differences (rak, negotiated ix). citep:smith_reading_2002
+# #+end_quote
 
 :end:
 
@@ -1169,58 +1185,50 @@ thus, many postmodern and postcolonial theorists contend that the term autobiogr
 
 # might get rid of
 
-in the previous chapter, i introduced a concept, negotiation, as an attempt to focus analysis on particular aspects of the disabled experience. rather than take a wide-angle view—focusing on society and the broader culture—or a microscopic examination of the body, we have turned our attention to the immediate environment. in particular, we focus on points of interaction at which the individual, or the small community, encounters their local physical and social surroundings. these points can be physical, such as specific material objects or locations. they can be interpersonal, such as advocates, allies, or mentors. they can also be knowledge-based, consisting of approaches, insights, and outlooks.
+# in the previous chapter, i introduced a concept, negotiation, as an attempt to focus analysis on particular aspects of the disabled experience. rather than take a wide-angle view—focusing on society and the broader culture—or a microscopic examination of the body, we have turned our attention to the immediate environment. in particular, we focus on points of interaction at which the individual, or the small community, encounters their local physical and social surroundings. these points can be physical, such as specific material objects or locations. they can be interpersonal, such as advocates, allies, or mentors. they can also be knowledge-based, consisting of approaches, insights, and outlooks.
 
-negotiations, as i examine them here, resist abstraction. that is, they are not easily universalized, and an insight or approach critical for the survival of one individual or community may be of little use, or actively harmful, to another. while the last chapter, in introducing concepts like negotiation and haccessibility, took a more general approach, in the following pages i draw on firsthand accounts of diverse experiences of disability. my hope here is to show that negotiation provides a productive lens for exploring subjective experiences of disability. ultimately, too, i wish to show that a focus on the meso-level can also shed light on questions of society's stance toward disability and how we can better advocate  to address idiosyncratic or non-universal needs.
-
-** disability memoir
-** locus of control
+# negotiations, as i examine them here, resist abstraction. that is, they are not easily universalized, and an insight or approach critical for the survival of one individual or community may be of little use, or actively harmful, to another. while the last chapter, in introducing concepts like negotiation and haccessibility, took a more general approach, in the following pages i draw on firsthand accounts of diverse experiences of disability. my hope here is to show that negotiation provides a productive lens for exploring subjective experiences of disability. ultimately, too, i wish to show that a focus on the meso-level can also shed light on questions of society's stance toward disability and how we can better advocate  to address idiosyncratic or non-universal needs.
 
 
+# these are the stories of those who made it
+# they feel troubled by the stories of those who didn't
+# cil had a similar fear
+# survivor's guilt
+
+# ** there are similarities in these stories
+# - good parents
+# - special talent
+# - theory about the world?
+# - not giving a shit
+# - crucibles and turning points
+# - privileged disabled people make it
+
+
+# # ** out in the cold, or why i care about this stuff
+
+# # imagine that you travel to a library. as you walk in, shelves of books rise up around you. they contain thousands of volumes, including discourses on every possible subject. that's ideal, since you're on a mission—a research mission.
+
+# # as you step toward a promising section, a custodian firmly grasps your elbow. unfortunately, it seems, these books are not for you. you are led to an out-of-the-way room. the floor is uneven, the surfaces dusty. clearly, this room is rarely used, and receives little attention. inside are a few shelves containing an odd assortment of books. it is here, you infer, that you are to do your research.
+
+# # casting a longing look at the wider library outside, you decide to make the best of a bad situation. though the volumes you expected to find are absent, two books do seem to be tangentially related to your research. however, as you take them over to a table and prepare to take notes, the custodian rushes in. 
+
+# # "this book cannot be placed on that table!" 
+
+# # he picks up the second book and removes it to a cramped desk in the corner. though your brow creases with confusion, you begin to skim the book before you, looking for a relevant chapter. after a minute, the custodian appears again. ?only fifty pages per day!" he places a metal clip on the remaining pages, binding them tightly together.
+
+# # for some reason, this limitation is the last straw for you. you gather up your notes and what remains of your dignity and move toward the exit. you feel defeated, but a spark of something—defiance?—has been ignited within you. somehow, you know, you'll find a way to read those books...
 
 
 
-** feeling the weight of the untold stories
-these are the stories of those who made it
-they feel troubled by the stories of those who didn't
-cil had a similar fear
-survivor's guilt
+# # an experience common to disability is being denied what others take as given. whether ingress at a venue, the instruction conveyed at a lecture, or the knowledge contained in a building full of print books, commodities that are freely accessible to others must either be expensively procured, fought for, or done entirely without by people with disabilities.
 
-** there are similarities in these stories
-*** good parents
-*** special talent
-*** theory about the world?
-*** not giving a shit
-*** crucibles and turning points
+# # the vignette above is my own attempt to partially convey my own subjective experience as a low-vision researcher. for me, print books are not artifacts that readily give up their secrets. depending on the length of the book, it's physical characteristics, and whether i'm willing to destroy it in the process—mostly not an option—any book not already in digital form requires two to ten hours of laborious scanning and processing before it can be read. while this means that few print books are strictly inaccessible to me—though such books do exist, including those in nonstandard or archaic scripts—it does mean that i must be strategic in which print books i choose to address in my research.
 
-** privileged disabled people make it
+# # of course, the relatively recent rise of ebooks and related digital formats has proven a major boon to researchers—such as myself—who cannot read print. access to a digital book circumvents the need for laborious scanning, and the result is often far superior, since imperfections in the scanning and optical character recognition processes often lead to unreadable text and the appearance of undesirable artifacts. further, books that are machine-readable and shared online are also transformative for individuals with dyslexia and those who may have difficulty accessing a physical library. access to digital books can also be an asset, or even a necessity, for non-disabled researchers who may not be geographically or economically situated for physical access to an institution or a community of supportive  practitioners.
 
 
-** out in the cold, or why i care about this stuff
-
-imagine that you travel to a library. as you walk in, shelves of books rise up around you. they contain thousands of volumes, including discourses on every possible subject. that's ideal, since you're on a mission—a research mission.
-
-as you step toward a promising section, a custodian firmly grasps your elbow. unfortunately, it seems, these books are not for you. you are led to an out-of-the-way room. the floor is uneven, the surfaces dusty. clearly, this room is rarely used, and receives little attention. inside are a few shelves containing an odd assortment of books. it is here, you infer, that you are to do your research.
-
-casting a longing look at the wider library outside, you decide to make the best of a bad situation. though the volumes you expected to find are absent, two books do seem to be tangentially related to your research. however, as you take them over to a table and prepare to take notes, the custodian rushes in. 
-
-"this book cannot be placed on that table!" 
-
-he picks up the second book and removes it to a cramped desk in the corner. though your brow creases with confusion, you begin to skim the book before you, looking for a relevant chapter. after a minute, the custodian appears again. ?only fifty pages per day!" he places a metal clip on the remaining pages, binding them tightly together.
-
-for some reason, this limitation is the last straw for you. you gather up your notes and what remains of your dignity and move toward the exit. you feel defeated, but a spark of something—defiance?—has been ignited within you. somehow, you know, you'll find a way to read those books...
-
------
-
-an experience common to disability is being denied what others take as given. whether ingress at a venue, the instruction conveyed at a lecture, or the knowledge contained in a building full of print books, commodities that are freely accessible to others must either be expensively procured, fought for, or done entirely without by people with disabilities.
-
-the vignette above is my own attempt to partially convey my own subjective experience as a low-vision researcher. for me, print books are not artifacts that readily give up their secrets. depending on the length of the book, it's physical characteristics, and whether i'm willing to destroy it in the process—mostly not an option—any book not already in digital form requires two to ten hours of laborious scanning and processing before it can be read. while this means that few print books are strictly inaccessible to me—though such books do exist, including those in nonstandard or archaic scripts—it does mean that i must be strategic in which print books i choose to address in my research.
-
-of course, the relatively recent rise of ebooks and related digital formats has proven a major boon to researchers—such as myself—who cannot read print. access to a digital book circumvents the need for laborious scanning, and the result is often far superior, since imperfections in the scanning and optical character recognition processes often lead to unreadable text and the appearance of undesirable artifacts. further, books that are machine-readable and shared online are also transformative for individuals with dyslexia and those who may have difficulty accessing a physical library. access to digital books can also be an asset, or even a necessity, for non-disabled researchers who may not be geographically or economically situated for physical access to an institution or a community of supportive  practitioners.
-
-
-*************** todo  research programs for people with dyslexia / cognitive impairments and put in a line about that
-*************** end
+*************** TODO  research programs for people with dyslexia / cognitive impairments and put in a line about that
+*************** END
 *************** todo usefulness of digital books for dh scholars
 *************** end
 *************** todo info box: is using tts considered reading?
@@ -1228,52 +1236,52 @@ of course, the relatively recent rise of ebooks and related digital formats has 
 *************** todo info box: is using tts considered reading?
 *************** end
 
- while digital books can, in theory, level the playing field for many disadvantaged readers, the experience of accessing such books is often, in keeping with the above vignette, prohibitively difficult. most publishers, such as xxx and xxx, and digital book platforms, such as ebrary, implement digital rights management (drm), impose usage limits, or require that books be read in the browser rather than downloaded, all in an attempt to prevent sharing or other copyright violations. unfortunately, these interfaces are often not screen reader accessible, and reading a book in the browser is typically not feasible for those who read using text-to-speech or other assistive technology. these interfaces are often considered cumbersome  even by able users, and the inconsistency and fragmentation in these platforms also makes it difficult to extract quotations, take notes, or archive copies for further reading or future reference. 
+# #  while digital books can, in theory, level the playing field for many disadvantaged readers, the experience of accessing such books is often, in keeping with the above vignette, prohibitively difficult. most publishers, such as xxx and xxx, and digital book platforms, such as ebrary, implement digital rights management (drm), impose usage limits, or require that books be read in the browser rather than downloaded, all in an attempt to prevent sharing or other copyright violations. unfortunately, these interfaces are often not screen reader accessible, and reading a book in the browser is typically not feasible for those who read using text-to-speech or other assistive technology. these interfaces are often considered cumbersome  even by able users, and the inconsistency and fragmentation in these platforms also makes it difficult to extract quotations, take notes, or archive copies for further reading or future reference. 
 
-it's difficult to fully convey the subjective experience of finding a book in a digital library and being, so to speak, turned away at the door. this experience is compounded by the knowledge that this denial is the product of a deliberate choice, or series of choices, on the part of the copyright holder or platform designer. unlike print books, which require an active step in order to be made accessible, digital books require an active step to be made inaccessible. unfortunately, this active step is too often taken, leaving those with print disabilities without access to essential resources.
+# # it's difficult to fully convey the subjective experience of finding a book in a digital library and being, so to speak, turned away at the door. this experience is compounded by the knowledge that this denial is the product of a deliberate choice, or series of choices, on the part of the copyright holder or platform designer. unlike print books, which require an active step in order to be made accessible, digital books require an active step to be made inaccessible. unfortunately, this active step is too often taken, leaving those with print disabilities without access to essential resources.
 
-what recourse does a blind researcher have when confronted with an inaccessible platform? one option is to purchase all books available in digital form. unfortunately, academic books are often priced not for individuals, but for purchase by libraries, and these books can, in 2017, run in price from $80 to a heart-palpitating $300 for reference works, textbooks, or some edited collections. these costs often mean that the outlay for a second examination or thesis project could potentially run into the five figures. unless one is independently wealthy, this is mostly not a viable choice for sourcing books for research.
+# # what recourse does a blind researcher have when confronted with an inaccessible platform? one option is to purchase all books available in digital form. unfortunately, academic books are often priced not for individuals, but for purchase by libraries, and these books can, in 2017, run in price from $80 to a heart-palpitating $300 for reference works, textbooks, or some edited collections. these costs often mean that the outlay for a second examination or thesis project could potentially run into the five figures. unless one is independently wealthy, this is mostly not a viable choice for sourcing books for research.
 
-another option is to seek assistance from one's institution, whether through one's department or through a dedicated office of disability services. results achieved through this approach can vary widely. these administrative services are often under-resourced.  xxx
+# # another option is to seek assistance from one's institution, whether through one's department or through a dedicated office of disability services. results achieved through this approach can vary widely. these administrative services are often under-resourced.  xxx
 
-while i have availed myself of these approaches in the past, my own methods for gaining access to these initially inaccessible bodies of knowledge are a little different. first, it requires an deep familiarity with the environment in which digital books are procured, stored, and consumed. second, it demands significant investment, not only in knowledge but in various kinds of infrastructure. lastly, it depends on an unconventional—or, perhaps more accurately, a /circuventional/—approach to access, one that seizes on alternative, creative, or exploratory routes to access. while this investment has demanded time and attention, the end product is that, rather than asking others to help me in sourcing research, i am frequently asked by other researchers for help in collecting materials for their own work.
+# # while i have availed myself of these approaches in the past, my own methods for gaining access to these initially inaccessible bodies of knowledge are a little different. first, it requires an deep familiarity with the environment in which digital books are procured, stored, and consumed. second, it demands significant investment, not only in knowledge but in various kinds of infrastructure. lastly, it depends on an unconventional—or, perhaps more accurately, a /circuventional/—approach to access, one that seizes on alternative, creative, or exploratory routes to access. while this investment has demanded time and attention, the end product is that, rather than asking others to help me in sourcing research, i am frequently asked by other researchers for help in collecting materials for their own work.
 
-the point of these observations is not to serve as a recommendation or recipe for other disabled researchers. far from it—if anything, the amount of investment, of time and personal capital, required for such an approach shows only the difficulty and irreproducability of these methods. instead, i share this background in order to frame my own interest in, and advocacy for, /haccessibility/—an approach to accessibility that draws on a culture that grew up around early computing, free and open source software, and the modern maker community.
+# # the point of these observations is not to serve as a recommendation or recipe for other disabled researchers. far from it—if anything, the amount of investment, of time and personal capital, required for such an approach shows only the difficulty and irreproducability of these methods. instead, i share this background in order to frame my own interest in, and advocacy for, /haccessibility/—an approach to accessibility that draws on a culture that grew up around early computing, free and open source software, and the modern maker community.
 
 
 
-*** examples of haccessibility
+# # *** examples of haccessibility
 
-*** expense, equity, and accessibility
-you can throw a ton of money at something to get a pre-fix solution or you can customize something that exists
-only privileged people can affrod not to hack
-** open source accessibility
-overlap with social model - make things hackable
-you can work you way back to the social model
-could you ask a game compnay to make a game that works for blind people? maybe. but maybe it makes more sense to force companies to make things hackable. it's been shown that bp can manage to make games that are accessible to themselves. but if companies allow for more openness then bp can make games accessible themselves, and they theymselves know what is best
+# # *** expense, equity, and accessibility
+# # you can throw a ton of money at something to get a pre-fix solution or you can customize something that exists
+# # only privileged people can affrod not to hack
+# # ** open source accessibility
+# # overlap with social model - make things hackable
+# # you can work you way back to the social model
+# # could you ask a game compnay to make a game that works for blind people? maybe. but maybe it makes more sense to force companies to make things hackable. it's been shown that bp can manage to make games that are accessible to themselves. but if companies allow for more openness then bp can make games accessible themselves, and they theymselves know what is best
 
-*** critical making?
+# *** critical making?
 
-** notes* 
- # approaching ahab blind
-https://muse-jhu-edu.ezproxy.cul.columbia.edu/article/693135
+# ** notes* 
+#  # approaching ahab blind
+# https://muse-jhu-edu.ezproxy.cul.columbia.edu/article/693135
 
-# elephant man autobiography
-http://www.nineteenthcenturydisability.org/items/show/38
-** ending
-when we try to affect our environment (could be through expression, whatever) it's like a radio signal or a shout that gets dimmer the futher it gets out
-people like danny (from 12 words) or "there's a boy in here" guy can perhaps affect, be understood, by their own immediate family, etc.
-in order to be heard more broadly, it's required that you use a conveyance of some kind. that can be, and might need to be, a tecynology or platform of some kind, as we'll discuss in the next chapter. but perhaps even more important, we need to piggyback, build on, an idea that is already broadly understood.
-people with disabilities are disadvantaged in piggybacking. /das man/ has all these concepts that are not made to cnvey the disabled experience
-think about Wittgenstein, immenient sppech vs abstract signs. people with disabilities are often stuck in one more or the other. (danny from 12 words stuck in immenent, blind people often stuck in signs)
-finding that thread between the individual and the universal, negotiating disability identity, is fundamentally an act of hacking. we have to take a concept from the /das Man/ portfolio and hack it, make carry the individual perspective to the many. it's almost like a mimetic trojan or virus.
-the most common "hack" is just to have an able person tell the story. the disabled identity can come through only at the edges or in a mediated fashion. "a boy in here" and some of helen keller's stuff, cristy brown's first book has a subler form of this where his experience is mediated by his family and the real expereince doesn't come out until /down all the days/
-another hack is just profoundly not giving a shit and getting your perspective out there. might communicate well to a few but probably won't put a dent in /das man/. /two arms and a head/ might fit this
-it takes real transcendent hacks to bridge the gap in a more real way. i think /double take/ approaches this.
-seeking autonomy through autobiography is pretty imperfect, but in haccessibility tradition it's a way forward when there's no way forward. you need to get the attention of /das man/ for anyting real to happen.
+# # elephant man autobiography
+# http://www.nineteenthcenturydisability.org/items/show/38
+# ** ending
+# when we try to affect our environment (could be through expression, whatever) it's like a radio signal or a shout that gets dimmer the futher it gets out
+# people like danny (from 12 words) or "there's a boy in here" guy can perhaps affect, be understood, by their own immediate family, etc.
+# in order to be heard more broadly, it's required that you use a conveyance of some kind. that can be, and might need to be, a tecynology or platform of some kind, as we'll discuss in the next chapter. but perhaps even more important, we need to piggyback, build on, an idea that is already broadly understood.
+# people with disabilities are disadvantaged in piggybacking. /das man/ has all these concepts that are not made to cnvey the disabled experience
+# think about Wittgenstein, immenient sppech vs abstract signs. people with disabilities are often stuck in one more or the other. (danny from 12 words stuck in immenent, blind people often stuck in signs)
+# finding that thread between the individual and the universal, negotiating disability identity, is fundamentally an act of hacking. we have to take a concept from the /das Man/ portfolio and hack it, make carry the individual perspective to the many. it's almost like a mimetic trojan or virus.
+# the most common "hack" is just to have an able person tell the story. the disabled identity can come through only at the edges or in a mediated fashion. "a boy in here" and some of helen keller's stuff, cristy brown's first book has a subler form of this where his experience is mediated by his family and the real expereince doesn't come out until /down all the days/
+# another hack is just profoundly not giving a shit and getting your perspective out there. might communicate well to a few but probably won't put a dent in /das man/. /two arms and a head/ might fit this
+# it takes real transcendent hacks to bridge the gap in a more real way. i think /double take/ approaches this.
+# seeking autonomy through autobiography is pretty imperfect, but in haccessibility tradition it's a way forward when there's no way forward. you need to get the attention of /das man/ for anyting real to happen.
 
-12 words
-https://www.kenyonreview.org/journal/septoct-2019/selections/brian-trapp/
+# 12 words
+# https://www.kenyonreview.org/journal/septoct-2019/selections/brian-trapp/
 
 * infrastructure
 
@@ -1898,10 +1906,6 @@ were more about learning and creativity—open-ended learning and creativity.
 "as if" (interview with lori emerson)
 
 
-
-
-
-
 techne
 
 
@@ -1913,9 +1917,6 @@ https://www.youtube.com/watch?v=t2l2t-d3tda
 
 # destruction of fan-made project by copyright
 https://torrentfreak.com/cbs-shuts-down-stage-9-a-fan-made-recreation-of-the-uss-enterprise-180927/
-
-
-
 
 
 # computer bums
