@@ -599,7 +599,6 @@ http://dsq-sds.org/article/view/3219/4114
 Handiness is not grasped theoretically at all, nor is it itself initially a theme for circumspection. What is peculiar to what is initially at hand is that it withdraws, so to speak, in its character of handiness in order to be really handy. What everyday dealings are initially busy with is not tools themselves, but the work. What is to be produced in each case is what is primarily taken care of and is thus also what is at hand. The work bears the totality of references in which useful things are encountered.
 *************** END
 
-
 ** The Thin Thread
 
 # Let's talk about connections.
@@ -905,7 +904,6 @@ Looking into an infinity mirror, we understand, see, and affect our near-to-hand
 #+attr_html: :alt A figure that looks like a horn, broad on one side and narrow on the other.
 [[./images/gabriels_horn.png]]
 
-
 ** Getting Across
 
 # What is the shape of the relationship between the local and the universal? Or, to be more specific to the subject at hand—autobiographies and the self-told stories of people with disabilities—what is the nature of the relationship between an individual and a collective identity?
@@ -933,8 +931,6 @@ Abstract, literally, means to move away, to increase distance. Part of this proj
 
 
 # !!!! END FOOTNOTE
-
-
 
 ** Facing Narrative Incommensurability
 
@@ -1033,13 +1029,11 @@ Finally, we might consider that autonomy, rather than power, change from the sid
 #   tyrannical - things are built for the majority
 #  tyrannized - the majority is predictable and can be manipulated
 
-
-
 ** Fighting the Man
 
 In the last chapter, we considered the immediate social and physical environment and introduced haccessibility, a mode of negotiation that is hyperlocal and contingent, a way of interacting with the world that is resistant to scale but which, in certain circumstances, can presage or catalyze a larger change. In this chapter, we have considered a broader concept, autonomy, through an understanding of how the local (individual and close communal experiences and identity) relates to the universal (narratives and structures that encompasss commonality or purport to represent a majority). In doing so, we figured the universal as /das Man/, a creature of broad generalities and overdetermined commonality. Based loosely on linguistic constructions that imply a universally representative individual ("one" or "your" in English, "man" in German, as in "One does not do that"), /das Man/ represents normality, and deviating from narratives comprehended by /das Man/ risks a response from the encircling collective based on apathy, misunderstanding, or pathologization.
 
-In this chapter, I have depicted /das Man/ as a faceless foe, an entity that effaces local difference, that refuses to make accommodations, that is shocked by stories and bodies that don't fit its (his?) preconceptions. In this context—people with disabilities telling their own stories or struggling against inflexible physical and social environments—this feels apt and, perhaps, just. This project, however, is concerned not only with cataloging slights and injuries against the local perpetrated by the universal. As we seek ways to move forward, to propagate real change not only in the immediate environment but on a broader scale, we must consider ways of contending with the universal that do not only resist impositions on the local from above, but that change the above to accomodate we below.
+In this chapter, I have depicted /das Man/ as a faceless foe, an entity that effaces local difference, that refuses to make accommodations, that is shocked by stories and bodies that don't fit its (his?) preconceptions. In this context—people with disabilities telling their own stories or struggling against inflexible physical and social environments—this feels apt and, perhaps, just. This project, however, is not merely concerned with cataloging slights and injuries against the local perpetrated by the universal. As we seek ways to move forward, to propagate real change not only in the immediate environment but on a broader scale, we must consider ways of contending with the universal that do not only resist impositions on the local from above, but that change the above to accomodate we below.
 
 If Chapter 2 of this project is concerned with the individual negotiating the immediate physical and social environment, then this chapter has been concerned with the relationship, the thin thread, between the individual and the broad universal, the society as an abstraction. Our theme here, negotiation, is the experience of being embedded in something larger, a structure which we have limited ability to resist and, likely, an even more limited ability to change. Yet change, however unlikely, is conceivable, even possible. Change happens. How can we, embedded as we are in structures we did not choose, travel, first from survival in adverse circumstances, to thriving in ourselves and in our communities, to creating change on a larger scale? How can the local, at first scrabbling but with increasing confidence, find purchase on the universal?
 
@@ -1079,12 +1073,6 @@ As we conclude this chapter, and gesture to the next, I will increasingly commit
 
 
 # definition of circumstance, repositioning in relations to immediate environment
-# Arrent here
-
-
-# autonomy
-
-
 
 # legible
 # resists rewriting
@@ -1229,13 +1217,12 @@ As we conclude this chapter, and gesture to the next, I will increasingly commit
 # # of course, the relatively recent rise of ebooks and related digital formats has proven a major boon to researchers—such as myself—who cannot read print. access to a digital book circumvents the need for laborious scanning, and the result is often far superior, since imperfections in the scanning and optical character recognition processes often lead to unreadable text and the appearance of undesirable artifacts. further, books that are machine-readable and shared online are also transformative for individuals with dyslexia and those who may have difficulty accessing a physical library. access to digital books can also be an asset, or even a necessity, for non-disabled researchers who may not be geographically or economically situated for physical access to an institution or a community of supportive  practitioners.
 
 
-*************** TODO  research programs for people with dyslexia / cognitive impairments and put in a line about that
+*************** DONE research programs for people with dyslexia / cognitive impairments and put in a line about that
+		CLOSED: [2020-04-06 Mon 16:05]
 *************** END
 *************** todo usefulness of digital books for dh scholars
 *************** end
-*************** todo info box: is using tts considered reading?
-*************** end
-*************** todo info box: is using tts considered reading?
+*************** TODO info box: is using tts considered reading?
 *************** end
 
 # #  while digital books can, in theory, level the playing field for many disadvantaged readers, the experience of accessing such books is often, in keeping with the above vignette, prohibitively difficult. most publishers, such as xxx and xxx, and digital book platforms, such as ebrary, implement digital rights management (drm), impose usage limits, or require that books be read in the browser rather than downloaded, all in an attempt to prevent sharing or other copyright violations. unfortunately, these interfaces are often not screen reader accessible, and reading a book in the browser is typically not feasible for those who read using text-to-speech or other assistive technology. these interfaces are often considered cumbersome  even by able users, and the inconsistency and fragmentation in these platforms also makes it difficult to extract quotations, take notes, or archive copies for further reading or future reference. 
