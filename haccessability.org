@@ -1299,7 +1299,7 @@ As we conclude this chapter, and gesture to the next, I will increasingly commit
 # - concentration
 
 
-** 
+** Values in Concrete
 
 Infrastructure resists analysis, and especially hermaneutic analysis. First, as scholars such as Susan Leigh Star have observed, it is boring: "Many aspects of infrastructure are singularly unexciting. It takes some digging to unearth the dramas inherent in system design ..., to restore narrative to what appears to be dead lists" [[citep:star_ethnography_1999][p. 377-378]]. Further, infrastructure is large. In /The Stack/, Benjamin Bratton describes a subset of global infrastructure, the cloud,  in language that makes clear its geographical, geopolitical, and even geological scale [fn:largeness]:
 
@@ -1324,6 +1324,13 @@ In object-oriented programming, abstractions ("classes") can be defined that the
 
 # !!! END FOOTNOTE
 
+In considering how infrastructure mediates interactions with the encircling collective, determining the bounds of possible action, we will focus on three aspects or facets: complexity, inflexibility, and concentration. These facets interact productively with the above reasons for infrastructural illegibility—size, for example, can contribute to complexity, while complexity can contribute to infrastructure' "singularly unexciting" nature. However, the converse of these chosen qualities—simplicity, flexibility, distribution—can, when applied with care and attention to context, suggest a path forward. [fn:other-qualities] [fn:coloring-book]
+
+
+[fn:other-qualities] Thinking about infrastructure as boring, large, and agenda-driven—illegible—will continue to inform our analysis. 
+
+
+[fn:coloring-book] For those who wish infrastructure to be more "fun," I can recommend [[https://www.ocsd.com/Home/Components/PhotoAlbum/PhotoAlbum/7/252?recordid=6#ad-image-3][the /Clean Water Willie Coloring Book/]], available on the website for the Orange County Sanitation District. In this book you'll learn about biosolids and waste water processing, all while improving your ability to color within the lines.
 
 
 
@@ -1333,12 +1340,6 @@ In object-oriented programming, abstractions ("classes") can be defined that the
 
 
 
-
-infrastructure seeks to abstract itself
-
-
-
-Infrastructure is elusive—first, because it is boring; second, because it is large; and third, because it is hidden. 
 
 
 
