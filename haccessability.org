@@ -1315,7 +1315,7 @@ The OED offers that infrastructure is a "collective term for the subordinate par
 
 # !!! END FOOTNOTE
 
-In this chapter, we will be concerned with the implications of infrastructure on negotiation—that is, how does infrastructure shape potential action and, importantly, thought? Though we will continue to concern ourselves with the local, local in the context of infrastructure—in the shadow of great scale—has a substantively different valence. Our focus, therefore, will broaden—though we will still be concerned with the hyperlocal and the individual, we will also examine how the humanities, as a disciplinary collective, negotiates within the academy and, in turn, how the academy negotiates within the broader society. Here, our working definition of infrastructure will be that of /values instantiated/ [fn:instantiation]. That is, by studying infrastructure, we can discover the core goals and revealed beliefs of the encircling collective. What can we learn, by implication, from the choices crystallized in infrastructure, choices that have become the environment we below must negotiate?
+In this chapter, we will be concerned with the implications of infrastructure on negotiation—that is, how does infrastructure shape potential action and, importantly, thought? Though we will continue to concern ourselves with the local, local in the context of infrastructure—in the shadow of great scale—has a substantively different valence. Our focus, therefore, will broaden—though we will still be concerned with the hyperlocal and the individual, we will also examine how the humanities, as a disciplinary collective, negotiates within the academy and, in turn, how the academy negotiates within the broader society. Here, our working definition of infrastructure will be that of /values instantiated/ [fn:instantiation]. That is, by studying infrastructure, we can discover the core goals and revealed beliefs of the encircling collective. What can we learn, by implication, from the choices crystallized in infrastructure, choices that have become the environment we below must negotiate? And how do we retain our values when we must use infrastructure that crystallizes ends incompatible from ours?
 
 [fn:instantiation] Instantiation is the act of bringing something concrete into being based on an abstract ideal or template. The term is used in modern philosophy to describe the concept that in Platonism is called "participation," the correspondence between a Platonic form or universal and a substance, an object or thing. From /Phaedo/: "you would loudly asseverate that you know of no way in which anything comes into existence except by participation in its own proper essence, and consequently, as far as you know, the only cause of two is the participation in duality—this is the way to make two" [[citep:plato_six_2012][p. 77]].
 
@@ -1324,52 +1324,36 @@ In object-oriented programming, abstractions ("classes") can be defined that the
 
 # !!! END FOOTNOTE
 
-In considering how infrastructure mediates interactions with the encircling collective, determining the bounds of possible action, we will focus on three aspects or facets: complexity, inflexibility, and concentration. These facets interact productively with the above reasons for infrastructural illegibility—size, for example, can contribute to complexity, while complexity can contribute to infrastructure' "singularly unexciting" nature. However, the converse of these chosen qualities—simplicity, flexibility, distribution—can, when applied with care and attention to context, suggest a path forward. [fn:other-qualities] [fn:coloring-book]
+In considering how infrastructure mediates interactions with the encircling collective, determining the bounds of possible action, we will focus on three aspects or facets: complexity, inflexibility, and concentration. These facets interact productively with the above reasons for infrastructural illegibility—size, for example, can contribute to complexity, while complexity can contribute to infrastructure' "singularly unexciting" nature. However, the converse of these chosen qualities—simplicity, flexibility, distribution—can, when applied with care and attention to context, suggest a path forward, a way to make infrastructure that is more supportive than coercive. [fn:other-qualities] 
 
+# [fn:coloring-book] 
+
+In "'Stuff You Can Kick': Toward a Theory of Media Infrastructures," Lisa Parks notes that, while disciplines such as Urban Studies, Science and Technology Studies, and Communication frequently engage with physical infrastructure, digital humanities scholarship has focused on more obviously cultural productions—networks, corporations, and interfaces. This analysis will largely depart from her admirable radicalism in theorizing physical infrastructure in a humanities and, specifically, digital humanities context, and the objects of study here will, unfortunately, remain largely unkickable. [fn:kicking] [fn:phyiscal-infrastructure]
+
+Through an examination of a number of interfaces—both to software and to commercial systems—we will continue to engage the larger concept of negotiation, or the places individuals or small communities encounter an environment or encircling entity. Our primary subject or case study here will be the humanities, and, to a lesser extent, the academy. How can the humanities, and the institution of the university, retain and exercise its values while negotiating a society largely antithetical to those values? Specifically, we will focus on the production and dissemination of thought, and how our infrastructure, from our systems of writing and research to our repositories for dissemination and preservation of scholarly literature, live up to, or fail to live up to, our stated values. 
+
+ # As we read certain digital interfaces, including specific technical artifacts such as web pages and desktop software, we will draw on techniques pioneered in the digital humanities and New Media Studies by scholars such as Lori Emerson and Matthew Kirschenbaum. In taking in the larger context around concentration, we will draw on work by historians and social scientists such as Stephen Brier.
+
+
+[fn:phyiscal-infrastructure] In keeping with Parks's engagement with infrastructure typically undertheorized in the academy, however, , we will strive to be aware of the broader physical and social constituents of the abstractions we study.
+
+
+# !!!! END FOOTNOTE
+
+[fn:kicking] Though you may wish to kick these proprietary systems and interfaces by the time we're done.
+
+
+# !!!! END FOOTNOTE
 
 [fn:other-qualities] Thinking about infrastructure as boring, large, and agenda-driven—illegible—will continue to inform our analysis. 
 
 
-[fn:coloring-book] For those who wish infrastructure to be more "fun," I can recommend [[https://www.ocsd.com/Home/Components/PhotoAlbum/PhotoAlbum/7/252?recordid=6#ad-image-3][the /Clean Water Willie Coloring Book/]], available on the website for the Orange County Sanitation District. In this book you'll learn about biosolids and waste water processing, all while improving your ability to color within the lines.
+# !!!! END FOOTENOTE
 
 
 
+# [fn:coloring-book] For those who wish infrastructure to be more "fun," I can recommend the /Clean Water Willie Coloring Book/, available on the website for the Orange County Sanitation District. In this book you'll learn about biosolids and waste water processing, all while improving your ability to color within the lines.
 
-
-
-
-
-
-
-
-
-** Complexity
-** Reading Infrastructure: Critical Infrastructure Studies
-
-In recent years, groups of humanities practitioners have moved toward an increased awareness of the importance of infrastructure to areas of traditional concern to the humanities. Under the rubric of Critical Infrastructure Studies, scholars such as Alan Liu, Clare Birchall, Tara McPherson, Matthew K. Gold, and Lori Emerson have considered how infrastructure is implicated in inequality, XXX. Critical Infrastructure Studies combines an awareness of diverse but interrelated work in history (Thomas Hughes, Tom Standage), social sciences (Susan Leigh Star, Bruno Latour, Hannah Appel, Nikhil Anand Akhil Gupta), and national-level humanities computing (Sheila Anderson).
-
-Scholars working within this framework have already made a number of significant contributions. Alan Liu, in a draft for the book /Against the Cultural Singularity/,, contends, startlingly but persuasively, that the study of infrastructure begins to approach the study of culture in furthering comprehension of modern social contexts. Lori Emerson, in writing and in pedagogy, interrogates assumptions about frictionless interfaces and the nature of the relationship between platform and user. Tara McPherson has offered views into how specific technological systems, including social networks and UNIX operating system architecture, can propagate racist ideology. Tung-Hui Hu, in /A Prehistory of the Cloud/, movingly traces the contiguity between new technocratic developments such as the cloud and historical and ongoing abuses of state power. These, and other,, contributions to the nascent field of Critical Infrastructure Studies reveal technocratic ideologies both thinking and unthinking,, nested and interlocking systems of broad scope and deep complexity, and patterns of encoded exploitation and automated asymmetries of power. Collectively, this scholarship has moved the humanities toward a critical consciousness of infrastructure. Were we fish, we might be considered to have caught a glimpse of water.
-
-The focus of much of the scholarship that has inspired Critical Infrastructure Studies has been macroscopic—broad in scope and attempting to synthesize individual observations into an understanding of larger trends. In this chapter, I offer a view of infrastructure that is more mesoscopic—that is, attuned to the locus of interaction between an individual and community, or a community and its wider social and technological context. In outlining issues facing our community of practice in the humanities, I will necessarily discuss macroscopic trends, including adverse economics, the platformification of the academy, and barriers to unflinching public scholarship. In considering adaptations to these issues, however, I will advocate a hyperlocal view, one that arises out of immediate concerns within a community and which, even if adopted broadly across communities, remains responsive to individuated conditions and needs.
-
-:notes:
- More importantly, however, we encounter problems of recognition. In studying infrastructure, we contend with a set of questions. How can we talk about infrastructure? Is infrastructure worth discussing? And, if it is, should we in the humanities be the ones to do it?
-
-Infrastructure is complex. Not in the colloquial sense of "difficult to understand," though infrastructure is often that.
-
-Rather, it is complex in the sense of a whole comprised of multiple, frequently interdependent, parts. Because discussion of one facet of infrastructure frequently demands discussion of other facets, infrastructure is almost inherently difficult to address. Compounding this intractability is a problem of scale. In general, we—humanities scholars, academics more broadly, or people in general—perform poorly when considering the extremely large or the extremely small. Unfortunately, infrastructure is not a "meso-level" phenomenon. Infrastructure is the interstate highway system and the mineral balance of a drop of water. Infrastructure is levee maintenance in New Orleans and 220 billion lines of COBOL (Atwood). Infrastructure is this paper clip.
-#+CAPTION: A paperclip. Eat your heart out, Adam Smith
-#+NAME:   paperclip.jpg
-#+ATTR_HTML: :alt A boring image of a paperlcip.
-[[./images/paperclip.jpg]]
-
-Though scale, complexity, and interdependence pose a challenge to any discussion of infrastructure, to engaging the topic one must also wrestle with a second concern. David Foster Wallace puts his finger on this issue in his well-known graduation speech at Kenyon College:
-
-Because of its ubiquity, infrastructure is invisible. It is the inescapable medium in which we live and act. Infrastructure determines which actions are trivial, like drawing water from a tap. In its absence, as when transporting oneself around Fayetteville, North Carolina—America's least walkable city in 2017— without a car, infrastructure sets the bounds of the impossible. Despite, or perhaps because of, its importance, it is difficult to think about infrastructure unless maintaining that infrastructure is a specific component of our work or our identity—or, less desirably, when it fails us.. Typically, our interactions with infrastructure manifest themselves as abstractions of convenience. We think of the thousands of data centers, the hundreds of thousands of miles of cable, and the dozens of exabytes of data stored on connected devices as "the cloud." We ask few questions about where our water comes from, and even fewer about where it goes. We wonder about car internals only once our vehicle breaks down on the shoulder of a highway.
-
-:end:
-
-# A final concern with discussing infrastructure is that it is widely perceived as being value-neutral, inert to the considerations of equity, history, textuality, interpretation, and pedagogy that motivate scholars in the humanities.
 
 ** Humanities Values on the Margins
 
@@ -1651,7 +1635,38 @@ can haccessibility  help here? just as we must replace bad culture with good cul
    forkable curriclum for dri lets people iterate on things without too much technical knowledge
    google docs gets the usability right but sucks at all the things we care about...provenance, owning your own stuff (what's the point of tenure if google can unpublish your stuff?), sustainability
 ** who is building infrastructure?
-** if we're doing infrastrcture, are we doing humanities?
+** if we're doing infrastrcture, are we doing humanitie
+
+** Reading Infrastructure: Critical Infrastructure Studies
+
+In recent years, groups of humanities practitioners have moved toward an increased awareness of the importance of infrastructure to areas of traditional concern to the humanities. Under the rubric of Critical Infrastructure Studies, scholars such as Alan Liu, Clare Birchall, Tara McPherson, Matthew K. Gold, and Lori Emerson have considered how infrastructure is implicated in inequality, XXX. Critical Infrastructure Studies combines an awareness of diverse but interrelated work in history (Thomas Hughes, Tom Standage), social sciences (Susan Leigh Star, Bruno Latour, Hannah Appel, Nikhil Anand Akhil Gupta), and national-level humanities computing (Sheila Anderson).
+
+Scholars working within this framework have already made a number of significant contributions. Alan Liu, in a draft for the book /Against the Cultural Singularity/,, contends, startlingly but persuasively, that the study of infrastructure begins to approach the study of culture in furthering comprehension of modern social contexts. Lori Emerson, in writing and in pedagogy, interrogates assumptions about frictionless interfaces and the nature of the relationship between platform and user. Tara McPherson has offered views into how specific technological systems, including social networks and UNIX operating system architecture, can propagate racist ideology. Tung-Hui Hu, in /A Prehistory of the Cloud/, movingly traces the contiguity between new technocratic developments such as the cloud and historical and ongoing abuses of state power. These, and other,, contributions to the nascent field of Critical Infrastructure Studies reveal technocratic ideologies both thinking and unthinking,, nested and interlocking systems of broad scope and deep complexity, and patterns of encoded exploitation and automated asymmetries of power. Collectively, this scholarship has moved the humanities toward a critical consciousness of infrastructure. Were we fish, we might be considered to have caught a glimpse of water.
+
+The focus of much of the scholarship that has inspired Critical Infrastructure Studies has been macroscopic—broad in scope and attempting to synthesize individual observations into an understanding of larger trends. In this chapter, I offer a view of infrastructure that is more mesoscopic—that is, attuned to the locus of interaction between an individual and community, or a community and its wider social and technological context. In outlining issues facing our community of practice in the humanities, I will necessarily discuss macroscopic trends, including adverse economics, the platformification of the academy, and barriers to unflinching public scholarship. In considering adaptations to these issues, however, I will advocate a hyperlocal view, one that arises out of immediate concerns within a community and which, even if adopted broadly across communities, remains responsive to individuated conditions and needs.
+
+:notes:
+ More importantly, however, we encounter problems of recognition. In studying infrastructure, we contend with a set of questions. How can we talk about infrastructure? Is infrastructure worth discussing? And, if it is, should we in the humanities be the ones to do it?
+
+Infrastructure is complex. Not in the colloquial sense of "difficult to understand," though infrastructure is often that.
+
+Rather, it is complex in the sense of a whole comprised of multiple, frequently interdependent, parts. Because discussion of one facet of infrastructure frequently demands discussion of other facets, infrastructure is almost inherently difficult to address. Compounding this intractability is a problem of scale. In general, we—humanities scholars, academics more broadly, or people in general—perform poorly when considering the extremely large or the extremely small. Unfortunately, infrastructure is not a "meso-level" phenomenon. Infrastructure is the interstate highway system and the mineral balance of a drop of water. Infrastructure is levee maintenance in New Orleans and 220 billion lines of COBOL (Atwood). Infrastructure is this paper clip.
+#+CAPTION: A paperclip. Eat your heart out, Adam Smith
+#+NAME:   paperclip.jpg
+#+ATTR_HTML: :alt A boring image of a paperlcip.
+[[./images/paperclip.jpg]]
+
+Though scale, complexity, and interdependence pose a challenge to any discussion of infrastructure, to engaging the topic one must also wrestle with a second concern. David Foster Wallace puts his finger on this issue in his well-known graduation speech at Kenyon College:
+
+Because of its ubiquity, infrastructure is invisible. It is the inescapable medium in which we live and act. Infrastructure determines which actions are trivial, like drawing water from a tap. In its absence, as when transporting oneself around Fayetteville, North Carolina—America's least walkable city in 2017— without a car, infrastructure sets the bounds of the impossible. Despite, or perhaps because of, its importance, it is difficult to think about infrastructure unless maintaining that infrastructure is a specific component of our work or our identity—or, less desirably, when it fails us.. Typically, our interactions with infrastructure manifest themselves as abstractions of convenience. We think of the thousands of data centers, the hundreds of thousands of miles of cable, and the dozens of exabytes of data stored on connected devices as "the cloud." We ask few questions about where our water comes from, and even fewer about where it goes. We wonder about car internals only once our vehicle breaks down on the shoulder of a highway.
+
+:end:
+
+# A final concern with discussing infrastructure is that it is widely perceived as being value-neutral, inert to the considerations of equity, history, textuality, interpretation, and pedagogy that motivate scholars in the humanities.
+
+
+
+s?
 ** solutions
 
 "This utopian desire fundamentally counters the idea of the built environment as a commodity product. Rather than a singular output, architectural design becomes a sustained"
