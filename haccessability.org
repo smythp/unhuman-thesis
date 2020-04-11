@@ -1315,11 +1315,11 @@ The OED offers that infrastructure is a "collective term for the subordinate par
 
 # !!! END FOOTNOTE
 
-In this chapter, we will be concerned with the implications of infrastructure on negotiation—that is, how does infrastructure shape potential action and, importantly, thought? Though we will continue to concern ourselves with the local, local in the context of infrastructure—in the shadow of great scale—has a substantively different valence. Our focus, therefore, will broaden—though we will still be concerned with the hyperlocal and the individual, we will also examine how the humanities, as a disciplinary collective, negotiates within the academy and, in turn, how the academy negotiates within the broader society. Here, our working definition of infrastructure will be that of /values instantiated/ [fn:instantiation]. That is, by studying infrastructure, we can discover the core goals and revealed beliefs of the encircling collective. What can we learn, by implication, from the choices crystallized in infrastructure, choices that have become the environment we below must negotiate? And how do we retain our values when we must use infrastructure that crystallizes ends incompatible from ours?
+In this chapter, we will be concerned with the implications of infrastructure on negotiation—that is, how does infrastructure shape potential action and, importantly, thought? Though we will continue to concern ourselves with the local, local in the context of infrastructure—in the shadow of great scale—has a substantively different valence. Our focus, therefore, will broaden—though we will still be concerned with the hyperlocal and the individual, we will also examine how the humanities, as a disciplinary collective, negotiates within the academy and, in turn, how the academy negotiates within the broader society. Here, our working definition of infrastructure will be that of /values instantiated/ [fn:instantiation]. That is, infrastructure is the concrete product of collective decisions about what is worthy and, by implication, what is not. By studying infrastructure, therefore,, we can discover the core goals and revealed beliefs of the encircling collective. What can we learn, by implication, from the choices crystallized in infrastructure, choices that have become the environment we below must negotiate? And how do we retain our values when we must use infrastructure that crystallizes ends incompatible with ours? 
 
 [fn:instantiation] Instantiation is the act of bringing something concrete into being based on an abstract ideal or template. The term is used in modern philosophy to describe the concept that in Platonism is called "participation," the correspondence between a Platonic form or universal and a substance, an object or thing. From /Phaedo/: "you would loudly asseverate that you know of no way in which anything comes into existence except by participation in its own proper essence, and consequently, as far as you know, the only cause of two is the participation in duality—this is the way to make two" [[citep:plato_six_2012][p. 77]].
 
-In object-oriented programming, abstractions ("classes") can be defined that then serve as a template for the creation of an object or objects. Creating an object based on the concept laid out in a class is called "instantiation." For example, one might create an =Animal= class, and based on that class instantiate =Owl=, =Frog=, and =Horse= objects.
+In object-oriented programming, abstractions ("classes") can be defined that then serve as a template for the creation of an object or objects. Creating an object based on the concept laid out in a class is called "instantiation." For example, one might define an =Animal= class, and based on that class instantiate =Owl=, =Frog=, and =Horse= objects. 
 
 
 # !!! END FOOTNOTE
@@ -1357,7 +1357,74 @@ Through an examination of a number of interfaces—both to software and to comme
 
 ** Humanities Values on the Margins
 
-In journal articles, posts, and books, a perennial topic of discussion is why we—as a society, as academics, or even as humanities scholars—should care about the humanities. These debates center around whether the humanities should be considered in utilitarian or autotelic terms, how the humanities is relevant (or irrelevant) to modern society, and whether there is a future for the humanities. While the question of the value of the humanities is frequently debated, the question of humanities values is often left to implication. That is to say that there is frequent, and explicit, discussion of why we should care about the humanities, but little on what the humanities cares about.
+In think pieces, journal articles, and a broad array of books, a perennial topic of discussion is why we—as a society, as academics, or even as humanities scholars—should care about the humanities. In /Humanities in the Twenty-First Century: Beyond Utility and Markets/, Eleonora Belfiore and Anna Upchurch trace a taxonomy for this genre of writing, what they call the "value debate." The first presentation of this genre is writing that diagnoses the myriad difficulties facing the humanities, "the seemingly ineluctable (and ongoing) demise of the humanities as an academic area of scholarship in the context of a progressively more and more marketised higher education sector" [[citep:belfiore_humanities_2013][p. 1]]. The second presentation of this genre is "a more positive (if often instrumental) idiom in debates surrounding higher education policy and funding," in which "the humanities have a contribution to make to the national economy (by virtue of their natural affinity with the cultural and creative industries) to the social cohesion of the country and to the policy-making process" [[citep:belfiore_humanities_2013][p. 21]]. As corporatism and marketization increasingly push the university toward measures of success such as job preparation, therefore, the humanities seeks to justify its existence by these same measures.
+
+these justifications, attempting to square the work of the humanities with values not of the humanities, tend to ring hollow. Justin Stover, in "There Is No Case for the Humanities," argues that the humanities has not become less relevant to the outside world over time, but that the university, which once placed the humanities in a central position, has become something other.
+
+#+BEGIN_QUOTE
+The contemporary university is a strange chimaera. It has become an institution for teaching undergraduates, a lab for medical and technological development in partnership with industry, a hospital, a museum (or several), a performance hall, a radio station, a landowner, a big-money (or money-losing) sports club, a research center competing for government funding, and ... a hedge fund. ... What is fascinating and perverse about the current situation is that what was once peripheral to the university—engineering and technology—is now at its center, and what was once its center has been reduced to the margins and forced to make a case for its continued existence. citep:stover_there_2017
+#+END_QUOTE
+Stover argues that the humanities cannot be defined through external values, such as claims that the humanities develops, in its students, traits useful to society such as artistic ability, critical thinking or ethical depth. Rather, the humanities can only be justified within its own epistemological framework, and that, ultimately, we need not make a case for the humanities—it is enough to know, ourselves, that the humanities are important and "put our hand to the plow" citep:stover_there_2017.
+
+Stover's diagnosis of the position of the humanities at the margin of the modern university is accurate. As far as it goes, too, the assertion that the humanities is autotelic, being an end in itself, is admirable enough—many or most humanists will agree that the humanities, as a project, has inherent worth. It is true, also, that there is much more work to be done in the humanities, that, in his agricultural metaphor, there are "whole fields untilled" citep:stover_there_2017. However, it does not follow that these points, conceded, mean a future for the humanities as we know it—humanists, and the humanities, might well die of hunger amid rich but fallow fields. Stover implies that the humanities, by way of lending cachet to the university as an institution and by taking advantage of historical inertia, may make it intact through successive and unrelenting crises. In response to this assertion, James McWilliams writes:
+
+#+BEGIN_QUOTE
+I'm absolutely certain that almost every high-ranking administrator at every university in the U.S. wakes up every morning prepared to fathom the case that the university is about serving the innovative needs of a globalizing economy—and if gutting the humanities would further that goal, they'd look at the numbers and make the call. ... Can you imagine, beyond the university, a swell of popular opinion rushing to defend the department of comparative literature ... from oblivion? citep:mcwilliams_humanities_2018
+#+END_QUOTE
+
+xxx USE PARKER FROM 21st CENTURY BOOK HERE?
+
+-----
+
+
+# assertions of outside benefit not necessarily true
+
+# #+BEGIN_QUOTE
+# We say that exposure to the humanities leads to a more meaningful life, a deeper appreciation of the truth, better critical thinking skills, or a predilection for deeper empathy. These assertions might be true in some cases—but they're not necessarily true. The pursuit of other interests could just as likely produce these beneficial results. ... [A]n education in the humanities could make a person selfish, confused, totally biased, and even miserable.
+# https://psmag.com/education/long-live-the-humanities
+# #+END_QUOTE
+:end:
+
+
+# there is no case for the humanities, come out hallow
+:notes:
+# #+BEGIN_QUOTE
+# We are often told that we need to articulate the case for the humanities in order to survive the current budgetary and political landscape. Many of us stutter and stumble when confronted with such requests, mumbling some barely audible phrases involving “skills,” “relevance,” “a changing economy,” “engagement,” and “values.” The reason it does not come out as something coherent or articulate, much less compelling, is that the ideas behind the words are just as hollow, and we know it. Somewhere inside we all know that there is no case for the humanities.
+# #+END_QUOTE
+:end:
+
+# what have the humanities ever been for?
+:notes:
+# #+BEGIN_QUOTE
+# What have the humanities ever been for? Some might say, as one humanities dean put it, that the humanities teach us about how to express our ideas, and unleash our creativity. ... The puzzled glances of actual artisans, writers, and artists—who historically have had little university training—should be enough to disabuse us of [this] notion. ... A supposedly related goal for the humanities is that of ethical training. This assertion is more difficult to challenge, since humane letters have long been regarded as imparting some sort of ethical or moral education. But do they? An informal survey of humanities scholars might not lead one to optimism on that score.
+# https://psmag.com/education/long-live-the-humanities
+# #+END_QUOTE
+:end:
+
+
+
+A hallmark of this "rhetoric of gloom" is that, over the past half-century, as the humanities has moved from crisis to crisis—low enrollment, budget cuts, poor job prospects for graduates—the situation has become simply a recognized, ongoing reality. As Geoffrey Galt Harpham writes,  "[t]alk of crisis has been around for so long ... that it has become simply incorporated into the most accustomed ways in which humanistic scholars understand themselves and their work. Once considered an affliction, crisis has become a way of life" [[citep:harpham_%5Bhumanities_2011][p. 23]].
+
+
+
+
+
+
+What would the humanities be without their crisis? 
+
+
+Since the 1960s, there has increasingly a rhetoric 
+
+
+In outlining a taxonomy of this genre of writing
+
+
+
+These debates center around whether the humanities should be considered in utilitarian or autotelic terms, how the humanities is relevant (or irrelevant) to modern society, and whether there is a future for the humanities.
+
+
+
+ While the question of the value of the humanities is frequently debated, the question of humanities values is often left to implication. That is to say that there is frequent, and explicit, discussion of why we should care about the humanities, but little on what the humanities cares about.
 
 *************** TODO Get a bunch of sources and think pieces together about why the humanities matter. Stanley Fish and the crew.
 *************** END
