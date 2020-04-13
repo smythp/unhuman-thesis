@@ -1366,15 +1366,47 @@ The contemporary university is a strange chimaera. It has become an institution 
 #+END_QUOTE
 Stover argues that the humanities cannot be defined through external values, such as claims that the humanities develops, in its students, traits useful to society such as artistic ability, critical thinking or ethical depth. Rather, the humanities can only be justified within its own epistemological framework, and that, ultimately, we need not make a case for the humanities—it is enough to know, ourselves, that the humanities are important and "put our hand to the plow" citep:stover_there_2017.
 
-Stover's diagnosis of the position of the humanities at the margin of the modern university is accurate. As far as it goes, too, the assertion that the humanities is autotelic, being an end in itself, is admirable enough—many or most humanists will agree that the humanities, as a project, has inherent worth. It is true, also, that there is much more work to be done in the humanities, that, in his agricultural metaphor, there are "whole fields untilled" citep:stover_there_2017. However, it does not follow that these points, conceded, mean a future for the humanities as we know it—humanists, and the humanities, might well die of hunger amid rich but fallow fields. Stover implies that the humanities, by way of lending cachet to the university as an institution and by taking advantage of historical inertia, may make it intact through successive and unrelenting crises. In response to this assertion, James McWilliams writes:
+Stover's diagnosis of the position of the humanities at the margin of the modern university is accurate. As far as it goes, too, the assertion that the humanities is autotelic, being an end in itself, is admirable enough—many or most humanists will agree that the humanities, as a project, has inherent worth. It is true, also, that there is much more work to be done in the humanities, that, in his agricultural metaphor, there are "whole fields untilled" citep:stover_there_2017. However, it does not follow that these points, conceded, mean a future for the humanities as we know it—humanists, and the humanities, might well die of hunger amid rich but fallow fields. Stover implies that the humanities, by way of lending cachet to the university as an institution and by taking advantage of historical inertia, may make it intact through successive and unrelenting crises. Dubious of this assertion, James McWilliams writes:
 
 #+BEGIN_QUOTE
 I'm absolutely certain that almost every high-ranking administrator at every university in the U.S. wakes up every morning prepared to fathom the case that the university is about serving the innovative needs of a globalizing economy—and if gutting the humanities would further that goal, they'd look at the numbers and make the call. ... Can you imagine, beyond the university, a swell of popular opinion rushing to defend the department of comparative literature ... from oblivion? citep:mcwilliams_humanities_2018
 #+END_QUOTE
+It seems relatively unlikely that the humanities, in a strict and literal sense, will cease to exist. However, the future of the humanities might be that of an institution that is moribund, a nominal shell. Distressingly, the humanities may already be internalizing an acceptance of this fate. A hallmark of this "rhetoric of gloom" is that, over the past half-century, as the humanities has moved from crisis to crisis—low enrollment, budget cuts, poor job prospects for graduates—the situation has become simply a recognized, ongoing reality. As Geoffrey Galt Harpham writes,  "[t]alk of crisis has been around for so long ... that it has become simply incorporated into the most accustomed ways in which humanistic scholars understand themselves and their work. Once considered an affliction, crisis has become a way of life" [[citep:harpham_%5Bhumanities_2011][p. 23]].
 
-xxx USE PARKER FROM 21st CENTURY BOOK HERE?
+** The Digital Humanities and the Public Humanities
+
+The interdisciplinary field of the digital humanities has come to occupy a specific space
+
+
+# quotes from chapter 2 of humanities in the 21st century (parker)
+:notes:
+But on reflection, maybe this very elitist attitude to the humanities and arts, this investment in them as ‘classy’ cultural capital, has led to another problem. A classic marketing strategy lies in making distinctive and less accessible the product you want to promote; some of the Ivy League and UK Russell Group universities have endeavoured to claim elite exclusivity for their research. The sciences while so doing have also been prominent in showing that their research outcomes have public benefit, and they have promoted the public understanding of science. A similar exclusivity in humanities research, however, has served precisely to separate it, by its inaccessible discourse and lack of attention to public involvement, and it has been made to seem part of an excluding agenda. As that Cambridge student protest attested, it is the divorce between the humanities elite and wider society that has led on both sides to a devaluing of real discourse rather than a simple economic discourse: Parker 47
+
+
+
+... but there may just be a breaking down and turning outwards of this humanities research silo. For there will be little money and few jobs for humanities researchers; could it be (I speak as an archaeologist whose profession has embraced ‘amateur’ help and expertise since the eighteenth century) that humanities research will again become driven by ‘amateurs’ (viz.: ‘passionate devotees’), coordi- nated and enabled by university departments functioning as outward- facing research networks? (As proposed in Parker 2013.) And maybe this would contribute to gaining ground in the task of revaluing the humanities and arts; encouraging them to move away from any ‘exclusive’ label; dropping arcane, specialist, and heavily theo- rised discourse; and rediscovering and re-embracing the public under- standing of humanities. Parker 48
+
+
+Public engagement – the involvement of universities with society – is a suddenly vital topic, for various reasons. In the United States it has always been part of university curricula, public engagement being seen as an opportunity or even an obligation. In the United Kingdom, instead, it became part of a New Deal, allowing universities to charge and then to raise tuition fees, provided they improved access for lower-income families and for members of minority ethnic groupings, and provided they took responsibility for sharing their scholarship and innovative thinking with the community. It is generally presumed that this affordance plays to humanities’ strengths, in that humanities research can be seen more easily to have imaginative outcomes and lend themselves to creative dissemination. It certainly seems a vitally important aspect of our work as academics to those of us who hold the humanities to be life-transforming as well as life- enhancing. But this turning outward of the humanities has met imme- diate internal resistance, more so than ‘public understanding of science’ events. One can only speculate about the causes – a deep-seated fear of the humanities disciplines beings seen as lightweight, merely populist? Matters are not helped by the anti-Humboldtian attempts by successive UK governments to divorce research from, and privilege it over, teaching. Various research audits, bringing with them a slew of managerialist discourse, have, again, privileged the research ‘star’ – often conceived as alone academic – over other members of an integrated university body. Parker 49
+:end:
+
+# alan liu wrestling wiht the position of DH
+:notes:
+The digital humanities can only take on their full importance when they are seen to serve the larger humanities (and arts, with affiliated social sciences) in helping them maintain their ability to contribute to the making of the full wealth of society, where “wealth” here has its older, classic sense of “well-being” or the good life woven together with the life of good.
+https://liu.english.ucsb.edu/why-im-in-it-x-2-antiphonal-response-to-stephan-ramsay-on-digital-humanities-and-cultural-criticism-page/
+
+
+themselves. The goal is to do research, to teach, and to live as if humanities technology is constantly intertwined with, reacts to, and acts on the way the links are now being forged between individuals (starting with those in the academy where we teach and conduct research) and the social-economic-political-technological constitution of contemporary society. ... What it comes down to is that the digital humanities need both to work on tools and methods in their own institutional place (the academy) and to develop a capable imagination of the relation of that unique institutional place (or family of variant institutional spaces) to the other major institutions that play a part in enabling or thwarting the passageway from private human subjectivity to public social sensibility.
+https://liu.english.ucsb.edu/why-im-in-it-x-2-antiphonal-response-to-stephan-ramsay-on-digital-humanities-and-cultural-criticism-page/
+:end:
+
+
+
 
 -----
+
+
+xxx USE PARKER FROM 21st CENTURY BOOK HERE?
 
 
 # assertions of outside benefit not necessarily true
@@ -1401,41 +1433,24 @@ xxx USE PARKER FROM 21st CENTURY BOOK HERE?
 # #+END_QUOTE
 :end:
 
-
-
-A hallmark of this "rhetoric of gloom" is that, over the past half-century, as the humanities has moved from crisis to crisis—low enrollment, budget cuts, poor job prospects for graduates—the situation has become simply a recognized, ongoing reality. As Geoffrey Galt Harpham writes,  "[t]alk of crisis has been around for so long ... that it has become simply incorporated into the most accustomed ways in which humanistic scholars understand themselves and their work. Once considered an affliction, crisis has become a way of life" [[citep:harpham_%5Bhumanities_2011][p. 23]].
-
-
-
-
-
-
 What would the humanities be without their crisis? 
 
 
-Since the 1960s, there has increasingly a rhetoric 
+# removed
+:notes:
+ # While the question of the value of the humanities is frequently debated, the question of humanities values is often left to implication. That is to say that there is frequent, and explicit, discussion of why we should care about the humanities, but little on what the humanities cares about.
 
 
-In outlining a taxonomy of this genre of writing
+# This is not, I would argue, because the humanities is unclear about its values. It's relatively safe to say, for example, that the humanities, collectively, cares about promoting diversity, removing asymmetries of power, and resisting corporatization and marketization. The humanities also, though less universally, values effective pedagogy, preservation of history and culture, the dissemination of knowledge to the wider public, and theoretical, textual, and philosophical rigor as applied to critical and interpretive work. 
 
-
-
-These debates center around whether the humanities should be considered in utilitarian or autotelic terms, how the humanities is relevant (or irrelevant) to modern society, and whether there is a future for the humanities.
-
-
-
- While the question of the value of the humanities is frequently debated, the question of humanities values is often left to implication. That is to say that there is frequent, and explicit, discussion of why we should care about the humanities, but little on what the humanities cares about.
-
-*************** TODO Get a bunch of sources and think pieces together about why the humanities matter. Stanley Fish and the crew.
-*************** END
-
-This is not, I would argue, because the humanities is unclear about its values. It's relatively safe to say, for example, that the humanities, collectively, cares about promoting diversity, removing asymmetries of power, and resisting corporatization and marketization. The humanities also, though less universally, values effective pedagogy, preservation of history and culture, the dissemination of knowledge to the wider public, and theoretical, textual, and philosophical rigor as applied to critical and interpretive work. 
-
-Difficulties emerge not because the humanities is unclear about its values, but because its values become enmeshed in overlapping hierarchies that privilege some kinds of work while placing certain kinds of labor on the margins. Though there are myriad such relationships that differ based on factors such as discipline, ranking, and geography, two value hierarchies have emerged as particularly damaging to the enterprise of the humanities—the privileging  of a relatively narrow research orientation, focused primarily  on interpretive and theoretical work, within the humanities, and the situation of the humanities within a larger framework, frequently market-oriented, set of values in the wider society. These punitive relationships—value-based hierarchies within and without the humanities—have resulted in a situation in which the humanities is positioned in a marginal role in the wider society, and certain forms of humanities practice become marginal even within the humanities itself.
+# Difficulties emerge not because the humanities is unclear about its values, but because its values become enmeshed in overlapping hierarchies that privilege some kinds of work while placing certain kinds of labor on the margins. Though there are myriad such relationships that differ based on factors such as discipline, ranking, and geography, two value hierarchies have emerged as particularly damaging to the enterprise of the humanities—the privileging  of a relatively narrow research orientation, focused primarily  on interpretive and theoretical work, within the humanities, and the situation of the humanities within a larger framework, frequently market-oriented, set of values in the wider society. These punitive relationships—value-based hierarchies within and without the humanities—have resulted in a situation in which the humanities is positioned in a marginal role in the wider society, and certain forms of humanities practice become marginal even within the humanities itself.
 
 This chapter, like previous chapters, is centered on loci of interaction, lines of interface between the humanities and its subjects on the one hand, and the humanities and the society in which it is enmeshed on the other. As in previous observations on loci of interaction among people with disabilities and their social and physical contexts, many of these concerns might be resolved more comprehensively through advocacy—that is, seeking a broad change in values across the humanities or across society. With that said, a negotiated approach, one concerned with hyperlocal conditions and the practical, largely inescapable challenges faced by humanities practitioners day-to-day, provides another vector for analysis and another lever for action.
+:end:
 
 Fundamentally, the question faced by many, if not all, humanities practitioners is how to contend—to stay relevant, to make one's mark—on a society that, by and large, does not share the values of the humanities. Compounding this, many humanities practitioners contend with marginalization enforced by hierarchies of labor within the humanities. Why, then, conceive of these issues, concerned as they are with the expression, transference, and frequent mismatch of values, as questions of infrastructure? Alan Liu, in a draft for the book /Against the Cultural Singularity/,, makes the startling observation that the study of infrastructure has begun to approach the study of culture in furthering comprehension of modern social contexts:
+
+
 
 #+BEGIN_QUOTE
 “infrastructure,” the social-cum-technological milieu that at once enables the fulfillment of human experience and enforces constraints on that experience, today has much of the same scale, complexity, and general cultural impact as the idea of “culture” itself. indeed, it may be that in late modernity when the bulk of life and work occurs in organizational institutions of one kind or another, the experience of infrastructure at institutional scales (undergirded by national or regional infrastructures such as electricity grids and global-scale infrastructures such as the internet) is operationally the experience of “culture.” put another way, the word “infrastructure” can now give us the same kind of general purchase on social complexity that stuart hall, raymond williams, and others sought when they reached for their all-purpose word, “culture.” (Liu)
@@ -2125,7 +2140,8 @@ http://sigwait.tk/~alex/doc/bunz%2Cmercedes__school-will-never-end/
 
 # Remembering the LAN
 https://tailscale.com/blog/remembering-the-lan/
-
+# control DJ with arm prosthesis
+https://www.youtube.com/watch?v=qSKBtEBRWi4&feature=youtu.be
 
 
 bibliographystyle:apalike
