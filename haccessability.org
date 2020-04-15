@@ -1375,7 +1375,65 @@ It seems relatively unlikely that the humanities, in a strict and literal sense,
 
 ** The Digital Humanities and the Public Humanities
 
-The interdisciplinary field of the digital humanities has come to occupy a specific space
+The interdisciplinary field of the digital humanities has come to occupy a specific space in the narrative of the demise, and potential revitalization, of the humanistic project. If commentary on the decline of the humanities   , and the corresponding assertions of its ongoing relevance in modern life, have become something of a genre, then the discourse around digital humanities has taken on a similar cadence. On the one hand, in a variety of takedowns and critiques, the digital humanities has been accused of complicity with technocratic forces, the marketization of the university, or the abandonment of core tenets of the humanities. On the other, DH is positioned as a breath of life, a bridge to a rapidly changing world, or, more crudely, the "next big thing" in the humanities.
+
+Two essays, "Technology Is Taking Over English Departments" by Adam Kirsch and "Neoliberal Tools (and Archives): A Political History of Digital Humanities" by Daniel Allington, Sarah Brouillette, and David Golumbia, provide a fairly representative sample of a genre of critique that positions the digital humanities as quisling, the beachhead for a technocratic takeover of the humanities. In his framing, Kirsch provides a blunt precis for what many find troubling in the field:
+
+#+BEGIN_QUOTE
+The humanities are in crisis again, or still. But there is one big exception: digital humanities, which is a growth industry. In 2009, the nascent field was the talk of the Modern Language Association (MLA) convention: “among all the contending subfields,” a reporter wrote about that year’s gathering, “the digital humanities seem like the first ‘next big thing’ in a long time.” Even earlier, the National Endowment for the Humanities created its Office of Digital Humanities to help fund projects. citep:kirsch_technology_2014
+#+END_QUOTE
+There is much going on by implication here, though many of these critiques are later made more explicit. The digital humanities is suspect through its association with technology. It is an "industry," by implication connected with Silicon Valley, surveillance capitalism, or worse. In its misguided legibility to outside forces, it receives money and, as such, is not pulling alongside other fields in the perennial crisis of the humanities. Kirsch continues:
+
+#+BEGIN_QUOTE
+If ever there were a chance to see the ideological construction of reality at work, digital humanities is it. Right before our eyes, options are foreclosed and demands enforced; a future is constructed as though it were being discovered. By now we are used to this process, since over the last twenty years the proliferation of new technologies has totally discredited the idea of opting out of “the future.”  citep:kirsch_technology_2014
+#+END_QUOTE
+Kirsch suggests that opting out of technology—the examples cited in this 2014 essay are "word processors, iPods, and e-mail"—would be opting out of the future. But might this kind of refusal—Kirsch cites Bartleby in this paragraph—not instead be opting out of the present? 
+
+Part of the issue here may be something touched on by Kirsch in his critique: the digital humanities is broad, and perhaps too broad. "But it would be unfair to generalize from the obviously anti-humanistic manifestations of digital humanities to the entirety of the field itself, for the simple reason that the field has no common essence: it is not a species but at best a genus, comprising a wide range of activities that have little relationship with one another" citep:kirsch_technology_2014. Perhaps, in a more ideal environment freed from the humanities austerity of the modern university, digital humanities would not exist as a construction—instead, platform studies, modern textual studies, critical code studies, text analysis, critical infrastructure studies, and many other fields would coexist and cross-pollenate. In practice, this is not far from the case—these are all thriving fields with independent scholarship, defined terms, and so on, but forced together through common cause.
+
+The reality is that, frankly, the tools used in the digital humanities are pretty damn old. 
+
+
+
+digital humanities too big
+digital humanities razzmatazz
+
+
+
+
+
+maybe we should stop talking about the digital humanities like it's a bunch of razzmatazz. let's do boring work
+
+
+
+
+engaging with technology
+
+
+There are a number of conflations here—technology with the future, 
+
+
+
+# no common essence
+:notes:
+But it would be unfair to generalize from the obviously anti-humanistic manifestations of digital humanities to the entirety of the field itself, for the simple reason that the field has no common essence: it is not a species but at best a genus, comprising a wide range of activities that have little relationship with one another. At its most pragmatic, digital humanities has less to do with ways of thinking than with problems of university administration. The advent of the Internet has posed challenges to the institutions of academia just as it has to the music business, and one function of digital humanities is to address these issues. In “What Is Digital Humanities and What’s It Doing in English Departments?” Matthew Kirschenbaum writes, “the construction of ‘digital humanities’ ... increasingly serves to focus the anxiety and even outrage of individual scholars over their own lack of agency amid the turmoil in their institutions and professions.”
+:end:
+
+
+
+
+
+
+In this broad argument, the digital humanities 
+
+
+
+
+
+
+
+fairly representative 
+
 
 
 # quotes from chapter 2 of humanities in the 21st century (parker)
