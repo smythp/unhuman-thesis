@@ -1389,7 +1389,68 @@ If ever there were a chance to see the ideological construction of reality at wo
 #+END_QUOTE
 Kirsch suggests that opting out of technology—the examples cited in this 2014 essay are "word processors, iPods, and e-mail"—would be opting out of the future. But might this kind of refusal—Kirsch cites Bartleby in this paragraph—not instead be opting out of the present? 
 
-Part of the issue here may be something touched on by Kirsch in his critique: the digital humanities is broad, and perhaps too broad. "But it would be unfair to generalize from the obviously anti-humanistic manifestations of digital humanities to the entirety of the field itself, for the simple reason that the field has no common essence: it is not a species but at best a genus, comprising a wide range of activities that have little relationship with one another" citep:kirsch_technology_2014. Perhaps, in a more ideal environment freed from the humanities austerity of the modern university, digital humanities would not exist as a construction—instead, platform studies, modern textual studies, critical code studies, text analysis, critical infrastructure studies, and many other fields would coexist and cross-pollenate. In practice, this is not far from the case—these are all thriving fields with independent scholarship, defined terms, and so on, but forced together through common cause.
+Part of the issue here may be something touched on by Kirsch in his critique: the digital humanities is broad, and perhaps, for some purposes, too broad. "But it would be unfair to generalize from the obviously anti-humanistic manifestations of digital humanities to the entirety of the field itself, for the simple reason that the field has no common essence: it is not a species but at best a genus, comprising a wide range of activities that have little relationship with one another" citep:kirsch_technology_2014. Perhaps, in a more ideal environment freed from the austerity of the modern university, digital humanities would not exist as a construction—instead, platform studies, modern textual studies, critical code studies, computational literary studies, critical infrastructure studies, and many other fields would coexist and cross-pollenate. In practice, this is not far from the case—these are all thriving fields with independent scholarship, seminal texts, and active discourses. For pragmatic reasons, such as the necessity to be legible to colleagues and administrators, and historic reasons, such as the shared reference to foundational texts and discourses, the term digital humanities as a rubric for disparate forms of scholarship has been, and continues to be, useful and descriptive. However, the broad nature of the digital humanities, the amount of ground it is required to cover, causes critiques of specific aspects of the humanities and its relation to technology, or the humanities and its relationship to the outside world, to take the form of debates and discourses that are low granularity, sensational, and repetitive. These discourses are frequently based on, or evoke, simple binaries, which, at their most reductive, might resemble "humanism is good, technology is bad." [fn:same-brush]
+
+[fn:same-brush] This is not at all an issue exclusive to humanists. Tech boosters who think everyone should get with the program are guilty of their own form of this—something like "progress good, objections bad," or, even more reductively, "new good, old bad." If someone is being called a Luddite in a conversation, this dichotomy  is in play. And, while I am building to a critique of the humanities' engagement with outside forces here, I would note that erring on the side of progress boosterism likely has a far higher potential for damage.
+
+
+# !!!! END FOOTNOTE
+
+A piece in the Chronicle for Higher Education, Nan Z. Da's 2019 "The Digital Humanities Debacle," demonstrates how this dynamic frequently plays out. Though the article is framed as a broadside against the digital humanities, it is actually a critique of computational literary studies (CLS), a subfield within the digital humanities. Da's observations, though positioned as polemic and framed broadly, are, in fact, particular and largely reasoned as they apply to CLS. [fn:da-discussion] Despite this, the framing of the article is not "CLS needs to produce some results to back up its claims" but, capitalizing on the larger discourse of suspicion around humanities engagement with technology, "The Debacle of the Digital Humanities." Rather than a particularity—is CLS, a relatively, but not excessively, well-known subfield of the digital humanities not living up to its self-stated potential?—the polemical title evokes a generality——should we, in the humanities, concern ourselves—sully ourselves—with technology?
+
+** The Infrastructural Humanities
+
+Though our mandate is to see what others might not, to read deeply, the humanities also has a history of not seeing what it does not wish to see. 
+
+
+
+
+
+
+#+BEGIN_QUOTE
+In the various forms of “resistance” encountered in this essay, I think we can see that the critical dismissal of Ngrams and culturomics, the devaluing of digital-based research, the institutional unwillingness to regard work conducted in an electronic medium as on a par with print, and the related continuation of the “gold standard” of the monograph in tenure and promotion decisions are all symptoms of the fact that, to cite again Morris Eave’s colorful figure, the rat has not yet been digested by the python.
+#+END_QUOTE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[fn:da-discussion] Da argues that methods practiced in computational literary studies, including "distant reading" studies of formal or cultural trends in large text corpora, do not produce novel results—that is, results that could not be achieved through traditional methods such as close reading. Da further criticizes a relatively prevalent defense in CLS: couching weak or underpowered results as exploratory. Though I don't agree with all the assertions in the paper, the call for technical and rhetorical maturity in the field is timely and the specifics of the article were and are productive. Criticism here is reserved for the article's framing in a larger context of the humanities' suspicion of any engagement with technology.
+
+
+# !!!! END FOOTNOTE
+
+
+ that attempts to study trends over a large
+
+
+
+
+Computational methods repeatedly come up short.
+
+
+
+
+
+
+
+
+
+
+—humanism versus technology, 
+
+
+
+
 
 The reality is that, frankly, the tools used in the digital humanities are pretty damn old. 
 
