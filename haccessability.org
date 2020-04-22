@@ -1417,9 +1417,51 @@ The digital humanities is not what it says it is about. Rather, the digital huma
 
 # !!!!! END FOOTENOTE
 
-Participants in the genre of the DH takedown are partially  right. The digital humanities is, indeed, a boundary field, in the sense that DH engages with, or is to some extent inspired by, specific forces and trends in the larger society. This engagement should not be overstated—much or most of DH is grounded firmly in the values of the humanities. Nor is this form of engagement unique to the digital humanities. Besides New Media Studies, with which DH is to a great extent enmeshed, fields such as composition and rhetoric, textual studies, the public humanities, and archival studies make use of methodologies shared with fields outside the humanities, and study objects and phenomena sometimes disregarded in other fields.
+Participants in the genre of the DH takedown are partially  right. The digital humanities is, indeed, a boundary field, in the sense that DH engages with specific forces and trends— in the larger society. Nor is this form of engagement unique to the digital humanities. Besides New Media Studies, with which DH is to a great extent enmeshed, fields such as composition and rhetoric, textual studies, and archival studies make use of methodologies shared with fields outside the humanities, and study objects and phenomena sometimes disregarded in other fields. 
+
+Perhaps mor importantly, these fields, along with the digital humanities, attend to the (frequently invisible) structures and processes that make scholarship, and the life of the university, possible—what we might broadly call infrastructure. Scholars in textual scholarship, paleography, book history, and related disciplines "study process (the historical stages in the production, transmission, and reception of texts), not just product (the text resulting from such production, transmission, and reception)" [[citep:greetham_textual_2015][p. 2]]. In /Naming What We Know/, Elizabeth Wardle and Linda Adler-Kassner lay out a notably clear precis for writing studies and related fields:
+
+#+BEGIN_QUOTE
+Writing is created, produced, distributed, and used for a variety of purposes. In this sense, it is an activity in which individuals and groups engage. However, the production, consumption, circulation, distribution, and use of writing are also areas of inquiry. Researchers in a number of fields (including, but not limited to, rhetoric and composition, linguistics, and literacy studies) investigate questions about writing. [[citep:adler-kassner_naming_2015][p. 15]]
+#+END_QUOTE
+Besides engaging with writing as a process and an area of inquiry and teaching as a process and an area of inquiry, composition and rhetoric also engages program administration, not as an evil, but as a process and an area of inquiry. 
+
+
+
+process produces product
+
+
+
+
+#+BEGIN_QUOTE
+Textual scholars 
+#+END_QUOTE
+
+
+
+
+
+
+#+BEGIN_QUOTE
+Over the past decade, a growing body of scholarship in media studies and other cognate disciplines has focused our attention on the social, material, cultural, and political dimensions of the infrastructures that undergird and sustain media and communication networks and cultures across the world. This infrastructural turn assumes greater significance in relation to digital media and in particular, the influence that digital platforms have come to wield. Having ‘disrupted’ many sectors of social, political, and economic life, many of the most widely used digital platforms now seem to operate as infrastructures themselves. This special issue explores how an infrastructural perspective reframes the study of digital platforms and allows us to pose questions of scale, labor, industry logics, policy and regulation, state power, cultural practices, and citizenship in relation to the routine, everyday uses of digital platforms. In this opening article, we offer a critical overview of media infrastructure studies and situate the study of digital infrastructures and platforms within broader scholarly and public debates on the history and political economy of media infrastructures. We also draw on the study of media industries and production cultures to make the case for an inter-medial and inter-sectoral approach to understanding the entanglements of digital platforms and infrastructures.
+#+END_QUOTE
+
+
+
+
+
+
+
+
+
+
+
 
 They need to use DH because, to defend, the ramparts, they have to ignore the enemy already within the gates
+
+
+
+
 
 
 the problem of the positioning of the digital humanities can be framed as a problem of negotiation. digital humanities is positioned at the place the humanitie encounters the outside world, and specifically  certain componans of the outside world that are giving it trouble
