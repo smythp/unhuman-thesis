@@ -1424,7 +1424,71 @@ Perhaps mor importantly, these fields, along with the digital humanities, attend
 #+BEGIN_QUOTE
 Writing is created, produced, distributed, and used for a variety of purposes. In this sense, it is an activity in which individuals and groups engage. However, the production, consumption, circulation, distribution, and use of writing are also areas of inquiry. Researchers in a number of fields (including, but not limited to, rhetoric and composition, linguistics, and literacy studies) investigate questions about writing. [[citep:adler-kassner_naming_2015][p. 15]]
 #+END_QUOTE
-Besides engaging with writing as a process and an area of inquiry and teaching as a process and an area of inquiry, composition and rhetoric also engages program administration, not as an evil, but as a process and an area of inquiry. 
+Besides engaging with writing as a process and an area of inquiry and teaching as a process and an area of inquiry, composition and rhetoric also engages program administration, not as a necessary evil, but as a process and an area of inquiry. 
+
+The relationship of these fields to the discipline of English parallels the situation of digital humanities within the humanities. While practices such as writing and bibliography might grudgingly be considered necessary technical skills, their consideration as areas of inquiry—that, say, writing, thinking about writing, and then writing about writing might be a productive feedback loop for the generation of useful scholarship—is not widely credited. Humanities scholars might use computers to do their work, writing in word processing software and researching on library infrastructure, but this process is incidental, and, by preference, not worthy of sustained scrutiny. Like the administration of writing programs, the arrangement of information in a scholarly database, or the painstaking construction of a copy text, attention to the process that is infrastructure is a necessary evil that, if possible, should be abstracted from real scholarship. The hermaneutic and critical method, as rigidly defined, must be read, think, write, publish, not, for example, build, think, write, publish, or, with more complexity, build, read, think, write, publish.
+
+
+# stuff from scratch
+:notes:
+
+Textual scholars study process (the historical stages in the production, transmission, and reception of texts), not just product (the text resulting from such production, transmission, and reception)” (p. 2;
+
+
+
+
+In this essay we focus on the institutional infrastructures and cultural contexts necessary to support teaching students to compose with new media.2 
+
+These often invisible structures make possible and limit, shape and constrain, influence and penetrate all acts of composing new media in writing classes. Although these structural aspects of teaching new media might easily be dismissed as mere inconvenience when they break down or rupture entirely, they are, in fact, deeply embedded in the acts of digital-media composing. ... [I]nfrastructures are absolutely necessary for writing teachers and their students to understand if we hope to enact the possibilities offered by new-media composing. Writing within digital spaces occurs within a matrix of local and more global policies, standards, and practices. These variables often emerge as visible and at times invisible statements about what types of work are possible and valuable (encoded, often, in curricula, assessment guidelines, standards, and policies). Some of these issues need the attention of teachers and of program administrators, but we would be miseducating student writers if we didn't teach them that these issues-that which we can too easily dismiss as "constraints"-are indeed deeply embedded in the decision-making processes of writing. If students are to be effective and critical new-media composers, they should be equipped with ways in which they can consider and push at practices and standards in strategic ways.
+
+
+
+Bruce Horner 165
+ involved in the practices responsible for the value of computers: for the
+ infrastructure, the training, a society that believes it needs the kind of
+ information that can be stored and generated only by computers, and so
+ on. Through commodiflcation, the entire material social process by
+ which particular values are realized is occluded. It is in this sense that
+ commodiflcation denies the full social materiality of work. And it is in
+ this sense that dominant WPA discourse and dominant discourse on
+ unionism participate in the commodiflcation of the work of composition.
+ The participation of dominant WPA discourse in this commodiflcation
+ takes two forms distinguished by the particular economy of value in
+ which the discourse is exercised. Within the economy of academic
+ positions of hiring, tenure, and promotion, in which scholarly work
+ carries greater value than forms of work deemed "service" or "teaching,"
+ WPA work is defined as valuable insofar as it is "intellectual." Within the
+ larger social economies of tuition revenue and marketable skills, the
+ value of WPA work, and along with it the value of the work of teaching
+ composition, is defined in terms of the tuition earned through writing
+ programs and the marketable skills that writing programs ostensibly
+ produce. What links both despite their differences is their occlusion of the
+ social materiality of the work: the location of that work in specific
+ concrete labor practices and material social conditions. And insofar as
+ WPA work, like the work of teaching composition generally, is located
+ more undeniably in such practices and conditions, discourses that claim
+ value for the work in terms of its distance from these inevitably put those
+ involved in that work at a disadvantage in comparison to those who can
+ more credibly deny the materiality of their work.
+ The Value of Composition Work as "Intellectual"
+ We can see examples of this first form of valuation in the document
+ "Evaluating the Intellectual Work of Writing Administration," a position
+ statement of the Council of Writing Program Administrators (hereafter
+ "Evaluating"). "Evaluating" is not aimed at countering the ways in which
+ the academic work of writing program administrators is commonly
+ evaluated. As its title suggests, it accepts that forms of work that can
+
+
+
+
+
+ —
+
+:end:
+
+
+
+recursion
 
 
 
