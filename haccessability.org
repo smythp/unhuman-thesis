@@ -1432,114 +1432,98 @@ The relationship of these fields to the discipline of English parallels the situ
 # stuff from scratch
 :notes:
 
-Textual scholars study process (the historical stages in the production, transmission, and reception of texts), not just product (the text resulting from such production, transmission, and reception)” (p. 2;
+# Textual scholars study process (the historical stages in the production, transmission, and reception of texts), not just product (the text resulting from such production, transmission, and reception)” (p. 2;
+
+
+# quote:
+# In this essay we focus on the institutional infrastructures and cultural contexts necessary to support teaching students to compose with new media.2 
+
+# These often invisible structures make possible and limit, shape and constrain, influence and penetrate all acts of composing new media in writing classes. Although these structural aspects of teaching new media might easily be dismissed as mere inconvenience when they break down or rupture entirely, they are, in fact, deeply embedded in the acts of digital-media composing. ... [I]nfrastructures are absolutely necessary for writing teachers and their students to understand if we hope to enact the possibilities offered by new-media composing. Writing within digital spaces occurs within a matrix of local and more global policies, standards, and practices. These variables often emerge as visible and at times invisible statements about what types of work are possible and valuable (encoded, often, in curricula, assessment guidelines, standards, and policies). Some of these issues need the attention of teachers and of program administrators, but we would be miseducating student writers if we didn't teach them that these issues-that which we can too easily dismiss as "constraints"-are indeed deeply embedded in the decision-making processes of writing. If students are to be effective and critical new-media composers, they should be equipped with ways in which they can consider and push at practices and standards in strategic ways.
 
 
 
-
-In this essay we focus on the institutional infrastructures and cultural contexts necessary to support teaching students to compose with new media.2 
-
-These often invisible structures make possible and limit, shape and constrain, influence and penetrate all acts of composing new media in writing classes. Although these structural aspects of teaching new media might easily be dismissed as mere inconvenience when they break down or rupture entirely, they are, in fact, deeply embedded in the acts of digital-media composing. ... [I]nfrastructures are absolutely necessary for writing teachers and their students to understand if we hope to enact the possibilities offered by new-media composing. Writing within digital spaces occurs within a matrix of local and more global policies, standards, and practices. These variables often emerge as visible and at times invisible statements about what types of work are possible and valuable (encoded, often, in curricula, assessment guidelines, standards, and policies). Some of these issues need the attention of teachers and of program administrators, but we would be miseducating student writers if we didn't teach them that these issues-that which we can too easily dismiss as "constraints"-are indeed deeply embedded in the decision-making processes of writing. If students are to be effective and critical new-media composers, they should be equipped with ways in which they can consider and push at practices and standards in strategic ways.
-
-
-
-Bruce Horner 165
- involved in the practices responsible for the value of computers: for the
- infrastructure, the training, a society that believes it needs the kind of
- information that can be stored and generated only by computers, and so
- on. Through commodiflcation, the entire material social process by
- which particular values are realized is occluded. It is in this sense that
- commodiflcation denies the full social materiality of work. And it is in
- this sense that dominant WPA discourse and dominant discourse on
- unionism participate in the commodiflcation of the work of composition.
- The participation of dominant WPA discourse in this commodiflcation
- takes two forms distinguished by the particular economy of value in
- which the discourse is exercised. Within the economy of academic
- positions of hiring, tenure, and promotion, in which scholarly work
- carries greater value than forms of work deemed "service" or "teaching,"
- WPA work is defined as valuable insofar as it is "intellectual." Within the
- larger social economies of tuition revenue and marketable skills, the
- value of WPA work, and along with it the value of the work of teaching
- composition, is defined in terms of the tuition earned through writing
- programs and the marketable skills that writing programs ostensibly
- produce. What links both despite their differences is their occlusion of the
- social materiality of the work: the location of that work in specific
- concrete labor practices and material social conditions. And insofar as
- WPA work, like the work of teaching composition generally, is located
- more undeniably in such practices and conditions, discourses that claim
- value for the work in terms of its distance from these inevitably put those
- involved in that work at a disadvantage in comparison to those who can
- more credibly deny the materiality of their work.
- The Value of Composition Work as "Intellectual"
- We can see examples of this first form of valuation in the document
- "Evaluating the Intellectual Work of Writing Administration," a position
- statement of the Council of Writing Program Administrators (hereafter
- "Evaluating"). "Evaluating" is not aimed at countering the ways in which
- the academic work of writing program administrators is commonly
- evaluated. As its title suggests, it accepts that forms of work that can
-
-
-
-
-
- —
+# Bruce Horner 165
+#  involved in the practices responsible for the value of computers: for the
+#  infrastructure, the training, a society that believes it needs the kind of
+#  information that can be stored and generated only by computers, and so
+#  on. Through commodiflcation, the entire material social process by
+#  which particular values are realized is occluded. It is in this sense that
+#  commodiflcation denies the full social materiality of work. And it is in
+#  this sense that dominant WPA discourse and dominant discourse on
+#  unionism participate in the commodiflcation of the work of composition.
+#  The participation of dominant WPA discourse in this commodiflcation
+#  takes two forms distinguished by the particular economy of value in
+#  which the discourse is exercised. Within the economy of academic
+#  positions of hiring, tenure, and promotion, in which scholarly work
+#  carries greater value than forms of work deemed "service" or "teaching,"
+#  WPA work is defined as valuable insofar as it is "intellectual." Within the
+#  larger social economies of tuition revenue and marketable skills, the
+#  value of WPA work, and along with it the value of the work of teaching
+#  composition, is defined in terms of the tuition earned through writing
+#  programs and the marketable skills that writing programs ostensibly
+#  produce. What links both despite their differences is their occlusion of the
+#  social materiality of the work: the location of that work in specific
+#  concrete labor practices and material social conditions. And insofar as
+#  WPA work, like the work of teaching composition generally, is located
+#  more undeniably in such practices and conditions, discourses that claim
+#  value for the work in terms of its distance from these inevitably put those
+#  involved in that work at a disadvantage in comparison to those who can
+#  more credibly deny the materiality of their work.
+#  The Value of Composition Work as "Intellectual"
+#  We can see examples of this first form of valuation in the document
+#  "Evaluating the Intellectual Work of Writing Administration," a position
+#  statement of the Council of Writing Program Administrators (hereafter
+#  "Evaluating"). "Evaluating" is not aimed at countering the ways in which
+#  the academic work of writing program administrators is commonly
+#  evaluated. As its title suggests, it accepts that forms of work that can
 
 :end:
 
+# infrastructural turn and why we need to study platforms
+:notes:
+# #+BEGIN_QUOTE
+# Over the past decade, a growing body of scholarship in media studies and other cognate disciplines has focused our attention on the social, material, cultural, and political dimensions of the infrastructures that undergird and sustain media and communication networks and cultures across the world. This infrastructural turn assumes greater significance in relation to digital media and in particular, the influence that digital platforms have come to wield. Having ‘disrupted’ many sectors of social, political, and economic life, many of the most widely used digital platforms now seem to operate as infrastructures themselves. This special issue explores how an infrastructural perspective reframes the study of digital platforms and allows us to pose questions of scale, labor, industry logics, policy and regulation, state power, cultural practices, and citizenship in relation to the routine, everyday uses of digital platforms. In this opening article, we offer a critical overview of media infrastructure studies and situate the study of digital infrastructures and platforms within broader scholarly and public debates on the history and political economy of media infrastructures. We also draw on the study of media industries and production cultures to make the case for an inter-medial and inter-sectoral approach to understanding the entanglements of digital platforms and infrastructures.
+# #+END_QUOTE
+:end:
 
+# discarded
+:notes:
+# the problem of the positioning of the digital humanities can be framed as a problem of negotiation. digital humanities is positioned at the place the humanitie encounters the outside world, and specifically  certain componans of the outside world that are giving it trouble
+:end:
 
-recursion
+** Breaking the Boundary
 
+The positions of scholars such as Stover (the humanities is autotelic, and we should tend our garden) or Allington, Brouillette, and Golumbia (the hermaneutic, as habitually conceived, is the only way to do humanities scholarship) provide little way forward. For isolated pockets of humanists, primarily tenured professors at the most elite institutions, continuing on as if the humanities is not in crisis may be possible, at least for the forseeable future. Similarly, repeatedly knocking the straw from an effigy of the digital humanities may continue to provide some catharsis. However, the humanities faces a crisis, and not only one of diminishing numbers—enrollments, grant awards, and tenure-track positions. The humanities faces a problem of negotiation, of exercising its values in an encircling context that is largely indifferent or hostile to our concerns.
 
+Rather than retreat from the world, the humanities should, and perhaps must, engage with it. However, there are a number of obstacles in place to sustained engagement with the world outside the academy. These include an elitism that interferes with outreach to the public, an infrastructural agnosia that impedes larger readings of modern culture, and a lack of introspection about the tools and methods we use to research, teach, publish, and think.
 
-process produces product
-
+----
 
 
 
 #+BEGIN_QUOTE
-Textual scholars 
+But on reflection, maybe this very elitist attitude to the humanities and arts, this investment in them as ‘classy’ cultural capital, has led to another problem. A classic marketing strategy lies in making distinctive and less accessible the product you want to promote; some of the Ivy League and UK Russell Group universities have endeavoured to claim elite exclusivity for their research. The sciences while so doing have also been prominent in showing that their research outcomes have public benefit, and they have promoted the public understanding of science. A similar exclusivity in humanities research, to public involvement, and it has been made to seem part of an excluding agenda. (Parker 47)
 #+END_QUOTE
 
 
 
 
 
-
-#+BEGIN_QUOTE
-Over the past decade, a growing body of scholarship in media studies and other cognate disciplines has focused our attention on the social, material, cultural, and political dimensions of the infrastructures that undergird and sustain media and communication networks and cultures across the world. This infrastructural turn assumes greater significance in relation to digital media and in particular, the influence that digital platforms have come to wield. Having ‘disrupted’ many sectors of social, political, and economic life, many of the most widely used digital platforms now seem to operate as infrastructures themselves. This special issue explores how an infrastructural perspective reframes the study of digital platforms and allows us to pose questions of scale, labor, industry logics, policy and regulation, state power, cultural practices, and citizenship in relation to the routine, everyday uses of digital platforms. In this opening article, we offer a critical overview of media infrastructure studies and situate the study of digital infrastructures and platforms within broader scholarly and public debates on the history and political economy of media infrastructures. We also draw on the study of media industries and production cultures to make the case for an inter-medial and inter-sectoral approach to understanding the entanglements of digital platforms and infrastructures.
-#+END_QUOTE
-
+- the humanities doesn't engage the public
+- the humanities doesn't engage with infrastructure, and therefore no longer engages culture
+- due to its disregard for infrastructure for research, publication, writing, and thinking, the humanities is unable to exercise its values
 
 
 
 
 
 
-
-
-
-
-
-They need to use DH because, to defend, the ramparts, they have to ignore the enemy already within the gates
-
-
-
-
-
-
-the problem of the positioning of the digital humanities can be framed as a problem of negotiation. digital humanities is positioned at the place the humanitie encounters the outside world, and specifically  certain componans of the outside world that are giving it trouble
-
-
-** The Infrastructural Humanities
-
-Though our mandate is to see what others might not, to read deeply, the humanities also has a history of not seeing what it does not wish to see. 
-
-
-#+BEGIN_QUOTE
-In the various forms of “resistance” encountered in this essay, I think we can see that the critical dismissal of Ngrams and culturomics, the devaluing of digital-based research, the institutional unwillingness to regard work conducted in an electronic medium as on a par with print, and the related continuation of the “gold standard” of the monograph in tenure and promotion decisions are all symptoms of the fact that, to cite again Morris Eave’s colorful figure, the rat has not yet been digested by the python.
-#+END_QUOTE
-
+# Ressitance to DH in tenure, etc.
+:notes:
+# #+BEGIN_QUOTE
+# In the various forms of “resistance” encountered in this essay, I think we can see that the critical dismissal of Ngrams and culturomics, the devaluing of digital-based research, the institutional unwillingness to regard work conducted in an electronic medium as on a par with print, and the related continuation of the “gold standard” of the monograph in tenure and promotion decisions are all symptoms of the fact that, to cite again Morris Eave’s colorful figure, the rat has not yet been digested by the python.
+# #+END_QUOTE
+:end:
 
 
 
@@ -1604,7 +1588,6 @@ xxx USE PARKER FROM 21st CENTURY BOOK HERE?
 
 
 # assertions of outside benefit not necessarily true
-
 # #+BEGIN_QUOTE
 # We say that exposure to the humanities leads to a more meaningful life, a deeper appreciation of the truth, better critical thinking skills, or a predilection for deeper empathy. These assertions might be true in some cases—but they're not necessarily true. The pursuit of other interests could just as likely produce these beneficial results. ... [A]n education in the humanities could make a person selfish, confused, totally biased, and even miserable.
 # https://psmag.com/education/long-live-the-humanities
@@ -1639,7 +1622,7 @@ What would the humanities be without their crisis?
 
 # Difficulties emerge not because the humanities is unclear about its values, but because its values become enmeshed in overlapping hierarchies that privilege some kinds of work while placing certain kinds of labor on the margins. Though there are myriad such relationships that differ based on factors such as discipline, ranking, and geography, two value hierarchies have emerged as particularly damaging to the enterprise of the humanities—the privileging  of a relatively narrow research orientation, focused primarily  on interpretive and theoretical work, within the humanities, and the situation of the humanities within a larger framework, frequently market-oriented, set of values in the wider society. These punitive relationships—value-based hierarchies within and without the humanities—have resulted in a situation in which the humanities is positioned in a marginal role in the wider society, and certain forms of humanities practice become marginal even within the humanities itself.
 
-This chapter, like previous chapters, is centered on loci of interaction, lines of interface between the humanities and its subjects on the one hand, and the humanities and the society in which it is enmeshed on the other. As in previous observations on loci of interaction among people with disabilities and their social and physical contexts, many of these concerns might be resolved more comprehensively through advocacy—that is, seeking a broad change in values across the humanities or across society. With that said, a negotiated approach, one concerned with hyperlocal conditions and the practical, largely inescapable challenges faced by humanities practitioners day-to-day, provides another vector for analysis and another lever for action.
+# This chapter, like previous chapters, is centered on loci of interaction, lines of interface between the humanities and its subjects on the one hand, and the humanities and the society in which it is enmeshed on the other. As in previous observations on loci of interaction among people with disabilities and their social and physical contexts, many of these concerns might be resolved more comprehensively through advocacy—that is, seeking a broad change in values across the humanities or across society. With that said, a negotiated approach, one concerned with hyperlocal conditions and the practical, largely inescapable challenges faced by humanities practitioners day-to-day, provides another vector for analysis and another lever for action.
 :end:
 
 Fundamentally, the question faced by many, if not all, humanities practitioners is how to contend—to stay relevant, to make one's mark—on a society that, by and large, does not share the values of the humanities. Compounding this, many humanities practitioners contend with marginalization enforced by hierarchies of labor within the humanities. Why, then, conceive of these issues, concerned as they are with the expression, transference, and frequent mismatch of values, as questions of infrastructure? Alan Liu, in a draft for the book /Against the Cultural Singularity/,, makes the startling observation that the study of infrastructure has begun to approach the study of culture in furthering comprehension of modern social contexts:
@@ -2349,6 +2332,10 @@ https://churchlifejournal.nd.edu/articles/youre-a-slave-to-money-then-you-die/
 # stagnation scientific
 https://www.nber.org/papers/w26752.pdf
 
+# An Actual Virus Sobers the Goofy Age of ‘Going Viral’
+https://www.nytimes.com/2020/03/28/style/coronavirus-going-viral.html
+
+S
 
 
 bibliographystyle:apalike
