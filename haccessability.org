@@ -1427,8 +1427,6 @@ Writing is created, produced, distributed, and used for a variety of purposes. I
 Besides engaging with writing as a process and an area of inquiry and teaching as a process and an area of inquiry, composition and rhetoric also engages program administration, not as a necessary evil, but as a process and an area of inquiry. 
 
 The relationship of these fields to the discipline of English parallels the situation of digital humanities within the humanities. While practices such as writing and bibliography might grudgingly be considered necessary technical skills, their consideration as areas of inquiry—that, say, writing, thinking about writing, and then writing about writing might be a productive feedback loop for the generation of useful scholarship—is not widely credited. Humanities scholars might use computers to do their work, writing in word processing software and researching on library infrastructure, but this process is incidental, and, by preference, not worthy of sustained scrutiny. Like the administration of writing programs, the arrangement of information in a scholarly database, or the painstaking construction of a copy text, attention to the process that is infrastructure is a necessary evil that, if possible, should be abstracted from real scholarship. The hermaneutic and critical method, as rigidly defined, must be read, think, write, publish, not, for example, build, think, write, publish, or, with more complexity, build, read, think, write, publish.
-
-
 # stuff from scratch
 :notes:
 
@@ -1493,19 +1491,24 @@ The relationship of these fields to the discipline of English parallels the situ
 
 ** Breaking the Boundary
 
-The positions of scholars such as Stover (the humanities is autotelic, and we should tend our garden) or Allington, Brouillette, and Golumbia (the hermaneutic, as habitually conceived, is the only way to do humanities scholarship) provide little way forward. For isolated pockets of humanists, primarily tenured professors at the most elite institutions, continuing on as if the humanities is not in crisis may be possible, at least for the forseeable future. Similarly, repeatedly knocking the straw from an effigy of the digital humanities may continue to provide some catharsis. However, the humanities faces a crisis, and not only one of diminishing numbers—enrollments, grant awards, and tenure-track positions. The humanities faces a problem of negotiation, of exercising its values in an encircling context that is largely indifferent or hostile to our concerns.
+The positions of scholars such as Stover (the humanities is autotelic, and we should tend our garden) or Allington, Brouillette, and Golumbia (interpretation of traditional texts is the only way to do humanities scholarship) provide little way forward. For isolated pockets of humanists, primarily tenured professors at the most elite institutions, continuing on as if the humanities is not in crisis may be possible, at least for the forseeable future. Similarly, repeatedly knocking the straw from an effigy of the digital humanities may continue to provide some catharsis. However, the humanities faces a crisis, and not only one of diminishing numbers—enrollments, grant awards, and tenure-track positions. The humanities faces a problem of negotiation, of exercising its values in an encircling context that is largely indifferent or hostile to our concerns.
 
-Rather than retreat from the world, the humanities should, and perhaps must, engage with it. However, there are a number of obstacles in place to sustained engagement with the world outside the academy. These include an elitism that interferes with outreach to the public, an infrastructural agnosia that impedes larger readings of modern culture, and a lack of introspection about the tools and methods we use to research, teach, publish, and think.
+Rather than retreat from the world, the humanities should, and perhaps must, engage with it. However, there are a number of obstacles in place to sustained engagement with the world outside the academy. These include an elitism that interferes with outreach to the public, an infrastructural agnosia that impedes larger readings of modern culture, and a lack of introspection about the tools and methods we use to research, teach, publish, and think. Interpretation—of texts, of culture, of structures of power—will, and must, remain core to the work of the humanities. However, humanists should acknowledge, and learn from, the interpretive work that takes place outside the academy. Further, we must build on the work of scholars who are turning their critical and hermaneutic faculties on a broader array of structures and texts: systems, interfaces, platforms, hardware, networks, and algorithms. Finally, we must acknowledge that lack of access is not rigor. Currently, our lack of attention to infrastructure shuts new, and diverse, scholars out of the humanities, prevents us from sharing our work with wider audiences, and makes us reliant on entities, particularly corporations, that are antithetical to our values. Just as teaching—though many choose not to recognize it—informs and sustains research and scholarship, acts of technological maintenance, care, and creation should be recognized for their impact on scholarly inquiry into the interplay between social structures and technical systems.
 
-----
-
-
+A thread underlying these criticisms is a concern for cachet, reputation, and intellectual capital that becomes pathological in a time of scarcity and precarity. Jan Parker alludes to this in a discussion of a student protest that led to an nine-day occupationK:
 
 #+BEGIN_QUOTE
-But on reflection, maybe this very elitist attitude to the humanities and arts, this investment in them as ‘classy’ cultural capital, has led to another problem. A classic marketing strategy lies in making distinctive and less accessible the product you want to promote; some of the Ivy League and UK Russell Group universities have endeavoured to claim elite exclusivity for their research. The sciences while so doing have also been prominent in showing that their research outcomes have public benefit, and they have promoted the public understanding of science. A similar exclusivity in humanities research, to public involvement, and it has been made to seem part of an excluding agenda. (Parker 47)
+A classic marketing strategy lies in making distinctive and less accessible the product you want to promote; some of the Ivy League and UK Russell Group universities have endeavoured to claim elite exclusivity for their research. The sciences while so doing have also been prominent in showing that their research outcomes have public benefit, and they have promoted the public understanding of science. A similar exclusivity in humanities research, to public involvement, and it has been made to seem part of an excluding agenda. ... [I]t is the divorce between the humanities elite and wider society that has led on both sides to a devaluing of real discourse (Parker 47)
 #+END_QUOTE
 
+As Parker suggests, while the sciences struggle with issues of accessibility and exclusivity, there is a countervailing tradition of engagement with the public that facilitates broader understanding of the importance of science. A humanities tradition of engagement with the public is significantly less developed. Though a subtler, this lack of engagement with the public, combined with the dwindling resources directed at the humanities, causes suspicion to be levied at boundary 
 
+
+In the following section, we will explore some of the differences between how the humanities and the sciences share research and engage the public.
+
+
+
+the reality is that most of DH is boring in this sense
 
 
 
