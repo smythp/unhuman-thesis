@@ -1426,7 +1426,10 @@ Writing is created, produced, distributed, and used for a variety of purposes. I
 #+END_QUOTE
 Besides engaging with writing as a process and an area of inquiry and teaching as a process and an area of inquiry, composition and rhetoric also engages program administration, not as a necessary evil, but as a process and an area of inquiry. 
 
-The relationship of these fields to the discipline of English parallels the situation of digital humanities within the humanities. While practices such as writing and bibliography might grudgingly be considered necessary technical skills, their consideration as areas of inquiry—that, say, writing, thinking about writing, and then writing about writing might be a productive feedback loop for the generation of useful scholarship—is not widely credited. Humanities scholars might use computers to do their work, writing in word processing software and researching on library infrastructure, but this process is incidental, and, by preference, not worthy of sustained scrutiny. Like the administration of writing programs, the arrangement of information in a scholarly database, or the painstaking construction of a copy text, attention to the process that is infrastructure is a necessary evil that, if possible, should be abstracted from real scholarship. The hermaneutic and critical method, as rigidly defined, must be read, think, write, publish, not, for example, build, think, write, publish, or, with more complexity, build, read, think, write, publish.
+The relationship of these fields to the discipline of English parallels the situation of digital humanities within the humanities. While practices such as writing and bibliography might grudgingly be considered necessary technical skills, their consideration as areas of inquiry—that, say, writing, thinking about writing, and then writing about writing might be a productive feedback loop for the generation of useful scholarship—is not widely credited. Humanities scholars might use computers to do their work, writing in word processing software and researching on library infrastructure, but this process is incidental, and, by preference, not worthy of sustained scrutiny. Like the administration of writing programs, the arrangement of information in a scholarly database, or the painstaking construction of a copy text, attention to the process that is infrastructure is a necessary evil that, if possible, should be abstracted from real scholarship. The hermaneutic and critical method, as rigidly defined, must be read, think, write, publish, not, for example, build, think, write, publish, or, with more complexity, build, read, think, write, publish. From the reductive perspective implied in the genre of the digital humanities takedown, or held by critics of practice-oriented fields such as writing studies or textual studies, the incorporation of any form of practice into the generation of knowledge sullies, rather than enriches, the critical or interprative process.
+
+
+
 # stuff from scratch
 :notes:
 
@@ -1491,34 +1494,35 @@ The relationship of these fields to the discipline of English parallels the situ
 
 ** Breaking the Boundary
 
-The positions of scholars such as Stover (the humanities is autotelic, and we should tend our garden) or Allington, Brouillette, and Golumbia (interpretation of traditional texts is the only way to do humanities scholarship) provide little way forward. For isolated pockets of humanists, primarily tenured professors at the most elite institutions, continuing on as if the humanities is not in crisis may be possible, at least for the forseeable future. Similarly, repeatedly knocking the straw from an effigy of the digital humanities may continue to provide some catharsis. However, the humanities faces a crisis, and not only one of diminishing numbers—enrollments, grant awards, and tenure-track positions. The humanities faces a problem of negotiation, of exercising its values in an encircling context that is largely indifferent or hostile to our concerns.
+The positions of scholars such as Stover (the humanities is autotelic, and we should tend our garden) or Allington, Brouillette, and Golumbia (the unsullied interpretation of traditional texts is the only way to do humanities scholarship) provide little way forward. For isolated pockets of humanists, primarily tenured professors at the most elite institutions, continuing on as if the humanities is not in crisis may be possible, at least for the forseeable future. Similarly, repeatedly knocking the straw from an effigy of the digital humanities may continue to provide some catharsis. However, the humanities faces a crisis, and not only one of diminishing numbers—enrollments, grant awards, and tenure-track positions. The humanities faces a problem of negotiation, of exercising its values in an encircling context that is largely indifferent or hostile to our concerns.
 
 Rather than retreat from the world, the humanities should, and perhaps must, engage with it. However, there are a number of obstacles in place to sustained engagement with the world outside the academy. These include an elitism that interferes with outreach to the public, an infrastructural agnosia that impedes larger readings of modern culture, and a lack of introspection about the tools and methods we use to research, teach, publish, and think. Interpretation—of texts, of culture, of structures of power—will, and must, remain core to the work of the humanities. However, humanists should acknowledge, and learn from, the interpretive work that takes place outside the academy. Further, we must build on the work of scholars who are turning their critical and hermaneutic faculties on a broader array of structures and texts: systems, interfaces, platforms, hardware, networks, and algorithms. Finally, we must acknowledge that lack of access is not rigor. Currently, our lack of attention to infrastructure shuts new, and diverse, scholars out of the humanities, prevents us from sharing our work with wider audiences, and makes us reliant on entities, particularly corporations, that are antithetical to our values. Just as teaching—though many choose not to recognize it—informs and sustains research and scholarship, acts of technological maintenance, care, and creation should be recognized for their impact on scholarly inquiry into the interplay between social structures and technical systems.
 
-A thread underlying these criticisms is a concern for cachet, reputation, and intellectual capital that becomes pathological in a time of scarcity and precarity. Jan Parker alludes to this in a discussion of a student protest that led to an nine-day occupationK:
+A thread underlying these criticisms is a concern for cachet, reputation, and intellectual capital that becomes pathological in the context of scarcity and precarity. Jan Parker alludes to this in a discussion of a student protest that led to an nine-day occupation at Cambridge:
 
 #+BEGIN_QUOTE
 A classic marketing strategy lies in making distinctive and less accessible the product you want to promote; some of the Ivy League and UK Russell Group universities have endeavoured to claim elite exclusivity for their research. The sciences while so doing have also been prominent in showing that their research outcomes have public benefit, and they have promoted the public understanding of science. A similar exclusivity in humanities research, to public involvement, and it has been made to seem part of an excluding agenda. ... [I]t is the divorce between the humanities elite and wider society that has led on both sides to a devaluing of real discourse (Parker 47)
 #+END_QUOTE
 
-As Parker suggests, while the sciences struggle with issues of accessibility and exclusivity, there is a countervailing tradition of engagement with the public that facilitates broader understanding of the importance of science. A humanities tradition of engagement with the public is significantly less developed. Though a subtler, this lack of engagement with the public, combined with the dwindling resources directed at the humanities, causes suspicion to be levied at boundary 
+As Parker suggests, while the sciences struggle with issues of accessibility and exclusivity, there is a countervailing tradition of engagement with the public that facilitates broader understanding of the importance of science. A humanities tradition of engagement with the public is significantly less developed. This lack of engagement, combined with the dwindling resources directed at the humanities, causes suspicion to be levied at boundary fields, such as the public humanities and the digital humanities. In the following section, we will explore some of the differences between how the humanities and the sciences share research and engage the public. Before we move on to considering a humanities fully committed, not to circling its wagons and fighting over diminishing resources, but negotiating, broadly engaging in the world, I would like to once again echo the sentiments of Susan Leigh Star in her "call to study boring things" [[cite:star_ethnography_1999][p. 37]]. 
 
-
-In the following section, we will explore some of the differences between how the humanities and the sciences share research and engage the public.
-
-
-
-the reality is that most of DH is boring in this sense
+In the following sections, I will advocate for a series of approaches that demand either a disregard for cachet or an attention to the boring. This includes a reexamination of our /de facto/ infrastructure for thought and its dissemination—word processors and scholarly databases—but also an examination of how interpretation is taking place in communities that have zero cachet within academic humanities. The digital humanities, unfortunately, has not always been an apt model for full-throated support of the boring. DH practitioners, too often, have benefited from the positioning of projects as new and exciting. [fn:mea-culpa] The field should move beyond this rhetoric. At the same time, the humanities may need to look to a full set of boundary fields—among them the public humanities and the digital humanities—in a contemplation of broad, two-way negotiation with the world. We need not alter the core values and methodology of the humanities, but we do need to acknowledge those who, as a component of their scholarship, take on the boring and frequently unrenumerative work of bridging the divide between the humanities and the outside, whether it be wrangling legacy XML, reshelving books, or administering a community college writing program. We are not debased, but rather enriched, by service that takes us beyond our intellectual and social boundaries, and brings new insight to bear on our exercise of the hermaneutic.
 
 
 
-- the humanities doesn't engage the public
-- the humanities doesn't engage with infrastructure, and therefore no longer engages culture
-- due to its disregard for infrastructure for research, publication, writing, and thinking, the humanities is unable to exercise its values
+[fn:mea-culpa] As a digital humanities practitioner, I, too, have benefited from this positioning. A 2018 paper by Paige C Morgan makes a reasoned critique of the positioning of DH projects as "easy" for those not approaching them from a supported and resource-rich context, using as one example DH Box, a project on which I am a contributor cite:morgan_consequences_2018. This, and the broader criticism of the field it implies, is well received.
+
+
+!!!! END FOOTNOTE 
 
 
 
 
+# the reality is that most of DH is boring in this sense
+
+# - the humanities doesn't engage the public
+# - the humanities doesn't engage with infrastructure, and therefore no longer engages culture
+# - due to its disregard for infrastructure for research, publication, writing, and thinking, the humanities is unable to exercise its values
 
 
 # Ressitance to DH in tenure, etc.
@@ -1528,30 +1532,7 @@ the reality is that most of DH is boring in this sense
 # #+END_QUOTE
 :end:
 
-
-
-
-
-
-
 The reality is that, frankly, the tools used in the digital humanities are pretty damn old. 
-
-
-
-digital humanities too big
-digital humanities razzmatazz
-
-
-
-
-
-maybe we should stop talking about the digital humanities like it's a bunch of razzmatazz. let's do boring work
-
-
-
-
-There are a number of conflations here—technology with the future, 
-
 
 
 # no common essence
@@ -1584,12 +1565,6 @@ There are a number of conflations here—technology with the future,
 
 
 
------
-
-
-xxx USE PARKER FROM 21st CENTURY BOOK HERE?
-
-
 # assertions of outside benefit not necessarily true
 # #+BEGIN_QUOTE
 # We say that exposure to the humanities leads to a more meaningful life, a deeper appreciation of the truth, better critical thinking skills, or a predilection for deeper empathy. These assertions might be true in some cases—but they're not necessarily true. The pursuit of other interests could just as likely produce these beneficial results. ... [A]n education in the humanities could make a person selfish, confused, totally biased, and even miserable.
@@ -1613,7 +1588,7 @@ xxx USE PARKER FROM 21st CENTURY BOOK HERE?
 # #+END_QUOTE
 :end:
 
-What would the humanities be without their crisis? 
+# What would the humanities be without their crisis? 
 
 
 # removed
@@ -1628,9 +1603,9 @@ What would the humanities be without their crisis?
 # This chapter, like previous chapters, is centered on loci of interaction, lines of interface between the humanities and its subjects on the one hand, and the humanities and the society in which it is enmeshed on the other. As in previous observations on loci of interaction among people with disabilities and their social and physical contexts, many of these concerns might be resolved more comprehensively through advocacy—that is, seeking a broad change in values across the humanities or across society. With that said, a negotiated approach, one concerned with hyperlocal conditions and the practical, largely inescapable challenges faced by humanities practitioners day-to-day, provides another vector for analysis and another lever for action.
 :end:
 
+** Use in Future Section
+
 Fundamentally, the question faced by many, if not all, humanities practitioners is how to contend—to stay relevant, to make one's mark—on a society that, by and large, does not share the values of the humanities. Compounding this, many humanities practitioners contend with marginalization enforced by hierarchies of labor within the humanities. Why, then, conceive of these issues, concerned as they are with the expression, transference, and frequent mismatch of values, as questions of infrastructure? Alan Liu, in a draft for the book /Against the Cultural Singularity/,, makes the startling observation that the study of infrastructure has begun to approach the study of culture in furthering comprehension of modern social contexts:
-
-
 
 #+BEGIN_QUOTE
 “infrastructure,” the social-cum-technological milieu that at once enables the fulfillment of human experience and enforces constraints on that experience, today has much of the same scale, complexity, and general cultural impact as the idea of “culture” itself. indeed, it may be that in late modernity when the bulk of life and work occurs in organizational institutions of one kind or another, the experience of infrastructure at institutional scales (undergirded by national or regional infrastructures such as electricity grids and global-scale infrastructures such as the internet) is operationally the experience of “culture.” put another way, the word “infrastructure” can now give us the same kind of general purchase on social complexity that stuart hall, raymond williams, and others sought when they reached for their all-purpose word, “culture.” (Liu)
