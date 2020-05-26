@@ -1354,7 +1354,6 @@ Through an examination of a number of interfaces—both to software and to comme
 
 # [fn:coloring-book] For those who wish infrastructure to be more "fun," I can recommend the /Clean Water Willie Coloring Book/, available on the website for the Orange County Sanitation District. In this book you'll learn about biosolids and waste water processing, all while improving your ability to color within the lines.
 
-
 ** Humanities Values on the Margins
 
 In think pieces, journal articles, and a broad array of books, a perennial topic of discussion is why we—as a society, as academics, or even as humanities scholars—should care about the humanities. In /Humanities in the Twenty-First Century: Beyond Utility and Markets/, Eleonora Belfiore and Anna Upchurch trace a taxonomy for this genre of writing, what they call the "value debate." The first presentation of this genre is writing that diagnoses the myriad difficulties facing the humanities, "the seemingly ineluctable (and ongoing) demise of the humanities as an academic area of scholarship in the context of a progressively more and more marketised higher education sector" [[citep:belfiore_humanities_2013][p. 1]]. The second presentation of this genre is "a more positive (if often instrumental) idiom in debates surrounding higher education policy and funding," in which "the humanities have a contribution to make to the national economy (by virtue of their natural affinity with the cultural and creative industries) to the social cohesion of the country and to the policy-making process" [[citep:belfiore_humanities_2013][p. 21]]. As corporatism and marketization increasingly push the university toward measures of success such as job preparation, therefore, the humanities seeks to justify its existence by these same measures.
@@ -1427,6 +1426,15 @@ Writing is created, produced, distributed, and used for a variety of purposes. I
 Besides engaging with writing as a process and an area of inquiry and teaching as a process and an area of inquiry, composition and rhetoric also engages program administration, not as a necessary evil, but as a process and an area of inquiry. 
 
 The relationship of these fields to the discipline of English parallels the situation of digital humanities within the humanities. While practices such as writing and bibliography might grudgingly be considered necessary technical skills, their consideration as areas of inquiry—that, say, writing, thinking about writing, and then writing about writing might be a productive feedback loop for the generation of useful scholarship—is not widely credited. Humanities scholars might use computers to do their work, writing in word processing software and researching on library infrastructure, but this process is incidental, and, by preference, not worthy of sustained scrutiny. Like the administration of writing programs, the arrangement of information in a scholarly database, or the painstaking construction of a copy text, attention to the process that is infrastructure is a necessary evil that, if possible, should be abstracted from real scholarship. The hermaneutic and critical method, as rigidly defined, must be read, think, write, publish, not, for example, build, think, write, publish, or, with more complexity, build, read, think, write, publish. From the reductive perspective implied in the genre of the digital humanities takedown, or held by critics of practice-oriented fields such as writing studies or textual studies, the incorporation of any form of practice into the generation of knowledge sullies, rather than enriches, the critical or interprative process.
+
+The reality is that, for two decades now, engagement with technology is unavoidable for the humanist. This is because, for better or worse, the world outside the academy, the world in which the culture we study is created and  with which our values might be shared, is profoundly enmeshed with technology. For some humanists, many falling somewhere within the loose affiliation of the digital humanities, engagement with technology is necessary because particular cultural products—digital books, contemporary film, games, computer code, community derivatives [fn:fanfiction-etc]—demands a knowledge of the underlying technical and social medium. Of course, many—most—humanists do not engage with new media, digital platforms, computer code as a cultural product, and so on. For these humanists, however, engagement with 
+
+
+
+[fn:fanfiction-etc] Such as fanfiction and memes.
+
+
+!!!! END FOOTNOTE
 
 
 
@@ -1510,7 +1518,7 @@ In the following sections, I will advocate for a series of approaches that deman
 
 
 
-[fn:mea-culpa] As a digital humanities practitioner, I, too, have benefited from this positioning. A 2018 paper by Paige C Morgan makes a reasoned critique of the positioning of DH projects as "easy" for those not approaching them from a supported and resource-rich context, using as one example DH Box, a project on which I am a contributor cite:morgan_consequences_2018. This, and the broader criticism of the field it implies, is well received.
+[fn:mea-culpa] As a digital humanities practitioner, I, too, have benefited from this positioning. A 2018 paper by Paige C Morgan makes a reasoned critique of the positioning of DH projects as "easy" for those not approaching them from a supported and resource-rich context, using as one example DH Box, a project on which I am a contributor citep:morgan_consequences_2018. I do understand that scholarship that embraces the boring may not be what is rewarded by tenure committees, university presses, and grant officers, and there is frequently a line to walk between work that is essential and work that allows for survival in a resource-constrained environment. If enough scholars embrace the unexciting—maintenance standards creation, infrastructure development, critical engagement with everyday structures—perhaps these norms can shift, and offer more room for essential work that is not the "next big thing."
 
 
 !!!! END FOOTNOTE 
