@@ -1432,7 +1432,7 @@ The reality is that, for two decades now, engagement with technology is unavoida
 [fn:fanfiction-etc] Such as fanfiction and memes.
 
 
-!!!! END FOOTENOTE
+# !!!! END FOOTENOTE
 
 The argument here, crucially, is not that technology is the next best thing, and we must get on board or be left behind. Rather, we /have/ been left behind, and the modes in which technology has been exercised in society have resulted in a profound disjunction between our values and those of the encircling collective. In order to speak to that which we cannot agree with in the broader society—surveillance capitalism, pseudo-sovereign corporations, algorithmic bias, power in the hands of a few—we must have an understanding of the technological basis of the structures we oppose. Further, we must have in hand our own vision of an opposing /technê/, a craft to practice, build, and live in autonomy or resistance. At the least, we must be able to apply our core methods as humanists, our interpretive faculty, in difficult and epistemologically alien circumstances.
 
@@ -1447,17 +1447,13 @@ Technology, of course, is not something that stands apart from humanity. It is, 
 [fn:eversion] As with defining any trend or era, demarkating beginnings and ends is frequently difficult and always reductive. Steven Jones marks 2004-2008 as significant years for a shift from a cyberspace (the digital as fundamentally circumscribed and isolated from the real world) to the "eversion," in which the physical and digital worlds become inseparably enmeshed citep:jones_emergence_2013. N. Katherine Hayles marks a mid-2000s shift from a "third phase" of virtuality, to a "fourth phase" of cybernetics, in which technology is entwined with bodies and space, including the prevalence of ubiquitous computing in the form of overlays and actual objects—for example, GPS, phones, and RFIDs citep:hayles_cybernetics_2010.
 
 
-!!!! END FOOTNOTE
-
-
-The Emergence of the Digital Humanities 1st Edition
-
+# !!!! END FOOTNOTE
 
 
 [fn:the-dream] Though we can be audacious in our hopes and aspirations.
 
 
-!!!!! END FOOTNOTE
+# !!!!! END FOOTNOTE
 
 
 
@@ -1538,14 +1534,13 @@ A classic marketing strategy lies in making distinctive and less accessible the 
 
 As Parker suggests, while the sciences struggle with issues of accessibility and exclusivity, there is a countervailing tradition of engagement with the public that facilitates broader understanding of the importance of science. A humanities tradition of engagement with the public is significantly less developed. This lack of engagement, combined with the dwindling resources directed at the humanities, causes suspicion to be levied at boundary fields, such as the public humanities and the digital humanities. In the following section, we will explore some of the differences between how the humanities and the sciences share research and engage the public. Before we move on to considering a humanities fully committed, not to circling its wagons and fighting over diminishing resources, but negotiating, broadly engaging in the world, I would like to once again echo the sentiments of Susan Leigh Star in her "call to study boring things" [[cite:star_ethnography_1999][p. 37]]. 
 
-In the following sections, I will advocate for a series of approaches that demand either a disregard for cachet or an attention to the boring. This includes a reexamination of our /de facto/ infrastructure for thought and its dissemination—word processors and scholarly databases—but also an examination of how interpretation is taking place in communities that have zero cachet within academic humanities. The digital humanities, unfortunately, has not always been an apt model for full-throated support of the boring. DH practitioners, too often, have benefited from the positioning of projects as new and exciting. [fn:mea-culpa] The field should move beyond this rhetoric. At the same time, the humanities may need to look to a full set of boundary fields—among them the public humanities and the digital humanities—in a contemplation of broad, two-way negotiation with the world. We need not alter the core values and methodology of the humanities, but we do need to acknowledge those who, as a component of their scholarship, take on the boring and frequently unrenumerative work of bridging the divide between the humanities and the outside, whether it be wrangling legacy XML, reshelving books, or administering a community college writing program. We are not debased, but rather enriched, by service that takes us beyond our intellectual and social boundaries, and brings new insight to bear on our exercise of the hermaneutic.
+In the following sections, I will advocate for a series of approaches that demand either a disregard for cachet or an attention to the boring. This includes a reexamination of our /de facto/ infrastructure for thought and its dissemination—word processors and scholarly databases—but also an examination of how interpretation is taking place in communities that have zero cachet within academic humanities. The digital humanities, unfortunately, has not always been an apt model for full-throated support of the boring. DH practitioners, too often, have benefited from the positioning of projects as new and exciting. [fn:mea-culpa] The field should move beyond this rhetoric. At the same time, the humanities may need to look to a full set of boundary fields—among them the public humanities and the digital humanities—in a contemplation of broad, two-way negotiation with the world. We need not alter the core values and methodology of the humanities, but we do need to acknowledge those who, as a component of their scholarship, take on the boring and frequently unrenumerative work of bridging the divide between the humanities and the outside, whether it be wrangling legacy XML, reshelving books, or administering a community college writing program. We are not debased, but rather enriched, by service that takes us beyond our intellectual and social boundaries, and brings new insight to bear on our exercise of the hermaneutic. In the following sections, we will attend to the infrastructure that mediates the boundary between the humanities and the encircling culture, noting how an inattention to infrastructure on the part of the humanities—allowing it to be created by entities such as corporations—has led to a failure to exercise our values in a broader context. The final portion of this chapter will consider areas within the humanities that are modeling engagement with infrastructure and will indulge some utopianism—that is, imagining what a fully realized relationship between the humanities and the public might look like.
 
 
+[fn:mea-culpa] As a digital humanities practitioner, I, too, have benefited from this positioning. A 2018 paper by Paige C Morgan makes a reasoned critique of the positioning of DH projects as "easy" for those not approaching them from a supported and resource-rich context, using as one example DH Box, a project on which I am a contributor citep:morgan_consequences_2018. I do understand these pressures, and that scholarship that embraces the boring may not be what is rewarded by tenure committees, university presses, and grant officers, and there is frequently a line to walk between work that is essential and work that allows for survival in a resource-constrained environment. If enough scholars embrace the unexciting—maintenance, standards creation, infrastructure development, critical engagement with everyday structures—perhaps these norms can shift, and offer more room for essential work that is not the "next big thing."
 
-[fn:mea-culpa] As a digital humanities practitioner, I, too, have benefited from this positioning. A 2018 paper by Paige C Morgan makes a reasoned critique of the positioning of DH projects as "easy" for those not approaching them from a supported and resource-rich context, using as one example DH Box, a project on which I am a contributor citep:morgan_consequences_2018. I do understand that scholarship that embraces the boring may not be what is rewarded by tenure committees, university presses, and grant officers, and there is frequently a line to walk between work that is essential and work that allows for survival in a resource-constrained environment. If enough scholars embrace the unexciting—maintenance standards creation, infrastructure development, critical engagement with everyday structures—perhaps these norms can shift, and offer more room for essential work that is not the "next big thing."
 
-
-!!!! END FOOTNOTE 
+# !!!! END FOOTNOTE 
 
 
 
@@ -1564,7 +1559,7 @@ In the following sections, I will advocate for a series of approaches that deman
 # #+END_QUOTE
 :end:
 
-The reality is that, frankly, the tools used in the digital humanities are pretty damn old. 
+# The reality is that, frankly, the tools used in the digital humanities are pretty damn old. 
 
 
 # no common essence
@@ -1654,7 +1649,7 @@ The reality is that, frankly, the tools used in the digital humanities are prett
 In 2006, nine board members of /Topology/, anOxford University  mathematical journal published by Elsevier, resigned in protest. In their letter, the researchers wrote:
 
 #+BEGIN_QUOTE
-As you are well aware, the Editors have been concerned about the price of /Topology/ since Elsevier gained control of the journal in 1994. We believe that the price, in combination with Elsevier’s policies for pricing mathematical journals more generally, has had a significant and damaging effect on /Topology/’s reputation in the mathematical research community, and that this is likely to become increasingly serious and difficult, indeed impossible, to reverse in the future. ... Therefore, with great reluctance and sadness, we have made the difficult decision to resign. (Bridson, et al.)
+As you are well aware, the Editors have been concerned about the price of /Topology/ since Elsevier gained control of the journal in 1994. We believe that the price, in combination with Elsevier’s policies for pricing mathematical journals more generally, has had a significant and damaging effect on /Topology/'s reputation in the mathematical research community, and that this is likely to become increasingly serious and difficult, indeed impossible, to reverse in the future. ... Therefore, with great reluctance and sadness, we have made the difficult decision to resign. citep:bridson_topology_2006
 #+END_QUOTE
 The editors of /Topology/ were concerned primarily with the pricing of the journal, which under Elsevier's control, was entirely out of their hands. The 2006 /Topology/ resignation, though not the first indication of discontent among academics with Elsevier and similar publishing enterprises, did coincide with the beginning of the open access movement and an increased consciousness of the strange and exploited position in which the academy has found itself. Elsevier, and other commercial academic publishers such as ProQuest and Springer, have placed themselves in a position of almost astonishing advantage. The situation has been aptly described by scientist Stephen Buranyi in a 2017 analysis in /The Guardian/:
 
@@ -1665,12 +1660,11 @@ The editors of /Topology/ were concerned primarily with the pricing of the journ
 # https://ebookcentral.proquest.com/lib/columbia/detail.action?docid=422646#
 
 #+BEGIN_QUOTE
-Scientists create work under their own direction – funded largely by governments – and give it to publishers for free; the publisher pays scientific editors who judge whether the work is worth publishing and check its grammar, but the bulk of the editorial burden – checking the scientific validity and evaluating the experiments, a process known as peer review – is done by working scientists on a volunteer basis. The publishers then sell the product back to government-funded institutional and university libraries, to be read by scientists – who, in a collective sense, created the product in the first place.
+Scientists create work under their own direction – funded largely by governments – and give it to publishers for free; the publisher pays scientific editors who judge whether the work is worth publishing and check its grammar, but the bulk of the editorial burden – checking the scientific validity and evaluating the experiments, a process known as peer review – is done by working scientists on a volunteer basis. The publishers then sell the product back to government-funded institutional and university libraries, to be read by scientists – who, in a collective sense, created the product in the first place. citep:buranyi_is_2017
 #+END_QUOTE
-
 In 2012, a boycott movement, The Cost of Knowledge, was organized to protest Elsevier. Ofer 17,000 researchers have pledged not to fuel Elsevier's enormous and growing publication empire with their labor, citing exorbitant pricing, the corporation's practice of bundling journals together for greater leverage over libraries,  and its support for SOPA and similar anti-speech measures in service of copyright.
 
-Scientist Tal Yarkoni, noting that the corporation was frequently reflexively defended by academics, attempted in a 2016 post to answer the question, "Is Elsevier really evil?" The post identified a series of business practices that few practitioners in the humanities would condone, including selling false journals to pharmaceutical companies, selling access to articles they do not own, extensive lobbying for closed-access legislation, and, alarmingly and incongruously for an academic publisher, organizing arms trade fairs (Yarkoni). More recently, libraries in Sweden and Germany have refused to renew subscriptions in protest of the poor value offered by Elsevier and the disproportionate power wielded by the corporation.
+Scientist Tal Yarkoni, noting that the corporation was frequently reflexively defended by academics, attempted in a 2016 post to answer the question, "Is Elsevier really evil?" The post identified a series of business practices that few practitioners in the humanities would condone, including selling false journals to pharmaceutical companies, selling access to articles they do not own, extensive lobbying for closed-access legislation, and, alarmingly and incongruously for an academic publisher, organizing arms trade fairs citep:yarkoni_why_2016. More recently, libraries in Sweden and Germany have refused to renew subscriptions in protest of the poor value offered by Elsevier and the disproportionate power wielded by the corporation.
 
 While much impetus for the open access movement has arisen from mathematics and the sciences, the humanities has been similarly affected by proprietary gating of research, and humanities practitioners are increasingly concerned. Though the Cost of Knowledge boycott of corporate scholarly publishers was organized primarily by scientists, over 1500 practitioners from the arts and humanities signed in solidarity. Increasingly, researchers in the humanities are speaking out. Kathleen Fitzpatrick has called for "creating collective, cooperative, scholar-organized and -governed publications on open networks" (/Opening Up Open Access/, 2015). XXX
 
