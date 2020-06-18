@@ -1704,28 +1704,44 @@ We will shortly return to the issue of inaccessibility and gatekeeping, facilita
 # The rise of idea arbitrage—buying thought and analysis low and, after applying a figurative coat of paint, selling high—is one development that shows the relative inaccessibility of academic writing to the wider society. Though popularizers such as Gladwell have been criticized for distorting and cherrypicking academic research (Gray, 2013; Fitts, 2013), their work is still recognizable as drawing on disciplinary authority and traditions. 
 :end:
 
-From the perspective of a humanist operating from within the academy, lay critical, interpretive, or hermaneutic traditions are trivially dismissed. Most obviously, interpretive work taking place outside the academy disregards the interdependent citations and precedential attribution of ideas on which academic authority rests. In deploying ideas but not linking them to prior academic scholarship, lay hermeneuticists tend to read as ignorant or naive. As a corollary, lay hermaneutic communities on the modern web can manifest a disturbing (from an academic perspective) disregard for the association of ideas with people—what academics call attribution. While lay interpretive practices may be citational, and even densely so, much knowledge is not attributed but held in common in structures such as wikis, copypasta, or memes. Worst, for purposes of academic credibility, is the amateurism of these communities in the classic sense of the word. Lay hermeneuticists love their subjects, and mostly do not maintain the critical distance demanded by academic propriety, especially when those subjects are not seen to have intrinsic literary or cultural merit: "Read James Joyce’s Ulysses 100 times, write essays about it, parse it endlessly with strangers on the Internet, and you’re a scholar, but do the same thing with a videogame and you’re a… fanboy?" citep:macdonald_you_2016
+From the perspective of a humanist operating from within the academy, lay critical, interpretive, or hermaneutic traditions can be, and tend to be, trivially dismissed. Most obviously, interpretive work taking place outside the academy disregards the interdependent citations and precedential attribution of ideas on which academic authority rests. In deploying ideas but not linking them to prior academic scholarship, lay hermeneuticists tend to read as ignorant or naive. As a corollary, lay hermaneutic communities on the modern web can manifest a notable (for purposes of academic authority) disregard for the association of ideas with people—what academics [fn:academic-scholar-distinction] call attribution. While lay interpretive practices may be citational, and even densely so, much knowledge is not attributed but held in common in structures such as wikis, copypasta, or memes. Worst, for purposes of academic credibility, is the amateurism of these communities in the classic sense of the word. Lay hermeneuticists love their subjects, and mostly do not maintain the critical distance demanded by academic propriety, especially when those subjects are not seen to have intrinsic literary or cultural merit: "Read James Joyce’s Ulysses 100 times, write essays about it, parse it endlessly with strangers on the Internet, and you’re a scholar, but do the same thing with a videogame and you’re a ... fanboy" citep:macdonald_you_2016.
 
-In lay hermaneutic communities, interpretation cannot be easily seperated from fandom, a relationship that makes such work suspect within the academy. This dynamic is perhaps best seen in the disposition of academic humanities toward Sherlockiana, or the creation of non-canonical works about Sherlock Holmes and the Sherlockian game [fn:predates] , the application of hermaneutic analysis to Holmes stories.
-
-#+BEGIN_QUOTE
-... the Holmes stories have always occupied a place between high and mass culture, just as so much Sherlockiana lies between "fan" writing and "criticism." ... Perhaps this accounts for current criticism's inability either to include or exclude Sherlockiana (they're in the MLA Bibliography but we don't have to cite them
-#+END_QUOTE
-
-
-[fn:predates] A strong case can be made that the Sherlockian game, which models itself after interpretive methods developed for biblical hermaneutics, is a longer tradition than that of interpretation within the discipline of English. Though English as a discipline predates the Holmes canon and the Sherlockian game, we mostly did not turn our attention toward interpretation until after World War I. The Sherlockian game began in a mock-serious or deadpan mode, and participants were conscious of the as interpretation of a frivolous 
+[fn:academic-scholar-distinction] For purposes of this section, I'll reserve the word "academic" for those studying the humanities from within our familiar institutions of higher learning. Though lay hermeneuticists do not typically self-identify with the word "scholar," I think it unfair to employ the term only for those producing knowledge within the structures of the academy.
 
 
 # !!! END FOOTNOTE
 
 
-transparent obsession
 
-wrong format
-not discursive
+In lay hermaneutic communities, interpretation cannot be easily seperated from fandom, a relationship that makes such work suspect within the academy. This dynamic is perhaps best seen in the disposition of academic humanities toward Sherlockiana, or the creation of non-canonical works about Sherlock Holmes and the Sherlockian game [fn:predates], or the application, sometimes faux-serious, of hermaneutic methods to the Holmes canon. Ed Wiltse eloquently sums up the relationship between lay hermaneutic traditions such as the Sherlockian game and the more authorial interpretive tradition practiced within humanities disciplines:
+
+#+BEGIN_QUOTE
+... the Holmes stories have always occupied a place between high and mass culture, just as so much Sherlockiana lies between "fan" writing and "criticism." ... Perhaps this accounts for current criticism's inability either to include or exclude Sherlockiana (they're in the MLA Bibliography but we don't have to cite them [[citep:wiltse_so_1998][p. 119]]
+#+END_QUOTE
+Extradisciplinary interpretive traditions such as the Sherlockian game have been around long enough, are large enough, and have enough impetus behind them that they do, somewhat more than occasionally, rise to the attention of practicing academics in the humanities. Despite this, the academic stance toward these alternate traditions is that there is little or nothing to be learned from them. Wiltse, though an academic with a scholarly interest in Sherlockiana, was dismayed to find that a journal engaged in the Sherlockian game was cluttering up his searches on scholarly databases:
+
+#+BEGIN_QUOTE
+The long-standing tradition among Sherlockians of publishing the results of their studies, not only in the usual fan media (newsletters, fan magazines, and these days, the Internet), but also in monographs and refereed journals creates a unique problem for academic critics of the stories. Surely I am not the first person to find to his dismay not the expected few dozen references to the Holmes stories in the MLA Bibliography for the past two decades, but a few hundred, the vast majority of which refer to articles in /The Baker Street Journal/ (the best-known Sherlockian journal, and the only one indexed by MLA).
+#+END_QUOTE
+Though, as Wilsi acknowledges, there is an elitism to the prevailing academic disregard for lay contributions to knowledge on specialized subjects, I will not argue here that academics need to take contributions made by alternate traditions seriously. [fn:not-arguging-against] There may be legitimate reasons for not incorporating knowledge produced by groups with diverging aims, norms, and methodologies into a disciplinary network of authority based on interdependent citations. Rather, my focus here is infrastructural. Even if we do not incorporate knowledge produced in alternate traditions, we have much to learn about how that knowledge is produced, and, in particular, how it is shared with the broader society. Unlike our disciplines, which tolerate and even embrace inaccessible and exclusory models for research and publication, lay hermaneutic traditions tend to be less walled in, and the knowledge they produce is more available to society. While we should not adopt their methods wholesale—sustainability, for example, is not exactly the watchword of the lore movement—these alternate infrastructural modes might, at least, allow us to look at our own approach to research and publication with an eye toward improvement.
+
+
+[fn:not-arguging-against] Though I'm not arguing against it, either.
+
+
+# !!! END FOOTNOTE
 
 
 
+[fn:predates] A strong case can be made that the Sherlockian game, which models itself after interpretive methods developed for biblical hermaneutics, is a longer tradition than that of interpretation within the discipline of English. Though English as a discipline predates the Holmes canon and the Sherlockian game, we mostly did not turn our attention toward interpretation until the shift away from philology after World War I. (On the other hand, English as a discipline might claim a longer tradition through the practices of rhetorical analysis and oratory. On the other other hand, the Sherlockian game has approximately equal claim to these antecedents.)
+
+The Sherlockian game began in a mock-serious or deadpan mode, and participants were conscious of the juxtaposition between highly serious interpretation and its subject, which was considered to be frivolous.
+
+
+
+# !!! END FOOTNOTE
+
+-----
 
 More alien to the traditions of the academy and more indicative of the weakness of humanities infrastructure for performing research and engaging with the wider society, however, is the rise of traditions of critical and interpretive activity independent of the academy. 
 
@@ -2388,6 +2404,10 @@ https://www.nber.org/papers/w26752.pdf
 
 # An Actual Virus Sobers the Goofy Age of ‘Going Viral’
 https://www.nytimes.com/2020/03/28/style/coronavirus-going-viral.html
+
+# for when i talk about leila's garden
+http://geekring.net/site/6/frameset
+
 
 S
 
