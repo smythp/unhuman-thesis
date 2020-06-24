@@ -1742,18 +1742,31 @@ The Sherlockian game began in a mock-serious or deadpan mode, and participants w
 
 "Lore," as used as a term of art on the web, is the collected diegetic information about a work, especially a game. According to a popular entry on Urban Dictionary, lore is "[t]he collective history and the sum of all knowledge available about a certain fantasy or sci-fi universe" citep:twyzeas_lore_2015. That is, lore is the body of information, such as history, that operates as information or history /inside/ a work, and which is independent of information /about/ the work. To continue the above example, a discussion about whether Dr. Watson was shot in the shoulder or leg at the Battle of Maiwand would be a question of lore, while a discussion of Conan Doyle's motivations for killing off Sherlock Holmes would not be based on lore.
 
-Lore, as created for games and adjacent works, is made in anticipation of hermaneutic readings and approaches. That is, lore—as constructed by authors and creators—assumes an audience interested in catalogue, critique, and theory. Hermaneutic  activity around games is complicated by the fact that, according to new media scholar David Ciccoricco, "even those videogames that are commonly considered "pure action" may require consultation of the classical hermeneutic tradition to be "understood to the full" citep:ciccoricco_games_2010. That is, the consumption of many modern games requires specific literacy's, including the consultation of glosses and commentaries, and in that sense is hermaneutic in the sense of the classical, philosophical, or biblical traditions. Other works demand, for full or even adequate engagement, an attention to the hermaneutic more in keeping with the interpretive tradition as practiced in contemporary humanities disciplines. For example, a naive playthrough of the 2011 /Dark Souls/, a game with a strikingly devoted lore community, is disappointing and even, by all appearances, nonsensical. If the player follows instructions explicitly given by characters in the game, they learn little and, in the final moments of a long and notoriously difficult game, burn themselves alive to support a corrupt and decrepit status quo. However, if the player is interpretively inclined, attending to clues in the description of artifacts, patterns and inconsistencies in architecture, and the internally consistent redefinition of specific thematic terms ("humanity," "fire," "profane"), they can piece together their position in the larger context and choose an alternate path. In /The Stanley Parable, Dark Souls, and Intended Play/, lay theorist Dan Olson notes that "a reading of Dark Souls must encompass not just the nominal story but also a breadth of possibilities and how those possibilities alter the meaning. This added complexity means games as texts are harder to encompass" citep:olson_stanley_2017.
+Lore, as created for games and adjacent works, is made in anticipation of hermaneutic readings and approaches. That is, lore—as constructed by authors and creators—assumes an audience interested in catalogue, critique, and theory. Hermaneutic  activity around games is complicated by the fact that, according to new media scholar David Ciccoricco, "even those videogames that are commonly considered "pure action" may require consultation of the classical hermeneutic tradition to be "understood to the full" citep:ciccoricco_games_2010. That is, the consumption of many modern games requires specific literacy's, including the consultation of glosses and commentaries, and in that sense is hermaneutic in the sense of the classical, philosophical, or biblical traditions. Other works demand, for full or even adequate engagement, an attention to the hermaneutic more in keeping with the interpretive tradition as practiced in contemporary humanities disciplines. For example, a naive playthrough of the 2011 /Dark Souls/, a game with a strikingly devoted lore community [fn:dark-souls], is disappointing and even, by all appearances, nonsensical. If the player follows instructions explicitly given by characters in the game, they learn little and, in the final moments of a long and notoriously difficult game, burn themselves alive to support a corrupt and decrepit status quo. However, if the player is interpretively inclined, attending to clues in the description of artifacts, patterns and inconsistencies in architecture, and the internally consistent redefinition of specific thematic terms ("humanity," "fire," "profane"), they can piece together their position in the larger context and choose an alternate path. In /The Stanley Parable, Dark Souls, and Intended Play/, lay theorist Dan Olson notes that "a reading of Dark Souls must encompass not just the nominal story but also a breadth of possibilities and how those possibilities alter the meaning. This added complexity means games as texts are harder to encompass" citep:olson_stanley_2017.
+
+[fn:dark-souls] There is no unified lore community, just as there is no unified "fandom" community. It may be true that there is a lore movement in the sense that the rise of lore as a concept has seeded a variety of communities who care deeply about the lore of specific works, but there is generally not (yet?) a consciousness of lore as a phenomenon, practice, or organizing principle.
+
+In this section, I mostly use as an example /Dark Souls/, the 2011 game that is, perhaps, best associated with lore activity, and which can be more directly compared to hermaneutic and interpretive work in the academic humanities. Another valid choice would have been, for example, /Undertale/, which has a more woman- and queer-identifying community, and which demands a similar level of interpretive engagement on the part of a player. Lore activity around /Undertale/, however, is difficult to prise apart from other fan activity.
+
+Likely due to the rise of community-oriented online platforms, an increasing number of works anticipate, or even demand, a hermaneutic approach. Authors and creators, aware of this emerging dynamic, put out works in which the primary action is below the surface. As one lay commentator observed, "/Dark Souls/ players fought side by side in crumbling ruins, crystal caverns, and basalt hellscapes, but it was the wikis and forums where the community came together to excavate the game’s delphic depths. In a time where many games’ secrets are laid bare just days after release, Dark Souls evoked memories of playground whispered cheatcodes, of arcane riddles, and of design confident enough to bury its most surprising encounters. For many, the game captured a certain nostalgic essentiality. And perhaps ... this is the quality that ensured its ubiquitous metaphorization" citep:rueben_dark_2018. Just as Joyce wrote in full anticipation of a scholarly discussion forming around /Ulysses/, these works are created in confidence that a corpus of secondary texts will grow up around them.
+
+
+# !!!! END FOOTNOTE
 
 # unused
 :notes:
 # These approaches vary widely by the specific work, some offering compendious information, history, and internal texts (/Skyrim/, /Mass Effect/), while others offer hints and scraps (/Shadow of the Colossus/, /Dark Souls/). 
 :end:
 
-Perhaps due to the specific hermaneutic, interpretive, and performative demands of games, lore communities make use of a wide variety of infrastructure, most specifically wikis, forums, video essays, chat services, and backer platforms (Patreon, Kickstarter). It's tempting to say that platforms such as YouTube are a natural place for discussion of lore given the difficulties associated with citation of games and a need for an audiovisual medium. However, video essays are more likely to be a medium of choice because YouTube is simply where receptive audiences congregate in numbers. Viewership of (often highly theoretical or abstract) video essays can be, and frequently is, astronomical, and especially by comparison to reader ship of academic journals or monographs. Academic readership, a number presumably higher than citation counts, goes mostly untracked. /PMLA/ claims a "circulation of 27,801, ... among the largest for a humanities journal" citep:pmla_advertising_2020. and a generous upper bound on the readership of the most widely discussed papers in the academic humanities would be in the thousands. In contrast, VaatiVidya, who has been called "the poet lauriat of /Dark Souls/" and whose videos are primarily interpretive, has 1.58 million YouTube subscribers, including viewership on specific videos in excess of 3,500,000, and makes a substantial living from 1,220 donors who have committed to ongoing support on Patreon. The disparity here is difficult to overstate: it is conceivable that the collective viewership of VaatiVidya, a single creator and by no means unique, may exceed the collective combined readership of every article published in any humanities journal since the inception of the academic humanities.
+Perhaps due to the specific hermaneutic, interpretive, and performative demands of games, lore communities make use of a wide variety of infrastructure, most specifically wikis, forums, video essays, chat services, and backer platforms (Patreon, Kickstarter). It's tempting to say that platforms such as YouTube are a natural place for discussion of lore given the difficulties associated with citation of games and a need for an audiovisual medium. However, video essays are more likely to be a medium of choice because YouTube is simply where receptive audiences congregate in numbers. Viewership of (often highly theoretical or abstract) video essays can be, and frequently are, astronomical, and especially by comparison to reader ship of academic journals or monographs. Academic readership, a number presumably higher than citation counts, goes mostly untracked. /PMLA/ claims a "circulation of 27,801, ... among the largest for a humanities journal" citep:pmla_advertising_2020. and a generous upper bound on the readership of the most widely discussed papers in the academic humanities would be in the thousands. In contrast, VaatiVidya, who has been called "the poet lauriat of /Dark Souls/" and whose videos are primarily interpretive, has 1.58 million YouTube subscribers, including viewership on specific videos in excess of 3,500,000, and makes a substantial living from 1,220 donors who have committed to ongoing support on Patreon. The disparity here is difficult to overstate: it is conceivable that the collective viewership of VaatiVidya, a single creator and by no means unique, may exceed the collective combined readership of every article published in any humanities journal since the inception of the academic humanities.
 
 The point here is not to shame the academic humanities for its lack of reach, though perhaps some small amount of shame is warranted. However, as we will see in coming sections, the choices we have made in the academy around publication, and in particular in the infrastructure we use to share our research with one another and the world, are not cutting us off from a public that is uninterested in hermaneutic work, interpretation, or a search for meaning. Rather, they are starved for it, at the same moment that we in the academic humanities are starved for want of the support of the public.
 
 Another conclusion we should not draw when comparing ourselves to lay hermaneutic communities is that we must, or should, adopt their methods wholesale, or even in great part. Specific lore communities may be engaged, accessible, energized, and popular where the academic humanities is cut off, demoralized, and—let us just say it—irrelevant. However, they are also unstable and unsustainable, their memory as a collective or an institution short and their works largely ephemeral. Though the best work of these communities may be insightful, the structure of these communities is such that methodology is largely ignored and sloppy or naive thinking is endemic. The best work done within the academic humanities, whether theoretical or interpretive, could not happen in a context similar to that of a lore community.
+
+In the next sections, we will "read" a piece of lay hermaneutic infrastructure, the website and online community /TV Tropes/, considering as we do the ecology it encourages and the assumptions it reveals in its construction. Here, the medium is the discipline, the logics of the platform both reflecting and influencing the shape of the community. In a further section, we will similarly engage with the interface to a proprietary scholarly database, unfortunately our current interface between the academic humanities and an interested member of the public. As we conclude our examination of negotiation between the academic humanities and the encircling collective, we will highlight instances of concerted engagement with infrastructure within the academic humanities and briefly imagine a realized humanities infrastructure that reflects our values.
+
+** TV Tropes
 
 
 
@@ -1765,72 +1778,30 @@ Another conclusion we should not draw when comparing ourselves to lay hermaneuti
 
 
 # Dark souls and its precursors
-https://www.youtube.com/watch?v=iaJb5juMiNY
+# https://www.youtube.com/watch?v=iaJb5juMiNY
 
+# - require glosses and infrastructure similar to catalogues
+# - requires a sophistocated multimedia approch
+# - values immediacy and a consensus or dichotomy mentality
+# - Show that there is real interest in specific kinds of interpretive work
 
-
-
-Dark Souls players fought side by side in crumbling ruins, crystal caverns, and basalt hellscapes, but it was the wikis and forums where the community came together to excavate the game’s delphic depths. In a time where many games’ secrets are laid bare just days after release, Dark Souls evoked memories of playground whispered cheatcodes, of arcane riddles, and of design confident enough to bury its most surprising encounters. For many, the game captured a certain nostalgic essentiality. And perhaps, along with its place as arguably the most difficult modern game to achieve comparable mainstream success, this is the quality that ensured its ubiquitous metaphorization.
-https://critical-distance.com/2018/03/29/dark-souls/
-
-
-
-
-
-
-
-
-, such as intermediate texts and video essays.
-
-
-
-
-- require glosses and infrastructure similar to catalogues
-- requires a sophistocated multimedia approch
-- values immediacy and a consensus or dichotomy mentality
-- Show that there is real interest in specific kinds of interpretive work
-
-
-
-
-
-While direct comparisons between analytical practices in lore communities and practices in the academic humanities may be misleading, there are enough similarities to be suggestive. 
-
-- prevailing interpreations
-
-
-
-
- of the authorship or publication dates of the original Sherlock Holmes stories would not be considered
-
-
-** Tv Tropes
-
-
-
-Twyzëas
-
-
-
+# While direct comparisons between analytical practices in lore communities and practices in the academic humanities may be misleading, there are enough similarities to be suggestive. 
 
 # lore definition
 # https://www.urbandictionary.com/define.php?term=lore
-
-
-
-
 
 # More alien to the traditions of the academy and more indicative of the weakness of humanities infrastructure for performing research and engaging with the wider society, however, is the rise of traditions of critical and interpretive activity independent of the academy. 
 
 # These developing interpretive traditions, often associated with specific subcultures or fan communities, demonstrate broad engagement and a level of infrastructural awareness rarely matched by academics. While terms such as "outsider art" and "architecture naïve" have been used to describe creative work that falls outside of any established tradition, for various reasons—condescension notwithstanding—equivalent terms do not readily apply to non-academic communities built around interpretive activity. Indeed, given the popularity of such communities, a case could be made that humanities practitioners working within the academy are the outsiders. A more appropriate term for these rising interpretative communities might be "lay hermaneutics."
 
-#+CAPTION: Clarence Schmidt's House of Mirrors in Woodstock, New York, an instance of architecture naïve.
-#+NAME: mirrors.jpg
-#+ATTR_HTML: :alt An extremely odd-looking house in winter.
-[[./images/mirrors.jpg]]
+# #+CAPTION: Clarence Schmidt's House of Mirrors in Woodstock, New York, an instance of architecture naïve.
+# #+NAME: mirrors.jpg
+# #+ATTR_HTML: :alt An extremely odd-looking house in winter.
+# [[./images/mirrors.jpg]]
 # Taken from http://hacedordetrampas.blogspot.com/2010/03/claren-schmidt-y-la-casa-de-los-espejos.html, may need to find an image with better attribution
 
-*************** TODO Find image of House of Mirrors with better provenance
+*************** DONE Find image of House of Mirrors with better provenance
+		CLOSED: [2020-06-24 Wed 16:36]
 *************** END
 
 
