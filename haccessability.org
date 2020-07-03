@@ -1740,13 +1740,13 @@ The Sherlockian game began in a mock-serious or deadpan mode, and participants w
 
 ** Lore Communities
 
-"Lore," as used as a term of art on the web, is the collected diegetic information about a work, especially a game. According to a popular entry on Urban Dictionary, lore is "[t]he collective history and the sum of all knowledge available about a certain fantasy or sci-fi universe" citep:twyzeas_lore_2015. That is, lore is the body of information, such as history, that operates as information or history /inside/ a work, and which is independent of information /about/ the work. To continue the above example, a discussion about whether Dr. Watson was shot in the shoulder or leg at the Battle of Maiwand would be a question of lore, while a discussion of Conan Doyle's motivations for killing off Sherlock Holmes would not be based on lore.
+"Lore," as used as a term of art on the web, is the collected diegetic information about a work, especially a game. According to a popular entry on Urban Dictionary, lore is "[t]he collective history and the sum of all knowledge available about a certain fantasy or sci-fi universe" citep:twyzeas_lore_2015. That is, lore is the body of information, such as history, that operates as information or history /inside/ a work, and which is independent of information /about/ the work. To once again use the Holmes stories as an example, a discussion about whether Dr. Watson was shot in the shoulder or leg at the Battle of Maiwand would be a question of lore, while a discussion of Conan Doyle's motivations for killing off Sherlock Holmes would not be based on lore.
 
 Lore, as created for games and adjacent works, is made in anticipation of hermaneutic readings and approaches. That is, lore—as constructed by authors and creators—assumes an audience interested in catalogue, critique, and theory. Hermaneutic  activity around games is complicated by the fact that, according to new media scholar David Ciccoricco, "even those videogames that are commonly considered "pure action" may require consultation of the classical hermeneutic tradition to be "understood to the full" citep:ciccoricco_games_2010. That is, the consumption of many modern games requires specific literacy's, including the consultation of glosses and commentaries, and in that sense is hermaneutic in the sense of the classical, philosophical, or biblical traditions. Other works demand, for full or even adequate engagement, an attention to the hermaneutic more in keeping with the interpretive tradition as practiced in contemporary humanities disciplines. For example, a naive playthrough of the 2011 /Dark Souls/, a game with a strikingly devoted lore community [fn:dark-souls], is disappointing and even, by all appearances, nonsensical. If the player follows instructions explicitly given by characters in the game, they learn little and, in the final moments of a long and notoriously difficult game, burn themselves alive to support a corrupt and decrepit status quo. However, if the player is interpretively inclined, attending to clues in the description of artifacts, patterns and inconsistencies in architecture, and the internally consistent redefinition of specific thematic terms ("humanity," "fire," "profane"), they can piece together their position in the larger context and choose an alternate path. In /The Stanley Parable, Dark Souls, and Intended Play/, lay theorist Dan Olson notes that "a reading of Dark Souls must encompass not just the nominal story but also a breadth of possibilities and how those possibilities alter the meaning. This added complexity means games as texts are harder to encompass" citep:olson_stanley_2017.
 
 [fn:dark-souls] There is no unified lore community, just as there is no unified "fandom" community. It may be true that there is a lore movement in the sense that the rise of lore as a concept has seeded a variety of communities who care deeply about the lore of specific works, but there is generally not (yet?) a consciousness of lore as a phenomenon, practice, or organizing principle.
 
-In this section, I mostly use as an example /Dark Souls/, the 2011 game that is, perhaps, best associated with lore activity, and which can be more directly compared to hermaneutic and interpretive work in the academic humanities. Another valid choice would have been, for example, /Undertale/, which has a more woman- and queer-identifying community, and which demands a similar level of interpretive engagement on the part of a player. Lore activity around /Undertale/, however, is difficult to prise apart from other fan activity.
+In this section, I mostly use as an example /Dark Souls/, the 2011 game that is, perhaps, best associated with lore activity, and which can be more directly compared to hermaneutic and interpretive work in the academic humanities. Another valid choice would have been, for example, /Undertale/, which has a more woman- and queer-identifying community, and which demands a similar level of interpretive engagement on the part of a player. Lore activity around /Undertale/, however, is difficult to prise apart from other activity within the fandom, such as the creation of fanfiction.
 
 Likely due to the rise of community-oriented online platforms, an increasing number of works anticipate, or even demand, a hermaneutic approach. Authors and creators, aware of this emerging dynamic, put out works in which the primary action is below the surface. As one lay commentator observed, "/Dark Souls/ players fought side by side in crumbling ruins, crystal caverns, and basalt hellscapes, but it was the wikis and forums where the community came together to excavate the game’s delphic depths. In a time where many games’ secrets are laid bare just days after release, Dark Souls evoked memories of playground whispered cheatcodes, of arcane riddles, and of design confident enough to bury its most surprising encounters. For many, the game captured a certain nostalgic essentiality. And perhaps ... this is the quality that ensured its ubiquitous metaphorization" citep:rueben_dark_2018. Just as Joyce wrote in full anticipation of a scholarly discussion forming around /Ulysses/, these works are created in confidence that a corpus of secondary texts will grow up around them.
 
@@ -1758,24 +1758,18 @@ Likely due to the rise of community-oriented online platforms, an increasing num
 # These approaches vary widely by the specific work, some offering compendious information, history, and internal texts (/Skyrim/, /Mass Effect/), while others offer hints and scraps (/Shadow of the Colossus/, /Dark Souls/). 
 :end:
 
-Perhaps due to the specific hermaneutic, interpretive, and performative demands of games, lore communities make use of a wide variety of infrastructure, most specifically wikis, forums, video essays, chat services, and backer platforms (Patreon, Kickstarter). It's tempting to say that platforms such as YouTube are a natural place for discussion of lore given the difficulties associated with citation of games and a need for an audiovisual medium. However, video essays are more likely to be a medium of choice because YouTube is simply where receptive audiences congregate in numbers. Viewership of (often highly theoretical or abstract) video essays can be, and frequently are, astronomical, and especially by comparison to reader ship of academic journals or monographs. Academic readership, a number presumably higher than citation counts, goes mostly untracked. /PMLA/ claims a "circulation of 27,801, ... among the largest for a humanities journal" citep:pmla_advertising_2020. and a generous upper bound on the readership of the most widely discussed papers in the academic humanities would be in the thousands. In contrast, VaatiVidya, who has been called "the poet lauriat of /Dark Souls/" and whose videos are primarily interpretive, has 1.58 million YouTube subscribers, including viewership on specific videos in excess of 3,500,000, and makes a substantial living from 1,220 donors who have committed to ongoing support on Patreon. The disparity here is difficult to overstate: it is conceivable that the collective viewership of VaatiVidya, a single creator and by no means unique, may exceed the collective combined readership of every article published in any humanities journal since the inception of the academic humanities.
+Perhaps due to the specific hermaneutic, interpretive, and performative demands of games, lore communities make use of a wide variety of infrastructure, most specifically wikis, forums, video essays, chat services, and backer platforms (Patreon, Kickstarter). It's tempting to say that platforms such as YouTube are a natural place for discussion of lore given the difficulties associated with citation of games and a need to use one audiovisual medium to adress another. However, video essays are more likely to be a medium of choice because YouTube is simply where receptive audiences congregate in numbers. Viewership of (often highly theoretical or abstract) video essays can be, and frequently are, astronomical, and especially by comparison to reader ship of academic journals or monographs. Academic readership, a number presumably higher than citation counts, goes mostly untracked. /PMLA/ claims a "circulation of 27,801, ... among the largest for a humanities journal" citep:pmla_advertising_2020. and a generous upper bound on the readership of the most widely discussed papers in the academic humanities would be in the thousands. In contrast, VaatiVidya, who has been called "the poet lauriat of /Dark Souls/" and whose videos are primarily interpretive, has 1.58 million YouTube subscribers, including viewership on specific videos in excess of 3,500,000 [fn:large-numbers], and makes a substantial living from 1,220 donors who have committed to ongoing support on Patreon. The disparity in reach here is difficult to overstate: it is conceivable that the collective viewership of VaatiVidya, a single creator and by no means unique, may exceed the collective combined readership of every article published in any humanities journal for at least the last two decades.
+
+[fn:large-numbers] Just to be clear here, these aren't videos of dancing cats. More than three million people are engaging with, to choose one representative example, an in-depth analysis of a single arch as it appears in the game. For myself, a non-specialist in /Dark Souls/ lore, these videos are, frankly, pretty boring, in the way that specialist work is frequently tiresome to outsiders. My point here is that there is substantial interest in hermaneutic work in non-academic communities, and that in specific ways lay hermaneutic traditions such as lore have developed their ability to engage the encircling society with a success that should cause us to reflect on specific exclusory practices in the academic humanities.
+
+
+# !!!! FOOTNOTES !!!!
 
 The point here is not to shame the academic humanities for its lack of reach, though perhaps some small amount of shame is warranted. However, as we will see in coming sections, the choices we have made in the academy around publication, and in particular in the infrastructure we use to share our research with one another and the world, are not cutting us off from a public that is uninterested in hermaneutic work, interpretation, or a search for meaning. Rather, they are starved for it, at the same moment that we in the academic humanities are starved for want of the support of the public.
 
 Another conclusion we should not draw when comparing ourselves to lay hermaneutic communities is that we must, or should, adopt their methods wholesale, or even in great part. Specific lore communities may be engaged, accessible, energized, and popular where the academic humanities is cut off, demoralized, and—let us just say it—irrelevant. However, they are also unstable and unsustainable, their memory as a collective or an institution short and their works largely ephemeral. Though the best work of these communities may be insightful, the structure of these communities is such that methodology is largely ignored and sloppy or naive thinking is endemic. The best work done within the academic humanities, whether theoretical or interpretive, could not happen in a context similar to that of a lore community.
 
 In the next sections, we will "read" a piece of lay hermaneutic infrastructure, the website and online community /TV Tropes/, considering as we do the ecology it encourages and the assumptions it reveals in its construction. Here, the medium is the discipline, the logics of the platform both reflecting and influencing the shape of the community. In a further section, we will similarly engage with the interface to a proprietary scholarly database, unfortunately our current interface between the academic humanities and an interested member of the public. As we conclude our examination of negotiation between the academic humanities and the encircling collective, we will highlight instances of concerted engagement with infrastructure within the academic humanities and briefly imagine a realized humanities infrastructure that reflects our values.
-
-** TV Tropes
-
-
-
-
-
-
-
-
-
 
 # Dark souls and its precursors
 # https://www.youtube.com/watch?v=iaJb5juMiNY
@@ -1803,6 +1797,80 @@ In the next sections, we will "read" a piece of lay hermaneutic infrastructure, 
 *************** DONE Find image of House of Mirrors with better provenance
 		CLOSED: [2020-06-24 Wed 16:36]
 *************** END
+
+
+** TV Tropes
+
+TV Tropes is, in its own words, the "all-devouring pop-culture wiki," which "catalogs and cross-references recurrent plot devices, archetypes, and tropes in all forms of media" " citep:tv_tropes_tv_2020. The site, which receives about 2 million unique visitors per month, was started in 2004 as an offshoot of discussion of common patterns in media on a forum for fans of /Buffy the Vampire Slayer/. Though tropers, as participants call themselves, started off analyzing  conventions in television, the site now encompasses analysis of works across a wide variety of media, from literature and film to "real life," which apparently adheres to storytelling conventions often enough to qualify as a medium in its own right. 
+
+The site is organized around articles which take one of two primary forms: tropes—narrative devices or conventions used in media—and works—discrete media such as a series, movie or novel. Each article consists of a description, typically written in a breezy yet authoritative style and densely peppered with links to works and tropes, followed by an examples section, arguably the most distinctive feature of the site. For tropes, this section enumerates works that exhibit the trope. For works, this section lists the tropes that apply. Trope pages also orient readers to the trope's position in a larger constellation of tropes by providing tropes related or contrasting tropes, or by pointing out metatropes or subtropes.
+
+I'll argue here that TV Tropes is, more than the online lore community or the Sherlockian game, disciplinary in the sense that we mean it within the academy, and that this disciplinarity is paired with a marked, and markedly  successful, accessibility. This argument, however, will be more legible in the context of a specific trope page. [fn:rabbit-hole]. Though there are over 42,000 trope pages on the site, we'll briefly engage with "Ontological Mystery," [fn:highbrow], a trope related to abstract settings used in /Waiting for Godot/, Dante's /Inferno/, and the 1979 /The Prisoner/.
+
+On opening the page for "Ontological Mystery," the most prominent initial features are the title, an epitaph, and a prose description of the trope. The epitaph, a quote from a Talking Heads song, introduces the trope: "... And you may ask yourself, 'Well, how did I get here?'" The description, seemingly the core of the page, is relatively short:
+
+#+BEGIN_QUOTE
+The characters are locked in a strange room, have no idea how they got there, why they're there, or how to get out, nor do they know exactly who is behind their predicament, if anyone. ... The main thrust of such stories is the investigation of the restricted environment in which the characters find themselves, with the goal of mastering it, revealing its secrets, and eventually escaping. Often those approaching the truth are sharply yanked back. ... The genre is usually a metaphor for the unknowns and Big Questions of Real Life: what is my purpose, why are we here, what can be done to solve the unsolvable?
+#+END_QUOTE
+Following this, the description begins to place the article in a broader context of tropes:
+
+#+BEGIN_QUOTE
+May overlap with Small, Secluded World, World Limited to the Plot, Alternate Universe, Planet of Hats, Adventure Towns or Lotus-Eater Machine. Almost always employs Failure Is the Only Option and a veritable swarm of Schrodinger's Butterflies to obfuscate issues. There's usually a Straw Nihilist in the cast saying it's all pointless. ... Compare Epiphanic Prison. Contrast Eerily Out-of-Place Object, for non-personal ontological mysteries.
+#+END_QUOTE
+Following this context, and initially hidden in "accordion" drawers representing media such as "Literature," "Live-Action TV," and "Toys," are examples of works employing the trope and the accompanying presentation of the trope in the work. However, while the initial description of the trope that opens the article, and the examples that close it, are critical, the essential core of TV Tropes as a form of disciplinary infrastructure is the context, the situation of the article at a specific node in the network. In the article "Epiphanic Prison," for example, we learn that a common way that ontological mysteries are resolved is through a protagonist's epiphany. In "Eerily Out-of-Place Object," we find that Ontological Mystery is relevant "when the thing you find somewhere you can't explain ... is yourself."
+
+We will return, shortly, to one or two other notable features of this page. We see here, however, the essence of TV Tropes as infrastructure, and as an instantiation of values that are disciplinary, or at least adjacent to what we consider to be disciplinary.
+
+
+
+
+
+On the page for 
+
+
+
+
+
+
+
+- the way we do it, it's totally atomozed. you can't lean on other scholarship as infrastructure. well, you can, but it's a pain!
+
+
+paragraphs:
+
+
+- praxis oriented, interpretation is happening here but it's infrastructure for interpretation to happen elsewhere
+
+- disciplinary: distillation of practices and knowledge
+- Maintains distance
+- hermaneutic and interpretive
+- reads from a different perspective or level of analysis (small movements not big)
+- accessibility
+
+
+
+The site, aware that it is itself a work, participates 
+
+
+"Works: 
+
+
+
+
+
+[fn:rabbit-hole] Research on TV Tropes is difficult, since the interlinked nature of the site has one moving from page to page almost without thought. Minutes rapidly turn into hours.
+
+
+# !!!! END FOOTENOTE
+
+[fn:highbrow] Yes, I have chosen one of the more cerebral trope pages. This is, after all, a PhD dissertation.
+
+
+# !!!! END FOOTENOTE
+
+
+-----
+
 
 
 
@@ -2435,6 +2503,9 @@ https://jalopnik.com/tesla-remotely-removes-autopilot-features-from-customer-184
 # Infantilization by interfaces
 # School Will Never End: On Infantilization in Digital Environments - Amplifying Empowerment or Propagating Stupidity?
 http://sigwait.tk/~alex/doc/bunz%2Cmercedes__school-will-never-end/
+
+# Rig wheelchair
+# https://www.youtube.com/watch?v=vuMg0QwKAGI
 
 # Remembering the LAN
 https://tailscale.com/blog/remembering-the-lan/
