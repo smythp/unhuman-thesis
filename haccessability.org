@@ -1943,10 +1943,28 @@ Our SAGE Journals article page is disappointing as humanities infrastructure bec
 
 Our work is transformed from living knowledge to grist for a profitable business model through our inattention, as humanists and academics , to infrastructure. In "The Humanistiscope: Exploring the Situatedness of Humanities Infrastructure," Patrick Svensson observes that "... when it comes to thinking about the humanities in terms of infrastructure, there seems to be a lack of both everyday systemic awareness and extensive critical work. Humanists do not thus necessarily think of what they do as situated and conditioned in terms of infrastructure" citep:svensson_humanistiscope_2015. Because we have not taken an active interest in the creation of infrastructure, we, as humanists, have become dependent on a set of /de facto/ infrastructures that instantiate values not our own. Our above reading of a SAGE Journals article pageprovides an example of infrastructure, created for us and not by us, that fails to reflect our values.
 
-MICROSOFT WORD NOW?
+Humanists, of course, should not be creating their own water processing plants. [fn:tenure] However, our infrastructural choices have effects on the lives of our students, the shape of our research, and the nature of the university as an institution. In /Austerity Blues: Fighting for the Soul of Public Higher Education/, Michael Fabricant and Stephen Brier draw a line between infrastructural choices, including decisions made about platforms, and the politics of disinvestment that has negatively impacted higher education in the United States. In a moment in which tenured professors are being replaced by adjuncts, and in which the burden of tuition continues to be shifted onto our highest-need students, public institutions such as the City University of New York (CUNY) have spent disproportionate resources on infrastructural initiatives that primarily benefit large corporations. These include subscriptions to proprietary services such as Blackboard, exploitative partnerships with for-profit edtech initiatives such as MOOC2Degree, and investment in CUNYfirst, a highly expensive and low quality internal platform contracted out to Oracle. 
+
+#+BEGIN_QUOTE
+The introduction of online curricula and large-scale management information systems also offers significant opportunities for profit making by private companies. For example, “CUNYfirst,” an “enterprise resource planning” business software solution developed by Oracle’s PeopleSoft for CUNY to coordinate and “systematize” all university academic and administrative functions, will have a reported cost of more than $600 million in capital expenditure. That is not to mention the tens of thousands of unreported hours of CUNY staff time spent over the past decade of its implementation learning the complex procedures, time that could not be devoted to CUNY student and faculty needs. It is important to reiterate that this large cost has been incurred during a period of substantial student tuition increases and public-sector disinvestment. Equally important, CUNYfirst is an “off-the-shelf” system that has been plagued by many operating problems and obstacles, thus delaying its full implementation. [[citep:fabricant_austerity_2016][p. 96]]
+#+END_QUOTE
 
 
 
+# cuny academic commons quote
+:notes:
+
+# #+BEGIN_QUOTE
+# CAC was conceived and is operated “to support,” in the words of one of its founding documents, “faculty initiatives and build community through the use(s) of technology in teaching and learning. The free exchange of knowledge among colleagues across the university is central to better educating the student body and expanding professional development opportunities for faculty research and teaching” (CUNY Academic Commons 2009; Brier 2012, 396–97). In the seven years since its 2009 launch, CAC has garnered more than eight thousand CUNY faculty, staff, and graduate students who use its group sites, blogs, and wikis to find one another; to share information and ideas; to support and enhance the teaching of graduate-level courses, thus avoiding the CUNY-mandated use of the far more limited Blackboard proprietary learning management system; to collaborate on digital and other types of academic projects; and to form and sustain intellectual, political, cultural, and social communities.2 In an era of increasing austerity in public institutions such as CUNY, CAC has served as an important communications tool to link faculty, staff, and graduate students together in common intellectual, pedagogical, and political issues and struggles. CAC has contributed immeasurably to building a sense of community and active intellectual engagement across the diverse and often fragmented multicampus CUNY system. And, in the spirit of the open-source idea, the CAC team has made the underlying software platform and computer code available for free to all potential users worldwide in its “Commons in a Box” program (Commonsinabox.org, n.d.).
+# #+END_QUOTE
+:end:
+
+
+
+[fn:tenure] And if they do, it should be as a hobby after they receive tenure.
+
+
+# !!!! END FOOTNOTE
 
 
 
