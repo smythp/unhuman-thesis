@@ -1945,6 +1945,12 @@ Our work is transformed from living knowledge to grist for a profitable business
 
 Humanists, of course, should not be creating their own water processing plants. [fn:tenure] However, our infrastructural choices have effects on the lives of our students, the shape of our research, and the nature of the university as an institution. In /Austerity Blues: Fighting for the Soul of Public Higher Education/, Michael Fabricant and Stephen Brier draw a line between infrastructural choices, including decisions made about platforms, and the politics of disinvestment that has negatively impacted higher education in the United States. In a moment in which tenured professors are being replaced by adjuncts, and in which the burden of tuition continues to be shifted onto our highest-need students, public institutions such as the City University of New York (CUNY) have spent disproportionate resources on infrastructural initiatives that primarily benefit large corporations. These include subscriptions to proprietary services such as Blackboard and exploitative partnerships with for-profit edtech initiatives such as MOOC2Degree. A notably pernicious example at the City University of New York is CUNYfirst, a highly expensive and low quality internal platform contracted out to Oracle:
 
+[fn:tenure] And if they do, it should be as a hobby after they receive tenure.
+
+
+# !!! END FOOTENOTE
+
+
 #+BEGIN_QUOTE
 “CUNYfirst,” an “enterprise resource planning” business software solution developed by Oracle’s PeopleSoft for CUNY to coordinate and “systematize” all university academic and administrative functions, will have a reported cost of more than $600 million in capital expenditure. That is not to mention the tens of thousands of unreported hours of CUNY staff time spent over the past decade of its implementation learning the complex procedures, time that could not be devoted to CUNY student and faculty needs. It is important to reiterate that this large cost has been incurred during a period of substantial student tuition increases and public-sector disinvestment. Equally important, CUNYfirst is an “off-the-shelf” system that has been plagued by many operating problems and obstacles, thus delaying its full implementation. [[citep:fabricant_austerity_2016][p. 96]]
 #+END_QUOTE
@@ -1955,31 +1961,16 @@ This kind of speculation may seem ungrounded and unrelated to the humanities. Ho
 #+BEGIN_QUOTE
 ... since its 2009 launch, CAC has garnered more than eight thousand CUNY faculty, staff, and graduate students who use its group sites, blogs, and wikis to find one another; to share information and ideas; to support and enhance the teaching of graduate-level courses ...; to collaborate on digital and other types of academic projects; and to form and sustain intellectual, political, cultural, and social communities. ... CAC has contributed immeasurably to building a sense of community and active intellectual engagement across the diverse and often fragmented multicampus CUNY system. And, in the spirit of the open-source idea, the CAC team has made the underlying software platform and computer code available for free to all potential users worldwide in its “Commons in a Box” program. [[citep:fabricant_austerity_2016][p. 217-218]]
 #+END_QUOTE
+The CUNY Academic Commons and similar initiatives such as Blogs at Baruch and Queens College's Qwriting are tailored to their environment in a way that the monolithic CUNYfirst is not. Perhaps more importantly, just as CUNYfirst represents a disinvestment in the public university as an institution, the CUNY Academic Commons represents an investment, and the second- and third-order effects of its creation have rippled out far beyond the institution. The most obvious effect of investment in the CUNY Academic Commons is that the platform, licensed as free software as part of the Commons in a Box project, has been adopted by a wide array of public institutions, from the MLA to state universities in California, Texas, and Florida. Boone Gorges, one of the original developers on the CUNY Academic Commons while a graduate student in philosophy, remarks on the decision to share the infrastructure more broadly: "[o]nce CUNY Commons was up, we got requests from all over the world asking us to tell them how to do the same. Commons in a Box is not only one-off software but a community project where people can come for support, share their work, and contribute ... . What I’ve seen anecdotally, people who otherwise could not set up a community site now can in half an hour. People who never could have done it before can create powerful online communities" citep:slavin_interview_2013. As part of CUNY Graduate Center Digital Initiatives, the CUNY Academic Commons and Commons in a Box projects have inspired other infrastructural efforts, such as the NEH-funded projects Social Paper, DH Box, and Beyond Citation, and the clustering together of these and other infrastructural initiatives has created an ecosystem of local expertise that particularly benefits graduate students. As humanists participate, and increasingly lead, in the building and maintenance of infrastructure, we not only allow ourselves to work in ways that exercise our values, but we clear the path, and create the knowledge, necessary for more ambitious work.
 
-The CUNY Academic Commons and similar initiatives such as Blogs at Baruch and Queens College's Qwriting are tailored to their environment in a way that the monolithic CUNYfirst is not. Perhaps more importantly, just as CUNYfirst represents a disinvestment in the public university as an institution, the CUNY Academic Commons represents an investment, and the second- and third-order effects of its creation have rippled out far beyond the institution.
+In other areas, humanists have answered /de facto/ infrastructure with humanities infrastructure and, perhaps to our own surprise, succeeded. In 2006, the Center for History and New Media at George Mason University released Zotero, a citation manager, and freely licensed software. At that time, the citation manager environment was dominated by RefWorks, proprietary software that is now owned and released by a ProQuest subsidiary. Since that time, Zotero has stood toe-to-toe with RefWorks and the similarly proprietary EndNote and Mendeley, and Mendeley even incorporates Zotero's open code into its citation processor and plugin for word processors.
 
+Directly creating alternatives is not the only way to answer /de facto/ infrastructure. Lori Emerson, for example, in her work at the Media Archeology Lab at the University of Colorado, works to excavate possibilities of interface that have been closed off by the unrelenting ubiquity of tools such as Microsoft Word, "opening up how exactly interfaces limit and create certain creative possibilities" citep:emerson_reading_2014. In an interview with Jay Kirby, Emerson describes her methodology for allowing others to create distance from the cognitive and creative hegemony of Microsoft Word, software that is a /de facto/ standard for writing in the humanities:
 
-Just as CUNYfirst is d
-
-
-
-
-Once CUNY Commons was up, we got requests from all over the world asking us to tell them how to do the same. Commons in a Box is not only one-off software but a community project where people can come for support, share their work, and contribute to the project. What I’ve seen anecdotally, people who otherwise could not set up a community site now can in half an hour. People who never could have done it before can create powerful online communities.
-https://www.kidscodecs.com/an-interview-with-boone-gorges/
-
-
-# cuny academic commons quote
-:notes:
-
-
-:end:
-
-
-
-[fn:tenure] And if they do, it should be as a hobby after they receive tenure.
-
-
-# !!!! END FOOTNOTE
+#+BEGIN_QUOTE
+That is what I use the Media Archeology Lab for. I sit people down at, say, an Osborne I computer, and I invite them to use WordStar, which is entirely text-based and requires you to use about 90 different commands. Next, I ask them to read WordStar against Microsoft Word so that they can begin to actually see how other word processors have different or more capabilities than Word, and hopefully they begin to realize Word isn’t natural—it isn’t the only, or even the best, word processor. There are other ways you can process your documents and have very different, creative results. So to me, pedagogically, the best way to get students to think critically about interfaces is to read the past and the present against each other. citep:kirby_as_2016
+#+END_QUOTE
+Emerson creates and uses infrastructure—her Media Archeology Lab and its associated historical hardware and software—and studies infrastructure—in this case, Microsoft Word. Indispensable to this approach are core methods of the humanities, in this case critical interpretation and pedagogy. There is no tension between these approaches—infrastructural knowledge, the ability to see and think in terms of infrastructure, naturally extends Emerson's critical faculty. This work is humanities work, and the results, in /Reading Writing Interfaces/ and elsewhere, speak for themselves.
 
 
 -----
@@ -2097,14 +2088,18 @@ But what is new is that the interfaces themselves and therefore their constraint
    opening
 
 
-*************** TODO look up an accusation of Tuftue supposed hypocrisy and put in a citation
+*************** DONE look up an accusation of Tuftue supposed hypocrisy and put in a citation
+		CLOSED: [2020-07-26 Sun 18:27]
 *************** END
 
-*************** TODO use siple made easy discussion here?
+*************** DONE use siple made easy discussion here?
+		CLOSED: [2020-07-26 Sun 18:27]
 *************** END
-*************** TODO say that PP is also not accessible?
+*************** DONE say that PP is also not accessible?
+		CLOSED: [2020-07-26 Sun 18:27]
 *************** END
-*************** TODO who else to put on the list of people doing work in Critical Infrastructure Studies? more women
+*************** DONE who else to put on the list of people doing work in Critical Infrastructure Studies? more women
+		CLOSED: [2020-07-26 Sun 18:27]
 *************** END
 
 
@@ -2130,7 +2125,8 @@ One of the fiercest opponents
 :end:
 
 
-*************** TODO talk about rhetorical determinism
+*************** DONE talk about rhetorical determinism
+		CLOSED: [2020-07-26 Sun 18:28]
 *************** END
 
 Norbert Wiener, whose statistical work on firing systems during World War II caused him to reject the value-neutral posture of high abstractions, tools, and interfaces,
