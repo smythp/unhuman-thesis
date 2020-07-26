@@ -1269,7 +1269,7 @@ As we conclude this chapter, and gesture to the next, I will increasingly commit
 # 12 words
 # https://www.kenyonreview.org/journal/septoct-2019/selections/brian-trapp/
 
-* Infrastructure
+* Values Instantiated: Infrastructure and the Humanities
 
 # quotes for chapter
 :notes:
@@ -1943,20 +1943,35 @@ Our SAGE Journals article page is disappointing as humanities infrastructure bec
 
 Our work is transformed from living knowledge to grist for a profitable business model through our inattention, as humanists and academics , to infrastructure. In "The Humanistiscope: Exploring the Situatedness of Humanities Infrastructure," Patrick Svensson observes that "... when it comes to thinking about the humanities in terms of infrastructure, there seems to be a lack of both everyday systemic awareness and extensive critical work. Humanists do not thus necessarily think of what they do as situated and conditioned in terms of infrastructure" citep:svensson_humanistiscope_2015. Because we have not taken an active interest in the creation of infrastructure, we, as humanists, have become dependent on a set of /de facto/ infrastructures that instantiate values not our own. Our above reading of a SAGE Journals article pageprovides an example of infrastructure, created for us and not by us, that fails to reflect our values.
 
-Humanists, of course, should not be creating their own water processing plants. [fn:tenure] However, our infrastructural choices have effects on the lives of our students, the shape of our research, and the nature of the university as an institution. In /Austerity Blues: Fighting for the Soul of Public Higher Education/, Michael Fabricant and Stephen Brier draw a line between infrastructural choices, including decisions made about platforms, and the politics of disinvestment that has negatively impacted higher education in the United States. In a moment in which tenured professors are being replaced by adjuncts, and in which the burden of tuition continues to be shifted onto our highest-need students, public institutions such as the City University of New York (CUNY) have spent disproportionate resources on infrastructural initiatives that primarily benefit large corporations. These include subscriptions to proprietary services such as Blackboard, exploitative partnerships with for-profit edtech initiatives such as MOOC2Degree, and investment in CUNYfirst, a highly expensive and low quality internal platform contracted out to Oracle. 
+Humanists, of course, should not be creating their own water processing plants. [fn:tenure] However, our infrastructural choices have effects on the lives of our students, the shape of our research, and the nature of the university as an institution. In /Austerity Blues: Fighting for the Soul of Public Higher Education/, Michael Fabricant and Stephen Brier draw a line between infrastructural choices, including decisions made about platforms, and the politics of disinvestment that has negatively impacted higher education in the United States. In a moment in which tenured professors are being replaced by adjuncts, and in which the burden of tuition continues to be shifted onto our highest-need students, public institutions such as the City University of New York (CUNY) have spent disproportionate resources on infrastructural initiatives that primarily benefit large corporations. These include subscriptions to proprietary services such as Blackboard and exploitative partnerships with for-profit edtech initiatives such as MOOC2Degree. A notably pernicious example at the City University of New York is CUNYfirst, a highly expensive and low quality internal platform contracted out to Oracle:
 
 #+BEGIN_QUOTE
-The introduction of online curricula and large-scale management information systems also offers significant opportunities for profit making by private companies. For example, “CUNYfirst,” an “enterprise resource planning” business software solution developed by Oracle’s PeopleSoft for CUNY to coordinate and “systematize” all university academic and administrative functions, will have a reported cost of more than $600 million in capital expenditure. That is not to mention the tens of thousands of unreported hours of CUNY staff time spent over the past decade of its implementation learning the complex procedures, time that could not be devoted to CUNY student and faculty needs. It is important to reiterate that this large cost has been incurred during a period of substantial student tuition increases and public-sector disinvestment. Equally important, CUNYfirst is an “off-the-shelf” system that has been plagued by many operating problems and obstacles, thus delaying its full implementation. [[citep:fabricant_austerity_2016][p. 96]]
+“CUNYfirst,” an “enterprise resource planning” business software solution developed by Oracle’s PeopleSoft for CUNY to coordinate and “systematize” all university academic and administrative functions, will have a reported cost of more than $600 million in capital expenditure. That is not to mention the tens of thousands of unreported hours of CUNY staff time spent over the past decade of its implementation learning the complex procedures, time that could not be devoted to CUNY student and faculty needs. It is important to reiterate that this large cost has been incurred during a period of substantial student tuition increases and public-sector disinvestment. Equally important, CUNYfirst is an “off-the-shelf” system that has been plagued by many operating problems and obstacles, thus delaying its full implementation. [[citep:fabricant_austerity_2016][p. 96]]
+#+END_QUOTE
+CUNYfirst's expense and demonstrably poor performance stand out, but the true missed opportunity here is the contracted, corporate, and off-the-shelf nature of the platform. Paying Oracle $600,000 for /prix-fixe/ software is its own kind of disinvestment in public institutions. Imagine, instead, similar funding put toward building infrastructure tailored to the needs of the university, and that itself could be shared with other public institutions. Rather than a structure that instantiates the values of for-profit Oracle—CUNYfirst, for example, has a vestigial page where faculty can check their stock compensation—the platform could be built from the ground up for public higher education. The $600,000,000 sticker price for this uncustomized  software could pay for a team of 200, compensated with a generous $200,000 in salary and benefits, to work for 15 years, and the presence of such a team would constitute its own kind of investment in infrastructural expertise at CUNY. More reasonably , this funding would likely go much further in creating CUNY-specific infrastructure, investment that could help the university assume a leadership role and which would develop its independent ability to take on more ambitious infrastructural projects in the future..
+
+This kind of speculation may seem ungrounded and unrelated to the humanities. However, ongoing work at CUNY has demonstrated the concrete benefits that arise from attention to and investment in local infrastructure, and humanists have been key to this current. Started by Matthew K. Gold, a professor of English at The Graduate Center, CUNY, the CUNY Academic Commons is a shared online space for CUNY students and faculty:
+
+#+BEGIN_QUOTE
+... since its 2009 launch, CAC has garnered more than eight thousand CUNY faculty, staff, and graduate students who use its group sites, blogs, and wikis to find one another; to share information and ideas; to support and enhance the teaching of graduate-level courses ...; to collaborate on digital and other types of academic projects; and to form and sustain intellectual, political, cultural, and social communities. ... CAC has contributed immeasurably to building a sense of community and active intellectual engagement across the diverse and often fragmented multicampus CUNY system. And, in the spirit of the open-source idea, the CAC team has made the underlying software platform and computer code available for free to all potential users worldwide in its “Commons in a Box” program. [[citep:fabricant_austerity_2016][p. 217-218]]
 #+END_QUOTE
 
+The CUNY Academic Commons and similar initiatives such as Blogs at Baruch and Queens College's Qwriting are tailored to their environment in a way that the monolithic CUNYfirst is not. Perhaps more importantly, just as CUNYfirst represents a disinvestment in the public university as an institution, the CUNY Academic Commons represents an investment, and the second- and third-order effects of its creation have rippled out far beyond the institution.
+
+
+Just as CUNYfirst is d
+
+
+
+
+Once CUNY Commons was up, we got requests from all over the world asking us to tell them how to do the same. Commons in a Box is not only one-off software but a community project where people can come for support, share their work, and contribute to the project. What I’ve seen anecdotally, people who otherwise could not set up a community site now can in half an hour. People who never could have done it before can create powerful online communities.
+https://www.kidscodecs.com/an-interview-with-boone-gorges/
 
 
 # cuny academic commons quote
 :notes:
 
-# #+BEGIN_QUOTE
-# CAC was conceived and is operated “to support,” in the words of one of its founding documents, “faculty initiatives and build community through the use(s) of technology in teaching and learning. The free exchange of knowledge among colleagues across the university is central to better educating the student body and expanding professional development opportunities for faculty research and teaching” (CUNY Academic Commons 2009; Brier 2012, 396–97). In the seven years since its 2009 launch, CAC has garnered more than eight thousand CUNY faculty, staff, and graduate students who use its group sites, blogs, and wikis to find one another; to share information and ideas; to support and enhance the teaching of graduate-level courses, thus avoiding the CUNY-mandated use of the far more limited Blackboard proprietary learning management system; to collaborate on digital and other types of academic projects; and to form and sustain intellectual, political, cultural, and social communities.2 In an era of increasing austerity in public institutions such as CUNY, CAC has served as an important communications tool to link faculty, staff, and graduate students together in common intellectual, pedagogical, and political issues and struggles. CAC has contributed immeasurably to building a sense of community and active intellectual engagement across the diverse and often fragmented multicampus CUNY system. And, in the spirit of the open-source idea, the CAC team has made the underlying software platform and computer code available for free to all potential users worldwide in its “Commons in a Box” program (Commonsinabox.org, n.d.).
-# #+END_QUOTE
+
 :end:
 
 
@@ -1965,22 +1980,6 @@ The introduction of online curricula and large-scale management information syst
 
 
 # !!!! END FOOTNOTE
-
-
-
-
-
-
-
-
-
-** Humanities Infrastructure: The Early Years
-
-
-
-
-
-
 
 
 -----
@@ -2013,32 +2012,24 @@ The introduction of online curricula and large-scale management information syst
 
 
 
-Perhaps the strongest exemplar of lay hermaneutic infrastructure is the TV Tropes website, a wiki-style compendium of cultural and literary conventions in all forms of media. The site, comprehensive and deeply hypertextual, displays an irreverence born of early internet culture but also relative sophistication in its engagement of topics such as canonicity ("Canon," /TV Tropes/), authority ("Death of the Author," /TV Tropes/), and representation ("Bury Your Gays," /TV Tropes/; "Stuffed into the Fridge," /TV Tropes/). Notably, the TV Tropes community is frequently aware, at least in general terms, of perspectives shared in disciplines such as Film Studies and English ("TV Tropes Will Ruin Your Life", /TV Tropes/), though the obverse—knowledge within academic disciplines of lay perspectives and terminology—is not generally true. Though some interpretive work is shared on TV Tropes, the site is primarily intended as infrastructure—that is, to supply a shared vocabulary and implicit critical framework for discussion of creative works, most frequently in other communities online. Though TV Tropes, as a site, is privately owned, its ready availability, hypertextuality, and community engagement  mean that it is an accessible resource for segments of the lay public drawn to hermaneutic practice but lacking the disciplinary training, rigorous though frequently out of reach, of the academy.
+# Perhaps the strongest exemplar of lay hermaneutic infrastructure is the TV Tropes website, a wiki-style compendium of cultural and literary conventions in all forms of media. The site, comprehensive and deeply hypertextual, displays an irreverence born of early internet culture but also relative sophistication in its engagement of topics such as canonicity ("Canon," /TV Tropes/), authority ("Death of the Author," /TV Tropes/), and representation ("Bury Your Gays," /TV Tropes/; "Stuffed into the Fridge," /TV Tropes/). Notably, the TV Tropes community is frequently aware, at least in general terms, of perspectives shared in disciplines such as Film Studies and English ("TV Tropes Will Ruin Your Life", /TV Tropes/), though the obverse—knowledge within academic disciplines of lay perspectives and terminology—is not generally true. Though some interpretive work is shared on TV Tropes, the site is primarily intended as infrastructure—that is, to supply a shared vocabulary and implicit critical framework for discussion of creative works, most frequently in other communities online. Though TV Tropes, as a site, is privately owned, its ready availability, hypertextuality, and community engagement  mean that it is an accessible resource for segments of the lay public drawn to hermaneutic practice but lacking the disciplinary training, rigorous though frequently out of reach, of the academy.
 
-From the perspective of an academic working in the humanities, it is difficult to take endeavors such as TV Tropes seriously. The website is almost too inviting, too public—clearly, the lack of a paywall, byzantine interface, or brutalist late-1990s design aesthetic belies the site's lack of seriousness. The site's name, now a misnomer given its transmedial ecumenism, suggests the TV that served as a cultural bugbear in the late 20th century, not the "peak" or "golden age" television that is a relatively sancioned subject of modern academic analysis. The absence of gatekeepers, the casual tenor of writing, and the embarrassing lack of distance—that is, the author collective's clear enjoyment—of their subjects of analysis only round out this dismal first impression. Yet the site, if we can bear to look at it, suggests an inditement of our inaccessible academic infrastructure in that it takes full advantage of the web as its medium and places no barriers, technological or professional, between itself and the reading public.
+# From the perspective of an academic working in the humanities, it is difficult to take endeavors such as TV Tropes seriously. The website is almost too inviting, too public—clearly, the lack of a paywall, byzantine interface, or brutalist late-1990s design aesthetic belies the site's lack of seriousness. The site's name, now a misnomer given its transmedial ecumenism, suggests the TV that served as a cultural bugbear in the late 20th century, not the "peak" or "golden age" television that is a relatively sancioned subject of modern academic analysis. The absence of gatekeepers, the casual tenor of writing, and the embarrassing lack of distance—that is, the author collective's clear enjoyment—of their subjects of analysis only round out this dismal first impression. Yet the site, if we can bear to look at it, suggests an inditement of our inaccessible academic infrastructure in that it takes full advantage of the web as its medium and places no barriers, technological or professional, between itself and the reading public.
 
-Another manifestation of lay hermaneutics—outsider humanities—is the "lore" movement that has grown up around the analysis and interpretation of specific games, but which extends out to communities that form around fan works and born-digital writing. Increasingly, works such as the game /Dark Souls/ (2011) and the web comic and pop culture phenomenon /Homestuck/ (2009-2016) are created with the assumption that online communities will spring up around their explication, analysis, and interpretation. "Lore," in this context, refers to 
+# Another manifestation of lay hermaneutics—outsider humanities—is the "lore" movement that has grown up around the analysis and interpretation of specific games, but which extends out to communities that form around fan works and born-digital writing. Increasingly, works such as the game /Dark Souls/ (2011) and the web comic and pop culture phenomenon /Homestuck/ (2009-2016) are created with the assumption that online communities will spring up around their explication, analysis, and interpretation. "Lore," in this context, refers to 
 
-Perhaps most notable
+
 
 # hypertext publishing
-http://www.skyhunter.com/hyper.htm
+# http://www.skyhunter.com/hyper.htm
 
 
 # TV tropes pages links
 :notes:
-   https://tvtropes.org/pmwiki/pmwiki.php/Main/Canon
-   https://tvtropes.org/pmwiki/pmwiki.php/Main/FauxSymbolism
-   https://tvtropes.org/pmwiki/pmwiki.php/Main/TVTropesWillRuinYourLife
+   # https://tvtropes.org/pmwiki/pmwiki.php/Main/Canon
+   # https://tvtropes.org/pmwiki/pmwiki.php/Main/FauxSymbolism
+   # https://tvtropes.org/pmwiki/pmwiki.php/Main/TVTropesWillRuinYourLife
 :end:
-
-academics are cut off from the web
-
-
-In its alienation from the work performed in the humanities
-
-
-Yet, contrary to widespread belief, many
 
 
 In the 1945 article "As We May Think," Vannevar Bush famously put forward the concept of the Memex, a kind of universal machinefor research and reading. Bush's framing of the cumbersome nature of research in his era will be resoundingly familiar to scholars of the twenty-first century:
@@ -2191,55 +2182,54 @@ can haccessibility  help here? just as we must replace bad culture with good cul
 *************** END
 
 
-** We Had Infrastructure
-   the humanities had all sorts of infrastructure that we created ourselves. we should think of it as important and think how we can preserve and translate this infrastrcture
+# ** We Had Infrastructure
+#    the humanities had all sorts of infrastructure that we created ourselves. we should think of it as important and think how we can preserve and translate this infrastrcture
 
-   to preserve this infrastrcture we need to stop thinking of certain humantiies work as not important. think librarianship
+#    to preserve this infrastrcture we need to stop thinking of certain humantiies work as not important. think librarianship
 
-** humanities values not reflected in the wder society
-** humanities values not reflected in the way we do our work
-** some dhers are thinking about infrastrcture
-** more importantly, some dhers are making infrastructure
-** what if the humanities were a public resource?
-   what would it look like?
-   there were visions: dram machines and the memex
+# ** humanities values not reflected in the wder society
+# ** humanities values not reflected in the way we do our work
+# ** some dhers are thinking about infrastrcture
+# ** more importantly, some dhers are making infrastructure
+# ** what if the humanities were a public resource?
+   # what would it look like?
+   # there were visions: dram machines and the memex
 
 
-** can the humanities attend to negotiation, point of intersection?
-   we would have to rethink:
-   - public engagement
-   - research
-   - publication
-   - teaching? this might actually be ok but materials?
+# ** can the humanities attend to negotiation, point of intersection?
+#    we would have to rethink:
+#    - public engagement
+#    - research
+#    - publication
+#    - teaching? this might actually be ok but materials?
 
-   haccessibility approach is one that makes it easy to go the last mile and do stuff
-   forkable curriclum for dri lets people iterate on things without too much technical knowledge
-   google docs gets the usability right but sucks at all the things we care about...provenance, owning your own stuff (what's the point of tenure if google can unpublish your stuff?), sustainability
-** who is building infrastructure?
-** if we're doing infrastrcture, are we doing humanitie
+   # haccessibility approach is one that makes it easy to go the last mile and do stuff
+   # forkable curriclum for dri lets people iterate on things without too much technical knowledge
+   # google docs gets the usability right but sucks at all the things we care about...provenance, owning your own stuff (what's the point of tenure if google can unpublish your stuff?), sustainability
+# ** who is building infrastructure?
+# ** if we're doing infrastrcture, are we doing humanitie
+# ** Reading Infrastructure: Critical Infrastructure Studies
 
-** Reading Infrastructure: Critical Infrastructure Studies
+# In recent years, groups of humanities practitioners have moved toward an increased awareness of the importance of infrastructure to areas of traditional concern to the humanities. Under the rubric of Critical Infrastructure Studies, scholars such as Alan Liu, Clare Birchall, Tara McPherson, Matthew K. Gold, and Lori Emerson have considered how infrastructure is implicated in inequality, XXX. Critical Infrastructure Studies combines an awareness of diverse but interrelated work in history (Thomas Hughes, Tom Standage), social sciences (Susan Leigh Star, Bruno Latour, Hannah Appel, Nikhil Anand Akhil Gupta), and national-level humanities computing (Sheila Anderson).
 
-In recent years, groups of humanities practitioners have moved toward an increased awareness of the importance of infrastructure to areas of traditional concern to the humanities. Under the rubric of Critical Infrastructure Studies, scholars such as Alan Liu, Clare Birchall, Tara McPherson, Matthew K. Gold, and Lori Emerson have considered how infrastructure is implicated in inequality, XXX. Critical Infrastructure Studies combines an awareness of diverse but interrelated work in history (Thomas Hughes, Tom Standage), social sciences (Susan Leigh Star, Bruno Latour, Hannah Appel, Nikhil Anand Akhil Gupta), and national-level humanities computing (Sheila Anderson).
+# Scholars working within this framework have already made a number of significant contributions. Alan Liu, in a draft for the book /Against the Cultural Singularity/,, contends, startlingly but persuasively, that the study of infrastructure begins to approach the study of culture in furthering comprehension of modern social contexts. Lori Emerson, in writing and in pedagogy, interrogates assumptions about frictionless interfaces and the nature of the relationship between platform and user. Tara McPherson has offered views into how specific technological systems, including social networks and UNIX operating system architecture, can propagate racist ideology. Tung-Hui Hu, in /A Prehistory of the Cloud/, movingly traces the contiguity between new technocratic developments such as the cloud and historical and ongoing abuses of state power. These, and other,, contributions to the nascent field of Critical Infrastructure Studies reveal technocratic ideologies both thinking and unthinking,, nested and interlocking systems of broad scope and deep complexity, and patterns of encoded exploitation and automated asymmetries of power. Collectively, this scholarship has moved the humanities toward a critical consciousness of infrastructure. Were we fish, we might be considered to have caught a glimpse of water.
 
-Scholars working within this framework have already made a number of significant contributions. Alan Liu, in a draft for the book /Against the Cultural Singularity/,, contends, startlingly but persuasively, that the study of infrastructure begins to approach the study of culture in furthering comprehension of modern social contexts. Lori Emerson, in writing and in pedagogy, interrogates assumptions about frictionless interfaces and the nature of the relationship between platform and user. Tara McPherson has offered views into how specific technological systems, including social networks and UNIX operating system architecture, can propagate racist ideology. Tung-Hui Hu, in /A Prehistory of the Cloud/, movingly traces the contiguity between new technocratic developments such as the cloud and historical and ongoing abuses of state power. These, and other,, contributions to the nascent field of Critical Infrastructure Studies reveal technocratic ideologies both thinking and unthinking,, nested and interlocking systems of broad scope and deep complexity, and patterns of encoded exploitation and automated asymmetries of power. Collectively, this scholarship has moved the humanities toward a critical consciousness of infrastructure. Were we fish, we might be considered to have caught a glimpse of water.
-
-The focus of much of the scholarship that has inspired Critical Infrastructure Studies has been macroscopic—broad in scope and attempting to synthesize individual observations into an understanding of larger trends. In this chapter, I offer a view of infrastructure that is more mesoscopic—that is, attuned to the locus of interaction between an individual and community, or a community and its wider social and technological context. In outlining issues facing our community of practice in the humanities, I will necessarily discuss macroscopic trends, including adverse economics, the platformification of the academy, and barriers to unflinching public scholarship. In considering adaptations to these issues, however, I will advocate a hyperlocal view, one that arises out of immediate concerns within a community and which, even if adopted broadly across communities, remains responsive to individuated conditions and needs.
+# The focus of much of the scholarship that has inspired Critical Infrastructure Studies has been macroscopic—broad in scope and attempting to synthesize individual observations into an understanding of larger trends. In this chapter, I offer a view of infrastructure that is more mesoscopic—that is, attuned to the locus of interaction between an individual and community, or a community and its wider social and technological context. In outlining issues facing our community of practice in the humanities, I will necessarily discuss macroscopic trends, including adverse economics, the platformification of the academy, and barriers to unflinching public scholarship. In considering adaptations to these issues, however, I will advocate a hyperlocal view, one that arises out of immediate concerns within a community and which, even if adopted broadly across communities, remains responsive to individuated conditions and needs.
 
 :notes:
- More importantly, however, we encounter problems of recognition. In studying infrastructure, we contend with a set of questions. How can we talk about infrastructure? Is infrastructure worth discussing? And, if it is, should we in the humanities be the ones to do it?
+ # More importantly, however, we encounter problems of recognition. In studying infrastructure, we contend with a set of questions. How can we talk about infrastructure? Is infrastructure worth discussing? And, if it is, should we in the humanities be the ones to do it?
 
-Infrastructure is complex. Not in the colloquial sense of "difficult to understand," though infrastructure is often that.
+# Infrastructure is complex. Not in the colloquial sense of "difficult to understand," though infrastructure is often that.
 
-Rather, it is complex in the sense of a whole comprised of multiple, frequently interdependent, parts. Because discussion of one facet of infrastructure frequently demands discussion of other facets, infrastructure is almost inherently difficult to address. Compounding this intractability is a problem of scale. In general, we—humanities scholars, academics more broadly, or people in general—perform poorly when considering the extremely large or the extremely small. Unfortunately, infrastructure is not a "meso-level" phenomenon. Infrastructure is the interstate highway system and the mineral balance of a drop of water. Infrastructure is levee maintenance in New Orleans and 220 billion lines of COBOL (Atwood). Infrastructure is this paper clip.
-#+CAPTION: A paperclip. Eat your heart out, Adam Smith
-#+NAME:   paperclip.jpg
-#+ATTR_HTML: :alt A boring image of a paperlcip.
-[[./images/paperclip.jpg]]
+# Rather, it is complex in the sense of a whole comprised of multiple, frequently interdependent, parts. Because discussion of one facet of infrastructure frequently demands discussion of other facets, infrastructure is almost inherently difficult to address. Compounding this intractability is a problem of scale. In general, we—humanities scholars, academics more broadly, or people in general—perform poorly when considering the extremely large or the extremely small. Unfortunately, infrastructure is not a "meso-level" phenomenon. Infrastructure is the interstate highway system and the mineral balance of a drop of water. Infrastructure is levee maintenance in New Orleans and 220 billion lines of COBOL (Atwood). Infrastructure is this paper clip.
+# #+CAPTION: A paperclip. Eat your heart out, Adam Smith
+# #+NAME:   paperclip.jpg
+# #+ATTR_HTML: :alt A boring image of a paperlcip.
+# [[./images/paperclip.jpg]]
 
-Though scale, complexity, and interdependence pose a challenge to any discussion of infrastructure, to engaging the topic one must also wrestle with a second concern. David Foster Wallace puts his finger on this issue in his well-known graduation speech at Kenyon College:
+# Though scale, complexity, and interdependence pose a challenge to any discussion of infrastructure, to engaging the topic one must also wrestle with a second concern. David Foster Wallace puts his finger on this issue in his well-known graduation speech at Kenyon College:
 
-Because of its ubiquity, infrastructure is invisible. It is the inescapable medium in which we live and act. Infrastructure determines which actions are trivial, like drawing water from a tap. In its absence, as when transporting oneself around Fayetteville, North Carolina—America's least walkable city in 2017— without a car, infrastructure sets the bounds of the impossible. Despite, or perhaps because of, its importance, it is difficult to think about infrastructure unless maintaining that infrastructure is a specific component of our work or our identity—or, less desirably, when it fails us.. Typically, our interactions with infrastructure manifest themselves as abstractions of convenience. We think of the thousands of data centers, the hundreds of thousands of miles of cable, and the dozens of exabytes of data stored on connected devices as "the cloud." We ask few questions about where our water comes from, and even fewer about where it goes. We wonder about car internals only once our vehicle breaks down on the shoulder of a highway.
+# Because of its ubiquity, infrastructure is invisible. It is the inescapable medium in which we live and act. Infrastructure determines which actions are trivial, like drawing water from a tap. In its absence, as when transporting oneself around Fayetteville, North Carolina—America's least walkable city in 2017— without a car, infrastructure sets the bounds of the impossible. Despite, or perhaps because of, its importance, it is difficult to think about infrastructure unless maintaining that infrastructure is a specific component of our work or our identity—or, less desirably, when it fails us.. Typically, our interactions with infrastructure manifest themselves as abstractions of convenience. We think of the thousands of data centers, the hundreds of thousands of miles of cable, and the dozens of exabytes of data stored on connected devices as "the cloud." We ask few questions about where our water comes from, and even fewer about where it goes. We wonder about car internals only once our vehicle breaks down on the shoulder of a highway.
 
 :end:
 
