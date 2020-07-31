@@ -40,6 +40,26 @@
 :END:
 * Introduction
 
+Consider yourself, for a moment, from the outside. You open a door, put on your shoes, move a chair to where you will need it. Or you speak with a friend, hit send on an important email, give a talk to your gathered colleagues. Imagine, briefly, that your act is something concrete—a weight in the world, a drawn thread, a radiating light, or a shared breath. This moment, or this act, is an encounter. You push on the world, and the world pushes back. There is you, and there is everything else. But, fleetingly, there is a space between.
+
+This project is about /negotiation/—this encounter, this space or surface, between an individual and the immediate physical and social environment. Though all people negotiate their physical environments, and negotiate with others in their social environments, /Negotiated Access/ is primarily concerned about people with disabilities and their—our—negotiation in a world that is largely not built with us in mind. Here, our fundamental concern is with the local—or hyperlocal—as embedded in the universal. How can particularity—the needs, autonomy, and values of an individual or affinity group—survive when embedded in environments in which physical and social structures, even identities, are constructed for others and not for us?
+
+/Negotiated Access/ begins with the hyperlocal and radiates outward. Chapter One opens with a blind individual's dogged effort to complete a game created for, and only accessible to, the sighted. The chapter explores the implications of this and similar actions, and in the process makes use of a negotiated model of disability that attends not to bodies or the broader society, but the point or surface of interaction between the two.  In discussing a negotiated model of disability, Chapter One also introduces the concept of "haccessibility," or the use of hyperlocal adaptations or workarounds to overcome specific obstacles in the built and social environment. Though these adaptations can be celebrated, they are also limited. These limitations highlight the hostility of the built and social environment to people with disabilities, and this negotiated model is intended to augment a social model that advocates for change in the broader society.
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----
+
 ** my experience
 
 becoming aware of haccessibility as a mode of engagement and resistance 
@@ -1269,7 +1289,7 @@ As we conclude this chapter, and gesture to the next, I will increasingly commit
 # 12 words
 # https://www.kenyonreview.org/journal/septoct-2019/selections/brian-trapp/
 
-* Values Instantiated: Infrastructure and the Humanities
+* Infrastructure and the Humanities
 
 # quotes for chapter
 :notes:
@@ -2026,107 +2046,94 @@ This chapter, implicitly, has argued for an engagement with infrastructure. Othe
 
 As we will explore in the conclusion to this project, there is a trend, a trajectory, a /wheft/ that encloses humanity, as conceived in the conventional sense but also in the sense of the humanistic. When considering the humanities and our negotiation within the larger collective, this manifests as a specific trajectory. The humanities faces an inability to effectively coordinate, a disspirited and underemployed cadre of junior scholars, and record low enrollment. It faces an array of savvy corporations buoyed on flows of capital, working tirelessly to grist "content" of our understanding and "value" of our values. We are no longer at the center of the university, and the university is no longer the center of culture. We may fail. We may already be failing.
 
-Yet let us take heart. /There is no reason to hold back./ We have our methods and our values. We have our texts and our students. We read and think, speak and write. We are not lectureships, grants, or wood paneling. We have lost our prestige, and need not fear the loss of prestige. We can change, and learn. 
+Yet let us take heart. /There is no reason to hold back./ We have our methods and our values. We have our texts and our students. We read and think, speak and write. We are not lectureships, grants, or wood paneling. We have lost prestige, and need not fear the loss of prestige. We can change, and learn. 
 
-For the same reasons the humanities is in decline, the humanities is needed. However, to persist, and eventually to resist, we must take what we can from other traditions while preserving that which is essential in our own. Those who do not share our values have built the world out from under us, and the platforms they have created only sell us back to ourselves. To seek autonomy, to negotiate, we must fully engage the boundary between the humanities and the encircling collective, and we must learn from other traditions. We are not the only flame.
+For the same reasons the humanities is in decline, the humanities is needed. However, to persist, and eventually to resist, we must take what we can from other traditions while preserving that which is essential in our own. Those who do not share our values have built the world out from under us, and the platforms they have created only sell us back to ourselves. To seek autonomy, to negotiate, we must fully explore the boundary between the humanities and the encircling collective, and we must learn from other traditions. We are not the only flame.
 
-In the next chapter, a conclusion to this project, I will gesture toward the unhuman, an imperfect term for a structure or entity with which the broadest collective—the universal, humanity, or /das Man/—must contend. Just as the individual must negotiate with the immediate physical and social environment, and collectives such as the humanities must negotiate with the broader society, humanity—the universal—must negotiate with an environment of its—our—own creation. Part of the concern with this structure, this agaia, is that it can only be usefully described in its constituent parts and not in its totality.
+In the next chapter, a conclusion to this project, I will gesture toward the unhuman, an imperfect term for a structure or entity with which the broadest collective—the universal, humanity, or /das Man/—must contend. Just as the individual must negotiate with the immediate physical and social environment, and collectives such as the humanities must negotiate with the broader society, humanity—the universal—must negotiate with an environment of its—our—own creation. Part of the concern with this structure, this agaia, is that it can only be usefully described in its constituent parts and not in its totality, and so we will draw on the work of a variety of scholars who describe interlocking concerns at the edge of our collective comprehension. Perhaps more practically, we will also engage with the local, advocating for a /techne/ of autonomy in opposition to a technology—a Technology™—in service of dependence and inequity. As the humanities continues to engage with infrastructure, it is my hope that we will discover our own /techne/, an art that reflects our disciplinary methods, concerns, and values and preserves our autonomy.
 
-
-keeps /das Man/ up at night
-
-
-
+#+LATEX: \pagebreak
+#+LATEX: \null
+#+LATEX: \vspace{1in}
 
 
-We are needed, within our circle and outside it.
+# #+LATEX: \newline
+
+#+CAPTION: A small garden, Leyla's Garden, situated in a tree bed in my neighborhood in Woodside, Queens.
+#+NAME: ethnography_of_infrastructure_on_SAGE.png
+#+ATTR_HTML: :alt A picture of an urban tree bed. In the bed is a small garden, including a rock collection and a little sign that says "Leyla's Garden."
+[[./images/leylas_garden.jpg]]
+
+# keeps /das Man/ up at night
+
+# We are needed, within our circle and outside it.
+
+# We learn, and we learn from other traditions. 
+
+# You died. You lit the bonfire.
+
+# It is a small thing but sacred.
 
 
-
-
-
-
-We learn, and we learn from other traditions. 
-
-
-
-
-. The academic humanities may fail, and if we fail the failutre will be slow. 
-
-
-You died. You lit the bonfire.
-
-It is a small thing but sacred.
-
-
-no longer the center
-
-
-This recent work, too, has been undergirded by work in platform studies, Critical Code Studies, New Media Studies, and media archeology by scholars such as Matthew Kirschenbaum, , , and 
-
-
-Gold, Alan Liu, and  have undertaken the foundational work of a hermaneutics of infrastructure, locating infrastructure's impact on the humanities and interdisciplinary communities of practice within the academy. This recent work, too, has been undergirded by work in platform studies, Critical Code Studies, New Media Studies, and media archeology by scholars such as Matthew Kirschenbaum, Lori Emerson, Ian Bogost, and Stephanie Boluk.
-
-
-
+# no longer the center
 
 # #+begin_quote
-# the human mind does not work that way. it operates by association. with one item in its grasp, it snaps instantly to the next that is suggested by the association of thoughts, in accordance with some intricate web of trails carried by the cells of the brain. it has other characteristics, of course; trails that are not frequently followed are prone to fade, items are not fully permanent, memory is transitory. yet the speed of action, the intricacy of trails, the detail of mental pictures, is awe-inspiring beyond all else in nature.
-# #+end_quote
+# # the human mind does not work that way. it operates by association. with one item in its grasp, it snaps instantly to the next that is suggested by the association of thoughts, in accordance with some intricate web of trails carried by the cells of the brain. it has other characteristics, of course; trails that are not frequently followed are prone to fade, items are not fully permanent, memory is transitory. yet the speed of action, the intricacy of trails, the detail of mental pictures, is awe-inspiring beyond all else in nature.
+# # #+end_quote
 
-Fundamentally, the problem of corporate intermediaries in academic publishing is one of infrastructure
+# Fundamentally, the problem of corporate intermediaries in academic publishing is one of infrastructure
 
-Thining about creating infrastrcture—scihub
+# Thining about creating infrastrcture—scihub
 
-Scholarly publishing experiments such as
+# Scholarly publishing experiments such as
 
-it is not surprising that the "sunlight" of open access is not the primarily concern of scholars in the
+# it is not surprising that the "sunlight" of open access is not the primarily concern of scholars in the
 
-Despite this important work, humanities scholars, including myself, frequently find themselves compelled to publish work, written for little or no compensation, behind paywalls that enrich corporate actors while denying or limiting access to fellow researchers.
+# Despite this important work, humanities scholars, including myself, frequently find themselves compelled to publish work, written for little or no compensation, behind paywalls that enrich corporate actors while denying or limiting access to fellow researchers.
 
-** The Last Word
+# ** The Last Word
 
-Another instance of corporate infrastructure that has stolen, unexamined, into almost every corner of the humanities is Microsoft Word. Word is a /de facto/ standard in the humanities, widely used, and frequently required, for tasks as diverse as submitting a publication or conference proposal, crafting syllabuses, creating curriculum vitae, and turning in coursework. Unlike the difficulties surrounding capture of labor and restriction of research in scholarly publishing, however, use of proprietary tools such as Word is not widely or consistently criticized within the academy. Word is, to draw on Wallace's metaphor, the water in which we swim. Indeed, the application name, as envisioned by Microsoft marketer Rowland Hanson, was intended to evoke the embodiment of the word processor category, preempting even the thought of alternatives:
+# Another instance of corporate infrastructure that has stolen, unexamined, into almost every corner of the humanities is Microsoft Word. Word is a /de facto/ standard in the humanities, widely used, and frequently required, for tasks as diverse as submitting a publication or conference proposal, crafting syllabuses, creating curriculum vitae, and turning in coursework. Unlike the difficulties surrounding capture of labor and restriction of research in scholarly publishing, however, use of proprietary tools such as Word is not widely or consistently criticized within the academy. Word is, to draw on Wallace's metaphor, the water in which we swim. Indeed, the application name, as envisioned by Microsoft marketer Rowland Hanson, was intended to evoke the embodiment of the word processor category, preempting even the thought of alternatives:
 
-#+BEGIN_QUOTE
-Hanson devised the approach to product branding that persists at Microsoft to this day. Each product’s name would be stripped down to its essence, creating the impression that it was the definitive—or the only—product of its type. The only ornamentation would be the Microsoft name, to make sure no one forgot who made it. ... [R]emembers Hanson, “... we wanted our name basically to define the generic." (Maher)
-#+END_QUOTE
+# #+BEGIN_QUOTE
+# Hanson devised the approach to product branding that persists at Microsoft to this day. Each product’s name would be stripped down to its essence, creating the impression that it was the definitive—or the only—product of its type. The only ornamentation would be the Microsoft name, to make sure no one forgot who made it. ... [R]emembers Hanson, “... we wanted our name basically to define the generic." (Maher)
+# #+END_QUOTE
 
-*************** TODO Hang a lampshade on the fact that it feels gauche to use hermaneutic methods on a tool
-*************** END
+# *************** TODO Hang a lampshade on the fact that it feels gauche to use hermaneutic methods on a tool
+# *************** END
 
-Out of Microsoft's ubiquitous Office product line, three applications—Microsoft Excel, Microsoft Powerpoint, and Microsoft Word—are notable not only for their broad success—described in disquieting terms such as "mindshare" and "market penetration"—but for engendering a kind of rhetorical determinism. These Microsoft applications, used in every industry and walk of life, have not provoked resistance with the same level of organization as other infrastructural concerns such as exploitative and closed practices in academic publishing. This is, perhaps, because we possess the conceptual, cultural, and narratological framework for resisting corporations, but are only now developing the capacity to critically examine tools. Corporations are, at least for now, still composed of people, people whose motives can be called into question. Similarly, cultural works—published writing, film, even sales copy—appear to us transparently as the work of a motivated agent or agents, and can be examined either as the product of their author's intention or as a reflection of the cultural gestalt. The software application, however, is not widely regarded as a work, but as a mere tool. Bringing hermaneutic and critical analysis to bear on Microsoft Word, or any other program, still feels gauche, like penning a heated rebuttal to a shovel. Even a shovel has assumptions built into it, however—of its intended user's capabilities, morphology, and intention, at the least. Modern software applications, which can and do make many more assumptions and demands on our intention, attention, background, and cognition, should be examined as works of intent, not as artifacts independent of assumptions, purposes, and values.
+# Out of Microsoft's ubiquitous Office product line, three applications—Microsoft Excel, Microsoft Powerpoint, and Microsoft Word—are notable not only for their broad success—described in disquieting terms such as "mindshare" and "market penetration"—but for engendering a kind of rhetorical determinism. These Microsoft applications, used in every industry and walk of life, have not provoked resistance with the same level of organization as other infrastructural concerns such as exploitative and closed practices in academic publishing. This is, perhaps, because we possess the conceptual, cultural, and narratological framework for resisting corporations, but are only now developing the capacity to critically examine tools. Corporations are, at least for now, still composed of people, people whose motives can be called into question. Similarly, cultural works—published writing, film, even sales copy—appear to us transparently as the work of a motivated agent or agents, and can be examined either as the product of their author's intention or as a reflection of the cultural gestalt. The software application, however, is not widely regarded as a work, but as a mere tool. Bringing hermaneutic and critical analysis to bear on Microsoft Word, or any other program, still feels gauche, like penning a heated rebuttal to a shovel. Even a shovel has assumptions built into it, however—of its intended user's capabilities, morphology, and intention, at the least. Modern software applications, which can and do make many more assumptions and demands on our intention, attention, background, and cognition, should be examined as works of intent, not as artifacts independent of assumptions, purposes, and values.
 
-*************** TODO look of narratology to make sure i'm using the word right!
-*************** END
+# *************** TODO look of narratology to make sure i'm using the word right!
+# *************** END
 
-This is not to say that there has not been critical analysis of tools or that there has been no resistance to Word, Excel, and PowerPoint, only that we are still at the beginning stages of developing critical vocabulary for an infrastructural critique, what Patrick Svenson has called an "infrastructural turn." Safiya Noble's /Algorithms of Oppression/, for example, has turned scrutiny toward Google, analysing how "results are ... normalized as believable and often presented as factual" (24). Under the rubric of Critical Infrastructure Studies, scholars such as Tara McPherson, Matthew K. Gold, Alan Liu, and Patrick Svenson have undertaken the foundational work of a hermaneutics of infrastructure, locating infrastructure's impact on the humanities and interdisciplinary communities of practice within the academy. This recent work, too, has been undergirded by work in platform studies, Critical Code Studies, New Media Studies, and media archeology by scholars such as Matthew Kirschenbaum, Lori Emerson, Ian Bogost, and Stephanie Boluk.
+# This is not to say that there has not been critical analysis of tools or that there has been no resistance to Word, Excel, and PowerPoint, only that we are still at the beginning stages of developing critical vocabulary for an infrastructural critique, what Patrick Svenson has called an "infrastructural turn." Safiya Noble's /Algorithms of Oppression/, for example, has turned scrutiny toward Google, analysing how "results are ... normalized as believable and often presented as factual" (24). Under the rubric of Critical Infrastructure Studies, scholars such as Tara McPherson, Matthew K. Gold, Alan Liu, and Patrick Svenson have undertaken the foundational work of a hermaneutics of infrastructure, locating infrastructure's impact on the humanities and interdisciplinary communities of practice within the academy. This recent work, too, has been undergirded by work in platform studies, Critical Code Studies, New Media Studies, and media archeology by scholars such as Matthew Kirschenbaum, Lori Emerson, Ian Bogost, and Stephanie Boluk.
 
-Objections to Word, Excel, and PowerPoint have emerged from both within and without the academy, and have been premised on ethical, preservationist, aesthetic, cognitive, and practical arguments. One of the most tireless detractors of Microsoft PowerPoint has been Edward Tufte, a statistician, political scientist, and scholar of the visual display of information. In "The Cognitive Style of PowerPoint," Tufte argues that the omnipresent presentation application encourages—and in fact almost demands—shallow, procedural, hierarchical, ritualistic, and bureaucratic thinking:
+# Objections to Word, Excel, and PowerPoint have emerged from both within and without the academy, and have been premised on ethical, preservationist, aesthetic, cognitive, and practical arguments. One of the most tireless detractors of Microsoft PowerPoint has been Edward Tufte, a statistician, political scientist, and scholar of the visual display of information. In "The Cognitive Style of PowerPoint," Tufte argues that the omnipresent presentation application encourages—and in fact almost demands—shallow, procedural, hierarchical, ritualistic, and bureaucratic thinking:
 
-#+BEGIN_QUOTE
-PP convenience for the speaker can be costly to both content and audience. These costs result from the cognitive style characteristic of the standard default PP presentation: foreshortening of evidence and thought, low spatial resolution, a deeply hierarchical single-path structure as the model for organizing every type of content, breaking up narrative and data into slides and minimal fragments, rapid temporal sequencing of thin information rather than focused spatial analysis, conspicuous decoration and Phruff, a preoccupation with format not content, an attitude of commercialism that turns everything into a sales pitch. (2)
-#+END_QUOTE
+# #+BEGIN_QUOTE
+# PP convenience for the speaker can be costly to both content and audience. These costs result from the cognitive style characteristic of the standard default PP presentation: foreshortening of evidence and thought, low spatial resolution, a deeply hierarchical single-path structure as the model for organizing every type of content, breaking up narrative and data into slides and minimal fragments, rapid temporal sequencing of thin information rather than focused spatial analysis, conspicuous decoration and Phruff, a preoccupation with format not content, an attitude of commercialism that turns everything into a sales pitch. (2)
+# #+END_QUOTE
 
-One of Tufte's principal objections to PowerPoint is that its limited information throughput requires presenters to condense ideas into slogans or cryptic fragments and that the ritual of creating a slide deck serves as a substitute for substance. Tufte offers as an example the mismanagement by NASA of the space shuttle Columbia disaster, citing a post-incident report that blamed PowerPoint for imprecision and signal distortion as information moved up the organizational hierarchy. By Tufte's reasoning, by providing the illusion that analysis had occured when it had not, and by replacing prose reports and other rhetorical constructs more reflective of genuine thought and consideration, PowerPoint presentations siloed knowledge, discouraged real discussion, and stifled the deep insights and distinctions that can only be shared through a paragraph of prose or, perhaps, a table of figures.
+# One of Tufte's principal objections to PowerPoint is that its limited information throughput requires presenters to condense ideas into slogans or cryptic fragments and that the ritual of creating a slide deck serves as a substitute for substance. Tufte offers as an example the mismanagement by NASA of the space shuttle Columbia disaster, citing a post-incident report that blamed PowerPoint for imprecision and signal distortion as information moved up the organizational hierarchy. By Tufte's reasoning, by providing the illusion that analysis had occured when it had not, and by replacing prose reports and other rhetorical constructs more reflective of genuine thought and consideration, PowerPoint presentations siloed knowledge, discouraged real discussion, and stifled the deep insights and distinctions that can only be shared through a paragraph of prose or, perhaps, a table of figures.
 
-#+CAPTION: A PowerPoint slide shown to Stanley McChrystal, the leader of American forces in Afghanistan. McChrystal is said to have quipped, “When we understand that slide, we’ll have won the war."
-#+NAME:   Powerpoint slide
-#+ATTR_HTML: :alt An extremely complicated PowerPoint slide showing dozens of arrows pointing to interlocking conceptual areas, such as "popular support" and "ANSR institutional"
-#+ATTR_HTML: :class fullwidth
-[[./images/powerpoint_slide.jpg]]
+# #+CAPTION: A PowerPoint slide shown to Stanley McChrystal, the leader of American forces in Afghanistan. McChrystal is said to have quipped, “When we understand that slide, we’ll have won the war."
+# #+NAME:   Powerpoint slide
+# #+ATTR_HTML: :alt An extremely complicated PowerPoint slide showing dozens of arrows pointing to interlocking conceptual areas, such as "popular support" and "ANSR institutional"
+# #+ATTR_HTML: :class fullwidth
+# [[./images/powerpoint_slide.jpg]]
 
-Edward Tufte has been criticized for giving talks and lectures using a slideware style evokative of the PowerPoint patterns he has frequently and publicly denounced. While his apparent inability to shake the cognitive style of PowerPoint has called his observations into question, it also illustrates the insinuating nature of infrastructure, its capacity for shaping communication and consciousness. Software such as PowerPoint and Word, having existed so long without meaningful alternative, form an infrastructural ground, a set of expectations premised on pragmatism and rhetorical and conceptional familiarity. Just as it is difficult to step away from one's culture to see it from the outside, it is difficult to step away from infrastructure to observe how it shapes decision, action, and discourse.
+# Edward Tufte has been criticized for giving talks and lectures using a slideware style evokative of the PowerPoint patterns he has frequently and publicly denounced. While his apparent inability to shake the cognitive style of PowerPoint has called his observations into question, it also illustrates the insinuating nature of infrastructure, its capacity for shaping communication and consciousness. Software such as PowerPoint and Word, having existed so long without meaningful alternative, form an infrastructural ground, a set of expectations premised on pragmatism and rhetorical and conceptional familiarity. Just as it is difficult to step away from one's culture to see it from the outside, it is difficult to step away from infrastructure to observe how it shapes decision, action, and discourse.
 
-Within the humanities, practitioners in New Media studies are perhaps most attuned to the cognitive and rhetorical influence of the software and hardware that shape our intellectual labor. Lori Emerson, for example, in her work at the Media Archeology Lab at the University of Colorado, works to excavate possibilities of interface that have been closed off by the unrelenting ubiquity of tools such as Microsoft Word, "opening up how exactly interfaces limit and create certain creative possibilities" (Emerson ix). In an interview, Emerson describes her methodology for allowing others to create distance from the cognitive and creative hegemony of Microsoft Word:
+# Within the humanities, practitioners in New Media studies are perhaps most attuned to the cognitive and rhetorical influence of the software and hardware that shape our intellectual labor. Lori Emerson, for example, in her work at the Media Archeology Lab at the University of Colorado, works to excavate possibilities of interface that have been closed off by the unrelenting ubiquity of tools such as Microsoft Word, "opening up how exactly interfaces limit and create certain creative possibilities" (Emerson ix). In an interview, Emerson describes her methodology for allowing others to create distance from the cognitive and creative hegemony of Microsoft Word:
 
-#+BEGIN_QUOTE
-That is what I use the Media Archeology Lab for. I sit people down at, say, an Osborne I computer, and I invite them to use WordStar, which is entirely text-based and requires you to use about 90 different commands. Next, I ask them to read WordStar against Microsoft Word so that they can begin to actually see how other word processors have different or more capabilities than Word, and hopefully they begin to realize Word isn’t natural—it isn’t the only, or even the best, word processor. There are other ways you can process your documents and have very different, creative results. So to me, pedagogically, the best way to get students to think critically about interfaces is to read the past and the present against each other
-#+END_QUOTE
+# #+BEGIN_QUOTE
+# That is what I use the Media Archeology Lab for. I sit people down at, say, an Osborne I computer, and I invite them to use WordStar, which is entirely text-based and requires you to use about 90 different commands. Next, I ask them to read WordStar against Microsoft Word so that they can begin to actually see how other word processors have different or more capabilities than Word, and hopefully they begin to realize Word isn’t natural—it isn’t the only, or even the best, word processor. There are other ways you can process your documents and have very different, creative results. So to me, pedagogically, the best way to get students to think critically about interfaces is to read the past and the present against each other
+# #+END_QUOTE
 
-emerson:
-But what is new is that the interfaces themselves and therefore their constraints are becoming ever more difficult to perceive because of the blinding seduction of the wondrous that at least partly comes back into view again once we undertake an excavation of how things (could) have been otherwise.
-   opening
+# emerson:
+# But what is new is that the interfaces themselves and therefore their constraints are becoming ever more difficult to perceive because of the blinding seduction of the wondrous that at least partly comes back into view again once we undertake an excavation of how things (could) have been otherwise.
+#    opening
 
 
 *************** DONE look up an accusation of Tuftue supposed hypocrisy and put in a citation
@@ -2146,23 +2153,23 @@ But what is new is that the interfaces themselves and therefore their constraint
 
    # outline for how tools screw us over
    :notes:
-   microsoft word and elsivier make us conform to them. they do not conform to us.
-   they are inhuman / unhuman, as norbert wiener said. use quote.
-   think about what we could have, as humanities researchers, if we weren't beholden to these tools. if we could integrate things.
-   hold up the memex as a utopian example of what we could do
+   # microsoft word and elsivier make us conform to them. they do not conform to us.
+   # they are inhuman / unhuman, as norbert wiener said. use quote.
+   # think about what we could have, as humanities researchers, if we weren't beholden to these tools. if we could integrate things.
+   # hold up the memex as a utopian example of what we could do
    :end:
 
 # algos of oppression quote
 :notes:
    
-#+BEGIN_QUOTE
-Search happens in a highly commercial environment, and a variety of processes shape what can be found; these  The associate professor of sociology at Arizona State University and former president of the Association of Internet Researchers Alex Halavais points to the way that heavily used technological artifacts such as the search engine have become such a normative part of our experience with digital technology and computers that they socialize us into believing that these artifacts must therefore also provide access to credible, accurate information that is depoliticized and neutral:
-#+END_QUOTE
+# #+BEGIN_QUOTE
+# Search happens in a highly commercial environment, and a variety of processes shape what can be found; these  The associate professor of sociology at Arizona State University and former president of the Association of Internet Researchers Alex Halavais points to the way that heavily used technological artifacts such as the search engine have become such a normative part of our experience with digital technology and computers that they socialize us into believing that these artifacts must therefore also provide access to credible, accurate information that is depoliticized and neutral:
+# #+END_QUOTE
 
-forced the same sort of organized resistance as other infrastrcture
+# forced the same sort of organized resistance as other infrastrcture
 
 
-One of the fiercest opponents
+# One of the fiercest opponents
 :end:
 
 
@@ -2170,50 +2177,56 @@ One of the fiercest opponents
 		CLOSED: [2020-07-26 Sun 18:28]
 *************** END
 
-Norbert Wiener, whose statistical work on firing systems during World War II caused him to reject the value-neutral posture of high abstractions, tools, and interfaces,
+# Norbert Wiener, whose statistical work on firing systems during World War II caused him to reject the value-neutral posture of high abstractions, tools, and interfaces,
 
-*************** TODO talk about rhetorical determinism
+*************** DONE talk about rhetorical determinism
+		CLOSED: [2020-07-27 Mon 22:13]
 *************** END
-   Norbert Wiener, whose statistical work on firing systems during World War II caused him to reject the value-neutral posture of high abstractions, tools, and interfaces,
+   # Norbert Wiener, whose statistical work on firing systems during World War II caused him to reject the value-neutral posture of high abstractions, tools, and interfaces,
 
-*************** TODO talk about how blind and low vision are marginalized online, use searches in folder.
+*************** DONE talk about how blind and low vision are marginalized online, use searches in folder.
+		CLOSED: [2020-07-27 Mon 22:13]
 *************** END
-*************** TODO find norbert wiener quote about how tools determine the shape of soceity
+*************** DONE find norbert wiener quote about how tools determine the shape of soceity
+		CLOSED: [2020-07-27 Mon 22:13]
 *************** END
-*************** TODO use Tufte to show that people have criticized MS products for scrwing with people's cognition
+*************** DONE use Tufte to show that people have criticized MS products for scrwing with people's cognition
+		CLOSED: [2020-07-27 Mon 22:13]
 *************** END
-*************** TODO word is kind of a practical disaster, people lose their dissertations!
+*************** DONE word is kind of a practical disaster, people lose their dissertations!
+		CLOSED: [2020-07-27 Mon 22:13]
 *************** END
  
-tenen's plain text?
+# tenen's plain text?
 
-expoense is unequal
+# expoense is unequal
 
-whose labor, including research, writing, and peer review,
+# whose labor, including research, writing, and peer review,
 
-the humanities is still ina more complacent place
+# the humanities is still ina more complacent place
    
 
-These proprietary systems run counter to the values of equity, knowledge creation, and anti-corporatism widely held by humanities practitioners. These corporate intrusions into the humanities should raise both ethical and practical objections. Take, for example, Elsevier.
+# These proprietary systems run counter to the values of equity, knowledge creation, and anti-corporatism widely held by humanities practitioners. These corporate intrusions into the humanities should raise both ethical and practical objections. Take, for example, Elsevier.
 
-- kathleen fitzpatrick on elsivier
+# - kathleen fitzpatrick on elsivier
 
 *************** TODO look at this https://medium.com/@caseorganic/why-do-we-keep-building-cars-with-touchscreens-alt-the-hidden-lives-of-touchscreens-55faf92799bf
 *************** END
 
 :notes:
 
-human ties doesn't reach out or connect with folk humanities / folk hermaneutics
+# human ties doesn't reach out or connect with folk humanities / folk hermaneutics
 
-the unhuman elemnt is explicitly trying to replace culture with technological infrastrcture:
-- block chain / trustless
-- replace conversations with technoology (google duplex or whatever)
+# the unhuman elemnt is explicitly trying to replace culture with technological infrastrcture:
+# - block chain / trustless
+# - replace conversations with technoology (google duplex or whatever)
 
-can haccessibility  help here? just as we must replace bad culture with good culture, we must replace bad infrastrcture with good infrastructure
+# can haccessibility  help here? just as we must replace bad culture with good culture, we must replace bad infrastrcture with good infrastructure
 
 :end:
 
-*************** TODO add lori emerged quote
+*************** DONE add lori emerged quote
+		CLOSED: [2020-07-27 Mon 22:13]
    Lori Emerson:
    Good question. That is what I use the Media Archeology Lab for. I sit people down at, say, an Osborne I computer, and I invite them to use WordStar, which is entirely text-based and requires you to use about 90 different commands. Next, I ask them to read WordStar against Microsoft Word so that they can begin to actually see how other word processors have different or more capabilities than Word, and hopefully they begin to realize Word isn’t natural—it isn’t the only, or even the best, word processor. There are other ways you can process your documents and have very different, creative results. So to me, pedagogically, the best way to get students to think critically about interfaces is to read the past and the present against each other
 *************** END
@@ -2274,26 +2287,7 @@ can haccessibility  help here? just as we must replace bad culture with good cul
 
 
 
-s?
-** solutions
 
-"This utopian desire fundamentally counters the idea of the built environment as a commodity product. Rather than a singular output, architectural design becomes a sustained"
-
-https://imaginariesofthefuture.files.wordpress.com/2017/11/concreteutopiasintroduction.pdf
-# erros in excel
-http://www.sciencemag.org/news/2016/08/one-five-genetics-papers-contains-errors-thanks-microsoft-excel
-
-
-# false start
-:notes:
-# ** infrastructure: a local phenomenon
-
-# #+begin_quote
-# there are these two young fish swimming along, and they happen to meet an older fish swimming the other way, who nods at them and says, "morning, boys, how's the water?" and the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes, "what the hell is water?"
-#    #+end_quote
-
-# Infrastructure is frequently thought of in terms of monolithic systems and structures—interstate highways and shipping containers, perhaps, or municipal water and data centers. 
-:end:
 
 * Conclusion
 ** notes
@@ -2547,6 +2541,28 @@ programming language. in an issue of byte magazine from 1982 you can find an ad 
 as “a language for poets, scientists, and philosophers” (logo, 1982). incredible! at this time, computers
 were more about learning and creativity—open-ended learning and creativity.
 "as if" (interview with lori emerson)
+
+
+** solutions
+
+"This utopian desire fundamentally counters the idea of the built environment as a commodity product. Rather than a singular output, architectural design becomes a sustained"
+
+https://imaginariesofthefuture.files.wordpress.com/2017/11/concreteutopiasintroduction.pdf
+# erros in excel
+http://www.sciencemag.org/news/2016/08/one-five-genetics-papers-contains-errors-thanks-microsoft-excel
+
+
+# false start
+:notes:
+# ** infrastructure: a local phenomenon
+
+# #+begin_quote
+# there are these two young fish swimming along, and they happen to meet an older fish swimming the other way, who nods at them and says, "morning, boys, how's the water?" and the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes, "what the hell is water?"
+#    #+end_quote
+
+# Infrastructure is frequently thought of in terms of monolithic systems and structures—interstate highways and shipping containers, perhaps, or municipal water and data centers. 
+:end:
+
 
 
 techne
