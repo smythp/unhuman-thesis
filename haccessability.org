@@ -2317,7 +2317,34 @@ steven universe?
 
 # Two futures, superimposed, haunt our present. 
 
-Consuelo Ramos, the protagonist of the 1976 novel /Woman on the Edge of Time/, finds herself in a present on the verge of two futures. Receiving visitations from Luciente, an occupant of the year 2137, Connie is exposed to a society that values community, self-determination, autonomy, and environmental awareness—a future based on the civil rights and environmental movements that were only beginning to gain traction in the mid-70s. Yet Luciente's future is not the only one represented in the novel. Connie receives flashes of another eventuality, one in which oligarchs dominate humanity through rigid control and categorization. Each of these futures has seeds in Connie's present. Connie, while incarcerated and ground down by a relentless bureaucratic machine, has a burning sense of what could be, how her surroundings could reflect back her own autonomy instead of her own subjugation:
+Consuelo Ramos, the protagonist of the 1976 novel /Woman on the Edge of Time/, finds herself in a present on the verge of two futures. In the opening lines of the novel, we encounter a tension between the precarity of Connie's immediate situation and the presence of a link to something other:
+
+
+#+BEGIN_QUOTE
+Connie got up from her kitchen table and walked slowly to the door. Either I saw him or I didn’t and I’m crazy for real this time, she thought.
+“It’s me—Dolly!” Her niece was screaming in the hall. “Let me in! Hurry!”
+“Momentito.” Connie fumbled with the bolt, the police lock, finally swinging the door wide. Dolly fell in past her, her face bloody. Connie clutched at Dolly, trying to see how badly she was hurt. “Qué pasa? Who did this?”
+#+END_QUOTE
+Connie, here, is in a moment of crisis at the end of a long road punctuated by personal tragedy and grinding systemic injustice. Though talented, perceptive, and empathetic, she has been dragged under by a society that devalues and disempowers her and people like her. In the scene that follows, Connie, after attempting to defend her niece, is involuntarily committed to a mental hospital, beginning a process that will lead to a profound loss of personal autonomy and dignity. After her incarceration, Connie can only look back with longing at her prior impoverished circumstances:
+
+#+BEGIN_QUOTE
+How she would celebrate her release! Her dingy two rooms with the toilet in the hall shone in her mind, vast and luxurious after the hospital. Doors she could shut! A toilet with a door! Chairs to sit in, a table of her own to eat on, a TV set that she could turn on and off and tune to whatever program she wanted to watch, her own bed with clean sheets and no stink of old piss. Her precious freedom and privacy!
+#+END_QUOTE
+Throughout the novel, Connie is, by turns, physically injured, insulted, and ignored at the hands of authority figures—social workers, mental ward attendants, doctors, and police. Yet perhaps most galling for her is the denial of autonomy over her immediate physical and social space, a betrayal not only of a connection to a wider community but also the immediate and necessary circumstances of life.
+
+As Connie is ground down in the present, first in poverty and later in incarceration, she also begins to forge a strage link to a potential future, one contrasting sharply with the circumstances in which she finds herself. These visitations from the future come in the form of Luciente, an occupant of the year 2137. Luciente's future is a radical culmination and extrapolation of the social movements of the 1960s and 1970s, including second-wave feminism, the Women's health movement, early environmentalism, gay liberation, ecological anarchism, and civil rights, among others. When Connie, through her connection to Luciente, later visits the Mattapoisett of 2137, she finds a society that opposes social domination, traditional concepts of gender, and environmental expropriation. 
+
+
+
+
+community, self-determination, autonomy, and environmental awareness—a future based on the civil rights and environmental movements that were only beginning to gain traction in the mid-70s
+
+
+and references in the first lines of the novel—"Either I saw him or I didn’t and I'm crazy for real this time"
+
+
+
+Receiving visitations from Luciente, an occupant of the year 2137, Connie is exposed to a society that values community, self-determination, autonomy, and environmental awareness—a future based on the civil rights and environmental movements that were only beginning to gain traction in the mid-70s. Yet Luciente's future is not the only one represented in the novel. Connie receives flashes of another eventuality, one in which oligarchs dominate humanity through rigid control and categorization. Each of these futures has seeds in Connie's present. Connie, while incarcerated and ground down by a relentless bureaucratic machine, has a burning sense of what could be, how her surroundings could reflect back her own autonomy instead of her own subjugation:
 
 #+BEGIN_QUOTE
 How she would celebrate her release! Her dingy two rooms with the toilet in the hall shone in her mind, vast and luxurious after the hospital. Doors she could shut! A toilet with a door! Chairs to sit in, a table of her own to eat on, a TV set that she could turn on and off and tune to whatever program she wanted to watch, her own bed with clean sheets and no stink of old piss. Her precious freedom and privacy!
