@@ -2387,13 +2387,46 @@ Even when the debate concerns technological change, the terms of the debate do n
 #+BEGIN_QUOTE
 Distracted at our dinner tables and living rooms, at our business meetings, and on our streets, we find traces of a new "silent spring"—a term Rachel Carson coined when we were ready to see that with technological change had come an assault on our environment. Now, we have arrived at another moment of recognition. This time, technology is implicated in an assault on empathy. citep:turkle_reclaiming_2016
 #+END_QUOTE
-When we use this word in the familiar way that Turkle does above,, we refer not to technology but to tech, a fixed ecosystem of 4.5 corporations warring over our attention. This technology—"tech" in the modern usage—feels less and less like something that belongs to society. Instead, it is something placed between us and the world, a secret flame held by a technocratic elite, a narrative of progress that fails to live up to its triumphalism.
+When we use "technology" in the familiar way that Turkle does above,, we refer not to the broad but to the narrow. This conception of technology, tech, feels less and less like something that belongs to society. Instead, it is something placed between us and the world, a secret flame held by a technocratic elite, a narrative of progress that fails to live up to its triumphalism.
 
-Our strong association of technology with tech is profoundly limiting. Technology, fundamentally, is a shared knowledge of doing.
-
-# Is close reading not technology? Is a family recipe not an algorithm? Is a support group not a platform? Is a personal library not infrastructure? Certain forms of technology are glorified, even fetishized, while essential ways of knowing and doing are systematically undervalued. A technology, ultimately, is knowledge put into practice. Why do we hold up technologies of control, technologies of corporations, governments, and the powerful, while eliding, downplaying, disparaging, or ignoring the technology of individuals and localities, small groups and "little" disciplines?
+Our strong association of technology with tech is profoundly limiting. Technology, fundamentally, is a shared knowledge of doing, yet we do not recognize a full range of knowledge and practice when we use the word "technology." Is close reading not technology? Is a family recipe not an algorithm? Is a support group not a platform? Is a personal library not infrastructure? Certain forms of technology are glorified, even fetishized, while essential ways of knowing and doing are systematically undervalued. A technology, ultimately, is knowledge put into practice. Why do we hold up technologies of control, technologies of corporations, governments, and the powerful, while eliding, downplaying, disparaging, or ignoring the technology of individuals and localities, small groups and "little" disciplines?
 
 
+Techne [fn:techne-spelling] is a word from ancient Greek roughly translating to the knowledge of making and doing, or what we would call craft or art. Through its use in Homer, we learn that the term has its earliest origin in the craft of woodworking:
+
+
+[fn:techne-spelling] In these sections, I spell tékhnē, (Ancient Greek) or tékʰnɛ (Modern Greek) in the latinized form techne.
+
+
+# !!! END FOOTNOTE
+
+#+BEGIN_QUOTE
+The literary tradition begins with the Homeric poems, in which “techne” has a variety of meanings. It names the "skill” of the shipbuilder who works with wood; the “craft” of Hephaestus, who forges metal bonds to hold even the mighty Ares; the "craftiness" of Proteus, who is able to change his form at will; and the "plan," or “stratagem,” Aegisthus devises to murder Agamemnon. In short, the meaning of the word in the Homeric poems is multifaceted. [[citep:roochnik_art_1996][p. 18]]
+#+END_QUOTE
+Words synchronous with the early Greek conception of techne might include craft, knack, practice, art, do, jutsu, or ken. These terms connote a practical instrumentality, cleverness or trickery, and the everyday products of manual work. The word "knack," for example, can refer to a specific or unusual manual skill, a clever trick, or a small craft item (as in "knick-knack"), and is connected to the knacker, the historically low-statush profession focused on rendering horses into tallow.
+
+
+
+
+For Aristotle, techne was a very particular kind of knowledge. It was not concerned with the necessary and eternal a priori truths of the cosmos, nor with the a posteriori contingencies and exigencies of ethics and politics. Rather, techne was instrumental reason, concerned with actualizing the potentialities of beings that had no capacity to do so on their own, and which could be otherwise. More- over, this was a kind of knowledge associated with people who were bound to necessity. That is, techne was chiefly operative in the domestic sphere ... and not in the free realm of the Greek polis. [[citep:young_bowing_2009][p. 191]]
+
+
+
+
+
+
+18
+#+BEGIN_QUOTE
+“Techne” derives from the Indo-European root “tek ” which accordin to Porkorny, means "to fit together the woodwork of a woven house." I(iibe concludes that “in its original form techne probably means the build- ing of a house which was woven together from trunks and twigs and was erected by the family or tribe in a communal effort.“ As social life became more settled, the need for building skills increased. As the division of labor: progressed, the work of building houses was no longer left to families It became the province of a specialized (in Gould’s words a “com arativel rare”) individual: the tektén, the “woodworker.” “Techne ” i: its re): Homeric meaning, came to refer to the knowledge or skill of fhe tekténp he who produces something from wood. [[citep:roochnik_art_1996][p. 19]]
+
+
+#+END_QUOTE
+
+
+
+
+
+One might ask, reasonably, what advantage lies in considering close reading, carpentry, kombucha brewing, gardening, oragami, cooking, or meditation as technologies, or alongside those activities we currently designate as technology.
 
 
 -----
