@@ -2403,24 +2403,27 @@ Techne [fn:techne-spelling] is a word from ancient Greek roughly translating to 
 #+BEGIN_QUOTE
 The literary tradition begins with the Homeric poems, in which “techne” has a variety of meanings. It names the "skill” of the shipbuilder who works with wood; the “craft” of Hephaestus, who forges metal bonds to hold even the mighty Ares; the "craftiness" of Proteus, who is able to change his form at will; and the "plan," or “stratagem,” Aegisthus devises to murder Agamemnon. In short, the meaning of the word in the Homeric poems is multifaceted. [[citep:roochnik_art_1996][p. 18]]
 #+END_QUOTE
-Words synchronous with the early Greek conception of techne might include craft, knack, practice, art, do, jutsu, or ken. These terms connote a practical instrumentality, cleverness or trickery, and the everyday products of manual work. The word "knack," for example, can refer to a specific or unusual manual skill, a clever trick, or a small craft item (as in "knick-knack"), and is connected to the knacker, the historically low-statush profession focused on rendering horses into tallow.
+Words synchronous with the early Greek conception of techne might include craft, knack, practice, art, do, jutsu, or ken. These terms connote a practical instrumentality, cleverness or trickery, and the everyday products of manual work. The word "knack," for example, can refer to a specific or unusual manual skill, a clever trick, or a small craft item (as in "knick-knack"), and is connected to the knacker, the historically low-statush profession focused on rendering horses into tallow. [fn:hacker-occult] Techne, traditionally, was associated primarily with the lower classes, and as deployed in Aristotle contrasts with episteme, or knowlege that is an end in itself:
+
+[fn:hacker-occult] Conceptually, these terms are adjacent to the archetype of the modern hacker, who is concerned with making, tricks, and instrumental knowledge. Traditionally, some of these terms—craft, jutsu, art—are also connected to instrumental occult and magical practices.
 
 
+# END FOOTENOTE !!!!!
 
-
-For Aristotle, techne was a very particular kind of knowledge. It was not concerned with the necessary and eternal a priori truths of the cosmos, nor with the a posteriori contingencies and exigencies of ethics and politics. Rather, techne was instrumental reason, concerned with actualizing the potentialities of beings that had no capacity to do so on their own, and which could be otherwise. More- over, this was a kind of knowledge associated with people who were bound to necessity. That is, techne was chiefly operative in the domestic sphere ... and not in the free realm of the Greek polis. [[citep:young_bowing_2009][p. 191]]
-
-
-
-
-
-
-18
 #+BEGIN_QUOTE
-“Techne” derives from the Indo-European root “tek ” which accordin to Porkorny, means "to fit together the woodwork of a woven house." I(iibe concludes that “in its original form techne probably means the build- ing of a house which was woven together from trunks and twigs and was erected by the family or tribe in a communal effort.“ As social life became more settled, the need for building skills increased. As the division of labor: progressed, the work of building houses was no longer left to families It became the province of a specialized (in Gould’s words a “com arativel rare”) individual: the tektén, the “woodworker.” “Techne ” i: its re): Homeric meaning, came to refer to the knowledge or skill of fhe tekténp he who produces something from wood. [[citep:roochnik_art_1996][p. 19]]
-
-
+For Aristotle, techne was a very particular kind of knowledge. It was not concerned with the necessary and eternal a priori truths of the cosmos, nor with the a posteriori contingencies and exigencies of ethics and politics. Rather, techne was instrumental reason, concerned with actualizing the potentialities of beings that had no capacity to do so on their own, and which could be otherwise. More- over, this was a kind of knowledge associated with people who were bound to necessity. That is, techne was chiefly operative in the domestic sphere ... . [[citep:young_bowing_2009][p. 191]]
 #+END_QUOTE
+Though in Plato techne is sometimes connected with the skills of the political classes, such as rhetoric and generalship, these applications tended to be comparative or dialectical—it is an open question whether rhetoric is techne, but ox handling, medicine, and cooking were obviously techne. In a real sense, techne was low and necessary knowledge, knowledge of survival and of living. Though there was an element of techne to the broader ethical, philosophical, and administrative concerns of the /polis/, techne was best understood as specific and instrumental knowledge for the maintenance and improvement of the immediate environment.
+
+This concept, techne, may help us to reframe our discourse around technology and "tech." Technology, as a term, likely deserves the negative connotations that have grown up around it. Tech has come to be associated with a discrete set of centralized and corporate projects with universal aspirations, such as to organize the world's information, sell any form of material good, or build a platform through which all human thought and communication are conducted. These projects, tech, are not technologies in the sense of those drawn from basic research that have so fundamentally altered life on earth over centuries, and which range from the quotidian (the barometer) to the miraculous (antibiotics) to the terrifying (nuclear weapons). While this conception of technology may be morally and practically ambiguous, neither are these technologies controlled by a single individual or organization. These fundamental technologies, though they may have extensive forseen and unforseen negative effects on humanity and the earth, cannot control and be controlled as can the modern tech platform. Further, the set of projects that define tech, in their broad scope and universal aims, cannot but violate our autonomy and trample local concerns and needs. To build an everything store, or to collect and control all human knowledge, is necessarily to call on /das Man/, and perhaps even to invoke something beyond, and even more inimical, than the human universal.
+
+
+
+
+
+# #+BEGIN_QUOTE
+# “Techne” derives from the Indo-European root “tek ” which accordin to Porkorny, means "to fit together the woodwork of a woven house." I(iibe concludes that “in its original form techne probably means the build- ing of a house which was woven together from trunks and twigs and was erected by the family or tribe in a communal effort.“ As social life became more settled, the need for building skills increased. As the division of labor: progressed, the work of building houses was no longer left to families It became the province of a specialized (in Gould’s words a “com arativel rare”) individual: the tektén, the “woodworker.” “Techne ” i: its re): Homeric meaning, came to refer to the knowledge or skill of fhe tekténp he who produces something from wood. [[citep:roochnik_art_1996][p. 19]]
+# #+END_QUOTE
 
 
 
@@ -2428,6 +2431,24 @@ For Aristotle, techne was a very particular kind of knowledge. It was not concer
 
 One might ask, reasonably, what advantage lies in considering close reading, carpentry, kombucha brewing, gardening, oragami, cooking, or meditation as technologies, or alongside those activities we currently designate as technology.
 
+
+
+# uncultivation cider brennan stuff
+:notes:
+# Half forest, half orchard, the forchard was meant to be a place where apple trees can live independent from my un-green thumb.
+
+# ...
+
+# Yet wild apple trees have profound spiritual, emotional, and companionship value to anyone who escapes the pressures of keeping up, and at the physical level they offer food to animals (and to people who have been spit out from that economy). Aside from free fruit, I personally can trace much of my inspiration, many of my ideas, and many of my insights to simply being with wild apple trees. I place their highest value in the pricelessness of companionship. In this sense wild apple trees live in other economies, ones that prioritize beauty, uniqueness, nutrition, taste—just to name just a few things that are often in direct conflict with a growing financial economy.
+
+# ...
+
+# Nonetheless I’m very uneasy about pinning my hopes on anything connected to a financial economy dependent on growth. After all, some things cannot be scaled up. Imagine, for example, assigning a dollar value to the love of two newlyweds and then insisting that their marriage keep pace with the growing economy for 60 years! Love, wonder, true art, inspiration—all these things are about the intimacy of direct relationships; they exist in unscalable worlds, and it’s in those worlds that wild apples have their highest value. So I’m hoping to keep wild apple trees and artisan cider independent of the pressures of conformity. In fact, neither the wild nor true art would continue to be themselves if they were in any way compromised.
+
+# ...
+
+# To belabor this point: Independence is the most important thing I could cultivate (or uncultivate) in the forchard.
+:end:
 
 -----
 
