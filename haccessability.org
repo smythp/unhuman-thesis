@@ -2325,7 +2325,7 @@ Connie got up from her kitchen table and walked slowly to the door. Either I saw
 “It’s me—Dolly!" Her niece was screaming in the hall. “Let me in! Hurry!"
 “Momentito." Connie fumbled with the bolt, the police lock, finally swinging the door wide. Dolly fell in past her, her face bloody. Connie clutched at Dolly, trying to see how badly she was hurt. “Qué pasa? Who did this?"
 #+END_QUOTE
-Connie, here, is in a moment of crisis at the end of a long road punctuated by personal tragedy and grinding systemic injustice. Though talented, perceptive, and empathetic, she has been dragged under by a society that devalues and disempowers her and people like her. In the scene that follows, Connie, after attempting to defend her niece, is involuntarily committed to a mental hospital, beginning a process that will lead to a profound loss of personal autonomy and dignity. After her incarceration, Connie can only look back with longing at her prior impoverished circumstances:
+As we meet her in these opening lines, Connie is in a moment of crisis at the end of a long road punctuated by personal tragedy and grinding systemic injustice. Though talented, perceptive, and empathetic, she has been dragged under by a society that devalues and disempowers her and people like her. This first passage introduces an immediate crisis in the present: in the scene that follows, Connie, after attempting to defend her niece, is involuntarily committed to a mental hospital, beginning a process that will lead to a profound loss of personal autonomy and dignity. This passage, however, is not only about the present, but about a presence. Connie, living at a crucial point in history, is experiencing a connection with a potential future—"[e]ither I saw him or I didn’t and I’m crazy for real this time." The contrast between Connie's present and this potential future turns on autonomy. After Connie's involuntarily incarceration, she grieves for the loss of control over her self and her environment:
 
 #+BEGIN_QUOTE
 How she would celebrate her release! Her dingy two rooms with the toilet in the hall shone in her mind, vast and luxurious after the hospital. Doors she could shut! A toilet with a door! Chairs to sit in, a table of her own to eat on, a TV set that she could turn on and off and tune to whatever program she wanted to watch, her own bed with clean sheets and no stink of old piss. Her precious freedom and privacy!
@@ -2413,9 +2413,20 @@ Words synchronous with the early Greek conception of techne might include craft,
 #+BEGIN_QUOTE
 For Aristotle, techne was a very particular kind of knowledge. It was not concerned with the necessary and eternal a priori truths of the cosmos, nor with the a posteriori contingencies and exigencies of ethics and politics. Rather, techne was instrumental reason, concerned with actualizing the potentialities of beings that had no capacity to do so on their own, and which could be otherwise. More- over, this was a kind of knowledge associated with people who were bound to necessity. That is, techne was chiefly operative in the domestic sphere ... . [[citep:young_bowing_2009][p. 191]]
 #+END_QUOTE
-Though in Plato techne is sometimes connected with the skills of the political classes, such as rhetoric and generalship, these applications tended to be comparative or dialectical—it is an open question whether rhetoric is techne, but ox handling, medicine, and cooking were obviously techne. In a real sense, techne was low and necessary knowledge, knowledge of survival and of living. Though there was an element of techne to the broader ethical, philosophical, and administrative concerns of the /polis/, techne was best understood as specific and instrumental knowledge for the maintenance and improvement of the immediate environment.
+Though in Plato techne is sometimes connected with the skills of the political classes, such as rhetoric and generalship, these applications tended to be comparative or dialectical—it is an open question whether rhetoric is techne, but sewing, ox handling, medicine, and cooking were obviously techne. In a real sense, techne was low and necessary knowledge, knowledge of survival and of living. Though there was an element of techne to the broader ethical, philosophical, and administrative concerns of the /polis/, techne was best understood as specific and instrumental knowledge for the maintenance and improvement of the immediate environment, practiced not by philosophers and rulers but by the lower classes ad especially women, slaves, and freedmen.
 
 This concept, techne, may help us to reframe our discourse around technology and "tech." Technology, as a term, likely deserves the negative connotations that have grown up around it. Tech has come to be associated with a discrete set of centralized and corporate projects with universal aspirations, such as to organize the world's information, sell any form of material good, or build a platform through which all human thought and communication are conducted. These projects, tech, are not technologies in the sense of those drawn from basic research that have so fundamentally altered life on earth over centuries, and which range from the quotidian (the barometer) to the miraculous (antibiotics) to the terrifying (nuclear weapons). While this conception of technology may be morally and practically ambiguous, neither are these technologies controlled by a single individual or organization. These fundamental technologies, though they may have extensive forseen and unforseen negative effects on humanity and the earth, cannot control and be controlled as can the modern tech platform. Further, the set of projects that define tech, in their broad scope and universal aims, cannot but violate our autonomy and trample local concerns and needs. To build an everything store, or to collect and control all human knowledge, is necessarily to call on /das Man/, and perhaps even to invoke something beyond, and even more inimical, than the human universal.
+
+When we think of tech, we think of paradigms situated on the level of macro-scale entities and institutions—societies, nations, and corporations. This form of "technology" reaches, from on high, down into our lives. It offers us capabilities and connections, identity and convenience. It leverages iterative design, social science, and algorithm to nudge, rather than compel, recalcitrant humanity into engaging systems that control, flatten, and measure. We are grist in a highly abstract mill, our thoughts content, our relationships network effects, our differences market segments and our common humanity an exploited vulnerability. When we think of technology, we think of systems in which we are empowered only to the extent that we further render ourselves powerless.
+
+We begin to see, perhaps, that the word "technology" fails to serve us. We can, broadly and without fine distinctions, consider the term "technology" to refer to three separate phenomena. The first, scientific technology or technology classic, describes applications of basic research, and is characterized by unpredictable second- and third-order effects and sweeping social changes. Technologies in this vein might include the steam engine, anesthesia, heavier-than-air flight, radio, birth control, computation, nuclear energy, antibiotics, and chemical fertilizers. These technologies, which shocked and shaped the nineteenth and twentieth centuries, can be associated with the aesthetic of the sublime in that they provoked awe and fear, the sense of the small in the presence of the surpassing and the ineffable. The second, tech, poses in the guise of scientific technology, self-consciously embracing the aesthetic of the technological sublime while delivering a calculated, rather than a controlled, disruption. The essential difference between scientific technology and tech is in this retained control. Google is tech, and not technology, because any advances it represents do not escape its ambit. The horse may pull society, but its reins are firmly held. Prometheus has descended from the mountain, but we must beg for the light.
+
+Culturally, we have come to expect, and perhaps to rely on, the unifying experiences provided by the technological sublime and the larger narrative of progress they uphold. Starting in the 1990s, and with little fanfare, tech, rather than scientific technology, began to supply these cultural experiences
+
+
+
+, and frames discussion of doing a
+
 
 
 
@@ -2430,6 +2441,12 @@ This concept, techne, may help us to reframe our discourse around technology and
 
 
 One might ask, reasonably, what advantage lies in considering close reading, carpentry, kombucha brewing, gardening, oragami, cooking, or meditation as technologies, or alongside those activities we currently designate as technology.
+
+
+
+
+
+
 
 
 
@@ -2644,6 +2661,10 @@ Aside from its historical foundation in real abuses of electroshock therapy, the
 
 # intro-like stuff (not needed)
 :notes:
+# adaptive technology of prosthetics
+https://www.newamerica.org/weekly/adaptive-technology-prosthetics/ 
+
+
 # There is a precipitous verticality to the structure and language of this machine-dominated present. Benjamin H. Bratton acknowledges this in adopting an inherently vertical term to describe an emerging political geography that "draws on the multilayered structure of software, hardware, and network 'stacks' that arrange different technologies vertically within a modular, interdependent order" citep:bratton_stack:_2016. Verticality, a height that exceeds our reach, also provides a dimension along which to think about whether technology is within our control or whether we are in the control of technology. In /Woman on the Edge of Time/, when Connie first steps into Luciente's future, she envisions a world of dominating, thrusting structures: "[r]ocket ships, skyscrapers into the stratosphere, an underground mole world miles deep." Instead, the structures she does encounter are personal and broadly accessible, horizontal rather than vertical: "[a]rm in arm they strolled toward the meetinghouse, a building long and low like a loaf of bread." We see this distinction, too, in Connie's present. While part of her vision of freedom is "a TV set that she could turn on and off and tune to whatever program she wanted to watch," part of the indignity of the mental hospital is a lack of this kind of control over her environment: "[w]omen ... were sitting vacantly along the walls or staring at the television set placed up on a shelf where no one could reach it to change the station or alter the volume level." For these incarcerated women, technology is situated outside, literally above, their control. In this increasingly present future, technology is not something that we participate in as equals. More and more, it is something that happens to us.
 :end:
 
