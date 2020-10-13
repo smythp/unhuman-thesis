@@ -2447,7 +2447,30 @@ Tech has been the primary beneficiary of a confusion between scientific technolo
 
 # END FOOTENOTE !!!
 
-NEXT: say it's an inimical atmosphere and we need techne. in all of this techne has been ignored. 
+When most conceive of technology, the knowledge of doing, they think of scientific technology or, more recently, tech. However, people have been doing, and knowing how to do, long before scientific technology, and certainly long before tech. If scientific technology and tech are contenders for the cultural space occupied by technology, we should also consider techne, a modern craft of doing grounded in local understanding, as a potential contestant. Tech, fundamentally, functions to abstract people—users—from the world, forcing interactions through a platform. Tech creates distance and attenuation, a world viewed through an abstract filter in which our goals must first intersect the goals of the platform and those who control it. Not all ways of doing abstract in this way, however, and in fact most knowledge forges a stronger connection between us and the world. If I order coffee from Amazon, I am abstracted. If I make tea from a northern spice bush near my apartment, I am grounded. If I create a website on Squarespace, I give up control. If I serve some HTML files I wrote myself, I gain understanding. If we open Venmo, we view our community distantly. If we organize a susu [fn:susu], we connect with our community closely. If my university pays for Blackboard, Blackboard sits between me and my students. If we develop an alternative locally, we are bound together in our values.
+
+[fn:susu] A susu is an informal savings club where participants pay in a set amount each month, and each month one member is given the collected proceeds. The term (and the concept) originated in West Africa and the Caribbean. Essentially,a susu is a cool savings hack based around not letting down your community.
+
+
+# END FOOTENOTE !!!
+
+It is tempting to think of techne entirely as only a reconnection with the traditional, a rejection of inimical circumstances through a return to the past. To limit techne in this way, however, is to cede the future. Techne is the artist remixing traditional music on a Pocket Operator, the college student putting up her own website to sell homemade soap, the third-world hacker making a hearing aid from obsolete parts. These acts do an end run around extractative abstraction, drawing  a line to the world that does not run through some grasping platform. Techne is technology of the local over the universal, and continuity over disruption.
+
+
+
+
+
+
+
+# anti-human
+:notes:
+“We demonstrated that the Web had failed instead of served humanity, as it was supposed to have done, and failed in many places,” he told me. The increasing centralization of the Web, he says, has “ended up producing—with no deliberate action of the people who designed the platform—a large-scale emergent phenomenon which is anti-human.”
+https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets
+:end:
+
+
+
+Scientific technology and tech are both contenders for the 
 
 
 
