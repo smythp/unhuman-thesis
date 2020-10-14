@@ -2424,7 +2424,7 @@ When we think of tech, we think of paradigms situated on the level of macro-scal
 
 # !!! END FOOTNOTE
 
-We begin to see, perhaps, that the word "technology" fails to serve us. We can, broadly and without fine distinctions, consider the term "technology" to refer to three separate phenomena. The first, scientific technology or technology classic, describes applications of basic research, and is characterized by unpredictable second- and third-order effects and sweeping social changes. Technologies in this vein might include the steam engine, anesthesia, heavier-than-air flight, radio, birth control, computation, nuclear energy, antibiotics, and chemical fertilizers. These technologies, which shocked and shaped the nineteenth and twentieth centuries, can be associated with the aesthetic of the sublime in that they provoked awe and fear, the sense of the small in the presence of the surpassing and the ineffable. The second, tech, poses in the guise of scientific technology, self-consciously embracing the aesthetic of the technological sublime while delivering a calculated, rather than a controlled, disruption. The essential difference between scientific technology and tech is in this retained control. Google is tech, and not technology, because any advances it represents do not escape its ambit. The horse may pull society, but its reins are firmly held. Prometheus has descended from the mountain, but we must beg for the light.
+We begin to see, perhaps, that the word "technology" fails to serve us. We can, broadly and without fine distinctions, consider the term "technology" to refer to three separate phenomena. The first, scientific technology or technology classic, describes applications of basic research, and is characterized by unpredictable second- and third-order effects and sweeping social changes. Technologies in this vein might include the steam engine, anesthesia, heavier-than-air flight, radio, birth control, computation, nuclear energy, antibiotics, and chemical fertilizers. These technologies, which shocked and shaped the nineteenth and twentieth centuries, can be associated with the aesthetic of the sublime in that they provoked awe and fear, the sense of the small in the presence of the surpassing and the ineffable. The second, tech, poses in the guise of scientific technology, self-consciously embracing the aesthetic of the technological sublime while delivering a calculated, rather than an uncontrolled, disruption. The essential difference between scientific technology and tech is in this retained control. Google is tech, and not technology, because any advances it represents do not escape its ambit. The horse may pull society, but its reins are firmly held. Prometheus has descended from the mountain, but we must beg for the light.
 
 Culturally, we have come to expect, and perhaps to rely on, the unifying experiences provided by the technological sublime and the larger narrative of progress they uphold. Starting in the late 1990s, and with little fanfare, tech, rather than scientific technology, began to supply these cultural experiences. In the relative absence of major cultural disruptions or novums from scientific technology, tech has meted out a succession of upgrades and updates to platforms, providing conveniences that have grown into necessities and preserving the sense that society is moving forward technologically. [fn:technological-decline] By preserving a simulacra of technological progress, tech has presided over a reallocation of market power unprecedented in recent history, a transfer that has placed a small number of firms in a position to extract exorbitant rents, acquire or drive out competition, create new classes of contingent labor, and nfluence the political sphere. While scientific technology acted as a cultural wildcard, creating unpredictable second- and third-order effects, tech seeks to crate a more predictable form of disruption in which power accrues to the firm and negatives, such as the decline of journalism or an increase in political polarization, are borne by the broader society and the public.
 
@@ -2454,7 +2454,28 @@ When most conceive of technology, the knowledge of doing, they think of scientif
 
 # END FOOTENOTE !!!
 
-It is tempting to think of techne entirely as only a reconnection with the traditional, a rejection of inimical circumstances through a return to the past. To limit techne in this way, however, is to cede the future. Techne is the artist remixing traditional music on a Pocket Operator, the college student putting up her own website to sell homemade soap, the third-world hacker making a hearing aid from obsolete parts. These acts do an end run around extractative abstraction, drawing  a line to the world that does not run through some grasping platform. Techne is technology of the local over the universal, and continuity over disruption.
+It is tempting to think of techne entirely as only a reconnection with the traditional, a rejection of inimical circumstances through a return to the past. To limit techne in this way, however, is to cede the future. Techne is the artist remixing traditional music on a Pocket Operator, the college student putting up her own website to sell homemade soap, the third-world hacker making a hearing aid from obsolete parts. These acts do an end run around extractative abstraction, drawing  a line to the world that does not run through some grasping platform. Techne is technology of the local over the universal, autonomy over imposition, and continuity over disruption. Techne tends to create more than it extracts, to be gnarly rather than slick, to prefer the long game to the fast exit. Techne can be kind of janky—what humanity is there in perfection?
+
+Techne and abstraction are not entirely incompatible. Technology that empowers others, that respects real difference, that encourages growth, or that cedes control to others can be techne, and can respect and encourage techne. Raspberry Pi, the $35 credit-card sized minicomputer, is, in a sense, a platform. However, the Pi, and the foundation that produces it, cede control: the device can be used for anything a small computer can be used for. In its mild jankiness, the Pi encourages real learning and growth. [fn:growth]. In its lack of expense, the Pi makes possible projects and pedagogy that would otherwise be out of reach. In these qualities, The Pi, as a platform, builds, rather than exploits, community, and creates oxygen rather than sucking it from the room. There is nothing perfect about the Pi, but in its imperfection it is thing of techne, and far from the slick affordances of tech.
+
+[fn:growth] The learning comes as users try to answer questions, such as "What are all these little holes" "Is this thing on?" And "Which part is most likely to draw blood if I poke it the wrong way?" Learning can be painful. Really, though, the Pi is an amazing device, and I'm glad it exists, as both a machine and a community.
+
+
+# !!! END FOOTNOTE
+
+However, this form of modern techne, which cedes control while seeking to empower others, faces serious issues when confronting forces, including but not exclusively tech, that do not share its values. The seminal example of this dynamic in the twenty-first century has been the World Wide Web. Upon its inception in the early 1990s, this system of linked documents enabled a Cambrian explosion of individual and community creativity. The early web had a highly local feel—users, necessarily, actively moved from one page to another, rather than having information presented to them, and the early web had no practical facility for commercial transactions. The early web, fundamentally, was a thing of techne, enabling the sharing of hand-crafted pages. The web, however, was the precondition necessary for the rise of modern tech:
+
+#+BEGIN_QUOTE
+"We demonstrated that the Web had failed instead of served humanity, as it was supposed to have done, and failed in many places ... The increasing centralization of the Web ... has “ended up producing—with no deliberate action of the people who designed the platform—a large-scale emergent phenomenon which is anti-human." citep:brooker_i_2018
+#+END_QUOTE
+
+
+
+-----
+
+
+base conditions, scientific techhology, mean that the pool can be polluted, and it matters who get sto what first
+kombucha brewing
 
 
 
@@ -2462,11 +2483,7 @@ It is tempting to think of techne entirely as only a reconnection with the tradi
 
 
 
-# anti-human
-:notes:
-“We demonstrated that the Web had failed instead of served humanity, as it was supposed to have done, and failed in many places,” he told me. The increasing centralization of the Web, he says, has “ended up producing—with no deliberate action of the people who designed the platform—a large-scale emergent phenomenon which is anti-human.”
-https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets
-:end:
+
 
 
 
