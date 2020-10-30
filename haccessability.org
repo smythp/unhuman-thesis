@@ -2463,11 +2463,126 @@ Techne and abstraction are not entirely incompatible. Technology that empowers o
 
 # !!! END FOOTNOTE
 
-However, this form of modern techne, which cedes control while seeking to empower others, faces serious issues when confronting forces, including but not exclusively tech, that do not share its values. The seminal example of this dynamic in the twenty-first century has been the World Wide Web. Upon its inception in the early 1990s, this system of linked documents enabled a Cambrian explosion of individual and community creativity. The early web had a highly local feel—users, necessarily, actively moved from one page to another, rather than having information presented to them, and the early web had no practical facility for commercial transactions. The early web, fundamentally, was a thing of techne, enabling the sharing of hand-crafted pages. The web, however, was the precondition necessary for the rise of modern tech:
+However, this form of modern techne, which cedes control while seeking to empower others, faces serious issues when confronting forces, including but not exclusively tech, that do not share its values. The seminal example of this dynamic in the twenty-first century has been the World Wide Web. Upon its inception in the early 1990s, this system of linked documents enabled a Cambrian explosion of individual and community creativity. The early web had a highly local feel—users, necessarily, actively moved from one page to another, rather than having information presented to them, and the early web had no practical facility for commercial transactions. The early web, fundamentally, was a thing of techne, enabling the sharing of hand-crafted pages organized into local communities such as web rings. The web, however, was the precondition necessary for the rise of modern tech. In a 2018 interview, Tim Berners Lee expressed concern that the web had led to the emergence of something else, a superstructure based on centralized power that, fundamentally, stands against the interests of humanity:
 
 #+BEGIN_QUOTE
 "We demonstrated that the Web had failed instead of served humanity, as it was supposed to have done, and failed in many places ... The increasing centralization of the Web ... has “ended up producing—with no deliberate action of the people who designed the platform—a large-scale emergent phenomenon which is anti-human." citep:brooker_i_2018
 #+END_QUOTE
+The preconditions set by developments in scientific technology during the twentieth century, especially, but not exclusively, computation, have led to unprecedented forms of abstraction. Developments such as the web have encouraged novel forms and permutations of techne, including new modes of expression and art, widely available repositories of knowledge, and local communities that extend beyond geography. However, in parallel, tech and other centralizing forces have come to displace local autonomy and agency. Intermediating interfaces that flatten intent, algorithmically-curated streams, and the aggregation and analysis of personal data has allowed tech to bootstrap its way to a set of more traditional abuses: monopoly and monopsony [fn:monopsony], regulatory capture, aggressive acquisition of other firms, bundling or tying, blacklisting [fn:anti-competitive].
+
+[fn:monopsony] A monopoly is an advantageous market condition in which there is only one seller. A monopsony is an advantageous market condition in which there is only one buyer., as when large firms agree not to "poach" employees, resulting in depressed wages. 
+
+
+# END FOOTENOTE !!!!
+
+
+[fn:anti-competitive] Bundling is the practice of forcing the use of one service by tying it to another. This practice is ubiquitous in tech, and examples range from Apple giving preferential treatment on its devices to its own services to the combination of most Google services into the same interface. Tech firms also use a form of blacklisting in which competitors or upstarts are removed or deranked in searches on a specific service, a favorite practice of Google and Amazon. Honestly, there are so many dirty tricks in this playbook that you could write a book just enumerating them and providing examples.
+
+
+# END FOOTENOTE !!!
+
+
+** The Unhuman
+
+In /Erewhon; Or, Over the Range/, a 1872 utopian novel by Samuel Butler, the protagonist finds himself in the eponymous Erewhon, a hidden country invented to hold up a mirror to Victorian society. While Butler satirizes, among other targets, Britain's religion, penal system, and mental institutions, one three-chapter section of the novel stands apart. In Erewhon, machines of any sophistication or complexity have been outlawed following an arduous and costly civil war. The war, and the formation of the winning faction, the "anti-machinists," is precipitated by the publication of a book: /The Book of the Machines/. The three chapters represented as a transcription of the book opens with a question:
+
+#+BEGIN_QUOTE
+There was a time, when the earth was to all appearance utterly destitute both of animal and vegetable life, and when according to the opinion of our best philosophers it was simply a hot round ball with a crust gradually cooling. Now if a human being had existed while the earth was in this state and had been allowed to see it as though it were some other world with which he had no concern, and if at the same time he were entirely ignorant of all physical science, would he not have pronounced it impossible that creatures possessed of anything like consciousness should be evolved from the seeming cinder which he was beholding? Would he not have denied that it contained any potentiality of consciousness? Yet in the course of time consciousness came. Is it not possible then that there may be even yet new channels dug out for consciousness, though we can detect no signs of them at present? (118)
+#+END_QUOTE
+/The Book of the Machines/ is remarkable in its departure from an anthropocentric, and even an animal-centered, understanding of consciousness. It chooses not to dwell on relatedness, or the mutual intelligibility of consanguinity, but considers consciousness as an emergent property that arises as a system works toward an end:
+
+#+BEGIN_QUOTE
+We find it difficult to sympathise with the emotions of a potato; so we do with those of an oyster. Neither of these things makes a noise on being boiled or opened, and noise appeals to us more strongly than anything else, because we make so much about our own sufferings. Since, then, they do not annoy us by any expression of pain we call them emotionless; and so quâ mankind they are; but mankind is not everybody.
+#+END_QUOTE
+Butler, considering the venus flytrap's ability to snap
+ over its prey, asks: "Curious! that so unconscious a thing should have such a keen eye to its own interest. If this is unconsciousness, where is the use of consciousness?" Similarly, Butler observes that the common potato, stranded in a cellar, "has a certain low cunning about him which serves him in excellent stead," sending out shoots toward the light and, if encountering earth on the way, turning the discovery to its own ends.
+
+Just as cells, acting in concert, comprise a system that works toward larger goals, Butler makes the argument that a combination of organic and inorganic, human and machine, might coalesce into a system of incredible breadth, one that might work toward its own ends. /The Book of the Machines/ was inspired by two fundamental observations. The first, drawing on Darwin's 1859 /Origin of Species/, is that emergent characteristics that serve an entity, that allow it to survive or thrive, are more likely to persist. The second, inspired by the development of networked technologies of transportation and communication such as the telegraph and the steam engine, is that the organic is not cleanly seperable from the inorganic, and that the inorganic is woven throughout entities we think of as exclusively organic.
+
+This thesis—that an organism, or inorganism, can emerge from a concert of meat and machine—has since been taken up in many forms. 
+
+- cyborg manifesto
+
+
+
+#+BEGIN_QUOTE
+“But who can say that the vapour engine has not a kind of consciousness? Where does consciousness begin, and where end? Who can draw the line? Who can draw any line? Is not everything interwoven with everything? Is not machinery linked with animal life in an infinite variety of ways? The shell of a hen’s egg is made of a delicate white ware and is a machine as much as an egg-cup is: the shell is a device for holding the egg, as much as the egg-cup for holding the shell: both are phases of the same function; the hen makes the shell in her inside, but it is pure pottery. She makes her nest outside of herself for convenience’ sake, but the nest is not more of a machine than the egg-shell is. A ‘machine’ is only a ‘device.’”
+#+END_QUOTE
+
+
+
+
+
+# Erewhon edition
+:notes:
+# https://books.google.com/books?id=8erBAgAAQBAJ&pg=PA118&dq=There+was+a+time,+when+the+earth+was+to+all+appearance+utterly+destitute+both+of+animal+and+vegetable+life,+and+when+according+to+the+opinion+of+our+best+philosophers+it+was+simply+a+hot+round+ball+with+a+crust+gradually+cooling.+Now+if+a+human+being+had+existed+while+the+earth+was+in+this+state+and+had+been+allowed+to+see+it+as+though+it+were+some+other+world+with+which+he+had+no+concern,+and+if+at+the+same+time+he+were+entirely+ignorant+of+all+physical+science,+would+he+not+have+pronounced+it+impossible+that+creatures+possessed+of+anything+like+consciousness+should+be+evolved+from+the+seeming+cinder+which+he+was+beholding?+Would+he+not+have+denied+that+it+contained+any+potentiality+of+consciousness?+Yet+in+the+course+of+time+consciousness+came.+Is+it+not+possible+then+that+there+may+be+even+yet+new+channels+dug+out+for+consciousness,+though+we+can+detect+no+signs+of+them+at+present?&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwj6wc3bot3sAhUhVt8KHQigBsEQ6AEwA3oECAQQAg#v=onepage&q=There%20was%20a%20time%2C%20when%20the%20earth%20was%20to%20all%20appearance%20utterly%20destitute%20both%20of%20animal%20and%20vegetable%20life%2C%20and%20when%20according%20to%20the%20opinion%20of%20our%20best%20philosophers%20it%20was%20simply%20a%20hot%20round%20ball%20with%20a%20crust%20gradually%20cooling.%20Now%20if%20a%20human%20being%20had%20existed%20while%20the%20earth%20was%20in%20this%20state%20and%20had%20been%20allowed%20to%20see%20it%20as%20though%20it%20were%20some%20other%20world%20with%20which%20he%20had%20no%20concern%2C%20and%20if%20at%20the%20same%20time%20he%20were%20entirely%20ignorant%20of%20all%20physical%20science%2C%20would%20he%20not%20have%20pronounced%20it%20impossible%20that%20creatures%20possessed%20of%20anything%20like%20consciousness%20should%20be%20evolved%20from%20the%20seeming%20cinder%20which%20he%20was%20beholding%3F%20Would%20he%20not%20have%20denied%20that%20it%20contained%20any%20potentiality%20of%20consciousness%3F%20Yet%20in%20the%20course%20of%20time%20consciousness%20came.%20Is%20it%20not%20possible%20then%20that%20there%20may%20be%20even%20yet%20new%20channels%20dug%20out%20for%20consciousness%2C%20though%20we%20can%20detect%20no%20signs%20of%20them%20at%20present%3F&f=false
+:end:
+
+
+# Myth of the machine
+:notes:
+# In terms of the currently accepted picture of the relation of man to technics, our age is passing from the primeval state of man, marked by his invention of tools and weapons for the purpose of achieving mastery over the forces of nature, to a radically different condition, in which he will have not only conquered nature, but detached himself as far as possible from the organic habitat.
+
+# With this new 'megatechnics' the dominant minority will create a uniform, all-enveloping, super-planetary structure, designed for automatic operation. Instead of functioning actively as an autonomous personality, man will become a passive, purposeless, machine-conditioned animal whose proper functions, as technicians now interpret man's role, will either be fed into the machine or strictly limited and controlled for the benefit of de-personalized, collective organizations.
+
+# -----
+
+# In this process of self-discovery and self-transformation, tools, in the narrow sense, served well as subsidiary instruments, but not as the main operative agent in man's development; for technics has never till our own age dissociated itself from the larger cultural whole in which man, as man, has always functioned. The classic Greek term 'tekhne' characteristically makes no distinction between industrial production and 'fine' or symbolic art; and for the greater part of human history these aspects were inseparable, one side respecting the objective conditions and functions, the other responding to subjective needs.
+
+# -----
+
+# The irrational factors that have sometimes constructively prompted, yet too often distorted, man's further development became plain at the moment when the formative elements in paleolithic and neolithic cultures united in the great cultural implosion that took place around the Fourth Millennium B.C.: what is usually called 'the rise of civilization.' The remarkable fact about this transformation technically is that it was the result, not of mechanical inventions, but of a radically new type of social organization: a product of myth, magic, religion, and the nascent science of astronomy. This implosion of sacred political powers and technological facilities cannot be accounted for by any inventory of the tools, the simple machines, and the technical processes then available. Neither the wheeled wagon, the plow, the potter's wheel, nor the military chariot could of themselves have accomplished the mighty transformations that took place in the great valleys of Egypt, Mesopotamia, and India, and eventually passed, in ripples and waves, to other parts of the planet.
+
+# The study of the Pyramid Age I made in preparation for writing 'The City in History' unexpectedly revealed that a close parallel existed between the first authoritarian civilizations in the Near East and our own, though most of our contemporaries still regard modern technics, not only as the highest point in man's intellectual development, but as an entirely new phenomenon. On the contrary, I found that what economists lately termed the Machine Age or the Power Age, had its origin, not in the so-called Industrial Revolution of the eighteenth century, but at the very outset in the organization of an archetypal machine composed of human parts.
+
+# Two things must be noted about this new mechanism, because they identify it throughout its historic course down to the present. The first is that the organizers of the machine derived their power and authority from a heavenly source. Cosmic order was the basis of this new human order. The exactitude in measurement, the abstract mechanical system, the compulsive regularity of this 'megamachine,' as I shall call it, sprang directly from astronomical observations and scientific calculations. This inflexible, predictable order, incorporated later in the calendar, was transferred to the regimentation of the human components. As against earlier forms of ritualized order, this mechanized order was external to man. By a combination of divine command and ruthless military coercion, a large population was made to endure grinding poverty and forced labor at mind-dulling repetitive tasks in order to insure "Life, Prosperity, and Health" for the divine or semi-divine ruler and his entourage.
+
+# The second point is that the grave social defects of the human machine were partly offset by its superb achievements in flood control and grain production, which laid the ground for an enlarged achievement in every area of human culture: in monumental art, in codified law, in systematically pursued and permanently recorded thought, in the augmentation of all the potentialities of the mind by the assemblage of a varied population, with diverse regional and vocational backgrounds in urban ceremonial centers. Such order, such collective security and abundance, such stimulating cultural mixtures were first achieved in Mesopotamia and Egypt, and later in India, China, Persia, and in the Andean and Mayan cultures: and they were never surpassed until the megamachine was reconstituted in a new form in our own time. Unfortunately these cultural advances were largely offset by equally great social regressions.
+:end:
+
+
+
+We, like Connie, live at a crux, poised between two futures. Increasingly, in fits and starts, in pockets and at the margins, in think pieces, in books, and at the dinner table, we grow aware that some totalizing force, some presence or trend or trend of trends, works against humanity. Many have attempted to place their finger on this force, this process or entity. For Hardt and Negri, it was /Empire/. For Benjamin H. Bratton, it is /The Stack/. For Herbert Marcuse, it was the one-dimensional or technological society [[citep:marcuse_one-dimensional_2002][p. 50]]. For Neil Postman, it was /technopoly/. My own colleague at the Graduate Center, Erin Glass, has described it, in the context of the academy, as the /invisible discipline/. XXX Though those who attempt to identify and define it each have a different sense of its shape, its scale, and its ends, there is a general sense that it is technocratic and technological—that is, comprising within itself systems of both humans and machines. There is also a sense that it is impersonal and encompassing—international or global in scope. In this project, I'll call this thing—this presence or process or entity—the /unhuman/. In using negation to identify it, I invoke humanity, a concept both elevated and workaday and also acknowledge that I am incapable of precisely, or even imprecisely, defining it.
+
+# borg complex: https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/
+# add moloch
+
+# add
+# Jaron Lanier
+# You Are Not a Gadget
+# Who Owns the Future
+# Bummer platform, Digital Maoism
+
+
+In /Woman on the Edge of Time/, the other future—the one accessed not through Luciente but through a nameless, subjugated woman, is explicitly predicated on the ascendency of machine over person. This bleak future, in which technology is used by a few to force their will  on the many, has its root in a project in Connie's present, one in which implants are used to "reform" patients:
+
+#+BEGIN_QUOTE
+Back at their own beds, Sybil whispered, "The nurse didn't contradict us about the electrodes. Could it be true?"\\
+"But what for?"\\
+"Control. To turn us into machines so we obey them," Sybil whispered.
+#+END_QUOTE
+Aside from its historical foundation in real abuses of electroshock therapy, the future depicted by Piercy, one based on a state of technological control over society, may seem far-fetched. Unfortunately, it is not. We now live in a world where individuals can be fired by a machine citep:cellan-jones_man_2018, where algorithms decide who will be imprisoned and who will go free citep:avenue_human_2018, where filters dictate who we speak to and what we read XXX, and where cryptoutopians strive to remove human trust from law and finance XXX. It is a world in which we squat on digital property that we do not own XXX, are surveilled in public and in private, and connect our bodies to the cloud XXX, sometimes without our knowledge. Connie's future, a future of domination by and through machines, may already be upon us.
+
+*************** TODO insert citations for above claims about how the present is dominated ina new way by machines
+*************** END
+
+# intro-like stuff (not needed)
+:notes:
+# adaptive technology of prosthetics
+https://www.newamerica.org/weekly/adaptive-technology-prosthetics/ 
+
+
+# There is a precipitous verticality to the structure and language of this machine-dominated present. Benjamin H. Bratton acknowledges this in adopting an inherently vertical term to describe an emerging political geography that "draws on the multilayered structure of software, hardware, and network 'stacks' that arrange different technologies vertically within a modular, interdependent order" citep:bratton_stack:_2016. Verticality, a height that exceeds our reach, also provides a dimension along which to think about whether technology is within our control or whether we are in the control of technology. In /Woman on the Edge of Time/, when Connie first steps into Luciente's future, she envisions a world of dominating, thrusting structures: "[r]ocket ships, skyscrapers into the stratosphere, an underground mole world miles deep." Instead, the structures she does encounter are personal and broadly accessible, horizontal rather than vertical: "[a]rm in arm they strolled toward the meetinghouse, a building long and low like a loaf of bread." We see this distinction, too, in Connie's present. While part of her vision of freedom is "a TV set that she could turn on and off and tune to whatever program she wanted to watch," part of the indignity of the mental hospital is a lack of this kind of control over her environment: "[w]omen ... were sitting vacantly along the walls or staring at the television set placed up on a shelf where no one could reach it to change the station or alter the volume level." For these incarcerated women, technology is situated outside, literally above, their control. In this increasingly present future, technology is not something that we participate in as equals. More and more, it is something that happens to us.
+:end:
+
+*************** TODO insert page number for stack citation
+*************** END
+
+This project, /Negotiated Access/, is about the locus of interaction—the point or edge along which we encounter our environment and exercise our autonomy. Fundamentally, it's an argument that this locus needs to be shifted from the distant, the impersonal, and the complex and placed close to the individual and the small community. This means that technology should be something we make and control, not something that happens to us. It means that social structure and infrastructure should be flexible, fluid, and federated, not one size fits all. It means, to put it less abstractly, that the television needs to come down from the damn shelf.
+
+*************** TODO summarize chapters?
+*************** end
+
 
 
 
@@ -2577,33 +2692,34 @@ Scientific technology and tech are both contenders for the
 # in artistic modernism; the last two chapters focus o
 :end:
 
-
------
-
-In 1966, Lynn White, a historian at UCLA,  published an unusual book. /Medieval Technology and Social Change/ discussed a small set of frequently-overlooked innovations—the stirrup, the plow, the crank—arguing that they were largely responsible for the emergence of feudalism in the period. Though criticized, perhaps justly, as a lightweight adventure in technological determinism, the book's premise implied a lack of attention on the part of historians to technology associated with certain social strata—namely, those strata that did not possess the literacy or the cultural capital to pass on their own perspectives through histories and written records.
-
-When we think of "technology"—the concept or the word—we think of paradigms situated on the level of macro-scale entities and institutions—societies, nations, and corporations. This form of technology reaches, from on high, down into our lives. It offers us capabilities and connections, identity and convenience. It leverages iterative design, social science, and algorithm to nudge, rather than compel, recalcitrant humanity into engaging systems that control, flatten, and measure. We are grist in a highly abstract mill, our thoughts content, our relationships network effects, our differences market segments and our common humanity an exploited vulnerability. When we think of technology, we think of systems in which we are empowered only to the extent that we further render ourselves powerless.
-
-This narrow version of technology—Technology™—exerts a narrative pull. Lynn White's /Medieval Technology and Social Change/ was, and still is, notable in that it called attention to a technology of the immediate personal environment. The stirrup, the plow, and the crank, in transforming the relationship between people and their immediate environment—people and animals, people and land, people and things—precipitated extraordinary change in the wider society. Yet despite their broad implications, these hyperlocal changes tended to escape attention and analysis both contemporaneously and in hindsight. Similarly, highly local changes among people and their environments are not widely considered technology. To gather the narrative impetus or cultural cachet of /Technology™/, a knowledge of practice, a working, must meet arbitrary criteria—be conceived as a platform, be backed by venture capital, be in service of the few at the expense of the many.
-
-# Is close reading not technology? Is a family recipe not an algorithm? Is a support group not a platform? Is a personal library not infrastructure? Certain forms of technology are glorified, even fetishized, while essential ways of knowing and doing are systematically undervalued. A technology, ultimately, is knowledge put into practice. Why do we hold up technologies of control, technologies of corporations, governments, and the powerful, while eliding, downplaying, disparaging, or ignoring the technology of individuals and localities, small groups and "little" disciplines?
-
+# use this stuff maybe
+:notes:
 My purpose, here and in this project, is not to say that we need more craft and less technology, or to engage the usual, unfortunately now quotidian forms of antitechnological resistance—retreat and abstention or disruption and destruction. That story, it seems to me, is written, and the genie rarely reenters the bottle. Technology, too often, is as Dickens wrote, "[t]he power that forced itself upon its iron way--its own--defiant of all paths and roads, piercing through the heart of every obstacle, and dragging living creatures of all classes, ages, and degrees behind it" [[citep:dickens_dombey_1848][p. 311]]. Technology, like culture, is mimetic, heedlessly spreading, moving forward, from mind to mind. Just as culture cannot be fought with anti-culture, but must be fought with more culture, we cannot fight technology with anti-technology. We must decide, then, how to steal the Promethean fire with which to fight fire.
 
 If "technology" evokes application of knowledge in service of control and domination, what terms, what forms and models, are left to us? By rights, technology should be a broader, more encompassing term, yet it is difficult to rally around a more holistic vision of technology when an unhuman Technology™ strives always to take its place in discourse. 
-
-Greek philosophers used a term, /technē/, to describe an associative and conceptual space that is, in many ways, richer and broader than our own derived "technology." Tom Angier refers to the technai as "variously translatable as 'crafts', 'skills', 'arts' or 'forms of expertise'" [[citep:angier_techne_2012][p. 1]]. As with "technology," however, each of these terms has its own set of modern associations that make them inadequate as translations of /technē/. /Technē/ was most often used for knowing in service of a goal. It applied to professions such as medicine, teaching, and carpentry where knowledge and practice blurred in the service of a clear purpose.
-
-#+BEGIN_QUOTE
-From etymology and early usage, then, we can determine a property of /technē/ that will remain more or less constant: namely, that whoever practises a particular /technē/ possesses a determinate form of expertise. As Felix Heini- mann affirms, "Each /technē/ is correlated with a quite determinate [/bestimmte/] task and type of achievement' (106). Or as Rudolf Löbl puts it, for every /technē/ ‘there is a telos, a goal, at which it aims . . . a kind of job [Werk] or action, that has to be realised' (211). These references to particular ‘tasks' or ‘goals' should not be taken to preclude an individual /technē/ having as its proper concern a plurality of actions or products. After all, smithing (for one) encompasses a diverse set of these. ... It is in this sense, I take it, that ‘every /technē/ must have a quite determinate goal [/Ziel/], which distinguishes it from other technai'
-#+END_QUOTE
-
-, Taken individually, however, none of these terms approach 
+:end:
 
 
-techne is application of knowledge serving as a means to an end, as in medicince
 
-: knights, peasants, and artisans. 
+# lynn white stuff, probably not great
+:notes:
+# In 1966, Lynn White, a historian at UCLA,  published an unusual book. /Medieval Technology and Social Change/ discussed a small set of frequently-overlooked innovations—the stirrup, the plow, the crank—arguing that they were largely responsible for the emergence of feudalism in the period. Though criticized, perhaps justly, as a lightweight adventure in technological determinism, the book's premise implied a lack of attention on the part of historians to technology associated with certain social strata—namely, those strata that did not possess the literacy or the cultural capital to pass on their own perspectives through histories and written records.
+
+# When we think of "technology"—the concept or the word—we think of paradigms situated on the level of macro-scale entities and institutions—societies, nations, and corporations. This form of technology reaches, from on high, down into our lives. It offers us capabilities and connections, identity and convenience. It leverages iterative design, social science, and algorithm to nudge, rather than compel, recalcitrant humanity into engaging systems that control, flatten, and measure. We are grist in a highly abstract mill, our thoughts content, our relationships network effects, our differences market segments and our common humanity an exploited vulnerability. When we think of technology, we think of systems in which we are empowered only to the extent that we further render ourselves powerless.
+
+# This narrow version of technology—Technology™—exerts a narrative pull. Lynn White's /Medieval Technology and Social Change/ was, and still is, notable in that it called attention to a technology of the immediate personal environment. The stirrup, the plow, and the crank, in transforming the relationship between people and their immediate environment—people and animals, people and land, people and things—precipitated extraordinary change in the wider society. Yet despite their broad implications, these hyperlocal changes tended to escape attention and analysis both contemporaneously and in hindsight. Similarly, highly local changes among people and their environments are not widely considered technology. To gather the narrative impetus or cultural cachet of /Technology™/, a knowledge of practice, a working, must meet arbitrary criteria—be conceived as a platform, be backed by venture capital, be in service of the few at the expense of the many.
+
+# Is close reading not technology? Is a family recipe not an algorithm? Is a support group not a platform? Is a personal library not infrastructure? Certain forms of technology are glorified, even fetishized, while essential ways of knowing and doing are systematically undervalued. A technology, ultimately, is knowledge put into practice. Why do we hold up technologies of control, technologies of corporations, governments, and the powerful, while eliding, downplaying, disparaging, or ignoring the technology of individuals and localities, small groups and "little" disciplines?
+
+# Greek philosophers used a term, /technē/, to describe an associative and conceptual space that is, in many ways, richer and broader than our own derived "technology." Tom Angier refers to the technai as "variously translatable as 'crafts', 'skills', 'arts' or 'forms of expertise'" [[citep:angier_techne_2012][p. 1]]. As with "technology," however, each of these terms has its own set of modern associations that make them inadequate as translations of /technē/. /Technē/ was most often used for knowing in service of a goal. It applied to professions such as medicine, teaching, and carpentry where knowledge and practice blurred in the service of a clear purpose.
+
+# #+BEGIN_QUOTE
+# From etymology and early usage, then, we can determine a property of /technē/ that will remain more or less constant: namely, that whoever practises a particular /technē/ possesses a determinate form of expertise. As Felix Heini- mann affirms, "Each /technē/ is correlated with a quite determinate [/bestimmte/] task and type of achievement' (106). Or as Rudolf Löbl puts it, for every /technē/ ‘there is a telos, a goal, at which it aims . . . a kind of job [Werk] or action, that has to be realised' (211). These references to particular ‘tasks' or ‘goals' should not be taken to preclude an individual /technē/ having as its proper concern a plurality of actions or products. After all, smithing (for one) encompasses a diverse set of these. ... It is in this sense, I take it, that ‘every /technē/ must have a quite determinate goal [/Ziel/], which distinguishes it from other technai'
+# #+END_QUOTE
+
+# , Taken individually, however, none of these terms approach 
+
+
 
 # poetic doomsaying
 :notes:
@@ -2691,50 +2807,8 @@ Yet, generation Z is often on the receiving end of criticism for the amount of t
 
 # Throughout the novel, Connie is, by turns, physically injured, insulted, and ignored at the hands of authority figures—social workers, mental ward attendants, doctors, and police. Yet perhaps most galling for her is the denial of autonomy over her immediate physical and social space, a betrayal not only of a connection to a wider community but also the immediate and necessary circumstances of life.
 :end:
-** 
-
-** Unhuman?
-
-We, like Connie, live at a crux, poised between two futures. Increasingly, in fits and starts, in pockets and at the margins, in think pieces, in books, and at the dinner table, we grow aware that some totalizing force, some presence or trend or trend of trends, works against humanity. Many have attempted to place their finger on this force, this process or entity. For Hardt and Negri, it was /Empire/. For Benjamin H. Bratton, it is /The Stack/. For Herbert Marcuse, it was the one-dimensional or technological society [[citep:marcuse_one-dimensional_2002][p. 50]]. For Neil Postman, it was /technopoly/. My own colleague at the Graduate Center, Erin Glass, has described it, in the context of the academy, as the /invisible discipline/. XXX Though those who attempt to identify and define it each have a different sense of its shape, its scale, and its ends, there is a general sense that it is technocratic and technological—that is, comprising within itself systems of both humans and machines. There is also a sense that it is impersonal and encompassing—international or global in scope. In this project, I'll call this thing—this presence or process or entity—the /unhuman/. In using negation to identify it, I invoke humanity, a concept both elevated and workaday and also acknowledge that I am incapable of precisely, or even imprecisely, defining it.
-
-# borg complex: https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/
-# add moloch
-
-# add
-# Jaron Lanier
-# You Are Not a Gadget
-# Who Owns the Future
-# Bummer platform, Digital Maoism
 
 
-In /Woman on the Edge of Time/, the other future—the one accessed not through Luciente but through a nameless, subjugated woman, is explicitly predicated on the ascendency of machine over person. This bleak future, in which technology is used by a few to force their will  on the many, has its root in a project in Connie's present, one in which implants are used to "reform" patients:
-
-#+BEGIN_QUOTE
-Back at their own beds, Sybil whispered, "The nurse didn't contradict us about the electrodes. Could it be true?"\\
-"But what for?"\\
-"Control. To turn us into machines so we obey them," Sybil whispered.
-#+END_QUOTE
-Aside from its historical foundation in real abuses of electroshock therapy, the future depicted by Piercy, one based on a state of technological control over society, may seem far-fetched. Unfortunately, it is not. We now live in a world where individuals can be fired by a machine citep:cellan-jones_man_2018, where algorithms decide who will be imprisoned and who will go free citep:avenue_human_2018, where filters dictate who we speak to and what we read XXX, and where cryptoutopians strive to remove human trust from law and finance XXX. It is a world in which we squat on digital property that we do not own XXX, are surveilled in public and in private, and connect our bodies to the cloud XXX, sometimes without our knowledge. Connie's future, a future of domination by and through machines, may already be upon us.
-
-*************** TODO insert citations for above claims about how the present is dominated ina new way by machines
-*************** END
-
-# intro-like stuff (not needed)
-:notes:
-# adaptive technology of prosthetics
-https://www.newamerica.org/weekly/adaptive-technology-prosthetics/ 
-
-
-# There is a precipitous verticality to the structure and language of this machine-dominated present. Benjamin H. Bratton acknowledges this in adopting an inherently vertical term to describe an emerging political geography that "draws on the multilayered structure of software, hardware, and network 'stacks' that arrange different technologies vertically within a modular, interdependent order" citep:bratton_stack:_2016. Verticality, a height that exceeds our reach, also provides a dimension along which to think about whether technology is within our control or whether we are in the control of technology. In /Woman on the Edge of Time/, when Connie first steps into Luciente's future, she envisions a world of dominating, thrusting structures: "[r]ocket ships, skyscrapers into the stratosphere, an underground mole world miles deep." Instead, the structures she does encounter are personal and broadly accessible, horizontal rather than vertical: "[a]rm in arm they strolled toward the meetinghouse, a building long and low like a loaf of bread." We see this distinction, too, in Connie's present. While part of her vision of freedom is "a TV set that she could turn on and off and tune to whatever program she wanted to watch," part of the indignity of the mental hospital is a lack of this kind of control over her environment: "[w]omen ... were sitting vacantly along the walls or staring at the television set placed up on a shelf where no one could reach it to change the station or alter the volume level." For these incarcerated women, technology is situated outside, literally above, their control. In this increasingly present future, technology is not something that we participate in as equals. More and more, it is something that happens to us.
-:end:
-
-*************** TODO insert page number for stack citation
-*************** END
-
-This project, /Negotiated Access/, is about the locus of interaction—the point or edge along which we encounter our environment and exercise our autonomy. Fundamentally, it's an argument that this locus needs to be shifted from the distant, the impersonal, and the complex and placed close to the individual and the small community. This means that technology should be something we make and control, not something that happens to us. It means that social structure and infrastructure should be flexible, fluid, and federated, not one size fits all. It means, to put it less abstractly, that the television needs to come down from the damn shelf.
-
-*************** TODO summarize chapters?
-*************** end
 
 ** Retaking Technology
 
