@@ -2503,17 +2503,25 @@ This thesis—that an organism, or inorganism, can emerge from a concert of meat
 #+END_QUOTE
 Haraway's complication of the boundary between organic and inorganic aligns with Butler's critique of these distinctions: "" Who can draw the line? ... Is not everything interwoven with everything? Is not machinery linked with animal life in an infinite variety of ways? The shell of a hen’s egg ... is pure pottery." For Haraway, as for Butler, the breakdown of categories such as human and animal or organic and machine presages the emergence of a threatening new order. In Butler's case, this is machine supersession—that is, not our literal replacement by machines, but our incorporation into superstructures of human and machine, yoked to their conflicts and goals and thus subordinate in intent, meaning, and purpose. For Haraway, this meant the emergence of a new dynamic Haraway calls an "infomatics of domination." or an "integration/exploitation into a world system of production/reproduction and communication" [[citep:haraway_manifestly_2016][p. 32]].
 
-Fundamentally, the contention here is that, in the absence of comfortable but porous categories such as organic and inorganic or conscious and unconscious, agency can be productively ascribed to a much wider variety of entities, systems, and phenomena. In an argument that biologists should not hesitate to ascribe intention to entities such as cells, organs, or jellyfish, Michael Levin and Daniel C Dennett make the case that cells are simultaneously individually agentic and part of a larger superstructure:
+The larger point here is that, fundamentally, in the absence of comfortable but porous categories such as organic and inorganic or conscious and unconscious, agency can be productively ascribed to a much wider variety of entities, systems, and phenomena. In an argument that biologists should not hesitate to ascribe intention to entities such as cells, organs, or jellyfish, Michael Levin and Daniel C Dennett make the case that cells are simultaneously individually agentic and part of a larger superstructure:
 
 
 #+BEGIN_QUOTE
 ... individual cells are not just building blocks, like the basic parts of a ratchet or pump; they have extra competences that turn them into (unthinking) agents that, thanks to information they have on board, can assist in their own assembly into larger structures, and in other large-scale projects that they needn’t understand. citep:levin_cognition_2020
 #+END_QUOTE
+Cells have agency, in the clear sense that they have goals and the ability to act on those goals, often in sophisticated ways that require altered responses in reaction to changing circumstances. Thinking of them as agents, as possessed of intent and cognition, is not a fallacy of anthropomorphism, but a rejection of anthropocentrism. Further, considering systems such as cells to be agentic, to have goals and thus intent, is not simply a useful metaphor, but represents a better understanding. Levin and Dennett attempt to articulate this: "Now, we agree that attributing purpose to objects profligately is a mistake; Isaac Newton’s laws are great for predicting the path of a ball placed at the top of a hill, but they’re useless for understanding what a mouse at the top of a hill will do. So, the other way to make a mistake is to fail to attribute goal-directedness to a system that has it ... We reject a simplistic essentialism where humans have ‘real’ goals, and everything else has only metaphorical ‘as if’ goals" citep:levin_cognition_2020. The key insight here, perhaps, is not that we should exalt cells, or viruses, or any other entity or system that demonstrates agency. Rather, it is that we should step away from our own exaltation of ourselves as humans. By defetishizing our own unique consciousness and cognition, by ceasing to apply ourselves as a universal yardstick to every bug, cell, and blade of grass, we can better understand that we are not everybody, that there is thought, intent, and feeling that does not arise from, or depend on, the human mind.
+
+** The Abstraction
+
+The implications of this insight should disturb us, and not because humanity has an ingrained need to see itself as separate, special, and superior. Rather, it is in extrapolating this insight from smaller agentic systems—cells, mice, mitochondria, swarms, viruses—to larger ones, and specifically ones that may incorporate us. In some ways, ascribing agency in this direction is more intuitive. We are comfortable recognizing agency in organizations at many scales, from committees and corporations to nations and peoples, as long as humanity is considered the most important constituent. However, we tend not to ascribe agency to large systems in which the role of humanity is more peripheral.
+
+Serious thought has gone into 
 
 
 
 
 
+more to larger
 
 
 
