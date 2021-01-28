@@ -2416,7 +2416,7 @@ This concept, techne, may help us to reframe our discourse around technology and
 
 When we think of tech, we think of paradigms situated on the level of macro-scale entities and institutions—societies, nations, and corporations. This form of "technology" reaches, from on high, down into our lives. It offers us capabilities and connections, identity and convenience. It leverages iterative design, social science, and algorithm to nudge, rather than compel, recalcitrant humanity into engaging systems that control, flatten, and measure. We are grist in a highly abstract mill, our thoughts content, our relationships network effects, our differences market segments and our common humanity an exploited vulnerability. Tech empowers, but only to the extent that we further render ourselves powerless. [fn:fish]
 
-[fn:fish] Teach one to fish, and one will never be hungry. Build a billion-dollor fishing platform, and one will subsist on fish sticks while wondering what the chewy stuff is made from.
+[fn:fish] Teach one to fish, and one will never be hungry. Sign up for a billion-dollor fishing platform, and one will subsist on fish sticks while wondering what the chewy stuff is made from.
 
 
 # !!! END FOOTNOTE
@@ -2446,14 +2446,14 @@ Tech has been the primary beneficiary of a confusion between scientific technolo
 
 When most conceive of technology, the knowledge of doing, they think of scientific technology or, more recently, tech. However, people have been doing, and knowing how to do, long before scientific technology, and certainly long before tech. If scientific technology and tech are contenders for the cultural space occupied by technology, we should also consider techne, a modern craft of doing grounded in local understanding, as a potential contestant. Tech, fundamentally, functions to abstract people—users—from the world, forcing interactions through a platform. Tech creates distance and attenuation, a world viewed through an abstract filter in which our goals must first intersect the goals of the platform and those who control it. Not all ways of doing abstract in this way, however, and in fact most knowledge forges a stronger connection between us and the world. If I order coffee from Amazon, I am abstracted. If I make tea from a northern spice bush near my apartment, I am grounded. If I create a website on Squarespace, I give up control. If I serve some HTML files I wrote myself, I gain understanding. If we open Venmo, we view our community distantly. If we organize a susu [fn:susu], we connect with our community closely. If my university pays for Blackboard, Blackboard sits between me and my students. If we develop an alternative locally, we are bound together in our values.
 
-[fn:susu] A susu is an informal savings club where participants pay in a set amount each month, and each month one member is given the collected proceeds. The term (and the concept) originated in West Africa and the Caribbean. Essentially,a susu is a cool savings hack based around not letting down your community.
+[fn:susu] A susu is an informal savings club where participants pay in a set amount each month, and each month one member is given the collected proceeds. The term (and the concept) originated in West Africa and the Caribbean.
 
 
 # END FOOTENOTE !!!
 
 It is tempting to think of techne entirely as only a reconnection with the traditional, a rejection of inimical circumstances through a return to the past. To limit techne in this way, however, is to cede the future. Techne is the artist remixing traditional music on a Pocket Operator, the college student putting up her own website to sell homemade soap, the third-world hacker making a hearing aid from obsolete parts. These acts do an end run around extractative abstraction, drawing  a line to the world that does not run through some grasping platform. Techne is technology of the local over the universal, autonomy over imposition, and continuity over disruption. Techne tends to create more than it extracts, to be gnarly rather than slick, to prefer the long game to the fast exit. Techne can be kind of janky—what humanity is there in perfection?
 
-Techne and abstraction are not entirely incompatible. Technology that empowers others, that respects real difference, that encourages growth, or that cedes control to others can be techne, and can respect and encourage techne. Raspberry Pi, the $35 credit-card sized minicomputer, is, in a sense, a platform. However, the Pi, and the foundation that produces it, cede control: the device can be used for anything a small computer can be used for. In its mild jankiness, the Pi encourages real learning and growth. [fn:growth]. In its lack of expense, the Pi makes possible projects and pedagogy that would otherwise be out of reach. In these qualities, The Pi, as a platform, builds, rather than exploits, community, and creates oxygen rather than sucking it from the room. There is nothing perfect about the Pi, but in its imperfection it is thing of techne, and far from the slick affordances of tech.
+Techne and abstraction are not entirely incompatible. Technology that empowers others, that respects real difference, that encourages growth, or that cedes control to others can be techne, and can respect and encourage techne. Raspberry Pi, the $35 credit-card sized minicomputer, is, in a sense, a platform. However, the Pi, and the foundation that produces it, cede control: the device can be used for anything a small computer can be used for. In its mild jankiness, the Pi encourages real learning and growth. [fn:growth]. In its lack of expense, the Pi makes possible projects and pedagogy that would otherwise be out of reach. In these qualities, The Pi, as a platform, builds, rather than exploits, community, and creates oxygen rather than sucking it from the room. There is nothing perfect about the Pi, but in its imperfection it is a thing of techne, and far from the slick affordances of tech.
 
 [fn:growth] The learning comes as users try to answer questions, such as "What are all these little holes" "Is this thing on?" And "Which part is most likely to draw blood if I poke it the wrong way?" Learning can be painful. Really, though, the Pi is an amazing device, and I'm glad it exists, as both a machine and a community.
 
@@ -2515,14 +2515,46 @@ Cells have agency, in the clear sense that they have goals and the ability to ac
 
 The implications of this insight should disturb us, and not because humanity has an ingrained need to see itself as separate, special, and superior. Rather, it is in extrapolating this insight from smaller agentic systems—cells, mice, mitochondria, swarms, viruses—to larger ones, and specifically ones that may incorporate us. In some ways, ascribing agency in this direction is more intuitive. We are comfortable recognizing agency in organizations at many scales, from committees and corporations to nations and peoples, as long as humanity is considered the most important constituent. However, we tend not to ascribe agency to large systems in which the role of humanity is more peripheral.
 
-Serious thought has gone into 
+Serious thought has gone into theorizing the nature of large, goal-directed systems and entities of which humanity is only one component. In addition, a wide variety of scholars and commentators have identified trends, phenomena, patterns, or entities that influence, envelop, or incorporate an unwilling humanity. While I will engage with a variety of theories about the nature of these systems and the disparate phenomena that support them, this treatment will not, and cannot, be comprehensive. Indeed, if there is a single notable feature of systems, phenomena, or entities at this level of abstraction, it is that they are incomprehensible, and beyond any unified or systematic understanding at the level of the individual. In this section, and for the remainder of this project, I will refer to this enclosing entity, the system at its broadest level of encirclement, as "the abstraction." This term is used partly to gesture to the inescapable reality that, while we can theorize such a system through study of its Nth-order effects [fn:nth], differences in scale, cognition, and goals render direct analysis difficult and discussion or dissemination of information a matter of practical impossibility. This theorized entity, the abstraction, poses the final challenge for negotiation: how do we contend with an encircling system so complex as to be incomprehensible? Further, how can we narrativize our resistance to an entity so vast as to resist depiction? 
+
+[fn:nth] That is, the second-, third-, and fourth-level effects, and so on.
+
+
+# END FOOTENOTE !!!
+
+In a sense, the abstraction is the logical extension of, and mirror to, /das Man/, that universalizing identity that effaces difference by offering a broad and easily understood ideal. /Das Man/ is a story that sticks in the mind, a transmissible meme, an abstraction that stops at a point that is convenient  in its narrative commensurability. The abstraction—the Abstraction—encircles more, claims more, than does /das Man/, and in doing so lurks outside our understanding. If /das Man/ is powerful—and dangerous, and limiting—by reducing to the level of the comprehensible, the power of the abstraction  lies in an irreducible and inaccessible complexity. In this, it resembles the policy too convoluted, technical, or boring for the public to care about, but which has enormous downstream effects. [fn:boring-taxes].
+
+If the Abstraction is the largest self-directed process or entity that encloses all humanity, and if this enclosing entity is, almost by definition, too vast, entangled, or alien to be individually comprehended, an obvious question presents itself. [fn:two-questions] How can we narrativize, or even productively discuss, something that exceeds the bounds of comprehension, and resists useful forms of description? Here, one might appeal to feeling and intuition. That, perhaps, in fits and starts, in pockets and at the margins, in think pieces, in books, and at the dinner table, we grow aware that some totalizing force, some presence or trend or trend of trends, works against humanity. That scholars have described, in both sweeping visions and exhaustive detail, phenomena in which humankind is an unwilling participant, or of which it is a component, input, or symbiote. [fn:manifestations] That these describable and (relatively) verifiable processes are overlapping and interlinked, and that the whole is, at minimum, the sum of the parts. That our backs are a little more bent, and Moloch a touch closer to heaven.
+
+[fn:two-questions] Well, two questions, the other being, "What do we do about it?" We'll end this chapter, and the project, on that note.
+
+
+# !!! END FOOTENOTE
+
+[fn:manifestations] Many have attempted to place their finger on this force, this process or entity. For Hardt and Negri, it was /Empire/. For Benjamin H. Bratton, it is /The Stack/. For Herbert Marcuse, it was the one-dimensional or technological society [[citep:marcuse_one-dimensional_2002][p. 50]]. For Neil Postman, it was /technopoly/. My own colleague at the Graduate Center, Erin Glass, has described it, in the context of the academy, as the /invisible discipline/. XXX Though those who attempt to identify and define it each have a different sense of its shape, its scale, and its ends, there is a general sense that it is technocratic and technological—that is, comprising within itself systems of both humans and machines. There is also a sense that it is impersonal and encompassing—international or global in scope. (add megatechnics)
+
+
+# !!!!! END FOOTNOTE
+
+But this would be a retreat from the task. As Hobbes observes in, perhaps appropriately, /Leviathan/: "Fear of things invisible is the natural seed of that which every one ... calleth religion." And, fortunately, scholars in a wide variety of disciplines have engaged with humanity's situation in larger processes, whether geological, biological, or artificial. One such framework, frequently misunderstood, is the Gaia paradigm, originally put forth by environmentalist, scientist, and engineer James Lovelock. A powerful summary of this hypothesis is presented by Bruno Latour:
+
+#+BEGIN_QUOTE
+At first glance there is nothing simpler than the Gaia hypothesis: living things do not reside in an environment, they fashion it. What we call the environment is the result of living things’ extensions; their successful inventions and apprenticeships. This is not proof that the Earth is “living,” but rather that everything we experience on Earth is the unforeseen, secondary, and involuntary effect of the action of living organisms. ... The first Gaia idea came about with the following line of reasoning: “If today’s humans, via their industries, can spread chemical products over the Earth that I can detect with my instruments, then it is certainly possible that all terrestrial biochemistry could also be the product of living beings. If humans can so radically modify their environment in so little time, then other beings could have done it as well over hundreds of millions of years.” Earth is well and truly an artificially conceived kind of technosphere for which living things are engineers as blind as termites. citep:latour_bruno_2018
+#+END_QUOTE
+
+# We see it in termite mounds and beaver dams, which are not living in themselves, but without living organisms there would be no mounds or dams. So, the Gaia idea does not involve adding a soul to the terrestrial globe, or intentionality to living things, but it does recognize the prodigious ingenuity in the way living things fashion their own worlds.
+
+# https://lareviewofbooks.org/article/bruno-latour-tracks-down-gaia/
+
+
+# It is the infrastructural gap that is not recognized as a gap, due to a gap in our infrastructure for understanding infrastructural gaps. It is the algorithm that is not understood by any single engineer that wrote it, or the manager that told them to write it, or the shareholder that owns the corporation that employs the manager, but which decides the post that will surface in my feed as I drink my morning coffee. 
 
 
 
+[fn:boring-taxes] An example issue that, in its technical nature, is difficult to discuss in the public sphere, and yet has dramatic downstream effects on society, is the link in the United States between property taxes and school funding. The decision to have public schools funded by local property taxes leads to underfunded schools in low income areas, which in turn contributes to increased segregation and wealth and income inequality. The separation of the policy decision from its effects makes the connection apparent only, or at least primarily, to those with the greatest interest in its propagation. Another example might be proposals of a wealth tax compared to (mostly nonexistent) proposals for higher capital gains. A wealth tax is comprehensible to the public, and yet is less fearsome to the wealthy—money is largely only visible as it moves, and countries that have implemented a wealth tax have seen widespread evasion. When the public hears the term "capital gains," it begins to nod off. Despite the fact that implementing a progressive capital gains tax would cause the wealthy to sweat, its, for lack of a better word, boringness makes it a non-starter as a point around which to rally. 
 
 
-more to larger
-
+# !!!! END FOOTNOTE
 
 
 # Erewhon edition
@@ -2554,7 +2586,14 @@ more to larger
 
 -----
 
-We, like Connie, live at a crux, poised between two futures. Increasingly, in fits and starts, in pockets and at the margins, in think pieces, in books, and at the dinner table, we grow aware that some totalizing force, some presence or trend or trend of trends, works against humanity. Many have attempted to place their finger on this force, this process or entity. For Hardt and Negri, it was /Empire/. For Benjamin H. Bratton, it is /The Stack/. For Herbert Marcuse, it was the one-dimensional or technological society [[citep:marcuse_one-dimensional_2002][p. 50]]. For Neil Postman, it was /technopoly/. My own colleague at the Graduate Center, Erin Glass, has described it, in the context of the academy, as the /invisible discipline/. XXX Though those who attempt to identify and define it each have a different sense of its shape, its scale, and its ends, there is a general sense that it is technocratic and technological—that is, comprising within itself systems of both humans and machines. There is also a sense that it is impersonal and encompassing—international or global in scope. In this project, I'll call this thing—this presence or process or entity—the /unhuman/. In using negation to identify it, I invoke humanity, a concept both elevated and workaday and also acknowledge that I am incapable of precisely, or even imprecisely, defining it.
+We, like Connie, live at a crux, poised between two futures.
+
+
+
+
+
+
+ Many have attempted to place their finger on this force, this process or entity. For Hardt and Negri, it was /Empire/. For Benjamin H. Bratton, it is /The Stack/. For Herbert Marcuse, it was the one-dimensional or technological society [[citep:marcuse_one-dimensional_2002][p. 50]]. For Neil Postman, it was /technopoly/. My own colleague at the Graduate Center, Erin Glass, has described it, in the context of the academy, as the /invisible discipline/. XXX Though those who attempt to identify and define it each have a different sense of its shape, its scale, and its ends, there is a general sense that it is technocratic and technological—that is, comprising within itself systems of both humans and machines. There is also a sense that it is impersonal and encompassing—international or global in scope. In this project, I'll call this thing—this presence or process or entity—the /unhuman/. In using negation to identify it, I invoke humanity, a concept both elevated and workaday and also acknowledge that I am incapable of precisely, or even imprecisely, defining it.
 
 # borg complex: https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/
 # add moloch
