@@ -2553,13 +2553,36 @@ Energy usage provides some sense of the size and scope of these new forms of hum
 
 
 # !!!! END FOOTNOTE
-Gaia, as a theory, was founded on insights from chemistry and engineering, and focuses on feedback between organisms and the biosphere we have collectively constructed. While it is not unreasonable to interpret Gaia as incorporating all human activity, and including our cognitive and computational processes, the theory, reasonably, focuses on our not insignificant chemical exhaust, considering these activities as an extension of industry. While Gaia, as a model of the biosphere, covers these processes, what if we were to more explicitly consider the infosphere, along with the biosphere, as part of Gaia? Alternatively, and reflecting on the rapid changes in the centrality, consolidation, and scale of the infosphere, what if we were to apply the basic framework of Gaia to our memetic ecology. 
+Gaia, as a theory, was founded on insights from chemistry and engineering, and focuses on feedback between organisms and the biosphere we have collectively constructed. While it is not unreasonable to interpret Gaia as incorporating all human activity, and including our cognitive and computational processes, the theory, reasonably, focuses on our not insignificant chemical exhaust, considering these activities as an extension of industry. While Gaia, as a model of the biosphere, covers these processes, what if we were to more explicitly consider the infosphere, along with the biosphere, as part of Gaia? Alternatively, and reflecting on the rapid changes in the centrality, consolidation, and scale of the infosphere, what if we were to apply the basic framework of Gaia to our memetic ecology?
 
-Let us call this Gaia, for the moment, Agaia, a refocusing of Gaia that is alternative, accelerated, and abstractitive [fn:come-on] [fn:gaia-name].
+Let us call this Gaia, for the moment, Agaia, a refocusing of Gaia that is alternative, accelerated, and abstractitive [fn:abstractative] [fn:gaia-name]. Gaia, in considering the Earth as an environment that is, in a real sense, constructed by organissms, suggests the fragility of that environment—that is, life can and does affect the biosphere. In the same way, memetic units, ideas [fn:inforgs], can directly affect the composition of the infosphere.
+
+[fn:inforgs] Luciano Floridi coined the term "inforgs" to describe memetic agents, but come on. The concept, however, is a useful one.  XXX
+
+
+# !!!! END FOOTNOTE
+
+
+affect the 
+
+the infosphere
 
 
 
-[fn:come-on] It extracts through abstraction. Run with me on this.
+
+
+
+
+
+
+difficulty of predictability
+a loss of a shared vision for the future
+rapid emergence of novel memoplexes
+
+
+
+
+[fn:abstractative] It extracts through abstraction. Run with me on this.
 
 
 # !!! END FOOTNOTE
@@ -2572,19 +2595,7 @@ It seems appropriate to describe an Agaia focused on an infosphere that is, in m
 # !!!! END FOOTNOTE
 
 
-
-
-
-
-
-
-
-
 We have lost the ability to live our lives in a story-rich environment
-
-difficulty of predictability
-a loss of a shared vision for the future
-rapid emergence of novel memoplexes
 
 
 
