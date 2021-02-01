@@ -2545,17 +2545,28 @@ Fundamentally, the Gaia hypothesis provides a template for an understanding of E
 
 The implications of Gaia are many. First, that the Earth in its current form is not semi-permanent as historically conceived, but relatively fragile and influenced by changes in the behavior of organisms, as we have discovered in the age we now sometimes call the Anthropocene. Second, that entities or environments of which we are a part can be usefully conceived of as processes, subject to positive or negative feedback loops—that is, the environment can amplify or  resist change, depending on the nature of the environment and the nature of the change. In other words, the environment is not passive in its construction by organisms—as we build something, something builds back. Finally, Gaia suggests that some conception of very large systems can be useful for understanding some local circumstances. While this is no guarantee that conceiving of the Abstraction, or the largest self-directed process of which humanity is a part, will lead to insight about local circumstances, it at least provides a model from which to work.
 
-Gaia, the scientific theory, already encompasses the chemical exaust of humanity and our structures and machines—Lovelock, an inventor of high-precision instruments, originally formulated the theory by observing previously undetectable gas emanations from industry. In 1965, however, machines were not the stratum for cognition that they are in the third decade of the twenty-first century. If industry was, on Lovelock's electron capture detector, a factor in the composition of the planetary biosphere in 1965, cognition and computation affect the biosphere in ways that can be seen with the naked eye. To provide one, credulity-straining, example: a single paper of nine pages in length citep:nakamoto_bitcoin:_2008 has led to computation consuming about 1% of all power usage on the planet citep:bradbury_power_2020, a figure that, when compared to the power usage of nations, stands somewhere between the power use of Pakistan and the Netherlands. Another example, likely showing the beginning stages of a new trend, is the creation of machine learning model GPT3, trained on 199 billion tokens (a unit of data corresponding to approximately one word or semantically equivalent symbol) as inputs. According to a technical analysis of the training process by Lambda Labs, the "GPT-3 175B model required 3.14E23 FLOPS of computing for training. Even at theoretical 28 TFLOPS for V100 and lowest 3 year reserved cloud pricing, ... this will take 355 GPU-years and cost $4.6M for a single training run" . GPT3, widely considered a success due to its almost uncanny ability to perform well on tasks for which it has not explicitly been trained, validated the theory that a massive quantitative increase in inputs to a machine learning model could result in a qualitative difference in performance on tasks. Following this success, there is likely to be a boom in corporate and state investment in the training of massive models, and it is difficult to predict the scale of computation that might be undertaken in the coming decades.
+Gaia, the scientific theory, already encompasses the chemical exaust of humanity and our structures and machines—Lovelock, an inventor of high-precision instruments, originally formulated the theory by observing previously undetectable gas emanations from industry. In 1965, however, machines were not the stratum for cognition that they are in the third decade of the twenty-first century. If industry was, on Lovelock's electron capture detector, a factor in the composition of the planetary biosphere in 1965, cognition and computation affect the biosphere in ways that can be seen with the naked eye. To provide one, credulity-straining, example: a single paper of nine pages in length citep:nakamoto_bitcoin:_2008 has led to computation consuming about 1% of all power usage on the planet citep:bradbury_power_2020, a figure that, when compared to the power usage of nations, stands somewhere between the power use of Pakistan and the Netherlands. Another example, likely showing the beginning stages of a new trend, is the creation of machine learning model GPT3, trained on 199 billion tokens (a unit of data corresponding to approximately one word or semantically equivalent symbol) as inputs. According to a technical analysis of the training process by Lambda Labs, the "GPT-3 175B model required 3.14E23 FLOPS of computing for training. Even at theoretical 28 TFLOPS for V100 and lowest 3 year reserved cloud pricing, ... this will take 355 GPU-years and cost $4.6M for a single training run" citep:li_openais_2020. GPT3, widely considered a success due to its almost uncanny ability to perform well on tasks for which it has not explicitly been trained, validated the theory that a massive quantitative increase in inputs to a machine learning model could result in a qualitative difference in performance on tasks. Following this success, there is likely to be a boom in corporate and state investment in the training of massive models, and it is difficult to predict the scale of computation that might be undertaken in the coming decades.
 
-Power usage provides some sense of the size and scope of these new forms of human activity, and is also suggestive of the kinds of impact on the biosphere, due to release of gasses such as CO2, that are well described in the Gaia hypothesis and which inspired its articulation. However, they will not, perhaps, be in themselves the most significant consequences of the emerging global character of human computationally-enabled cognition. [fn:could-be] As computation, and computationally-enabled communication and cognition, become a, or the, central activity of humanity, and as
+Energy usage provides some sense of the size and scope of these new forms of human activity, and is also suggestive of the kinds of impact on the biosphere, due to release of gasses such as CO2, that are well described in the Gaia hypothesis and which inspired its articulation. However, they will not, perhaps, be in themselves the most significant consequences of the emerging global character of human computationally-enabled cognition. [fn:could-be] As computation, and computationally-enabled communication and cognition, become a, or the, central activity of humanity, as the infosphere increasingly influences and parasitizes the biosphere, as the global imposes on the local, we may find that the environment we are building develops emergent properties that are different and surprising.
 
-
-difficulty of predictability
-a loss of a shared vision for the future
-rapid emergence of novel memoplexes
+[fn:could-be] Though they could be. The larger purpose of outlining these trends is to show the difficulty of negotiation in contexts where the global imposes on the local, and the ensuing loss of agency and narrative for individuals and small (or even large) groups. In this context, anything goes. Climate change is a tragic and monstrous process, and has already wrought damage to the biosphere that is painful to contemplate. It could, potentially, be the last and biggest challenge for humanity. Yet there are other dangers here, more difficult to collectively oppose or even discuss given that their nature resists narrative.
 
 
-[fn:could-be] Though they could be. The larger purpose of outlining these trends is to show the difficulty of negotiation in contexts where the global imposes on the local, and the ensuing loss of agency and narrative for individuals and small (or even large) groups. In this context, anything goes. Climate change is a tragic and monstrous process, and has already wrought damage to the biosphere that is painful to contemplate. It could, potentially, be the last and biggest challenge for humanity. Yet there are other dangers here, more difficult to collectively oppose given that their nature resists narrative.
+# !!!! END FOOTNOTE
+Gaia, as a theory, was founded on insights from chemistry and engineering, and focuses on feedback between organisms and the biosphere we have collectively constructed. While it is not unreasonable to interpret Gaia as incorporating all human activity, and including our cognitive and computational processes, the theory, reasonably, focuses on our not insignificant chemical exhaust, considering these activities as an extension of industry. While Gaia, as a model of the biosphere, covers these processes, what if we were to more explicitly consider the infosphere, along with the biosphere, as part of Gaia? Alternatively, and reflecting on the rapid changes in the centrality, consolidation, and scale of the infosphere, what if we were to apply the basic framework of Gaia to our memetic ecology. 
+
+Let us call this Gaia, for the moment, Agaia, a refocusing of Gaia that is alternative, accelerated, and abstractitive [fn:come-on] [fn:gaia-name].
+
+
+
+[fn:come-on] It extracts through abstraction. Run with me on this.
+
+
+# !!! END FOOTNOTE
+
+[fn:gaia-name] Obviously, using the term Agaia is most suggestive of a model that is anti-Gaia. I think this is appropriate, especially given the history and valences of the name Gaia as used in the Gaia hypothesis. There is a bit of an odd relationship between the model presented in the theory and the name Lovelock used to label it. On initial inspection, "Gaia" is appropriate enough to identify the theory, given that it is a hypothesis about the whole Earth. However, to the layperson, the term strongly evokes the idea that the Earth is not merely a (somewhat) unified and constructed environment, but that it is, itself, a life. The first symposium on Gaia as a hypothesis was entitled "Is the Earth a Living Organism?" Even within the scientific community, there was controversy centered on the imprecise articulation of the theory. Biogeochemist James Kirchner criticized the theory as actually proposing multiple hypotheses ranging from the self-evident to the "highly speculative" citep:kirchner_gaia_1989. Many of the discussions around Gaia centered around movement between a weak version of the Gaia theory, which was limited in its articulation and fairly uncontroversial, and a strong version, in which the Earth is a teleological system, meaning that it, to some greater or lesser extent, works toward the maintenance of life on the planet. The highly metaphorical naming of the Gaia theory likely contributed to its broader dissemination, and even today it is frequently mischaracterized or overstated by those who have a more transcendent view of the Earth as a living entity.
+
+It seems appropriate to describe an Agaia focused on an infosphere that is, in many ways, antithetical to the biosphere, even if my main articulation of the concept isn't centered on this antithesis. This feels symmetrical to the relationship between Gaia as theory and Gaia as metaphor.
 
 
 # !!!! END FOOTNOTE
@@ -2565,13 +2576,23 @@ rapid emergence of novel memoplexes
 
 
 
+
+
+
+
+We have lost the ability to live our lives in a story-rich environment
+
+difficulty of predictability
+a loss of a shared vision for the future
+rapid emergence of novel memoplexes
+
+
+
+what did we lose when we lost the stars
+
+the one universal obscures the many
+
 there is a sense in which the abstraction moves as one
-
-
-
-
-
-
 
 atoms to bits
 
