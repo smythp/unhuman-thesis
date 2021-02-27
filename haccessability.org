@@ -2576,7 +2576,7 @@ Agaia, then, as a view of specific processes within the global infosphere, is ch
 
 # !!!! END FOOTENOTE
 
-** Story Death
+# ** Story Death
 
 So far, we have considered a few potential approaches to the Abstraction, the universal at the greatest potential remove from the local, or the most remote enclosure or system within which we are contained. The first approach, admittedly something of a cheat, appealed to instinct, the suspicion that some force impedes or resists the better efforts of humanity along many critical dimensions. The second aggregated the diagnoses of major maladies and dysfunctions at the juncture of culture and technology and suggested that these phenomena must necessarily be interconnected. The third offered the dark reflection of an ecological theory and metaphor, Gaia, extrapolated to the modern infosphere and outlining the possibility of an environment, constructed by organisms, that is in some sense self-regulating or otherwise agentic. [fn:teleology]
 
@@ -2587,39 +2587,32 @@ So far, we have considered a few potential approaches to the Abstraction, the un
 
 We have had to approach the Abstraction indirectly, rather than simply pointing to it. The Abstraction is, almost by definition, inaccessible to direct analysis, at least by some one individual. We have our suspicions as to its nature—complex, interconnected, a hybrid of organic life and machine, and potentially inimical to the values of some or many of the entities it encloses. Due to its scale and complexity, there is an odd disconnection between the entity or metaprocess of the Abstraction and its effects as felt in the local. Conceptually, intellectually, we can only grasp so much, and our own personal abstractions can only reach so high. We might digest some of the complexities of a specific state, or of geopolitics, or of transistor technology, or of the local economics affecting a stone quarry, or of the migratory patterns of Monarch butterflies, or of the biology of a species of moss. We might also grasp how some of these individual complexities overlap and interconnect. At some point, however, and likely sooner rather than later, understanding fails. Processes, or a collective metaprocess, that operate beyond this threshold resist comprehension. Further, even if this veil can be pierced to some extent, any insights may prove largely incommunicable.
 
+To put this more baldly, the Abstraction kills story. To qualify this slightly, it kills /useful/ story, narrative around which coalitions can be built or through which specific challenges can be identified and addressed. This does not mean that narrative cannot or will not continue to be situationally useful. There will continue to be demagogues and idealists, foxes and hedgehogs [fn:berlin], wonks and saints. The narratives wielded by these individuals, and the groups they support and represent, will still work for weal or for woe, and will address, well or poorly, issues present in the world. Narrative will continue to be the sea of ideas in which we bathe. However, a space, large an increasing in size, exists outside the reach of our collective narrative capability. The introduction of mechanism, most notably computation, to many or most social dynamics, and the interconnected and global nature of a wide variety of systems, mean that affected individuals, and the public, can only dimly apprehend the inimical processes of which they—we—are both victim and component. We cannot fight without a cause, or strive without story. And our stories fail against the complexity of the Abstraction.
+
+Within this environment, our comforting and familiar narratives may be true, but they are not sufficient.
+
+
+
+
+[fn:berlin] As per Isaiah Berlin's /The Hedgehog and the Fox/. "The fox knows many things, but the hedgehog knows one big thing."
+
+
+# !!! END FOOTENOTE
+
+
+
+we have the bric a brac of previous stories
+
+
 Even given its potentially inimical nature, the most dangerous aspect of the Abstraction may be this resistance to comprehension and narrativization.
-
-
-
 
 # We have associated some specific conditions with the Abstraction, some of which we have considered at length in previous chapters. THe nature of the global infosphere 
 
-
-
-
-
 # There is a sense in which it does not matter, for purposes of negotiation, whether the Abstraction as presented—agentic, fully interconnected, antithetical—is a literal reality. For societies, cultures, and biomes, especially considered over longer time frames, it does, of course, matter whether there is an entity resembling the Abstraction, as does the specific nature of such an entity. 
-
-
-
-
-
-
-
-However, regardless of the specific nature
-
 
  we, as individuals and affinity groups, face
 
-
-
-
 The process is above the fold, and the consequences are below it.
-
-
-
-
-
 
 There may, in a literal meaning, be an Abstraction in the sense laid out here. However, when we consider the potential of this larger, enclosing system from the perspective of negotiation, we find that the problem of the Abstraction 
 
