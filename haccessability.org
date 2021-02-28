@@ -2589,38 +2589,86 @@ We have had to approach the Abstraction indirectly, rather than simply pointing 
 
 To put this more baldly, the Abstraction kills story. To qualify this slightly, it kills /useful/ story, narrative around which coalitions can be built or through which specific challenges can be identified and addressed. This does not mean that narrative cannot or will not continue to be situationally useful. There will continue to be demagogues and idealists, foxes and hedgehogs [fn:berlin], wonks and saints. The narratives wielded by these individuals, and the groups they support and represent, will still work for weal or for woe, and will address, well or poorly, issues present in the world. Narrative will continue to be the sea of ideas in which we bathe. However, a space, large an increasing in size, exists outside the reach of our collective narrative capability. The introduction of mechanism, most notably computation, to many or most social dynamics, and the interconnected and global nature of a wide variety of systems, mean that affected individuals, and the public, can only dimly apprehend the inimical processes of which they—we—are both victim and component. We cannot fight without a cause, or strive without story. And our stories fail against the complexity of the Abstraction.
 
-Within this environment, our comforting and familiar narratives may be true, but they are not sufficient.
-
-
-
-
 [fn:berlin] As per Isaiah Berlin's /The Hedgehog and the Fox/. "The fox knows many things, but the hedgehog knows one big thing."
+
+
+# !!! END FOOTNOTE
+
+# leftovers
+:notes:
+# The process seems meaningless or lacks a through-line because we, the ones asking for the metanarrative, are not the ones driving the larger change
+
+# we have the bric a brac of previous stories
+
+# Even given its potentially inimical nature, the most dangerous aspect of the Abstraction may be this resistance to comprehension and narrativization.
+
+# We have associated some specific conditions with the Abstraction, some of which we have considered at length in previous chapters. THe nature of the global infosphere 
+
+# The process is above the fold, and the consequences are below it.
+:end:
+
+
+** Reaching Forward
+
+At the conclusion of /Woman on the Edge of Time/, Connie, backed into a corner, faces a dark and damning choice. In the institution in which she is incarcerated, Connie becomes the subject of an experiment, and is implanted with a device designed to make her more docile, a better fit for society's expectations. After this operation, her receptivity to potential futures, which has allowed her to touch Luciente's time, directs her to other, more frightening alternatives. Among these are the front lines of a war in which Luciente is a soldier, a war in which per [fn:pers] side is losing ground. Connie senses that the bright future, Luciente's original future, is slipping away due to circumstances in her present, and in particular the development of the controlling technology now implanted in her body. In response, she formulates a dark and consequential resolution. The night before she puts her plan into effect, Connie fights to reconnect with Luciente's bright future for a final conversation.
+
+[fn:pers] Luciente's future uses the gender-neutral pronoun "pers."
 
 
 # !!! END FOOTENOTE
 
+#+BEGIN_QUOTE
+“I blather.” Luciente drew Connie away. “Such hardness in your mind tonight makes me babble more than usual. I fear for you.” ... Lazy flakes drifted onto the arm of the borrowed jacket. "Luciente, do you think it’s always wrong to kill?" ... “How can I face something so abstract?”
+#+END_QUOTE
+Connie has been backed into a corner. To defend her mind, to defend the future she has come to love, she contemplates a violation of her own principles, a compromise that will strip her of the little flame that she has carried with her through hardship and that has allowed her to see across centuries. Piercy holds little back in the final paragraphs of the text.
+
+#+BEGIN_QUOTE
+She washed her hands in the bathroom, she washed them again and again. ... I killed them. Because it is war.” Her hands shook like a willow branch used by dowsers in Texas, a willow branch pulled by water deep in the ground. “I’m a dead woman now too. I know it. But I did fight them. I’m not ashamed. I tried.” ... She thought of Luciente, but she could no longer reach over. She could no longer catch. She had annealed her mind and she was not a receptive woman. She had hardened. But she thought of Mattapoisett.
+#+END_QUOTE
+The response elicited by Piercy at the end of this novel is not celebration at a strike against iniquity, but the kind of sickness felt in the stomach at the contemplation of deep wrong. Connie, and we, are not allowed to know whether this terrible act has preserved Luciente's Mattapoisett. Yet in the confrontation of this vast and unknown future, and possibly also in the resistance to oppressive consensus, there is hope.
+
+In "A Ten-Day Voyage," a chapter in R.D. Laing's 1967 /The Politics of Experience/, the author transcribes the account of an individual, a sailor, who breaks with reality, and who, perhaps more rarely, returns.
+
+#+BEGIN_QUOTE
+I wasn’t just living on the – the moving moment, the present, but I was moving and living in a – in another time dimension added to the time situation in which I am now. ... I feel that it was not senseless – although I suppose to others about me I was – er – mad in as much as I was not living in this present time, and if I was not living in this present time I was therefore incapable of coping with it properly. But I had this feeling all the time of – er – moving back – even backwards and forwards in time, that I was not just living in the present moment. And I could much more easily go back than I could go forward because the forward movement was a bit too much for me to take.’
+#+END_QUOTE
+In the ontology encountered during this ten-day experience, we, beings, grow in understanding as we move forward. Though the traveler, unstuck in time, can move forward to encounter or glimpse a greater state of understanding and comprehension, such encounters must be brief. We are not yet enough. "[T]he journey is there and every single one of us has got to go through it, and – um – everything – you can’t dodge it. the purpose of everything and the whole of existence is – er – to equip you to take another step, and another step, and another step, and so on" XXX.
 
 
-we have the bric a brac of previous stories
 
 
-Even given its potentially inimical nature, the most dangerous aspect of the Abstraction may be this resistance to comprehension and narrativization.
 
-# We have associated some specific conditions with the Abstraction, some of which we have considered at length in previous chapters. THe nature of the global infosphere 
 
-# There is a sense in which it does not matter, for purposes of negotiation, whether the Abstraction as presented—agentic, fully interconnected, antithetical—is a literal reality. For societies, cultures, and biomes, especially considered over longer time frames, it does, of course, matter whether there is an entity resembling the Abstraction, as does the specific nature of such an entity. 
 
- we, as individuals and affinity groups, face
 
-The process is above the fold, and the consequences are below it.
+
+there is hope.
+
+
+
+
+
+We are not, yet, quite against the wall
+
+
+
+
+
+
+
+
+
+
+
+-----
+
+There is a sense in which it does not matter, for purposes of negotiation, whether the Abstraction as presented—agentic, fully interconnected, antithetical—is a literal reality. For societies, cultures, and biomes, especially considered over longer time frames, it does, of course, matter whether there is an entity resembling the Abstraction, as does the specific nature of such an entity. 
 
 There may, in a literal meaning, be an Abstraction in the sense laid out here. However, when we consider the potential of this larger, enclosing system from the perspective of negotiation, we find that the problem of the Abstraction 
 
 
 
 
-
-The process seems meaningless or lacks a through-line because we, the ones asking for the metanarrative, are not the ones driving the larger change
 
 
 
@@ -3117,8 +3165,6 @@ were more about learning and creativity—open-ended learning and creativity.
 "as if" (interview with lori emerson)
 
 
-** solutions
-
 "This utopian desire fundamentally counters the idea of the built environment as a commodity product. Rather than a singular output, architectural design becomes a sustained"
 
 https://imaginariesofthefuture.files.wordpress.com/2017/11/concreteutopiasintroduction.pdf
@@ -3139,18 +3185,14 @@ http://www.sciencemag.org/news/2016/08/one-five-genetics-papers-contains-errors-
 
 
 
-techne
-
-
 # alan k saying that the problem of access isn't actual
 # access, but that people don't or can't use the access
 # see 15:00
-https://www.youtube.com/watch?v=t2l2t-d3tda
+https://www.youtube.com/watch?v=t2L2t-D3tDA
 
 
 # destruction of fan-made project by copyright
 https://torrentfreak.com/cbs-shuts-down-stage-9-a-fan-made-recreation-of-the-uss-enterprise-180927/
-
 
 # computer bums
 # emacs commune
@@ -3173,7 +3215,6 @@ https://aeon.co/ideas/the-hypersane-are-among-us-if-only-we-are-prepared-to-look
 
 
 # is literature against us?
-
 https://nfb.org/sites/www.nfb.org/files/images/nfb/publications/convent/banque74.htm
 
 
