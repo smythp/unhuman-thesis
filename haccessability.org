@@ -2524,6 +2524,11 @@ Serious thought has gone into theorizing the nature of large, goal-directed syst
 
 In a sense, the abstraction is the logical extension of, and mirror to, /das Man/, that universalizing identity that effaces difference by offering a broad and easily understood ideal. /Das Man/ is a story that sticks in the mind, a transmissible meme, an abstraction that stops at a point that is convenient  in its narrative commensurability. The abstraction—the Abstraction—encircles more, claims more, than does /das Man/, and in doing so lurks outside our understanding. If /das Man/ is powerful—and dangerous, and limiting—by reducing to the level of the comprehensible, the power of the abstraction  lies in an irreducible and inaccessible complexity. In this, it resembles the policy too convoluted, technical, or boring for the public to care about, but which has enormous downstream effects. [fn:boring-taxes].
 
+[fn:boring-taxes] An example issue that, in its technical nature, is difficult to discuss in the public sphere, and yet has dramatic downstream effects on society, is the link in the United States between property taxes and school funding. The decision to have public schools funded by local property taxes leads to underfunded schools in low income areas, which in turn contributes to increased segregation and wealth and income inequality. The separation of the policy decision from its effects makes the connection apparent only, or at least primarily, to those with the greatest interest in its propagation. Another example might be proposals of a wealth tax compared to (mostly nonexistent) proposals for higher capital gains. A wealth tax is comprehensible to the public, and yet is less fearsome to the wealthy—money is largely only visible as it moves, and countries that have implemented a wealth tax have seen widespread evasion. When the public hears the term "capital gains," it begins to nod off. Despite the fact that implementing a progressive capital gains tax would cause the wealthy to sweat, its, for lack of a better word, boringness makes it a non-starter as a point around which to rally. 
+
+
+# !!!! END FOOTNOTE
+
 If the Abstraction is the largest self-directed process or entity that encloses all humanity, and if this enclosing entity is, almost by definition, too vast, entangled, or alien to be individually comprehended, an obvious question presents itself. [fn:two-questions] How can we narrativize, or even productively discuss, something that exceeds the bounds of comprehension, and resists useful forms of description? Here, one might appeal to feeling and intuition. That, perhaps, in fits and starts, in pockets and at the margins, in think pieces, in books, and at the dinner table, we grow aware that some totalizing force, some presence or trend or trend of trends, works against humanity. That scholars have described, in both sweeping visions and exhaustive detail, phenomena in which humankind is an unwilling participant, or of which it is a component, input, or symbiote. [fn:manifestations] That these describable and (relatively) verifiable processes are overlapping and interlinked, and that the whole is, at minimum, the sum of the parts. That our backs are a little more bent, and Moloch a touch closer to heaven.
 
 [fn:two-questions] Well, two questions, the other being, "What do we do about it?" We'll end this chapter, and the project, on that note.
@@ -2556,6 +2561,28 @@ Energy usage provides some sense of the size and scope of these new forms of hum
 Gaia, as a theory, was founded on insights from chemistry and engineering, and focuses on feedback between organisms and the biosphere we have collectively constructed. While it is not unreasonable to interpret Gaia as incorporating all human activity, and including our cognitive and computational processes, the theory, reasonably, focuses on our not insignificant chemical exhaust, considering these activities as an extension of industry. While Gaia, as a model of the biosphere, covers these processes, what if we were to more explicitly consider the infosphere, along with the biosphere, as part of Gaia? Alternatively, and reflecting on the rapid changes in the centrality, consolidation, and scale of the infosphere, what if we were to apply the basic framework of Gaia to our memetic ecology?
 
 Let us call this Gaia, for the moment, Agaia, a refocusing of Gaia that is alternative, accelerated, and abstractitive [fn:abstractative] [fn:gaia-name]. Gaia, in considering the Earth as an environment that is, in a real sense, constructed by organissms, suggests the fragility of that environment—that is, life can and does affect the biosphere. In the same way, memetic units, ideas [fn:inforgs], can directly affect the composition of the infosphere. Further, just as the meme, in its original formulation, was noted to propagate—and evolve—far faster than the gene [[citep:dawkins_selfish_1990][p. 189]], changes to the infosphere take place at a rate far faster than changes to the biosphere as posited under Gaia.  In modern information ecosystems, cycles of feedback are incredibly tight, and, through abstraction, can make themselves tighter. For example, consider social media and the algorithms now used by platform owners to select and present specific information as part of a feed or stream. On the first and most basic level of abstraction, digital platforms, since the days of AOL and email, have allowed viral or otherwise "sticky" memes to propagate at speed through the facilitation of low-effort sharing across the network. In the late 2000s and early 2010s, however, platforms, most notably social media sites such as Facebook and link aggregators such as Reddit, found that detecting "sticky" content early and surfacing it rapidly to users could result in a quality of "stickiness"—really, addictiveness—adhering to the platform itself. Rather than logging into a platform and seeing an algorithmically simple content set—reverse chronological content as with blogs, email, or RSS, or a list of friends with whom to individually communicate, as with early messengers—the user is presented with a set of content chosen for its virality or its potential to engage or convert [fn:convert]. This form of algorithmically-generated feed is more advantageous to the platform owner for a number of reasons. First, the nature of content in the feed becomes that of constant, if artificial, interest. While a feed of news, as in a newspaper, might consist of some stories that are, subjectively, of interest and some that are, subjectively, boring, everything you see in your feed is pitched to strike a nerve, whether to make you feel comfortable and affiliated, to provoke righteous anger, to elicit laughter or tears, or to cause fear and uncertainty. Second, not knowing what will surface next in the feed generates an environment of variable reward, which, as with slot machines, has a more addictive quality than predictable rewards. Perhaps most insidiously, however, modern algorithmic feeds allow for feedback to work both ways—that is, they allow for experiments to be performed on users and, more commonly, user segments. This, in turn, leads, and has led, to the next level of abstraction, and the further tightening of positive and negative feedback loops within the ecosystem of the feed. At this level, time spent on the platform not only provides feedback about what information is sticky and what is not, but furnishes platform owners with the data needed to further train and tune the algorithm. At this level, algorithms become so finely tuned to specific populations, and segmentation becomes so rapid, that a highly personalized, and even by modern standards highly addictive, feed can be generated after as few as four or five platform engagements. Thus far, this stage has bee manifest in its most elemental form by short video platform TikTok.
+
+[fn:gaia-name] Obviously, using the term Agaia is most suggestive of a model that is anti-Gaia. I think this is appropriate, especially given the history and valences of the name Gaia as used in the Gaia hypothesis. There is a bit of an odd relationship between the model presented in the theory and the name Lovelock used to label it. On initial inspection, "Gaia" is appropriate enough to identify the theory, given that it is a hypothesis about the whole Earth. However, to the layperson, the term strongly evokes the idea that the Earth is not merely a (somewhat) unified and constructed environment, but that it is, itself, a life. The first symposium on Gaia as a hypothesis was entitled "Is the Earth a Living Organism?" Even within the scientific community, there was controversy centered on the imprecise articulation of the theory. Biogeochemist James Kirchner criticized the theory as actually proposing multiple hypotheses ranging from the self-evident to the "highly speculative" citep:kirchner_gaia_1989. Many of the discussions around Gaia centered around movement between a weak version of the Gaia theory, which was limited in its articulation and fairly uncontroversial, and a strong version, in which the Earth is a teleological system, meaning that it, to some greater or lesser extent, works toward the maintenance of life on the planet. The highly metaphorical naming of the Gaia theory likely contributed to its broader dissemination, and even today it is frequently mischaracterized or overstated by those who have a more transcendent view of the Earth as a living entity.
+
+It seems appropriate to describe an Agaia focused on an infosphere that is, in many ways, antithetical to the biosphere, even if my main articulation of the concept isn't centered on this antithesis. This feels symmetrical to the relationship between Gaia as theory and Gaia as metaphor.
+
+
+# !!!! END FOOTNOTE
+
+[fn:abstractative] It extracts through abstraction. Run with me on this.
+
+
+# !!! END FOOTNOTE
+
+[fn:inforgs] Luciano Floridi coined the term "inforgs" to describe memetic agents, but come on. The concept, however, is a useful one.  XXX
+
+
+# !!!! END FOOTNOTE
+
+[fn:convert] Conversion is an industry term for the process of turning someone from a non-paying to a paying customer.
+
+
+# !!!! END FOOTNOTE
 
 The capability of entities operating within the infosphere to go up one level of abstraction, recursively using tight feedback loops to further tighten feedback loops, creates an information ecosystem that is not simply fast, but accelerating. On the first level, an algorithm optimizes the presentation of content in order to maximize some metric of use to the platform owner, such as engagement (Twitter and Facebook) or watch time (post-2012 YouTube). While this is highly lucrative in itself, moving up another level of abstraction provides far greater rewards. By optimizing not only for engagement, but for learning how to increase engagement, platforms place a virtuous circle within a virtuous circle, not just tightening algorithms, but tightening algorithm-tightening algorithms. At this level, it is not simply market power and network effects that contribute to the success of the platform, but the model. The term "model," as used in the bench sciences and quantitative social sciences, but most relevantly computer science, is a constructed, predictive abstraction. In a somewhat trivial sense, the common map is a model. A map is a reduction created for the purpose of prediction. Maps are untrue in the sense that they necessarily leave out more than they keep. And yet maps are demonstrably useful, most especially when created for a specific purpose. Models are concrete abstractions, instantiations of a set of insights an inch across and a mile deep. They are, like a function, map or key, a transformative element. Given X and Y, predict Z. Given Z and M, predict how to better predict Z. Given Z, M, and P, refine P. While the model instantiates or crystallizes knowledge in a domain, allowing for increased accuracy of prediction within that narrow sphere, the training of the model also tends to result in insights about how to further refine models.
 
@@ -2627,51 +2654,57 @@ She washed her hands in the bathroom, she washed them again and again. ... I kil
 #+END_QUOTE
 The response elicited by Piercy at the end of this novel is not celebration at a strike against iniquity, but the kind of sickness felt in the stomach at the contemplation of deep wrong. Connie, and we, are not allowed to know whether this terrible act has preserved Luciente's Mattapoisett. Yet in the confrontation of this vast and unknown future, and possibly also in the resistance to oppressive consensus, there is hope.
 
-In "A Ten-Day Voyage," a chapter in R.D. Laing's 1967 /The Politics of Experience/, the author transcribes the account of an individual, a sailor, who breaks with reality, and who, perhaps more rarely, returns.
+In "A Ten-Day Voyage," a chapter in R.D. Laing's 1967 /The Politics of Experience/, the author transcribes the account of an individual, a sailor, who breaks with reality, and who, perhaps more notably, returns.
 
 #+BEGIN_QUOTE
 I wasn’t just living on the – the moving moment, the present, but I was moving and living in a – in another time dimension added to the time situation in which I am now. ... I feel that it was not senseless – although I suppose to others about me I was – er – mad in as much as I was not living in this present time, and if I was not living in this present time I was therefore incapable of coping with it properly. But I had this feeling all the time of – er – moving back – even backwards and forwards in time, that I was not just living in the present moment. And I could much more easily go back than I could go forward because the forward movement was a bit too much for me to take.’
 #+END_QUOTE
 In the ontology encountered during this ten-day experience, we, beings, grow in understanding as we move forward. Though the traveler, unstuck in time, can move forward to encounter or glimpse a greater state of understanding and comprehension, such encounters must be brief. We are not yet enough. "[T]he journey is there and every single one of us has got to go through it, and – um – everything – you can’t dodge it. the purpose of everything and the whole of existence is – er – to equip you to take another step, and another step, and another step, and so on" XXX.
 
+For Laing, the experience of the traveler embodies a specific idea about the nature of the relationship between the individual and society. The society, in its system, imposes a consensus reality. To operate within this consensus defines sanity. To step outside this imposed context into a broader context, or a context that rejects or disregards barriers and constraints, is to venture into a realm that society calls "madness: " The traveller "trusted his experience of having entered into a state of more, not less, reality, of hyper-sanity, not sub-sanity" XXX.
+
+In the previous section, we considered the potential existence of an Abstraction, an entity or contiguous system at the furthest remove from the individual or small group. Fundamentally, the challenge posed by the Abstraction is one of negotiation. It is challenging enough to encounter, and contend with, adverse circumstances in the immediate built environment (Chapter Two), collective narrative (Chapter Three), or larger organizations and structures (Chapter Four). At the broadest level of encirclement, however, we are imposed on from a great remove. At this scale, distance, and complexity, understanding the nature of the environment and its influence on us becomes less a matter of reading than a matter of sensing. We cannot, as limited and contingent beings, know the full nature of the system in which we find ourselves. Despite this, we must choose our stance, whether one of hope or despair, and determine how we will negotiate, whether merely to survive or, potentially, to effect change.
+
+IN her final exigency, with her back against the wall, Connie chooses to kill, to destroy life, in the defense of a future and in defiance of a present. I cannot say, at least with any certainty, that such choices are wrong. Sometimes, and perhaps even often, systems, and their component beings and things, must be opposed, and opposed with every bit of power and control that can be laid hands on. Sometimes, choices are not so much made as forced. Yet, it may be, that in seizing any power, in exerting any available control to steer the world toward the bright future, we find that the brightness dims, and the future recedes. Those building the Abstraction, or who spread their wings to catch a tailwind from above, also steer the world toward their own imagined utopias. In seizing power, it is difficult not to replicate the systems that justified the seizing of power. In jailing the jailers, we build prisons. In killing, we become killers. [fn:caveat]
+
+[fn:caveat] I am sure it is the case that some systems are beyond redemption. But this may also be true less often than we wish to think.
+
+These are broad thoughts necessarily applied in local circumstances. As with all abstractions, much is lost.
 
 
+# !!!! END FOOTNOTE
+
+It is my utmost hope that your back is not yet against the wall. If this is the case, if you are privelaged enough to have some little latitude, then speak, write, organize, and build in ways that allow autonomy, rather than exert control. A few approaches are suggested by prior chapters in this projects. 
 
 
+A given individuals contribution has never been so meaningless. And yet the specific contributuion, the one that makes a difference, has never been so meaningful.
 
 
+ Your little hack, shared, might shame a gatekeeper, or inspire another.
 
+
+act and trust
+we must act, but not control
+
+# the temptation is to seize power
+# i can't say that's wrong
+# in seizing power, it is diffiult not to replicate the systems that made us want to seize power
+# write, speak, and build, but in ways that effect change but also relinquish control
+
+
+things take on a life of their own
+
+traditionally trancendental
+
+power encourages top-down thinking
 
 there is hope.
-
-
-
-
-
-We are not, yet, quite against the wall
-
-
-
-
-
-
-
-
-
-
 
 -----
 
 There is a sense in which it does not matter, for purposes of negotiation, whether the Abstraction as presented—agentic, fully interconnected, antithetical—is a literal reality. For societies, cultures, and biomes, especially considered over longer time frames, it does, of course, matter whether there is an entity resembling the Abstraction, as does the specific nature of such an entity. 
 
 There may, in a literal meaning, be an Abstraction in the sense laid out here. However, when we consider the potential of this larger, enclosing system from the perspective of negotiation, we find that the problem of the Abstraction 
-
-
-
-
-
-
-
 
 
 
@@ -2685,164 +2718,48 @@ be a hacker. do the bad thing to understand the bad thing.
 
 # Another, perhaps more straightforward, way to think about Agaia, the global cognitive and computational ecosystem, is as a set of headwinds and tailwinds
 
+# This thing above, this Abstraction, has one other effect, reflected and felt in the Agaia we have created for ourselves. (we can't story)
 
+# characterized by inscrutability (no useful narrative) and tunnel vision (can't (can't see second third order effects)
 
+# unwieldy nations, wielding unwieldy corporations, wielding unwieldy AI, wielding unwieldy people
 
+# they're like a giant flywheel. Not touching, not touching, except in second-order effects. But when touched, sparks fly.
 
- 
-
-
-
-
-
-This thing above, this Abstraction, has one other effect, reflected and felt in the Agaia we have created for ourselves. (we can't story)
-
-
-
-
-With every intervention, the flywheel spins faster.
-
-
-characterized by inscrutability (no useful narrative) and tunnel vision (can't (can't see second third order effects)
-
-
-
-unwieldy nations, wielding unwieldy corporations, wielding unwieldy AI, wielding unwieldy people
-
-
-
-they're like a giant flywheel. Not touching, not touching, except in second-order effects. But when touched, sparks fly.
-
-
-
-
-Given phenomena X, the model predicts Y.
-
-
-
-as with slot machines, variable rewards tend to be more addictive than predictable rewards, and 
-
-
-allows them to experiment on you
-
-
-[fn:convert] Conversion is an industry term for the process of turning someone from a non-paying to a paying customer.
-
-
-# !!!! END FOOTNOTE
-
-
-
-list of messages directed specifically to a user, as with email or the now-archaic form of the original Facebook wall
-
-
-these platforms are a teeming environment for the development and propagation of novel memes and memeplexes. 
-
+# these platforms are a teeming environment for the development and propagation of novel memes and memeplexes. 
 
 If a piece of "content" has some measurable 
 
-
-
-
-
-[fn:inforgs] Luciano Floridi coined the term "inforgs" to describe memetic agents, but come on. The concept, however, is a useful one.  XXX
-
-
-# !!!! END FOOTNOTE
-
-
-affect the 
-
-the infosphere
-
-difficulty of predictability
-a loss of a shared vision for the future
-rapid emergence of novel memoplexes
-
-
-
-
-[fn:abstractative] It extracts through abstraction. Run with me on this.
-
-
-# !!! END FOOTNOTE
-
-[fn:gaia-name] Obviously, using the term Agaia is most suggestive of a model that is anti-Gaia. I think this is appropriate, especially given the history and valences of the name Gaia as used in the Gaia hypothesis. There is a bit of an odd relationship between the model presented in the theory and the name Lovelock used to label it. On initial inspection, "Gaia" is appropriate enough to identify the theory, given that it is a hypothesis about the whole Earth. However, to the layperson, the term strongly evokes the idea that the Earth is not merely a (somewhat) unified and constructed environment, but that it is, itself, a life. The first symposium on Gaia as a hypothesis was entitled "Is the Earth a Living Organism?" Even within the scientific community, there was controversy centered on the imprecise articulation of the theory. Biogeochemist James Kirchner criticized the theory as actually proposing multiple hypotheses ranging from the self-evident to the "highly speculative" citep:kirchner_gaia_1989. Many of the discussions around Gaia centered around movement between a weak version of the Gaia theory, which was limited in its articulation and fairly uncontroversial, and a strong version, in which the Earth is a teleological system, meaning that it, to some greater or lesser extent, works toward the maintenance of life on the planet. The highly metaphorical naming of the Gaia theory likely contributed to its broader dissemination, and even today it is frequently mischaracterized or overstated by those who have a more transcendent view of the Earth as a living entity.
-
-It seems appropriate to describe an Agaia focused on an infosphere that is, in many ways, antithetical to the biosphere, even if my main articulation of the concept isn't centered on this antithesis. This feels symmetrical to the relationship between Gaia as theory and Gaia as metaphor.
-
-
-# !!!! END FOOTNOTE
-
-
-We have lost the ability to live our lives in a story-rich environment
-
-
+# difficulty of predictability
+# a loss of a shared vision for the future
+# rapid emergence of novel memoplexes
 
 what did we lose when we lost the stars
 
 the one universal obscures the many
 
-there is a sense in which the abstraction moves as one
-
-atoms to bits
 
 
-agaia accelerated gaia or anti-gaia
-suggestive in the same semi-deceptive way that gaia is named
-the biosphere combined with the infosphere
-abstraction is to the meme as gaia is is to the gene
+# agaia accelerated gaia or anti-gaia
+# suggestive in the same semi-deceptive way that gaia is named
+# the biosphere combined with the infosphere
+# abstraction is to the meme as gaia is is to the gene
 
-
-
-
-unpredictable 
-unknowability of direction is itself part of the infosphere, and accelerates some trends while slowing others
+# unpredictable 
+# unknowability of direction is itself part of the infosphere, and accelerates some trends while slowing others
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-we can usefully discuss
-
-What meaning this creature, in the totality of all creatures?
-
-there are no planetary stories. the abstraction is death to meaning. it is incomprehensible in itself and it drains our smaller stories of their vitality
-
-
-
-A given individuals contribution has never been so meaningless. And yet the specific contributuion, the one that makes a difference, has never been so meaningful.
-
-
-we are not simply building something, the something is building back
-
-
-
-
-conceiving of our cultural geosphere as the abstraction suggests not only a big scary thing, but also that small changes can have an outside influence
+# conceiving of our cultural geosphere as the abstraction suggests not only a big scary thing, but also that small changes can have an outside influence
 
 # https://lareviewofbooks.org/article/bruno-latour-tracks-down-gaia/
 
 
 # It is the infrastructural gap that is not recognized as a gap, due to a gap in our infrastructure for understanding infrastructural gaps. It is the algorithm that is not understood by any single engineer that wrote it, or the manager that told them to write it, or the shareholder that owns the corporation that employs the manager, but which decides the post that will surface in my feed as I drink my morning coffee. 
 
-
-
-[fn:boring-taxes] An example issue that, in its technical nature, is difficult to discuss in the public sphere, and yet has dramatic downstream effects on society, is the link in the United States between property taxes and school funding. The decision to have public schools funded by local property taxes leads to underfunded schools in low income areas, which in turn contributes to increased segregation and wealth and income inequality. The separation of the policy decision from its effects makes the connection apparent only, or at least primarily, to those with the greatest interest in its propagation. Another example might be proposals of a wealth tax compared to (mostly nonexistent) proposals for higher capital gains. A wealth tax is comprehensible to the public, and yet is less fearsome to the wealthy—money is largely only visible as it moves, and countries that have implemented a wealth tax have seen widespread evasion. When the public hears the term "capital gains," it begins to nod off. Despite the fact that implementing a progressive capital gains tax would cause the wealthy to sweat, its, for lack of a better word, boringness makes it a non-starter as a point around which to rally. 
-
-
-# !!!! END FOOTNOTE
 
 
 # Erewhon edition
@@ -2872,13 +2789,7 @@ conceiving of our cultural geosphere as the abstraction suggests not only a big 
 # The second point is that the grave social defects of the human machine were partly offset by its superb achievements in flood control and grain production, which laid the ground for an enlarged achievement in every area of human culture: in monumental art, in codified law, in systematically pursued and permanently recorded thought, in the augmentation of all the potentialities of the mind by the assemblage of a varied population, with diverse regional and vocational backgrounds in urban ceremonial centers. Such order, such collective security and abundance, such stimulating cultural mixtures were first achieved in Mesopotamia and Egypt, and later in India, China, Persia, and in the Andean and Mayan cultures: and they were never surpassed until the megamachine was reconstituted in a new form in our own time. Unfortunately these cultural advances were largely offset by equally great social regressions.
 :end:
 
------
-
-We, like Connie, live at a crux, poised between two futures.
-
-
-
-
+# We, like Connie, live at a crux, poised between two futures.
 
 
  Many have attempted to place their finger on this force, this process or entity. For Hardt and Negri, it was /Empire/. For Benjamin H. Bratton, it is /The Stack/. For Herbert Marcuse, it was the one-dimensional or technological society [[citep:marcuse_one-dimensional_2002][p. 50]]. For Neil Postman, it was /technopoly/. My own colleague at the Graduate Center, Erin Glass, has described it, in the context of the academy, as the /invisible discipline/. XXX Though those who attempt to identify and define it each have a different sense of its shape, its scale, and its ends, there is a general sense that it is technocratic and technological—that is, comprising within itself systems of both humans and machines. There is also a sense that it is impersonal and encompassing—international or global in scope. In this project, I'll call this thing—this presence or process or entity—the /unhuman/. In using negation to identify it, I invoke humanity, a concept both elevated and workaday and also acknowledge that I am incapable of precisely, or even imprecisely, defining it.
