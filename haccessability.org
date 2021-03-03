@@ -2637,6 +2637,8 @@ To put this more baldly, the Abstraction kills story. To qualify this slightly, 
 
 ** Reaching Forward
 
+
+
 At the conclusion of /Woman on the Edge of Time/, Connie, backed into a corner, faces a dark and damning choice. In the institution in which she is incarcerated, Connie becomes the subject of an experiment, and is implanted with a device designed to make her more docile, a better fit for society's expectations. After this operation, her receptivity to potential futures, which has allowed her to touch Luciente's time, directs her to other, more frightening alternatives. Among these are the front lines of a war in which Luciente is a soldier, a war in which per [fn:pers] side is losing ground. Connie senses that the bright future, Luciente's original future, is slipping away due to circumstances in her present, and in particular the development of the controlling technology now implanted in her body. In response, she formulates a dark and consequential resolution. The night before she puts her plan into effect, Connie fights to reconnect with Luciente's bright future for a final conversation.
 
 [fn:pers] Luciente's future uses the gender-neutral pronoun "pers."
@@ -2657,13 +2659,13 @@ The response elicited by Piercy at the end of this novel is not celebration at a
 In "A Ten-Day Voyage," a chapter in R.D. Laing's 1967 /The Politics of Experience/, the author transcribes the account of an individual, a sailor, who breaks with reality, and who, perhaps more notably, returns.
 
 #+BEGIN_QUOTE
-I wasn’t just living on the – the moving moment, the present, but I was moving and living in a – in another time dimension added to the time situation in which I am now. ... I feel that it was not senseless – although I suppose to others about me I was – er – mad in as much as I was not living in this present time, and if I was not living in this present time I was therefore incapable of coping with it properly. But I had this feeling all the time of – er – moving back – even backwards and forwards in time, that I was not just living in the present moment. And I could much more easily go back than I could go forward because the forward movement was a bit too much for me to take.’
+I wasn’t just living on the – the moving moment, the present, but I was moving and living in a – in another time dimension added to the time situation in which I am now. ... I feel that it was not senseless – although I suppose to others about me I was – er – mad in as much as I was not living in this present time, and if I was not living in this present time I was therefore incapable of coping with it properly. But I had this feeling all the time of – er – moving back – even backwards and forwards in time, that I was not just living in the present moment. And I could much more easily go back than I could go forward because the forward movement was a bit too much for me to take.' citep:laing_politics_1970
 #+END_QUOTE
-In the ontology encountered during this ten-day experience, we, beings, grow in understanding as we move forward. Though the traveler, unstuck in time, can move forward to encounter or glimpse a greater state of understanding and comprehension, such encounters must be brief. We are not yet enough. "[T]he journey is there and every single one of us has got to go through it, and – um – everything – you can’t dodge it. the purpose of everything and the whole of existence is – er – to equip you to take another step, and another step, and another step, and so on" XXX.
+In the ontology encountered during this ten-day experience, we, beings, grow in understanding as we move forward. Though the traveler, unstuck in time, can move forward to encounter or glimpse a greater state of understanding and comprehension, such encounters must be brief. We are not yet enough. "[T]he journey is there and every single one of us has got to go through it, and – um – everything – you can’t dodge it. the purpose of everything and the whole of existence is – er – to equip you to take another step, and another step, and another step, and so on" citep:laing_politics_1970.
 
 For Laing, the experience of the traveler embodies a specific idea about the nature of the relationship between the individual and society. The society, in its system, imposes a consensus reality. To operate within this consensus defines sanity. To step outside this imposed context into a broader context, or a context that rejects or disregards barriers and constraints, is to venture into a realm that society calls "madness: " The traveller "trusted his experience of having entered into a state of more, not less, reality, of hyper-sanity, not sub-sanity" XXX.
 
-In the previous section, we considered the potential existence of an Abstraction, an entity or contiguous system at the furthest remove from the individual or small group. Fundamentally, the challenge posed by the Abstraction is one of negotiation. It is challenging enough to encounter, and contend with, adverse circumstances in the immediate built environment (Chapter Two), collective narrative (Chapter Three), or larger organizations and structures (Chapter Four). At the broadest level of encirclement, however, we are imposed on from a great remove. At this scale, distance, and complexity, understanding the nature of the environment and its influence on us becomes less a matter of reading than a matter of sensing. We cannot, as limited and contingent beings, know the full nature of the system in which we find ourselves. Despite this, we must choose our stance, whether one of hope or despair, and determine how we will negotiate, whether merely to survive or, potentially, to effect change.
+In the previous section, we considered the potential existence of an Abstraction, an entity or contiguous system at the furthest remove from the individual or small group. Fundamentally, the challenge posed by the Abstraction is one of negotiation. It is challenging enough to encounter, and contend with, adverse circumstances in the immediate built environment (Chapter Two), collective narrative (Chapter Three), or larger organizations and structures (Chapter Four). At the broadest level of encirclement, however, we are imposed on from a great remove. At this scale, distance, and complexity, understanding the nature of the environment and its influence on us becomes less a matter of reading than a matter of sensing. We cannot, as limited and contingent beings, know the full nature of the system in which we find ourselves. Despite this, we must choose our stance, whether one of hope or despair, and determine how we will negotiate, whether merely to survive or, perhaps quixotically, attempt to effect change.
 
 IN her final exigency, with her back against the wall, Connie chooses to kill, to destroy life, in the defense of a future and in defiance of a present. I cannot say, at least with any certainty, that such choices are wrong. Sometimes, and perhaps even often, systems, and their component beings and things, must be opposed, and opposed with every bit of power and control that can be laid hands on. Sometimes, choices are not so much made as forced. Yet, it may be, that in seizing any power, in exerting any available control to steer the world toward the bright future, we find that the brightness dims, and the future recedes. Those building the Abstraction, or who spread their wings to catch a tailwind from above, also steer the world toward their own imagined utopias. In seizing power, it is difficult not to replicate the systems that justified the seizing of power. In jailing the jailers, we build prisons. In killing, we become killers. [fn:caveat]
 
@@ -2674,7 +2676,61 @@ These are broad thoughts necessarily applied in local circumstances. As with all
 
 # !!!! END FOOTNOTE
 
-It is my utmost hope that your back is not yet against the wall. If this is the case, if you are privelaged enough to have some little latitude, then speak, write, organize, and build in ways that allow autonomy, rather than exert control. A few approaches are suggested by prior chapters in this projects. 
+It is my utmost hope that your back is not yet against the wall, and that you are in the privileged position to have some little latitude, that you can survive, or strive, on something resembling your own terms. [fn:give-hell] If this is the case, then the following thoughts, the last in this project, consider approaches and stances toward negotiating the Abstraction. They are rooted in the exercise of autonomy and, specifically, the use of local knowledge and action yet with the hope or aspiration to effect larger change. 
+
+[fn:give-hell] If not, if your back is against the wall...give them hell
+
+
+# !!!! END FOOTNOTE
+
+To resist, engage, or even conceptualize something as overwhelming as our theorized Abstraction requires a specific cast of mind. In /The Principle of Hope/, Ernst Bloch observes in in a process of continuous becoming, that "much in the world is still unclosed."
+
+#+BEGIN_QUOTE
+No thing could be altered in accordance with wishes if the world were closed, full of fixed, even perfected facts. Instead of these there are simply processes, i.e. dynamic relation- ships in which the Become has not completely triumphed. The Real is process; the latter is the widely ramified mediation between present, unfinished past, and above all: possible future. Indeed, everything real passes over into the Possible at its processual Front, and possible is everything that is only partially conditioned, that has not yet been fully or conclusively determined. [[citep:bloch_principle_1995-1][p. 196]]
+#+END_QUOTE
+To see the system and to step outside it in the imagination is, as suggested by Laing's account of the traveler to the past and future, a form of madness. To envision ways to carve out a space for ourselves or for our community, we must be mad enough to leave it, but realistic enough to come back.
+
+
+ seek to change it is, Laing's
+
+
+
+In the ten-day voyage of the sailor into the
+
+
+
+
+It is a system, and systems have weaknesses.
+
+
+the hacker leverages hyperlocal knowledge—the obscure bug, the misconfigured server, the unanticipated input—
+
+
+
+
+#+BEGIN_QUOTE
+
+#+END_QUOTE
+
+
+
+
+have hope
+to have hope is to be crazy
+hacking is a kind of frazy
+
+
+
+
+
+
+
+ If this is the case, if you are privelaged enough to have some little latitude, then speak, write, organize, and build in ways that allow autonomy, rather than exert control. A few approaches are suggested by prior chapters in this projects. 
+
+
+To stand in resistance to something like the Abstraction is a kind of perversity
+
+
 
 
 A given individuals contribution has never been so meaningless. And yet the specific contributuion, the one that makes a difference, has never been so meaningful.
@@ -2804,16 +2860,17 @@ the one universal obscures the many
 # Bummer platform, Digital Maoism
 
 
-In /Woman on the Edge of Time/, the other future—the one accessed not through Luciente but through a nameless, subjugated woman, is explicitly predicated on the ascendency of machine over person. This bleak future, in which technology is used by a few to force their will  on the many, has its root in a project in Connie's present, one in which implants are used to "reform" patients:
+# In /Woman on the Edge of Time/, the other future—the one accessed not through Luciente but through a nameless, subjugated woman, is explicitly predicated on the ascendency of machine over person. This bleak future, in which technology is used by a few to force their will  on the many, has its root in a project in Connie's present, one in which implants are used to "reform" patients:
 
-#+BEGIN_QUOTE
-Back at their own beds, Sybil whispered, "The nurse didn't contradict us about the electrodes. Could it be true?"\\
-"But what for?"\\
-"Control. To turn us into machines so we obey them," Sybil whispered.
-#+END_QUOTE
-Aside from its historical foundation in real abuses of electroshock therapy, the future depicted by Piercy, one based on a state of technological control over society, may seem far-fetched. Unfortunately, it is not. We now live in a world where individuals can be fired by a machine citep:cellan-jones_man_2018, where algorithms decide who will be imprisoned and who will go free citep:avenue_human_2018, where filters dictate who we speak to and what we read XXX, and where cryptoutopians strive to remove human trust from law and finance XXX. It is a world in which we squat on digital property that we do not own XXX, are surveilled in public and in private, and connect our bodies to the cloud XXX, sometimes without our knowledge. Connie's future, a future of domination by and through machines, may already be upon us.
+# #+BEGIN_QUOTE
+# Back at their own beds, Sybil whispered, "The nurse didn't contradict us about the electrodes. Could it be true?"\\
+# "But what for?"\\
+# "Control. To turn us into machines so we obey them," Sybil whispered.
+# #+END_QUOTE
+# Aside from its historical foundation in real abuses of electroshock therapy, the future depicted by Piercy, one based on a state of technological control over society, may seem far-fetched. Unfortunately, it is not. We now live in a world where individuals can be fired by a machine citep:cellan-jones_man_2018, where algorithms decide who will be imprisoned and who will go free citep:avenue_human_2018, where filters dictate who we speak to and what we read XXX, and where cryptoutopians strive to remove human trust from law and finance XXX. It is a world in which we squat on digital property that we do not own XXX, are surveilled in public and in private, and connect our bodies to the cloud XXX, sometimes without our knowledge. Connie's future, a future of domination by and through machines, may already be upon us.
 
-*************** TODO insert citations for above claims about how the present is dominated ina new way by machines
+*************** DONE insert citations for above claims about how the present is dominated ina new way by machines
+		CLOSED: [2021-03-01 Mon 16:28]
 *************** END
 
 # intro-like stuff (not needed)
@@ -2825,37 +2882,18 @@ https://www.newamerica.org/weekly/adaptive-technology-prosthetics/
 # There is a precipitous verticality to the structure and language of this machine-dominated present. Benjamin H. Bratton acknowledges this in adopting an inherently vertical term to describe an emerging political geography that "draws on the multilayered structure of software, hardware, and network 'stacks' that arrange different technologies vertically within a modular, interdependent order" citep:bratton_stack:_2016. Verticality, a height that exceeds our reach, also provides a dimension along which to think about whether technology is within our control or whether we are in the control of technology. In /Woman on the Edge of Time/, when Connie first steps into Luciente's future, she envisions a world of dominating, thrusting structures: "[r]ocket ships, skyscrapers into the stratosphere, an underground mole world miles deep." Instead, the structures she does encounter are personal and broadly accessible, horizontal rather than vertical: "[a]rm in arm they strolled toward the meetinghouse, a building long and low like a loaf of bread." We see this distinction, too, in Connie's present. While part of her vision of freedom is "a TV set that she could turn on and off and tune to whatever program she wanted to watch," part of the indignity of the mental hospital is a lack of this kind of control over her environment: "[w]omen ... were sitting vacantly along the walls or staring at the television set placed up on a shelf where no one could reach it to change the station or alter the volume level." For these incarcerated women, technology is situated outside, literally above, their control. In this increasingly present future, technology is not something that we participate in as equals. More and more, it is something that happens to us.
 :end:
 
-*************** TODO insert page number for stack citation
+*************** DONE insert page number for stack citation
+		CLOSED: [2021-03-01 Mon 16:28]
 *************** END
 
-This project, /Negotiated Access/, is about the locus of interaction—the point or edge along which we encounter our environment and exercise our autonomy. Fundamentally, it's an argument that this locus needs to be shifted from the distant, the impersonal, and the complex and placed close to the individual and the small community. This means that technology should be something we make and control, not something that happens to us. It means that social structure and infrastructure should be flexible, fluid, and federated, not one size fits all. It means, to put it less abstractly, that the television needs to come down from the damn shelf.
+# This project, /Negotiated Access/, is about the locus of interaction—the point or edge along which we encounter our environment and exercise our autonomy. Fundamentally, it's an argument that this locus needs to be shifted from the distant, the impersonal, and the complex and placed close to the individual and the small community. This means that technology should be something we make and control, not something that happens to us. It means that social structure and infrastructure should be flexible, fluid, and federated, not one size fits all. It means, to put it less abstractly, that the television needs to come down from the damn shelf.
 
-*************** TODO summarize chapters?
+*************** DONE summarize chapters?
+		CLOSED: [2021-03-01 Mon 16:29]
 *************** end
-
-
-
-
------
-
 
 base conditions, scientific techhology, mean that the pool can be polluted, and it matters who get sto what first
 kombucha brewing
-
-
-
-
-
-
-
-
-
-
-
-Scientific technology and tech are both contenders for the 
-
-
-
 
 # #+BEGIN_QUOTE
 # “Techne” derives from the Indo-European root “tek ” which accordin to Porkorny, means "to fit together the woodwork of a woven house." I(iibe concludes that “in its original form techne probably means the build- ing of a house which was woven together from trunks and twigs and was erected by the family or tribe in a communal effort.“ As social life became more settled, the need for building skills increased. As the division of labor: progressed, the work of building houses was no longer left to families It became the province of a specialized (in Gould’s words a “com arativel rare”) individual: the tektén, the “woodworker.” “Techne ” i: its re): Homeric meaning, came to refer to the knowledge or skill of fhe tekténp he who produces something from wood. [[citep:roochnik_art_1996][p. 19]]
@@ -2892,7 +2930,7 @@ Scientific technology and tech are both contenders for the
 # To belabor this point: Independence is the most important thing I could cultivate (or uncultivate) in the forchard.
 :end:
 
------
+
 
 # If the very concept of technology is now suspect—if tech is now a four-letter word—how do we move forward? Since the early to mid-2000s, the ideological stance of standing apart or above culturally transformative technology has become increasingly untenable. More and more, the practical, cultural, and infrastructural impact of information technology is not confined to specific spheres, but touches on almost every aspect of daily life—a process that Steven Jones terms the "eversion." As infrastructure and social norms change to accommodate widespread use of technology, opting out of technology, practically speaking, means opting out of society. We know that we cannot roll back these technological, cultural, and infrastructural changes, that there will be no reversion to counter this eversion. How, then, can we conceive of a technology that will take us from where we are now to where we need to be? How do we envision a future like Luciente's, one where technology serves, rather than controls, humanity?
 
@@ -3060,7 +3098,7 @@ Yet, generation Z is often on the receiving end of criticism for the amount of t
 
 
 
-** Retaking Technology
+
 
 
 
