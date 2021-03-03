@@ -402,7 +402,7 @@ http://www.startribune.com/for-tech-weary-midwest-farmers-40-year-old-tractors-n
 [fn:digital-rights-management] Digital Rights Management, or DRM, is software or software features intended to restrict a user's use of the software or an associated device. Essentially, DRM is a digital lock, or an attempt to put something like a lock in place in an environment, the general-purpose computer, in which such restrictions are inherently technically difficult. Cory Doctorow  observes that "DRMs are technologies that treat the owner of a computer or other device as an attacker, someone against whom the system must be armored. Like the electrical meter on the side of your house, a DRM is a technology that you possess, but that you are never supposed to be able to manipulate or modify" citep:doctorow_content:_2008. DRM is often more of a legal barrier than a technical one—putting in place technical restrictions gives corporations the ability to pursue violations in court under laws such as the Digital Millennium Copyright Act.
 
 
-[fn:software-concentration] Past decades have seen dramatic market concentration in the United States citep:grullon_are_2019,gutierrez_declining_2017,de_loecker_rise_2017 , including the emergence of a winner take all (or most) dynamic in in the medical and technology industries [[citep:van_reenen_increasing_2018][p. 3]]. As anti-trust laws go unexercised and sectors coalesce into oligopolies, corporations begin to wield disproportionate market and policy power over consumers (or, as we were once innocently known, the public), and regulatory capture and undue industry influence in government become endemic. Concentration, however, comes with certain liabilities, and there is some reason to believe that widespread disgust with the excesses in these industries could mean that the pendulum swings the other way. A strong and history-aware introduction to the remergence of oligopoly and market power is /The Curse of Bigness/ citep:wu_curse_2018, especially Chapter 7, "The Rise of the Tech Trusts."
+[fn:software-concentration] Past decades have seen dramatic market concentration in the United States citep:grullon_are_2019,gutierrez_declining_2017,de_loecker_rise_2017 , including the emergence of a winner take all (or most) dynamic in the medical and technology industries [[citep:van_reenen_increasing_2018][p. 3]]. As anti-trust laws go unexercised and sectors coalesce into oligopolies, corporations begin to wield disproportionate market and policy power over consumers (or, as we were once innocently known, the public), and regulatory capture and undue industry influence in government become endemic. Concentration, however, comes with certain liabilities, and there is some reason to believe that widespread disgust with the excesses in these industries could mean that the pendulum swings the other way. A strong and history-aware introduction to the remergence of oligopoly and market power is /The Curse of Bigness/ citep:wu_curse_2018, especially Chapter 7, "The Rise of the Tech Trusts."
 
 
 # End FOOTNOTE !!!
@@ -2663,9 +2663,9 @@ I wasn’t just living on the – the moving moment, the present, but I was movi
 #+END_QUOTE
 In the ontology encountered during this ten-day experience, we, beings, grow in understanding as we move forward. Though the traveler, unstuck in time, can move forward to encounter or glimpse a greater state of understanding and comprehension, such encounters must be brief. We are not yet enough. "[T]he journey is there and every single one of us has got to go through it, and – um – everything – you can’t dodge it. the purpose of everything and the whole of existence is – er – to equip you to take another step, and another step, and another step, and so on" citep:laing_politics_1970.
 
-For Laing, the experience of the traveler embodies a specific idea about the nature of the relationship between the individual and society. The society, in its system, imposes a consensus reality. To operate within this consensus defines sanity. To step outside this imposed context into a broader context, or a context that rejects or disregards barriers and constraints, is to venture into a realm that society calls "madness: " The traveller "trusted his experience of having entered into a state of more, not less, reality, of hyper-sanity, not sub-sanity" XXX.
+For Laing, the experience of the traveler embodies a specific idea about the nature of the relationship between the individual and society. The society, in its system, imposes a consensus reality. To operate within this consensus defines sanity. To step outside this imposed context into a broader context, or a context that rejects or disregards barriers and constraints, is to venture into a realm that society calls "madness: " The traveller "trusted his experience of having entered into a state of more, not less, reality, of hyper-sanity, not sub-sanity" citep:laing_politics_1970.
 
-In the previous section, we considered the potential existence of an Abstraction, an entity or contiguous system at the furthest remove from the individual or small group. Fundamentally, the challenge posed by the Abstraction is one of negotiation. It is challenging enough to encounter, and contend with, adverse circumstances in the immediate built environment (Chapter Two), collective narrative (Chapter Three), or larger organizations and structures (Chapter Four). At the broadest level of encirclement, however, we are imposed on from a great remove. At this scale, distance, and complexity, understanding the nature of the environment and its influence on us becomes less a matter of reading than a matter of sensing. We cannot, as limited and contingent beings, know the full nature of the system in which we find ourselves. Despite this, we must choose our stance, whether one of hope or despair, and determine how we will negotiate, whether merely to survive or, perhaps quixotically, attempt to effect change.
+In the previous section, we considered the potential existence of an Abstraction, an entity or contiguous system at the furthest remove from the individual or small group. Fundamentally, the challenge posed by the Abstraction is one of negotiation. It is challenging enough to encounter, and contend with, adverse circumstances in the immediate built environment (Chapter Two), collective narrative (Chapter Three), or larger organizations and structures (Chapter Four). At the broadest level of encirclement, however, we are imposed on from a great remove. At this scale, distance, and complexity, understanding the nature of the environment and its influence on us becomes less a matter of reading than a matter of sensing. We cannot, as limited and contingent beings, know the full nature of the system in which we find ourselves. Despite this, we must choose our stance, whether one of hope or despair, and determine how we will negotiate, whether merely to survive or to, perhaps quixotically, effect change.
 
 IN her final exigency, with her back against the wall, Connie chooses to kill, to destroy life, in the defense of a future and in defiance of a present. I cannot say, at least with any certainty, that such choices are wrong. Sometimes, and perhaps even often, systems, and their component beings and things, must be opposed, and opposed with every bit of power and control that can be laid hands on. Sometimes, choices are not so much made as forced. Yet, it may be, that in seizing any power, in exerting any available control to steer the world toward the bright future, we find that the brightness dims, and the future recedes. Those building the Abstraction, or who spread their wings to catch a tailwind from above, also steer the world toward their own imagined utopias. In seizing power, it is difficult not to replicate the systems that justified the seizing of power. In jailing the jailers, we build prisons. In killing, we become killers. [fn:caveat]
 
@@ -2683,64 +2683,110 @@ It is my utmost hope that your back is not yet against the wall, and that you ar
 
 # !!!! END FOOTNOTE
 
-To resist, engage, or even conceptualize something as overwhelming as our theorized Abstraction requires a specific cast of mind. In /The Principle of Hope/, Ernst Bloch observes in in a process of continuous becoming, that "much in the world is still unclosed."
+To resist, engage, or even conceptualize something as overwhelming as our theorized Abstraction requires a specific cast of mind. In /The Principle of Hope/, Ernst Bloch observes that we are all in a process of continuous becoming, that "much in the world is still unclosed."
 
 #+BEGIN_QUOTE
 No thing could be altered in accordance with wishes if the world were closed, full of fixed, even perfected facts. Instead of these there are simply processes, i.e. dynamic relation- ships in which the Become has not completely triumphed. The Real is process; the latter is the widely ramified mediation between present, unfinished past, and above all: possible future. Indeed, everything real passes over into the Possible at its processual Front, and possible is everything that is only partially conditioned, that has not yet been fully or conclusively determined. [[citep:bloch_principle_1995-1][p. 196]]
 #+END_QUOTE
-To see the system and to step outside it in the imagination is, as suggested by Laing's account of the traveler to the past and future, a form of madness. To envision ways to carve out a space for ourselves or for our community, we must be mad enough to leave it, but realistic enough to come back.
+To see the system and to step outside it in the imagination is, as suggested by Laing's account of the traveler to the past and future, a form of madness. To envision ways to carve out a space for ourselves or for our community, we must be mad enough to leave consensus reality, but also mad enough to come back. After touching the universal, or glimpsing a future, we must step back to the local as our site of action and change.
+
+As we explored in Chapter Two, the idealized figure of the hacker also affects changes in larger systems through application of deep local knowledge. The hacker leverages her own hyperlocal understanding—the obscure bug, the misconfigured server, the unanticipated input—to identify a weakness in a dynamic system. From there, the hacker can choose to repair and maintain through propagation of local knowledge upward, following the paradigm of the white hat. Alternatively, donning the black hat, the hacker can "escalate" to undermine, coopt, or otherwise subvert the system. We have theorized the Abstraction as a system, and all systems have weaknesses. Some of this hacking might be technical—the "mispurposing" of a commercial application [fn:mispurposing], the clever repair of the community coffee maker, the exfiltration of data to enable the blowing of a whistle. More critical, however, will be the broader application of the hacker sensibility to enable the carving out of spaces of resistance. We all understand our family, our block, our neighborhood, and our community better than does the Abstraction. The squatter, the union organizer, the herbalist: they, too, know when to sow and when to reap, can spot the crack in the sidewalk or the whispered conversation and gauge the time to act. Only structures with scale can be seen from a great height. Do the things that cannot scale in the small spaces the Abstraction cannot see.
+
+[fn:mispurposing] No day in which you violate a commercial Terms of Service agreement is a day wasted.
 
 
- seek to change it is, Laing's
+# !!!! END FOOTNOTE
 
-
-
-In the ten-day voyage of the sailor into the
-
-
-
-
-It is a system, and systems have weaknesses.
-
-
-the hacker leverages hyperlocal knowledge—the obscure bug, the misconfigured server, the unanticipated input—
-
-
-
+One might ask, then, how one might scale the unscalable. How can the Abstraction be undermined without replacing it with a system more total in its size and apparatus? How can a rigid and carefully tended garden cultivated by the Abstraction be replaced by anything other than something equally artificial, equally rigid? Anna Lowenhaupt Tsing provides an approach to resistant unscalability via the metaphor of the matsutake forest:
 
 #+BEGIN_QUOTE
-
+Contrast the matsutake forest: unlike sugarcane clones, matsutake make it evident that they cannot live without transformative relations with other species. Matsutake mushrooms are the fruiting bodies of an underground fungus associated with certain forest trees. The fungus gets its carbohydrates from mutualistic relations with the roots of its host trees, for whom it also forages. Matsutake make it possible for host trees to live in poor soils, without fertile humus. In turn, they are nourished by the trees. This transformative mutualism has made it impossible for humans to cultivate matsutake. ... Matsutake resist the conditions of the plantation. [[citep:tsing_mushroom_2015][p. 40]]
 #+END_QUOTE
+Tsing offers a contrast between the plantation, emblematic of rigid homogeneity, exploitative relationships, and oppressive design, and the matsutake forest, in which complex interrelationships facilitate growth and creation that does not survive the abstraction to scale. These mushrooms grow only in uncultivated places. To the extent that commercial forces wish to extract these mushrooms as resources, they must preserve intact the web of local relationships that make their existence possible. This kind of mutuality, therefore, makes it more costly to exploit or destroy the local by rendering it legible to the universal.
+
+While preserving existing interdependent local complexity is crucial, it is also possible to cultivate uncultivated spaces. Cider brewer [fn:brewing] and orchardist Andy Brennan has developed a philosophy around the cultivation of feral orchards, or orchards that were once cultivated that have reasserted themselves as autonomous.
+
+#+BEGIN_QUOTE
+I’m very uneasy about pinning my hopes on anything connected to a financial economy dependent on growth. After all, some things cannot be scaled up. ... Love, wonder, true art, inspiration—all these things are about the intimacy of direct relationships; they exist in unscalable worlds, and it’s in those worlds that wild apples have their highest value. So I’m hoping to keep wild apple trees and artisan cider independent of the pressures of conformity. ... To belabor this point: Independence is the most important thing I could cultivate (or uncultivate) in the forchard [feral orchard] [[citep:brennan_uncultivated:_2019][p. 163]]
+#+END_QUOTE
+There is a tragedy to mass cultivation of apples. Apples are the most sprayed crop, and in cultivated orchards they stand, cloned, grafted to alien rootstock for survival. In the wild, or in a feral orchard, however, they are transformed into hardy and long-lived trees. Apple trees are naturally social, and do best at the edges of forests and in other locations where that can be with trees of other species. They attract and feed a diverse array of creatures. Heterozygous, all apple trees produce unique fruit, so every uncultivated apple tree encountered represents a new strain of apple.
+
+Extractative systems, including the Abstraction, are powerful engines, but in their artificiality there is an element of fragility. Often, they are forced to take longcuts where shortcuts might do. By encircling so much, by growing large, they become unaware of knowledge at the level of the local. By acting at scale, by coordinating the effort of many from above, they lose the ability to act simply. While there is a tailwind to be found by reaching up into the Abstraction to take advantage of centralizing trends, those working locally may be able to walk to where the Abstraction could visit only by building a highway. By cultivating thickets, dense webs of interdependent relationships, we obscure our work from above and protect spaces from whence further resistance might grow.
+
+Though growing real thickets is recommended, seeding systems in which participants have agency can preempt exploitative development. 
+
+- wikipedia
+- malleable systems
+
+
+
+Heterozygous
 
 
 
 
-have hope
-to have hope is to be crazy
-hacking is a kind of frazy
+
+[fn:brewing] The author may or may not have brewed 13.5 gallons of cider in his New York apartment during the writing of this chapter. In addition, ten apple pies may or may not have been baked.
+
+
+# !!!! END FOOTENOTE
 
 
 
 
-
-
-
- If this is the case, if you are privelaged enough to have some little latitude, then speak, write, organize, and build in ways that allow autonomy, rather than exert control. A few approaches are suggested by prior chapters in this projects. 
-
-
-To stand in resistance to something like the Abstraction is a kind of perversity
+talk about ferality
+if the garden is too rigid, perhaps we shojuldn't just replace it with one we like better. let to go wild
+malleable systems 
 
 
 
 
-A given individuals contribution has never been so meaningless. And yet the specific contributuion, the one that makes a difference, has never been so meaningful.
+# uncultivation cider brennan stuff
+:notes:
+# Half forest, half orchard, the forchard was meant to be a place where apple trees can live independent from my un-green thumb.
+
+# ...
+
+# Yet wild apple trees have profound spiritual, emotional, and companionship value to anyone who escapes the pressures of keeping up, and at the physical level they offer food to animals (and to people who have been spit out from that economy). Aside from free fruit, I personally can trace much of my inspiration, many of my ideas, and many of my insights to simply being with wild apple trees. I place their highest value in the pricelessness of companionship. In this sense wild apple trees live in other economies, ones that prioritize beauty, uniqueness, nutrition, taste—just to name just a few things that are often in direct conflict with a growing financial economy.
+
+# ...
+
+# Nonetheless I’m very uneasy about pinning my hopes on anything connected to a financial economy dependent on growth. After all, some things cannot be scaled up. Imagine, for example, assigning a dollar value to the love of two newlyweds and then insisting that their marriage keep pace with the growing economy for 60 years! Love, wonder, true art, inspiration—all these things are about the intimacy of direct relationships; they exist in unscalable worlds, and it’s in those worlds that wild apples have their highest value. So I’m hoping to keep wild apple trees and artisan cider independent of the pressures of conformity. In fact, neither the wild nor true art would continue to be themselves if they were in any way compromised.
+
+# ...
+
+# To belabor this point: Independence is the most important thing I could cultivate (or uncultivate) in the forchard.
+:end:
+
+# Myth of the machine
+:notes:
+# In terms of the currently accepted picture of the relation of man to technics, our age is passing from the primeval state of man, marked by his invention of tools and weapons for the purpose of achieving mastery over the forces of nature, to a radically different condition, in which he will have not only conquered nature, but detached himself as far as possible from the organic habitat.
+
+# With this new 'megatechnics' the dominant minority will create a uniform, all-enveloping, super-planetary structure, designed for automatic operation. Instead of functioning actively as an autonomous personality, man will become a passive, purposeless, machine-conditioned animal whose proper functions, as technicians now interpret man's role, will either be fed into the machine or strictly limited and controlled for the benefit of de-personalized, collective organizations.
+
+# -----
+
+# In this process of self-discovery and self-transformation, tools, in the narrow sense, served well as subsidiary instruments, but not as the main operative agent in man's development; for technics has never till our own age dissociated itself from the larger cultural whole in which man, as man, has always functioned. The classic Greek term 'tekhne' characteristically makes no distinction between industrial production and 'fine' or symbolic art; and for the greater part of human history these aspects were inseparable, one side respecting the objective conditions and functions, the other responding to subjective needs.
+
+# -----
+
+# The irrational factors that have sometimes constructively prompted, yet too often distorted, man's further development became plain at the moment when the formative elements in paleolithic and neolithic cultures united in the great cultural implosion that took place around the Fourth Millennium B.C.: what is usually called 'the rise of civilization.' The remarkable fact about this transformation technically is that it was the result, not of mechanical inventions, but of a radically new type of social organization: a product of myth, magic, religion, and the nascent science of astronomy. This implosion of sacred political powers and technological facilities cannot be accounted for by any inventory of the tools, the simple machines, and the technical processes then available. Neither the wheeled wagon, the plow, the potter's wheel, nor the military chariot could of themselves have accomplished the mighty transformations that took place in the great valleys of Egypt, Mesopotamia, and India, and eventually passed, in ripples and waves, to other parts of the planet.
+
+# The study of the Pyramid Age I made in preparation for writing 'The City in History' unexpectedly revealed that a close parallel existed between the first authoritarian civilizations in the Near East and our own, though most of our contemporaries still regard modern technics, not only as the highest point in man's intellectual development, but as an entirely new phenomenon. On the contrary, I found that what economists lately termed the Machine Age or the Power Age, had its origin, not in the so-called Industrial Revolution of the eighteenth century, but at the very outset in the organization of an archetypal machine composed of human parts.
+
+# Two things must be noted about this new mechanism, because they identify it throughout its historic course down to the present. The first is that the organizers of the machine derived their power and authority from a heavenly source. Cosmic order was the basis of this new human order. The exactitude in measurement, the abstract mechanical system, the compulsive regularity of this 'megamachine,' as I shall call it, sprang directly from astronomical observations and scientific calculations. This inflexible, predictable order, incorporated later in the calendar, was transferred to the regimentation of the human components. As against earlier forms of ritualized order, this mechanized order was external to man. By a combination of divine command and ruthless military coercion, a large population was made to endure grinding poverty and forced labor at mind-dulling repetitive tasks in order to insure "Life, Prosperity, and Health" for the divine or semi-divine ruler and his entourage.
+
+# The second point is that the grave social defects of the human machine were partly offset by its superb achievements in flood control and grain production, which laid the ground for an enlarged achievement in every area of human culture: in monumental art, in codified law, in systematically pursued and permanently recorded thought, in the augmentation of all the potentialities of the mind by the assemblage of a varied population, with diverse regional and vocational backgrounds in urban ceremonial centers. Such order, such collective security and abundance, such stimulating cultural mixtures were first achieved in Mesopotamia and Egypt, and later in India, China, Persia, and in the Andean and Mayan cultures: and they were never surpassed until the megamachine was reconstituted in a new form in our own time. Unfortunately these cultural advances were largely offset by equally great social regressions.
+:end:
 
 
- Your little hack, shared, might shame a gatekeeper, or inspire another.
 
+ # If this is the case, if you are privelaged enough to have some little latitude, then speak, write, organize, and build in ways that allow autonomy, rather than exert control. A few approaches are suggested by prior chapters in this projects. 
 
-act and trust
-we must act, but not control
+A given individuals contribution has never been so meaingless. And yet the specific contributuion, the one that makes a difference, has never been so meaningful.
+
+# act and trust
+# we must act, but not control
 
 # the temptation is to seize power
 # i can't say that's wrong
@@ -2758,19 +2804,9 @@ there is hope.
 
 -----
 
-There is a sense in which it does not matter, for purposes of negotiation, whether the Abstraction as presented—agentic, fully interconnected, antithetical—is a literal reality. For societies, cultures, and biomes, especially considered over longer time frames, it does, of course, matter whether there is an entity resembling the Abstraction, as does the specific nature of such an entity. 
+# There is a sense in which it does not matter, for purposes of negotiation, whether the Abstraction as presented—agentic, fully interconnected, antithetical—is a literal reality. For societies, cultures, and biomes, especially considered over longer time frames, it does, of course, matter whether there is an entity resembling the Abstraction, as does the specific nature of such an entity. 
 
-There may, in a literal meaning, be an Abstraction in the sense laid out here. However, when we consider the potential of this larger, enclosing system from the perspective of negotiation, we find that the problem of the Abstraction 
-
-
-
-things we can do
-
-envision alternative models, and take them seriously
-be a hacker. do the bad thing to understand the bad thing.
-
-
-
+# There may, in a literal meaning, be an Abstraction in the sense laid out here. However, when we consider the potential of this larger, enclosing system from the perspective of negotiation, we find that the problem of the Abstraction 
 
 # Another, perhaps more straightforward, way to think about Agaia, the global cognitive and computational ecosystem, is as a set of headwinds and tailwinds
 
@@ -2794,8 +2830,6 @@ what did we lose when we lost the stars
 
 the one universal obscures the many
 
-
-
 # agaia accelerated gaia or anti-gaia
 # suggestive in the same semi-deceptive way that gaia is named
 # the biosphere combined with the infosphere
@@ -2804,19 +2838,11 @@ the one universal obscures the many
 # unpredictable 
 # unknowability of direction is itself part of the infosphere, and accelerates some trends while slowing others
 
-
-
-
-
-
 # conceiving of our cultural geosphere as the abstraction suggests not only a big scary thing, but also that small changes can have an outside influence
 
 # https://lareviewofbooks.org/article/bruno-latour-tracks-down-gaia/
 
-
 # It is the infrastructural gap that is not recognized as a gap, due to a gap in our infrastructure for understanding infrastructural gaps. It is the algorithm that is not understood by any single engineer that wrote it, or the manager that told them to write it, or the shareholder that owns the corporation that employs the manager, but which decides the post that will surface in my feed as I drink my morning coffee. 
-
-
 
 # Erewhon edition
 :notes:
@@ -2824,26 +2850,7 @@ the one universal obscures the many
 :end:
 
 
-# Myth of the machine
-:notes:
-# In terms of the currently accepted picture of the relation of man to technics, our age is passing from the primeval state of man, marked by his invention of tools and weapons for the purpose of achieving mastery over the forces of nature, to a radically different condition, in which he will have not only conquered nature, but detached himself as far as possible from the organic habitat.
 
-# With this new 'megatechnics' the dominant minority will create a uniform, all-enveloping, super-planetary structure, designed for automatic operation. Instead of functioning actively as an autonomous personality, man will become a passive, purposeless, machine-conditioned animal whose proper functions, as technicians now interpret man's role, will either be fed into the machine or strictly limited and controlled for the benefit of de-personalized, collective organizations.
-
-# -----
-
-# In this process of self-discovery and self-transformation, tools, in the narrow sense, served well as subsidiary instruments, but not as the main operative agent in man's development; for technics has never till our own age dissociated itself from the larger cultural whole in which man, as man, has always functioned. The classic Greek term 'tekhne' characteristically makes no distinction between industrial production and 'fine' or symbolic art; and for the greater part of human history these aspects were inseparable, one side respecting the objective conditions and functions, the other responding to subjective needs.
-
-# -----
-
-# The irrational factors that have sometimes constructively prompted, yet too often distorted, man's further development became plain at the moment when the formative elements in paleolithic and neolithic cultures united in the great cultural implosion that took place around the Fourth Millennium B.C.: what is usually called 'the rise of civilization.' The remarkable fact about this transformation technically is that it was the result, not of mechanical inventions, but of a radically new type of social organization: a product of myth, magic, religion, and the nascent science of astronomy. This implosion of sacred political powers and technological facilities cannot be accounted for by any inventory of the tools, the simple machines, and the technical processes then available. Neither the wheeled wagon, the plow, the potter's wheel, nor the military chariot could of themselves have accomplished the mighty transformations that took place in the great valleys of Egypt, Mesopotamia, and India, and eventually passed, in ripples and waves, to other parts of the planet.
-
-# The study of the Pyramid Age I made in preparation for writing 'The City in History' unexpectedly revealed that a close parallel existed between the first authoritarian civilizations in the Near East and our own, though most of our contemporaries still regard modern technics, not only as the highest point in man's intellectual development, but as an entirely new phenomenon. On the contrary, I found that what economists lately termed the Machine Age or the Power Age, had its origin, not in the so-called Industrial Revolution of the eighteenth century, but at the very outset in the organization of an archetypal machine composed of human parts.
-
-# Two things must be noted about this new mechanism, because they identify it throughout its historic course down to the present. The first is that the organizers of the machine derived their power and authority from a heavenly source. Cosmic order was the basis of this new human order. The exactitude in measurement, the abstract mechanical system, the compulsive regularity of this 'megamachine,' as I shall call it, sprang directly from astronomical observations and scientific calculations. This inflexible, predictable order, incorporated later in the calendar, was transferred to the regimentation of the human components. As against earlier forms of ritualized order, this mechanized order was external to man. By a combination of divine command and ruthless military coercion, a large population was made to endure grinding poverty and forced labor at mind-dulling repetitive tasks in order to insure "Life, Prosperity, and Health" for the divine or semi-divine ruler and his entourage.
-
-# The second point is that the grave social defects of the human machine were partly offset by its superb achievements in flood control and grain production, which laid the ground for an enlarged achievement in every area of human culture: in monumental art, in codified law, in systematically pursued and permanently recorded thought, in the augmentation of all the potentialities of the mind by the assemblage of a varied population, with diverse regional and vocational backgrounds in urban ceremonial centers. Such order, such collective security and abundance, such stimulating cultural mixtures were first achieved in Mesopotamia and Egypt, and later in India, China, Persia, and in the Andean and Mayan cultures: and they were never surpassed until the megamachine was reconstituted in a new form in our own time. Unfortunately these cultural advances were largely offset by equally great social regressions.
-:end:
 
 # We, like Connie, live at a crux, poised between two futures.
 
@@ -2899,36 +2906,9 @@ kombucha brewing
 # “Techne” derives from the Indo-European root “tek ” which accordin to Porkorny, means "to fit together the woodwork of a woven house." I(iibe concludes that “in its original form techne probably means the build- ing of a house which was woven together from trunks and twigs and was erected by the family or tribe in a communal effort.“ As social life became more settled, the need for building skills increased. As the division of labor: progressed, the work of building houses was no longer left to families It became the province of a specialized (in Gould’s words a “com arativel rare”) individual: the tektén, the “woodworker.” “Techne ” i: its re): Homeric meaning, came to refer to the knowledge or skill of fhe tekténp he who produces something from wood. [[citep:roochnik_art_1996][p. 19]]
 # #+END_QUOTE
 
-
-
-
-
 # One might ask, reasonably, what advantage lies in considering close reading, carpentry, kombucha brewing, gardening, oragami, cooking, or meditation as technologies, or alongside those activities we currently designate as technology.
 
 
-
-
-
-
-
-
-
-# uncultivation cider brennan stuff
-:notes:
-# Half forest, half orchard, the forchard was meant to be a place where apple trees can live independent from my un-green thumb.
-
-# ...
-
-# Yet wild apple trees have profound spiritual, emotional, and companionship value to anyone who escapes the pressures of keeping up, and at the physical level they offer food to animals (and to people who have been spit out from that economy). Aside from free fruit, I personally can trace much of my inspiration, many of my ideas, and many of my insights to simply being with wild apple trees. I place their highest value in the pricelessness of companionship. In this sense wild apple trees live in other economies, ones that prioritize beauty, uniqueness, nutrition, taste—just to name just a few things that are often in direct conflict with a growing financial economy.
-
-# ...
-
-# Nonetheless I’m very uneasy about pinning my hopes on anything connected to a financial economy dependent on growth. After all, some things cannot be scaled up. Imagine, for example, assigning a dollar value to the love of two newlyweds and then insisting that their marriage keep pace with the growing economy for 60 years! Love, wonder, true art, inspiration—all these things are about the intimacy of direct relationships; they exist in unscalable worlds, and it’s in those worlds that wild apples have their highest value. So I’m hoping to keep wild apple trees and artisan cider independent of the pressures of conformity. In fact, neither the wild nor true art would continue to be themselves if they were in any way compromised.
-
-# ...
-
-# To belabor this point: Independence is the most important thing I could cultivate (or uncultivate) in the forchard.
-:end:
 
 
 
@@ -2982,9 +2962,9 @@ kombucha brewing
 
 # use this stuff maybe
 :notes:
-My purpose, here and in this project, is not to say that we need more craft and less technology, or to engage the usual, unfortunately now quotidian forms of antitechnological resistance—retreat and abstention or disruption and destruction. That story, it seems to me, is written, and the genie rarely reenters the bottle. Technology, too often, is as Dickens wrote, "[t]he power that forced itself upon its iron way--its own--defiant of all paths and roads, piercing through the heart of every obstacle, and dragging living creatures of all classes, ages, and degrees behind it" [[citep:dickens_dombey_1848][p. 311]]. Technology, like culture, is mimetic, heedlessly spreading, moving forward, from mind to mind. Just as culture cannot be fought with anti-culture, but must be fought with more culture, we cannot fight technology with anti-technology. We must decide, then, how to steal the Promethean fire with which to fight fire.
+# My purpose, here and in this project, is not to say that we need more craft and less technology, or to engage the usual, unfortunately now quotidian forms of antitechnological resistance—retreat and abstention or disruption and destruction. That story, it seems to me, is written, and the genie rarely reenters the bottle. Technology, too often, is as Dickens wrote, "[t]he power that forced itself upon its iron way--its own--defiant of all paths and roads, piercing through the heart of every obstacle, and dragging living creatures of all classes, ages, and degrees behind it" [[citep:dickens_dombey_1848][p. 311]]. Technology, like culture, is mimetic, heedlessly spreading, moving forward, from mind to mind. Just as culture cannot be fought with anti-culture, but must be fought with more culture, we cannot fight technology with anti-technology. We must decide, then, how to steal the Promethean fire with which to fight fire.
 
-If "technology" evokes application of knowledge in service of control and domination, what terms, what forms and models, are left to us? By rights, technology should be a broader, more encompassing term, yet it is difficult to rally around a more holistic vision of technology when an unhuman Technology™ strives always to take its place in discourse. 
+# If "technology" evokes application of knowledge in service of control and domination, what terms, what forms and models, are left to us? By rights, technology should be a broader, more encompassing term, yet it is difficult to rally around a more holistic vision of technology when an unhuman Technology™ strives always to take its place in discourse. 
 :end:
 
 
@@ -3006,8 +2986,6 @@ If "technology" evokes application of knowledge in service of control and domina
 # #+END_QUOTE
 
 # , Taken individually, however, none of these terms approach 
-
-
 
 # poetic doomsaying
 :notes:
@@ -3052,18 +3030,18 @@ Yet, generation Z is often on the receiving end of criticism for the amount of t
 # Around her kitchen she would sing and dance, she would sing love songs to the cucarachas and the chinces, her chinces! Her life that had felt so threadbare now spread out like a full red velvet rose—the rose that Claud had once brought her, loving it for its silkiness, its fragrance, and not knowing it was dark red Her ordinary penny-pinching life appeared to her full beyond the possibility of savoring every moment. A life crammed overflowing with aromas of coffee, of dope smoke in hallways, of refried cooking oil as she climbed the stairs of her tenement, of the fragrance of fresh-cut grass and new buds in Central Park. Sidewalk vendors. Cuchifritos. The spring rhythm of conga drums through the streets.
 :end:
 
-- describe good future
-- describe bad future
-- the crux of the feature is technological
-- in one, the technology serves people. in the other, technology is a means of control
-- one society is flat, the other is vertical
-- like connie, we occupy a space between two conflicting futures
-- it is not that these futures are possible. it's that they are here but exist as local conditions. "The futures are already here—they're just not very evenly distributed."
-- what is the bad future? people have called it by many names, depending on what aspect is focused on. empire, the invisible discipline, the stack. I prefer the unhuman.
-- what does the good future look like? it looks like local community, like self-determination, like the technology is the putty. we should not be the putty.
-- the aim of this project is to attend to the locus of interaction, the places where the individual encounters the environment or the small group encounters the society.
-- negotation
-- haccessibility
+# - describe good future
+# - describe bad future
+# - the crux of the feature is technological
+# - in one, the technology serves people. in the other, technology is a means of control
+# - one society is flat, the other is vertical
+# - like connie, we occupy a space between two conflicting futures
+# - it is not that these futures are possible. it's that they are here but exist as local conditions. "The futures are already here—they're just not very evenly distributed."
+# - what is the bad future? people have called it by many names, depending on what aspect is focused on. empire, the invisible discipline, the stack. I prefer the unhuman.
+# - what does the good future look like? it looks like local community, like self-determination, like the technology is the putty. we should not be the putty.
+# - the aim of this project is to attend to the locus of interaction, the places where the individual encounters the environment or the small group encounters the society.
+# - negotation
+# - haccessibility
 - 
 
 :notes:
@@ -3095,12 +3073,6 @@ Yet, generation Z is often on the receiving end of criticism for the amount of t
 
 # Throughout the novel, Connie is, by turns, physically injured, insulted, and ignored at the hands of authority figures—social workers, mental ward attendants, doctors, and police. Yet perhaps most galling for her is the denial of autonomy over her immediate physical and social space, a betrayal not only of a connection to a wider community but also the immediate and necessary circumstances of life.
 :end:
-
-
-
-
-
-
 
 * sort
 
