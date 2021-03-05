@@ -2702,7 +2702,7 @@ One might ask, then, how one might scale the unscalable. How can the Abstraction
 #+BEGIN_QUOTE
 Contrast the matsutake forest: unlike sugarcane clones, matsutake make it evident that they cannot live without transformative relations with other species. Matsutake mushrooms are the fruiting bodies of an underground fungus associated with certain forest trees. The fungus gets its carbohydrates from mutualistic relations with the roots of its host trees, for whom it also forages. Matsutake make it possible for host trees to live in poor soils, without fertile humus. In turn, they are nourished by the trees. This transformative mutualism has made it impossible for humans to cultivate matsutake. ... Matsutake resist the conditions of the plantation. [[citep:tsing_mushroom_2015][p. 40]]
 #+END_QUOTE
-Tsing offers a contrast between the plantation, emblematic of rigid homogeneity, exploitative relationships, and oppressive design, and the matsutake forest, in which complex interrelationships facilitate growth and creation that does not survive the abstraction to scale. These mushrooms grow only in uncultivated places. To the extent that commercial forces wish to extract these mushrooms as resources, they must preserve intact the web of local relationships that make their existence possible. This kind of mutuality, therefore, makes it more costly to exploit or destroy the local by rendering it legible to the universal.
+Tsing offers a contrast between the plantation, emblematic of rigid homogeneity, exploitative relationships, and oppressive design, and the matsutake forest, in which complex interrelationships facilitate growth and creation that does not survive abstraction to scale. These mushrooms grow only in uncultivated places. To the extent that commercial forces wish to extract these mushrooms as resources, they must preserve intact the web of local relationships that make their existence possible. This kind of mutuality, therefore, makes it more costly to exploit or destroy the local by rendering it legible to the universal.
 
 While preserving existing interdependent local complexity is crucial, it is also possible to cultivate uncultivated spaces. Cider brewer [fn:brewing] and orchardist Andy Brennan has developed a philosophy around the cultivation of feral orchards, or orchards that were once cultivated that have reasserted themselves as autonomous.
 
@@ -2711,13 +2711,41 @@ I’m very uneasy about pinning my hopes on anything connected to a financial ec
 #+END_QUOTE
 There is a tragedy to mass cultivation of apples. Apples are the most sprayed crop, and in cultivated orchards they stand, cloned, grafted to alien rootstock for survival. In the wild, or in a feral orchard, however, they are transformed into hardy and long-lived trees. Apple trees are naturally social, and do best at the edges of forests and in other locations where that can be with trees of other species. They attract and feed a diverse array of creatures. Heterozygous, all apple trees produce unique fruit, so every uncultivated apple tree encountered represents a new strain of apple.
 
-Extractative systems, including the Abstraction, are powerful engines, but in their artificiality there is an element of fragility. Often, they are forced to take longcuts where shortcuts might do. By encircling so much, by growing large, they become unaware of knowledge at the level of the local. By acting at scale, by coordinating the effort of many from above, they lose the ability to act simply. While there is a tailwind to be found by reaching up into the Abstraction to take advantage of centralizing trends, those working locally may be able to walk to where the Abstraction could visit only by building a highway. By cultivating thickets, dense webs of interdependent relationships, we obscure our work from above and protect spaces from whence further resistance might grow.
+Extractative systems, including the Abstraction, are powerful engines, but in their artificiality there is an element of fragility. Often, they are forced to take longcuts where shortcuts might do. By encircling so much, by growing large, they become unaware of knowledge at the level of the local. By acting at scale, by coordinating the effort of many from above, they lose the ability to act simply. While there is a tailwind to be found by reaching up into the Abstraction to take advantage of centralizing and extractative trends, those working locally may be able to walk to where the Abstraction could visit only by building a highway. By cultivating thickets, dense webs of interdependent relationships, we obscure our work from above and protect spaces from whence further resistance might grow. Though growing literal thickets has its benefits [fn:no-mo], seeding various forms of richly interdependent community can preempt enclosure by abstractative forces. Wikipedia provides an example of one such thicket. Its presence makes economically unviable various forms of knowledge aggregation and resale, and its dense ecosystem of community relationships raises the cost of cooptation.
 
-Though growing real thickets is recommended, seeding systems in which participants have agency can preempt exploitative development. 
+Another way to seed resistant local communities is through the encouragement of technologies, or techne, that naturally move users from passive consumption to active creation. Certain technologies do this almost inadvertently. For example, the early social media site MySpace has been credited for providing a path for young women into coding, since it required knowledge of HTML and CSS for more advanced customization of a profile.
+
+#+BEGIN_QUOTE
+After high school Dalia made her own online shop, where she sold things like band pins and earrings, and that's when her MySpace skills came in handy. "I was doing the website and there were things that would bug me ... so I started to just go into the code and see a lot of the HTML and CSS that I had learned before. And from there I learned JavaScript." citep:hinojosa_tech_2016
+#+END_QUOTE
+Though MySpace was a commercial platform and, in many or most respects, quite restrictive in use of the platform, it did encourage the development of skills that might be used to develop alternative spaces. Other systems, such as Apple's HyperCard, had a similar influence, and the web abounds with stories of those who learned computers, or programming, in this manner.
+
+#+BEGIN_QUOTE
+a child, I struggled to pick up programming. My brain didn’t think abstractly enough at the time. ... Programming didn’t click with my artistic mind. ... I instantly fell in love with HyperCard. ... I spent hours upon hours building little HyperCard decks, teaching myself their programing (sic)language called HyperTalk, and mostly just drawing citep:freeman_hypercard_2020
+#+END_QUOTE
+Though technologies such as MySpace, HyperCard, and Flash are proprietary and, therefore, do not provide certain essential freedoms to their users, they do have some properties of what J. Ryan Stinnett and Konrad Hinsen call malleable systems and which Adam Wiggins has called end-user programming. Malleable systems, according to Stinnett and Hinsen, follow a number of principles. They should be easy to change, enable arbitrary reuse, have open-ended potential, allow users to retain ownership and control, facilitate free sharing, permit modification in the course of use, and be thoughtfully crafted citep:stinnett_mission_2019. End-user programming, in turn, embraces the principles of embodiment, meaning that system logic is transparent in the interface; in-place modification , meaning that a separate tool or environment is not needed for making changes; and living system, meaning that the time between making a tweak and seeing results is as close to immediate as possible citep:wiggins_end-user_2019.
+
+
+
+
+
+J. Ryan Stinnett
+
+
+
+
+
+
+
+, seeding systems in which participants have agency can preempt exploitative development. 
 
 - wikipedia
 - malleable systems
 
+[fn:no-mo] XXX
+
+
+# !!! END FOOTNOTE
 
 
 Heterozygous
@@ -2726,7 +2754,7 @@ Heterozygous
 
 
 
-[fn:brewing] The author may or may not have brewed 13.5 gallons of cider in his New York apartment during the writing of this chapter. In addition, ten apple pies may or may not have been baked.
+[fn:brewing] The author of this dissertation may or may not have brewed 13.5 gallons of cider in his New York apartment during the writing of this chapter. In addition, ten apple pies may or may not have been baked.
 
 
 # !!!! END FOOTENOTE
