@@ -2713,59 +2713,67 @@ There is a tragedy to mass cultivation of apples. Apples are the most sprayed cr
 
 Extractative systems, including the Abstraction, are powerful engines, but in their artificiality there is an element of fragility. Often, they are forced to take longcuts where shortcuts might do. By encircling so much, by growing large, they become unaware of knowledge at the level of the local. By acting at scale, by coordinating the effort of many from above, they lose the ability to act simply. While there is a tailwind to be found by reaching up into the Abstraction to take advantage of centralizing and extractative trends, those working locally may be able to walk to where the Abstraction could visit only by building a highway. By cultivating thickets, dense webs of interdependent relationships, we obscure our work from above and protect spaces from whence further resistance might grow. Though growing literal thickets has its benefits [fn:no-mo], seeding various forms of richly interdependent community can preempt enclosure by abstractative forces. Wikipedia provides an example of one such thicket. Its presence makes economically unviable various forms of knowledge aggregation and resale, and its dense ecosystem of community relationships raises the cost of cooptation.
 
+[fn:brewing] The author of this dissertation may or may not have brewed 13.5 gallons of cider in his New York apartment during the writing of this chapter. In addition, ten apple pies may or may not have been baked.
+
+
+# !!!! END FOOTENOTE
+
 Another way to seed resistant local communities is through the encouragement of technologies, or techne, that naturally move users from passive consumption to active creation. Certain technologies do this almost inadvertently. For example, the early social media site MySpace has been credited for providing a path for young women into coding, since it required knowledge of HTML and CSS for more advanced customization of a profile.
 
 #+BEGIN_QUOTE
 After high school Dalia made her own online shop, where she sold things like band pins and earrings, and that's when her MySpace skills came in handy. "I was doing the website and there were things that would bug me ... so I started to just go into the code and see a lot of the HTML and CSS that I had learned before. And from there I learned JavaScript." citep:hinojosa_tech_2016
 #+END_QUOTE
-Though MySpace was a commercial platform and, in many or most respects, quite restrictive in use of the platform, it did encourage the development of skills that might be used to develop alternative spaces. Other systems, such as Apple's HyperCard, had a similar influence, and the web abounds with stories of those who learned computers, or programming, in this manner.
+Though MySpace, as a commercial platform, tended to be restrictive in its use, it did encourage the development of skills that might be used to develop alternative spaces. Other systems, such as Apple's HyperCard, had a similar influence, and the web abounds with stories of those who learned computers, or programming, after discovering it on early Macs.
 
 #+BEGIN_QUOTE
 a child, I struggled to pick up programming. My brain didn’t think abstractly enough at the time. ... Programming didn’t click with my artistic mind. ... I instantly fell in love with HyperCard. ... I spent hours upon hours building little HyperCard decks, teaching myself their programing (sic)language called HyperTalk, and mostly just drawing citep:freeman_hypercard_2020
 #+END_QUOTE
-Though technologies such as MySpace, HyperCard, and Flash are proprietary and, therefore, do not provide certain essential freedoms to their users, they do have some properties of what J. Ryan Stinnett and Konrad Hinsen call malleable systems and which Adam Wiggins has called end-user programming. Malleable systems, according to Stinnett and Hinsen, follow a number of principles. They should be easy to change, enable arbitrary reuse, have open-ended potential, allow users to retain ownership and control, facilitate free sharing, permit modification in the course of use, and be thoughtfully crafted citep:stinnett_mission_2019. End-user programming, in turn, embraces the principles of embodiment, meaning that system logic is transparent in the interface; in-place modification , meaning that a separate tool or environment is not needed for making changes; and living system, meaning that the time between making a tweak and seeing results is as close to immediate as possible citep:wiggins_end-user_2019.
+Though technologies such as MySpace, HyperCard, and Flash are proprietary and, therefore, do not provide certain essential freedoms to their users, they do have some properties of what J. Ryan Stinnett and Konrad Hinsen call malleable systems and which Adam Wiggins has called end-user programming. Malleable systems, according to Stinnett and Hinsen, follow a number of principles. They should be easy to change, enable arbitrary reuse, have open-ended potential, allow users to retain ownership and control, facilitate free sharing, permit modification in the course of use, and be thoughtfully crafted citep:stinnett_mission_2019. End-user programming, in turn, embraces the principles of embodiment, meaning that system logic is transparent in the interface; in-place modification , meaning that a separate tool or environment is not needed for making changes; and living system, meaning that the time between making a tweak and seeing results is as close to immediate as possible citep:wiggins_end-user_2019. According to Stinnett and Hinsen, greatest interest in malleable systems peaked in the 1970s and 1980s with Lisp machines and the Xerox Alto. On both these systems, all elements of the computer, including the interface, could be trivially customized, without even the necessity of restarting the computer to propagate changes. While some popular systems, such as WordPress, have a few elements of malleable systems, in general the full capabilities of malleable systems have not been explored. Malleable systems are, in a sense, haccessible—that is, they make relatively straightforward the kinds of customization for accessibility that can only be achieved with great difficulty. By investing in the creation of malleable systems, we can allow the development of community infrastructure in ways that are impossible to anticipate, and we can also further capabilities and knowledge in individuals and groups that are commonly left out of more conventional approaches to making and building.
+
+Malleable systems are one potential avenue for what, in this chapter, I have called techne, or technology that increases autonomy rather than serving to disempower and exploit. If "tech" represents a specific playbook—leverage cheap capital to outspend and outgrow competitors, , exploit community cohesion as network effects, employ dark patterns to steer users to desired behaviors and outcomes—then it is past time to develop a coherent playbook for the creation of technology that relinquishes control to individuals and small groups. Starting points for explorations of techne in the realm of bits might be the free and open source software movements discussed in Chapter Two, the subversive and joyfully brutalist websites of underground artists such as porpentine, or the infrastructural adaptability of the lay hermaneutic communities discussed in Chapter Four. 
+
+However, techne cannot and should not be confined to the digital. In recognizing and furthering techne, we should place emphasis on the cultivation and incorporation of manual and domestic disciplines such as herbalism, carpentry, cooking, brewing, mechanics, and knitting. Like the internal and external martial arts and movement disciplines such as parkour, running, and buildering, traditional and modern manual and domestic disciplines are essential for building local community and drive advocacy for the preservation and expansion of common spaces. These disciplines also allow the independent development and maintenance of local infrastructure, are key to encouraging physical and mental health, and, historically, have inspired forms of political Resistance. [fn:political-resistance] This form of practice, in which coding, engineering, and traditional manual disciplines are blurred, exists in some specialist communities such as makerspaces. Creating new physical and digital spaces for gathering, learning, and building, and democratizing existing specialist spaces, suggest one way forward for a techne with potential to reverse a daunting trend toward abstraction and alienation.
+
+[fn:political-resistance] The development of many, perhaps even most, martial arts can be linked to political resistance. Capoeira, for example, was developed by enslaved Africans in Brazil, and incorporates movements that resemble dance to facilitate training in secret. Other physical disciplines such as night climbing, or the scaling of buildings under cover of darkness, can be considered forms of civil disobedience. The manual discipline of lockpicking is so commonly practiced among computer hackers that almost every major conference on computer security hosts sessions on it.
 
 
-
-
-
-J. Ryan Stinnett
-
-
-
-
-
-
-
-, seeding systems in which participants have agency can preempt exploitative development. 
-
-- wikipedia
-- malleable systems
+# !!! END FOOTENOTE
 
 [fn:no-mo] XXX
 
 
 # !!! END FOOTNOTE
 
+This chapter has outlined a process, system or entity, the Abstraction, composed in part of dynamics and trends that incentivize alienation from community, prediction for profit, the modeling and manipulation of populations, and the replacement of local autonomy with control from above. We have also considered the Abstraction as undermining narratives that enable useful political action—as we explored in Chapter Three, certain kinds of complexity resist the formation of galvanizing or coordinating stories. While we have examined some suggestive ways forward, one may reasonably look at local effort, local approaches based on local knowledge, as fundamentally paltry. How can our little work, undertaken with our little understanding, challenge an energetic, global, and centralized leviathan? How can we, in our smallness, confront a construct that has engulfed the world in its totality? Should not we fight size with size, scale with scale, control with control? To defeat the Abstraction, must we not raise another, new and perfect and of our own design?
 
-Heterozygous
+We should not embrace the thinking of the Abstraction in order to resist it. While we cannot truly understand the entirety of the system that encloses us, this lack of understanding works both ways. Systems at scale will never truly understand the local. Just as we find ourselves subject to random acts of postmodernity as the Abstraction finds purchase, ideas of small origin cannot be fully anticipated or incorporated into the models built to predict our thoughts and actions. The map is not the territory, and we are the smudged lines that mark the secret places.
 
-
-
-
-
-[fn:brewing] The author of this dissertation may or may not have brewed 13.5 gallons of cider in his New York apartment during the writing of this chapter. In addition, ten apple pies may or may not have been baked.
-
-
-# !!!! END FOOTENOTE
+It may seem that our actions are futile against the scale of the system that stands against us. This is a reasonable fear. Most of our efforts , almost by definition, will be wasted. The Abstraction is vast and strong. A given individuals contribution has never been so meaingless. It may be true that any given contribution is meaningless. And yet—/the specific contribution, the one that makes a difference, has never been so meaningful/. 
 
 
 
+The challenge is great. Yet we may find that we are equal to it.
 
-talk about ferality
-if the garden is too rigid, perhaps we shojuldn't just replace it with one we like better. let to go wild
-malleable systems 
 
+Some little flame
+A smallness that is vast
+
+
+
+
+
+
+
+
+
+but it may be that we are equal to it
+
+# We, like Connie, live at a crux, poised between two futures.
+
+
+
+
+# !!! END FOOTNOTE
 
 
 
@@ -2811,7 +2819,7 @@ malleable systems
 
  # If this is the case, if you are privelaged enough to have some little latitude, then speak, write, organize, and build in ways that allow autonomy, rather than exert control. A few approaches are suggested by prior chapters in this projects. 
 
-A given individuals contribution has never been so meaingless. And yet the specific contributuion, the one that makes a difference, has never been so meaningful.
+
 
 # act and trust
 # we must act, but not control
@@ -2822,15 +2830,13 @@ A given individuals contribution has never been so meaingless. And yet the speci
 # write, speak, and build, but in ways that effect change but also relinquish control
 
 
-things take on a life of their own
+# things take on a life of their own
 
-traditionally trancendental
+# traditionally trancendental
 
-power encourages top-down thinking
+# power encourages top-down thinking
 
-there is hope.
-
------
+# there is hope.
 
 # There is a sense in which it does not matter, for purposes of negotiation, whether the Abstraction as presented—agentic, fully interconnected, antithetical—is a literal reality. For societies, cultures, and biomes, especially considered over longer time frames, it does, of course, matter whether there is an entity resembling the Abstraction, as does the specific nature of such an entity. 
 
@@ -2848,15 +2854,13 @@ there is hope.
 
 # these platforms are a teeming environment for the development and propagation of novel memes and memeplexes. 
 
-If a piece of "content" has some measurable 
-
 # difficulty of predictability
 # a loss of a shared vision for the future
 # rapid emergence of novel memoplexes
 
-what did we lose when we lost the stars
+# what did we lose when we lost the stars
 
-the one universal obscures the many
+# the one universal obscures the many
 
 # agaia accelerated gaia or anti-gaia
 # suggestive in the same semi-deceptive way that gaia is named
@@ -2865,8 +2869,6 @@ the one universal obscures the many
 
 # unpredictable 
 # unknowability of direction is itself part of the infosphere, and accelerates some trends while slowing others
-
-# conceiving of our cultural geosphere as the abstraction suggests not only a big scary thing, but also that small changes can have an outside influence
 
 # https://lareviewofbooks.org/article/bruno-latour-tracks-down-gaia/
 
@@ -2877,10 +2879,6 @@ the one universal obscures the many
 # https://books.google.com/books?id=8erBAgAAQBAJ&pg=PA118&dq=There+was+a+time,+when+the+earth+was+to+all+appearance+utterly+destitute+both+of+animal+and+vegetable+life,+and+when+according+to+the+opinion+of+our+best+philosophers+it+was+simply+a+hot+round+ball+with+a+crust+gradually+cooling.+Now+if+a+human+being+had+existed+while+the+earth+was+in+this+state+and+had+been+allowed+to+see+it+as+though+it+were+some+other+world+with+which+he+had+no+concern,+and+if+at+the+same+time+he+were+entirely+ignorant+of+all+physical+science,+would+he+not+have+pronounced+it+impossible+that+creatures+possessed+of+anything+like+consciousness+should+be+evolved+from+the+seeming+cinder+which+he+was+beholding?+Would+he+not+have+denied+that+it+contained+any+potentiality+of+consciousness?+Yet+in+the+course+of+time+consciousness+came.+Is+it+not+possible+then+that+there+may+be+even+yet+new+channels+dug+out+for+consciousness,+though+we+can+detect+no+signs+of+them+at+present?&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwj6wc3bot3sAhUhVt8KHQigBsEQ6AEwA3oECAQQAg#v=onepage&q=There%20was%20a%20time%2C%20when%20the%20earth%20was%20to%20all%20appearance%20utterly%20destitute%20both%20of%20animal%20and%20vegetable%20life%2C%20and%20when%20according%20to%20the%20opinion%20of%20our%20best%20philosophers%20it%20was%20simply%20a%20hot%20round%20ball%20with%20a%20crust%20gradually%20cooling.%20Now%20if%20a%20human%20being%20had%20existed%20while%20the%20earth%20was%20in%20this%20state%20and%20had%20been%20allowed%20to%20see%20it%20as%20though%20it%20were%20some%20other%20world%20with%20which%20he%20had%20no%20concern%2C%20and%20if%20at%20the%20same%20time%20he%20were%20entirely%20ignorant%20of%20all%20physical%20science%2C%20would%20he%20not%20have%20pronounced%20it%20impossible%20that%20creatures%20possessed%20of%20anything%20like%20consciousness%20should%20be%20evolved%20from%20the%20seeming%20cinder%20which%20he%20was%20beholding%3F%20Would%20he%20not%20have%20denied%20that%20it%20contained%20any%20potentiality%20of%20consciousness%3F%20Yet%20in%20the%20course%20of%20time%20consciousness%20came.%20Is%20it%20not%20possible%20then%20that%20there%20may%20be%20even%20yet%20new%20channels%20dug%20out%20for%20consciousness%2C%20though%20we%20can%20detect%20no%20signs%20of%20them%20at%20present%3F&f=false
 :end:
 
-
-
-
-# We, like Connie, live at a crux, poised between two futures.
 
 
  Many have attempted to place their finger on this force, this process or entity. For Hardt and Negri, it was /Empire/. For Benjamin H. Bratton, it is /The Stack/. For Herbert Marcuse, it was the one-dimensional or technological society [[citep:marcuse_one-dimensional_2002][p. 50]]. For Neil Postman, it was /technopoly/. My own colleague at the Graduate Center, Erin Glass, has described it, in the context of the academy, as the /invisible discipline/. XXX Though those who attempt to identify and define it each have a different sense of its shape, its scale, and its ends, there is a general sense that it is technocratic and technological—that is, comprising within itself systems of both humans and machines. There is also a sense that it is impersonal and encompassing—international or global in scope. In this project, I'll call this thing—this presence or process or entity—the /unhuman/. In using negation to identify it, I invoke humanity, a concept both elevated and workaday and also acknowledge that I am incapable of precisely, or even imprecisely, defining it.
@@ -2910,8 +2908,9 @@ the one universal obscures the many
 
 # intro-like stuff (not needed)
 :notes:
+
 # adaptive technology of prosthetics
-https://www.newamerica.org/weekly/adaptive-technology-prosthetics/ 
+# https://www.newamerica.org/weekly/adaptive-technology-prosthetics/ 
 
 
 # There is a precipitous verticality to the structure and language of this machine-dominated present. Benjamin H. Bratton acknowledges this in adopting an inherently vertical term to describe an emerging political geography that "draws on the multilayered structure of software, hardware, and network 'stacks' that arrange different technologies vertically within a modular, interdependent order" citep:bratton_stack:_2016. Verticality, a height that exceeds our reach, also provides a dimension along which to think about whether technology is within our control or whether we are in the control of technology. In /Woman on the Edge of Time/, when Connie first steps into Luciente's future, she envisions a world of dominating, thrusting structures: "[r]ocket ships, skyscrapers into the stratosphere, an underground mole world miles deep." Instead, the structures she does encounter are personal and broadly accessible, horizontal rather than vertical: "[a]rm in arm they strolled toward the meetinghouse, a building long and low like a loaf of bread." We see this distinction, too, in Connie's present. While part of her vision of freedom is "a TV set that she could turn on and off and tune to whatever program she wanted to watch," part of the indignity of the mental hospital is a lack of this kind of control over her environment: "[w]omen ... were sitting vacantly along the walls or staring at the television set placed up on a shelf where no one could reach it to change the station or alter the volume level." For these incarcerated women, technology is situated outside, literally above, their control. In this increasingly present future, technology is not something that we participate in as equals. More and more, it is something that happens to us.
@@ -2927,8 +2926,8 @@ https://www.newamerica.org/weekly/adaptive-technology-prosthetics/
 		CLOSED: [2021-03-01 Mon 16:29]
 *************** end
 
-base conditions, scientific techhology, mean that the pool can be polluted, and it matters who get sto what first
-kombucha brewing
+
+
 
 # #+BEGIN_QUOTE
 # “Techne” derives from the Indo-European root “tek ” which accordin to Porkorny, means "to fit together the woodwork of a woven house." I(iibe concludes that “in its original form techne probably means the build- ing of a house which was woven together from trunks and twigs and was erected by the family or tribe in a communal effort.“ As social life became more settled, the need for building skills increased. As the division of labor: progressed, the work of building houses was no longer left to families It became the province of a specialized (in Gould’s words a “com arativel rare”) individual: the tektén, the “woodworker.” “Techne ” i: its re): Homeric meaning, came to refer to the knowledge or skill of fhe tekténp he who produces something from wood. [[citep:roochnik_art_1996][p. 19]]
@@ -3026,12 +3025,12 @@ kombucha brewing
 
 # (mis)uses of the word technology
 :notes:
-The Generation That Doesn't Remember Life Before Smartphones
-https://www.popularmechanics.com/technology/a17931/technology-american-teenager/
-- You hear two opinions from experts on the topic of what happens when kids are perpetually exposed to technology.
+# The Generation That Doesn't Remember Life Before Smartphones
+# https://www.popularmechanics.com/technology/a17931/technology-american-teenager/
+# - You hear two opinions from experts on the topic of what happens when kids are perpetually exposed to technology.
 
-https://www.popularmechanics.com/technology/a17931/technology-american-teenager/
-Yet, generation Z is often on the receiving end of criticism for the amount of time they spend using technology.
+# https://www.popularmechanics.com/technology/a17931/technology-american-teenager/
+# Yet, generation Z is often on the receiving end of criticism for the amount of time they spend using technology.
 :end:
 
 # the bad future
