@@ -2746,34 +2746,15 @@ However, techne cannot and should not be confined to the digital. In recognizing
 
 This chapter has outlined a process, system or entity, the Abstraction, composed in part of dynamics and trends that incentivize alienation from community, prediction for profit, the modeling and manipulation of populations, and the replacement of local autonomy with control from above. We have also considered the Abstraction as undermining narratives that enable useful political action—as we explored in Chapter Three, certain kinds of complexity resist the formation of galvanizing or coordinating stories. While we have examined some suggestive ways forward, one may reasonably look at local effort, local approaches based on local knowledge, as fundamentally paltry. How can our little work, undertaken with our little understanding, challenge an energetic, global, and centralized leviathan? How can we, in our smallness, confront a construct that has engulfed the world in its totality? Should not we fight size with size, scale with scale, control with control? To defeat the Abstraction, must we not raise another, new and perfect and of our own design?
 
-We should not embrace the thinking of the Abstraction in order to resist it. While we cannot truly understand the entirety of the system that encloses us, this lack of understanding works both ways. Systems at scale will never truly understand the local. Just as we find ourselves subject to random acts of postmodernity as the Abstraction finds purchase, ideas of small origin cannot be fully anticipated or incorporated into the models built to predict our thoughts and actions. The map is not the territory, and we are the smudged lines that mark the secret places.
+We should not embrace the thinking behind the Abstraction in order to resist it. While we cannot truly understand the entirety of the system that encloses us, this lack of understanding works both ways. Systems at scale will never truly understand the local. Just as we find ourselves subject to random acts of postmodernity as the Abstraction finds purchase, ideas of small origin cannot be fully anticipated or incorporated into the models built to predict our thoughts and actions. The map is not the territory, and we are the smudged lines that mark the secret places.
 
-It may seem that our actions are futile against the scale of the system that stands against us. This is a reasonable fear. Most of our efforts , almost by definition, will be wasted. The Abstraction is vast and strong. A given individuals contribution has never been so meaingless. It may be true that any given contribution is meaningless. And yet—/the specific contribution, the one that makes a difference, has never been so meaningful/. 
+It may seem that our actions are futile against the scale of the system that stands against us. This is a reasonable fear. Most of our efforts , almost by definition, will make little dent in the edifice that encloses us. The Abstraction is vast and strong. A given individuals contribution has never been so meaingless. And yet—the specific contribution, the one that does or will make a difference, has never been so meaningful. In an interconnected world, the right insight, shared at the right time, can seed a new form of community or start a movement. But without preparing the ground—creating thickets, maintaining loacl networks, pushing back against new forms of exploitation—there will be no tinder for a stray spark to ignite.
 
+Like many, I carry around a vision of what the world might be. In this world, the interfaces would talk to each other. The people would talk to each other. We would use computers in ways that fit our bodies and minds. We would read without intermediaries, teach without intermediaries, build without intermediaries. Infrastructure would exist for our adaptation, encouraging creativity over conformity. Our goals, and the texture of our lives, would not be neatly divided between the trivial, that which is anticipated for us, and the impossible. Such a vision for the world, however, cannot be implemented, constructed, or imposed. It must grow. To make the universal serve us,  small and awkward creatures forced to live in fixity, , we must write the book and leave the last page blank. We must create in hope for use, but not in its anticipation.
 
-
-The challenge is great. Yet we may find that we are equal to it.
-
-
-Some little flame
-A smallness that is vast
+As we have seen, the future is always in a process of becoming. We stand at a perpetual crux. We pursue, and seek to create, worlds we cannot contain in the present, worlds for which glimpses are gifts and, we hope, guides. We each carry our own vision. I see it in others as a flame, guttering, perhaps, but with the potential to spread from mind to mind. It illuminates our locality, and in that tight space casts back the Abstraction. In gathering, we create not a sun, but a sky deep with stars, mysterious and bright. And, though the challenge before us is great, we must take seriously the possibility that we are equal to it.
 
 
-
-
-
-
-
-
-
-but it may be that we are equal to it
-
-# We, like Connie, live at a crux, poised between two futures.
-
-
-
-
-# !!! END FOOTNOTE
 
 
 
@@ -2881,7 +2862,7 @@ but it may be that we are equal to it
 
 
 
- Many have attempted to place their finger on this force, this process or entity. For Hardt and Negri, it was /Empire/. For Benjamin H. Bratton, it is /The Stack/. For Herbert Marcuse, it was the one-dimensional or technological society [[citep:marcuse_one-dimensional_2002][p. 50]]. For Neil Postman, it was /technopoly/. My own colleague at the Graduate Center, Erin Glass, has described it, in the context of the academy, as the /invisible discipline/. XXX Though those who attempt to identify and define it each have a different sense of its shape, its scale, and its ends, there is a general sense that it is technocratic and technological—that is, comprising within itself systems of both humans and machines. There is also a sense that it is impersonal and encompassing—international or global in scope. In this project, I'll call this thing—this presence or process or entity—the /unhuman/. In using negation to identify it, I invoke humanity, a concept both elevated and workaday and also acknowledge that I am incapable of precisely, or even imprecisely, defining it.
+ # Many have attempted to place their finger on this force, this process or entity. For Hardt and Negri, it was /Empire/. For Benjamin H. Bratton, it is /The Stack/. For Herbert Marcuse, it was the one-dimensional or technological society [[citep:marcuse_one-dimensional_2002][p. 50]]. For Neil Postman, it was /technopoly/. My own colleague at the Graduate Center, Erin Glass, has described it, in the context of the academy, as the /invisible discipline/. XXX Though those who attempt to identify and define it each have a different sense of its shape, its scale, and its ends, there is a general sense that it is technocratic and technological—that is, comprising within itself systems of both humans and machines. There is also a sense that it is impersonal and encompassing—international or global in scope. In this project, I'll call this thing—this presence or process or entity—the /unhuman/. In using negation to identify it, I invoke humanity, a concept both elevated and workaday and also acknowledge that I am incapable of precisely, or even imprecisely, defining it.
 
 # borg complex: https://thefrailestthing.com/2013/03/01/borg-complex-a-primer/
 # add moloch
@@ -3013,6 +2994,8 @@ but it may be that we are equal to it
 # #+END_QUOTE
 
 # , Taken individually, however, none of these terms approach 
+:end:
+
 
 # poetic doomsaying
 :notes:
@@ -3021,7 +3004,7 @@ but it may be that we are equal to it
 # universal search and the Everything Store
 # chatbots and Snapchats
 # Cloud
-:end:
+:END:
 
 # (mis)uses of the word technology
 :notes:
@@ -3050,6 +3033,8 @@ but it may be that we are equal to it
 # 
 # This book is not about that future, though. It's about the other one.
 
+
+
 # woman at the edge of time quotes
 :notes:
 # How she would celebrate her release! Her dingy two rooms with the toilet in the hall shone in her mind, vast and luxurious after the hospital. Doors she could shut! A toilet with a door! Chairs to sit in, a table of her own to eat on, a TV set that she could turn on and off and tune to whatever program she wanted to watch, her own bed with clean sheets and no stink of old piss. Her precious freedom and privacy!
@@ -3069,7 +3054,7 @@ but it may be that we are equal to it
 # - the aim of this project is to attend to the locus of interaction, the places where the individual encounters the environment or the small group encounters the society.
 # - negotation
 # - haccessibility
-- 
+
 
 :notes:
 
@@ -3101,23 +3086,23 @@ but it may be that we are equal to it
 # Throughout the novel, Connie is, by turns, physically injured, insulted, and ignored at the hands of authority figures—social workers, mental ward attendants, doctors, and police. Yet perhaps most galling for her is the denial of autonomy over her immediate physical and social space, a betrayal not only of a connection to a wider community but also the immediate and necessary circumstances of life.
 :end:
 
-* sort
+# * sort
 
-sure anything like a standard user exists—it was created by companies like apple through persistent and
-clever marketing to convince people they should identify as standard users. by contrast, in the '70s, when
-the computer was not yet very profitable and it was still a niche market item for tinkerers and the curious,
-it was marketed in more philosophical terms. my favorite ad from that era is for logo, a learning-oriented
-programming language. in an issue of byte magazine from 1982 you can find an ad that describes logo
-as "a language for poets, scientists, and philosophers" (logo, 1982). incredible! at this time, computers
-were more about learning and creativity—open-ended learning and creativity.
-"as if" (interview with lori emerson)
+# sure anything like a standard user exists—it was created by companies like apple through persistent and
+# clever marketing to convince people they should identify as standard users. by contrast, in the '70s, when
+# the computer was not yet very profitable and it was still a niche market item for tinkerers and the curious,
+# it was marketed in more philosophical terms. my favorite ad from that era is for logo, a learning-oriented
+# programming language. in an issue of byte magazine from 1982 you can find an ad that describes logo
+# as "a language for poets, scientists, and philosophers" (logo, 1982). incredible! at this time, computers
+# were more about learning and creativity—open-ended learning and creativity.
+# "as if" (interview with lori emerson)
 
 
-"This utopian desire fundamentally counters the idea of the built environment as a commodity product. Rather than a singular output, architectural design becomes a sustained"
+# "This utopian desire fundamentally counters the idea of the built environment as a commodity product. Rather than a singular output, architectural design becomes a sustained"
 
-https://imaginariesofthefuture.files.wordpress.com/2017/11/concreteutopiasintroduction.pdf
+# https://imaginariesofthefuture.files.wordpress.com/2017/11/concreteutopiasintroduction.pdf
 # erros in excel
-http://www.sciencemag.org/news/2016/08/one-five-genetics-papers-contains-errors-thanks-microsoft-excel
+# http://www.sciencemag.org/news/2016/08/one-five-genetics-papers-contains-errors-thanks-microsoft-excel
 
 
 # false start
@@ -3136,138 +3121,129 @@ http://www.sciencemag.org/news/2016/08/one-five-genetics-papers-contains-errors-
 # alan k saying that the problem of access isn't actual
 # access, but that people don't or can't use the access
 # see 15:00
-https://www.youtube.com/watch?v=t2L2t-D3tDA
+# https://www.youtube.com/watch?v=t2L2t-D3tDA
 
 
 # destruction of fan-made project by copyright
-https://torrentfreak.com/cbs-shuts-down-stage-9-a-fan-made-recreation-of-the-uss-enterprise-180927/
+# https://torrentfreak.com/cbs-shuts-down-stage-9-a-fan-made-recreation-of-the-uss-enterprise-180927/
 
 # computer bums
 # emacs commune
 # hacker idyll
-http://www.oreilly.com/openbook/freedom/ch06.html
+# http://www.oreilly.com/openbook/freedom/ch06.html
 
 
-sousveillance
-https://en.wikipedia.org/wiki/sousveillance
+# sousveillance
+# https://en.wikipedia.org/wiki/sousveillance
 
 # whole earth catalog
-https://www.newyorker.com/news/letter-from-silicon-valley/the-complicated-legacy-of-stewart-brands-whole-earth-catalog
+# https://www.newyorker.com/news/letter-from-silicon-valley/the-complicated-legacy-of-stewart-brands-whole-earth-catalog
 
 
 # lego prosthetic
-https://www.abc.net.au/news/2019-02-08/lego-prosthetic-arm-made-by-man-missing-limb/10792598
+# https://www.abc.net.au/news/2019-02-08/lego-prosthetic-arm-made-by-man-missing-limb/10792598
 
 # hypersane
-https://aeon.co/ideas/the-hypersane-are-among-us-if-only-we-are-prepared-to-look
+# https://aeon.co/ideas/the-hypersane-are-among-us-if-only-we-are-prepared-to-look
 
 
 # is literature against us?
-https://nfb.org/sites/www.nfb.org/files/images/nfb/publications/convent/banque74.htm
+# https://nfb.org/sites/www.nfb.org/files/images/nfb/publications/convent/banque74.htm
 
 
 # hypersane, good for final chapter
-https://aeon.co/ideas/the-hypersane-are-among-us-if-only-we-are-prepared-to-look
+# https://aeon.co/ideas/the-hypersane-are-among-us-if-only-we-are-prepared-to-look
 
-the future of my games on Apple (post-Catalina) and what this means for art games in general
+# the future of my games on Apple (post-Catalina) and what this means for art games in general
 
-http://www.nathalielawhead.com/candybox/the-future-of-my-games-on-apple-post-catalina-and-what-this-means-for-art-games-in-general
+# http://www.nathalielawhead.com/candybox/the-future-of-my-games-on-apple-post-catalina-and-what-this-means-for-art-games-in-general
 
-"That Deep Romantic Chasm": Libertarianism, Neoliberalism, and the Computer Culture
+# "That Deep Romantic Chasm": Libertarianism, Neoliberalism, and the Computer Culture
+# http://www.uvm.edu/~tstreete/romantic_chasm.html
 
-http://www.uvm.edu/~tstreete/romantic_chasm.html
+# The Semantic Apocalypse
+# https://speculativeheresy.wordpress.com/2008/11/26/the-semantic-apocalypse/
 
-The Semantic Apocalypse
-
-https://speculativeheresy.wordpress.com/2008/11/26/the-semantic-apocalypse/
-
-The Fantasy of Opting Out
-
-https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/
+# The Fantasy of Opting Out
+# https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/
 
 
-Infinite Machines: 1 – An Introduction
+# Infinite Machines: 1 – An Introduction
+# https://www.ribbonfarm.com/2019/03/11/infinite-machines-1-an-introduction/
 
-https://www.ribbonfarm.com/2019/03/11/infinite-machines-1-an-introduction/
-
-How to Make History
-
-https://www.ribbonfarm.com/2017/09/14/how-to-make-history/
+# How to Make History
+# https://www.ribbonfarm.com/2017/09/14/how-to-make-history/
 
 # For tech-weary Midwest farmers, 40-year-old tractors now a hot commodity
-
-http://www.startribune.com/for-tech-weary-midwest-farmers-40-year-old-tractors-now-a-hot-commodity/566737082/
+# http://www.startribune.com/for-tech-weary-midwest-farmers-40-year-old-tractors-now-a-hot-commodity/566737082/
 
 # Pacemakers and Piracy: The Unintended Consequences of the DMCA for Medical Implants
-
-https://www.eff.org/deeplinks/2016/04/pacemakers-and-piracy-why-dmca-has-no-business-medical-implants
+# https://www.eff.org/deeplinks/2016/04/pacemakers-and-piracy-why-dmca-has-no-business-medical-implants
 
 # nil postman tech summary thing
-
-https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf
+# https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf
 
 # Media Archaeology Lab as Platform for Undoing and Reimagining Media History
-
-https://loriemerson.net/2019/10/16/media-archaeology-lab-as-platform-for-undoing-and-reimagining-media-history/
+# https://loriemerson.net/2019/10/16/media-archaeology-lab-as-platform-for-undoing-and-reimagining-media-history/
 
 # Project and system
-
-https://aeon.co/essays/is-the-world-ordered-as-a-system-or-as-a-project?utm_medium=feed&utm_source=atom-feed
+# https://aeon.co/essays/is-the-world-ordered-as-a-system-or-as-a-project?utm_medium=feed&utm_source=atom-feed
 
 # boone on blackboard
-https://teleogistic.net/2011/09/19/i-develop-free-software-because-of-cuny-and-blackboard/
+# https://teleogistic.net/2011/09/19/i-develop-free-software-because-of-cuny-and-blackboard/
 
 # movie theater with no humans
-"a future with a friendlier past"
-https://m.signalvnoise.com/i-went-to-see-a-movie-and-instead-i-saw-the-future/
+# "a future with a friendlier past"
+# https://m.signalvnoise.com/i-went-to-see-a-movie-and-instead-i-saw-the-future/
 
 # When home is two sisters, a houseful of vulnerable men, and a lot of tough love
-https://aeon.co/videos/when-home-is-two-sisters-a-houseful-of-vulnerable-men-and-a-lot-of-tough-love?utm_medium=feed&utm_source=atom-feed
+# https://aeon.co/videos/when-home-is-two-sisters-a-houseful-of-vulnerable-men-and-a-lot-of-tough-love?utm_medium=feed&utm_source=atom-feed
 
 # the ipad needs its hypercard
-http://radar.oreilly.com/2010/03/the-ipad-needs-its-hypercard.html
+# http://radar.oreilly.com/2010/03/the-ipad-needs-its-hypercard.html
 
 # why i won't buy ipad 10 years later
-https://boingboing.net/2020/01/27/nascent-boulangism.html
+# https://boingboing.net/2020/01/27/nascent-boulangism.html
 
 # for final chapter: transhumanism
-https://www.upress.umn.edu/book-division/books/transhumanism
+# https://www.upress.umn.edu/book-division/books/transhumanism
 
 # The Quantified Employee: How Companies Use Tech to Track Workers
-https://www.pcmag.com/news/the-quantified-employee-how-companies-use-tech-to-track-workers
+# https://www.pcmag.com/news/the-quantified-employee-how-companies-use-tech-to-track-workers
 
 # Tesla Remotely Removes Autopilot Features From Customer's Used Tesla Without Any Notice
-https://jalopnik.com/tesla-remotely-removes-autopilot-features-from-customer-1841472617
+# https://jalopnik.com/tesla-remotely-removes-autopilot-features-from-customer-1841472617
 
 # Infantilization by interfaces
 # School Will Never End: On Infantilization in Digital Environments - Amplifying Empowerment or Propagating Stupidity?
-http://sigwait.tk/~alex/doc/bunz%2Cmercedes__school-will-never-end/
+# http://sigwait.tk/~alex/doc/bunz%2Cmercedes__school-will-never-end/
 
 # Rig wheelchair
 # https://www.youtube.com/watch?v=vuMg0QwKAGI
 
 # Remembering the LAN
-https://tailscale.com/blog/remembering-the-lan/
+# https://tailscale.com/blog/remembering-the-lan/
+
 # control DJ with arm prosthesis
-https://www.youtube.com/watch?v=qSKBtEBRWi4&feature=youtu.be
+# https://www.youtube.com/watch?v=qSKBtEBRWi4&feature=youtu.be
 
 # jockers (big tent)
-https://manifold.umn.edu/read/an-interview-with-matthew-jockers/section/d0002c9f-469b-4820-9e70-95fa3e01ddad
+# https://manifold.umn.edu/read/an-interview-with-matthew-jockers/section/d0002c9f-469b-4820-9e70-95fa3e01ddad
 
 # malleable systems
-https://malleable.systems/blog/2020/04/01/the-most-successful-malleable-system-in-history/
+# https://malleable.systems/blog/2020/04/01/the-most-successful-malleable-system-in-history/
 
 # you're a slave to money then you die
-https://churchlifejournal.nd.edu/articles/youre-a-slave-to-money-then-you-die/
+# https://churchlifejournal.nd.edu/articles/youre-a-slave-to-money-then-you-die/
 
 # stagnation scientific
-https://www.nber.org/papers/w26752.pdf
+# https://www.nber.org/papers/w26752.pdf
 
 # An Actual Virus Sobers the Goofy Age of ‘Going Viral’
-https://www.nytimes.com/2020/03/28/style/coronavirus-going-viral.html
+# https://www.nytimes.com/2020/03/28/style/coronavirus-going-viral.html
 
 # for when i talk about leila's garden
-http://geekring.net/site/6/frameset
+# http://geekring.net/site/6/frameset
 
 
 
