@@ -1,4 +1,43 @@
+:formatting:
+#+OPTIONS: toc:nil
 
+# Uncomment to export without tasks or notes
+#+OPTIONS: tasks:nil inline:nil
+
+# #+OPTIONS: html-style:nil 
+#+TITLE: Negotiated Access
+#+SUBTITLE: Haccessibility, Autonomy, and Infrastructure in the Age of the Abstraction
+
+# When enabled, removes numbering of sections without removing ToC
+# ToC is not indented, however
+# #+LATEX: \setcounter{secnumdepth}{0}
+
+# Fancy CSS
+#+HTML_HEAD: <link rel="stylesheet" href="tufte.css"/>
+
+
+#+LATEX_CLASS: thesis
+
+# Make footnotes not spill over to next page
+#+LATEX: \interfootnotelinepenalty=10000
+
+#+LATEX: \frontmatter
+
+#+LATEX: \include{./includes/Title_page}
+#+LATEX: \setcounter{page}{2}
+
+#+LATEX: \include{./includes/Copyright_page}
+#+LATEX: \include{./includes/Approval_page}
+#+LATEX: \include{./includes/Abstract}
+#+LATEX: \include{./includes/Acknowledgments}
+
+
+#+TOC: headlines 3
+# \listoftables
+#+LATEX: \listoffigures
+
+#+LATEX: \mainmatter
+:END:
 * Introduction
 
 Consider yourself, for a moment, from the outside. You open a door, put on your shoes, move a chair to where you will need it. Or you speak with a friend, hit send on an important email, give a talk to your gathered colleagues. Imagine, briefly, that your act is something concrete—a weight in the world, a drawn thread, a radiating light, or a shared breath. This moment, or this act, is an encounter. You push on the world, and the world pushes back. There is you, and there is everything else. But, fleetingly, there is a space between.
