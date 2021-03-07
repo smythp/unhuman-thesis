@@ -2739,7 +2739,7 @@ However, techne cannot and should not be confined to the digital. In recognizing
 
 # !!! END FOOTENOTE
 
-[fn:no-mo] XXX
+[fn:no-mo] A no-mow movement, recognizing that lawns are ecological dead zones and that the environment is better served by allowing yards to grow wild with non-invasive plants and animals, has gained momentum in the United States since the late 2010s. In arid regions of the United States, lawns account for 75% of water use, and use of fertilizers and pesticides on lawns are a major contribution to the contamination of ground water citep:ignatieva_alternative_2018. One homeowner who decided to let her lawn grow writes on the rapid ecological transformation: "The unmowed plants in our yard attract plant-eating bugs and rodents, which in turn attract birds, bats, toads and garter snakes that eat them. Then hawks fly in to eat the snakes. Seeing all this life emerge in just one growing season made me realize just how much nature manicured lawns displace and disrupt" citep:pullano_is_2019.
 
 
 # !!! END FOOTNOTE
