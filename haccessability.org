@@ -57,7 +57,7 @@ For me, the two-year period from 2014 to 2016 was something of a crucible. I was
 
 Finally, and perhaps strangely given everything else going on in my life, I had developed an obsession. In 2014, as I was starting a new fellowship related to using technology for teaching and research, one of my colleagues suggested I try out programming. This was a revelation. I had so many frustrations with the day-to-day reality of using a computer with a visual impairment, so many thoughts on how the machine could accommodate my limitations, and suddenly I had grasped something in my hand that could put those thoughts into practice. My first project connected to a website on audiobooks that I used frequently, one with a frustratingly inaccessible interface, and grabbed all the data, recasting it in a form that I could use and enjoy using. The feeling was addictive. Soon I had turned my attention to my orals examination, and the pile of books I had been laboriously scanning into digital form. I learned that, with the right software, I could break through the restrictions on digital books from libraries and from corporations like Amazon, then send these "cracked" books to my phone for reading and Notetaking. I started using Internet Relay Chat (IRC), a somewhat archaic text-based communications system favored by programmers and the technical, and talked my way into shadow libraries, clandestine gatherings of bibliophiles on the deep web[fn:darkweb]. And, yes, I hacked my iPhone. Apple's campaign to deliberately slow old iPhones was causing Voiceover, the screen reader on the device, to periodically freeze for up to fifteen seconds at a time. I bound an aggressive-sounding terminal command, "killall voiceover," to a simultaneous press of the volume buttons and, suddenly, I could reclaim my phone with a movement.
 
-[fn:darkweb] Not the dark web, which is something else entirely.
+[fn:darkweb] Not the dark web, which is something else entirely. The deep web is the part of the web not indexed or otherwise publicly visible. The dark web is a (small) subset of the deep web hidden using a specific protocol.
 
 
 # !!!! END FOOTNOTE
@@ -70,7 +70,41 @@ But there is a sense in which I was marked. I saw the world as a hacker, as a bl
 
 This project, /Negotiated Access/, is about autonomy, a specific form of resistance to control, or the ability to act on values or goals despite influence from outside or above. Negotiation, here, is the ongoing encounter with enclosing or encircling systems, entities, or spaces. It is the gap, the small room for maneuver, between ourselves and the physical or social environment. The primary tension is between the local and the universal, or, alternately, between the concrete and the abstract. Through autonomy, the local negotiates the universal. Through abstraction, the universal exercises control over the local.
 
-In a specific sense, negotiation is about power. Power tends to be exercised downward and inward. The state exercises power over organizations. Organizations, such as corporations, exercise power over individuals. There is a limited form of power that can be exercised, not over a distance, but only in the local, such as over objects in the immediate environment. Though this construction is demonstrably useful and frequently accurate, it is not the direction in which this project operates. Rather than starting from above and looking at the exercise of power on those below, we will instead start with the individual or small group and radiate outward. Chapter Two will consider how the individual or small group negotiates the immediate  built environment. Chapter Three will consider how the individual or small group negotiates imposed narrative. Chapter Four will consider how the larger affinity group or discipline negotiates infrastructure, or the instantiated values of an enclosing collective. Chapter Five will consider how individuals, affinity groups, and organizations negotiate the Abstraction, a theorized enclosing system or entity at the largest remove.
+In a specific sense, negotiation is about power. Power tends to be exercised downward and inward. The state exercises power over organizations. Organizations, such as corporations, exercise power over individuals. There is a limited form of power that can be exercised, not over a distance, but only in the local, such as over objects in the immediate environment. Though this construction is demonstrably useful and frequently accurate, it is not the direction in which this project operates. Rather than starting from above and looking at the exercise of power on those below, we will instead start with the individual or small group and radiate outward. Chapter Two will consider how the individual or small group negotiates the immediate  built environment. Chapter Three will consider how the individual or small group negotiates imposed narrative. Chapter Four will consider how the larger affinity group or discipline negotiates infrastructure, or the instantiated values of an enclosing collective. Chapter Five will consider how individuals, affinity groups, and organizations negotiate the Abstraction, a theorized enclosing system or entity at the greatest remove.
+
+Though this project focuses on negotiation, the exercise of autonomy from within an encircling system or collective, instances of successful negotiation are not held up in isolation. Negotiation exposes the flawed assumptions and failed abstractions of systems, platforms, collectives, structures, , and entities. To read the above anecdote, in which the use of a 17-character terminal command bypassed a systemic issue in the platform of a trillion-dollar corporation, as an unalloyed victory is to ignore the context. Negotiation, whether narrative, physical, technical, or organizational, exposes a mismatch in values. Occasionally, it can serve as a basis or starting point for change in the enclosing system. More frequently, it can help carve out a local space of resistance, which might, in turn, provide the foothold for the organization of community or the emergence of a narrative.
+
+Each chapter in /Negotiated Access/ examines specific forms of negotiation. Chapter Two introduces haccessibility, or the use by people with disabilities of individual workarounds, prosthetics, or approaches to circumvent inaccessible social and physical structures. In doing so, we briefly consider an alternate model of disability, the negotiated model, that may be of use when considering certain contexts and dynamics. In Chapter Three, we will engage with two autobiographies of disability. These readings will provide extended explorations of haccessibility, but more importantly suggest ways autonomy can be exercised in the face of imposed narratives. Chapter Four will consider the humanities as a larger affinity group and explore its negotiation, or failure to negotiate, in the broader context of the academy and an encircling society that does not share its values. In so doing, we will examine "lay hermaneutics," or alternate humanities traditions developed outside the academy, which provide a useful contrast in discussion of the relationship between the academic humanities and the public. Finally, Chapter Five will aim at the largest systems at global scale of which we as individuals and humanity more broadly are components. We'll term this theorized enclosure "the Abstraction," and consider its implications on narrative and our collective capability for resistance. In so doing, we'll critically analyze the conceptual space occupied by the term "technology" and attempt to reclaim some small portion for ourselves as "techne," ways of knowing and doing that enable, rather than erode, autonomy. In this chapter, we will consider possible stances in confrontation of the vast and the ineffible, including both challenges to the Abstraction and our responsibility as individuals who stand, in the present, at the crux of potential futures.
+
+** A Note on Language
+
+Language around, and about, disability is fraught, and it seems that any project that contends with disability should, or must, explain its choices. There are currently two philosophies on the deployment of language around disability, person-first language and identity-first language. Morton Ann Gernsbacher summarizes the distinction:
+
+#+BEGIN_QUOTE
+Person-first language is the structural form in which a noun referring to a person or persons (e.g. person, people, individual, adults, or children) precedes a phrase referring to a disability (e.g. person with a disability, people with blindness, individual with intellectual disabilities, adults with dyslexia, and children with autism). Person-first language contrasts with identity-first language; in identity-first language, the disability, serving as an adjective, precedes the personhood-noun (e.g. disabled person, blind people, intellectually disabled individual, dyslexic adults, and autistic children). citep:gernsbacher_editorial_2017
+#+END_QUOTE
+
+
+
+
+
+
+
+
+
+
+Though I criticize organizations and structures, I do not criticize individuals. This, too, is a failture of language.
+
+
+
+Light exists independently of sight, and vision is not an exclusive property of the sighted.
+
+
+
+
+
+
+
 
 # Consider yourself, for a moment, from the outside. You open a door, put on your shoes, move a chair to where you will need it. Or you speak with a friend, hit send on an important email, give a talk to your gathered colleagues. Imagine, briefly, that your act is something concrete—a weight in the world, a drawn thread, a radiating light, or a shared breath. This moment, or this act, is an encounter. You push on the world, and the world pushes back. There is you, and there is everything else. But, fleetingly, there is a space between.
 
@@ -94,28 +128,28 @@ In a specific sense, negotiation is about power. Power tends to be exercised dow
 
 ** my experience
 
-becoming aware of haccessibility as a mode of engagement and resistance 
-more i created infrastructure, etc., the more it became obvious that infrastructure is inadequate 
+# becoming aware of haccessibility as a mode of engagement and resistance 
+# more i created infrastructure, etc., the more it became obvious that infrastructure is inadequate 
 ** defining disability / languaged used
 
 https://is.muni.cz/el/1423/podzim2017/SPR101/um/um/Gary_L._Albrecht__Katherine_Delores_Seelman__Michael_Bury_Handbook_of_Disability_Studies.pdf
 altman chapter
 
-** Negotiation
+# ** Negotiation
 
-situatedness
-locus of control
-expanding outward
-** big ideas
-haccessibility
-negotiation
-unhuman 
+# situatedness
+# locus of control
+# expanding outward
+# ** big ideas
+# haccessibility
+# negotiation
+# unhuman 
 
-** What about power?
+# ** What about power?
 
-What about text? What about atoms? everything is reducible to power, but that doesn't mean that power is the best level of abstraciton to discuss a phenomen, just as focusing on atoms isn't the best level of abstraction
-i am less interested in totalizing ur-explanations than the messy pragmatics of being a being in a complex world / entity in a complex system
-mushroom at the end of the world a good example, expereintial but with connections spreading outward
+# What about text? What about atoms? everything is reducible to power, but that doesn't mean that power is the best level of abstraciton to discuss a phenomen, just as focusing on atoms isn't the best level of abstraction
+# i am less interested in totalizing ur-explanations than the messy pragmatics of being a being in a complex world / entity in a complex system
+# mushroom at the end of the world a good example, expereintial but with connections spreading outward
 
 #+BEGIN_QUOTE
 here are two aspects to power. The first aspect is what the German philosopher Rainer Forst in 2014 defined as 'the capacity of A to motivate B to think or do something that B would otherwise not have thought or done'. The means through which the powerful enact their influence are varied. They include motivational speeches, recommendations, ideological descriptions of the world, seduction and credible threats. Forst argues that brute force or violence is not an exercise of power, for subjected people don't 'do' anything; rather, something is done to them. But clearly brute force is an instance of power. It is counterintuitive to think of someone as powerless who is subjecting us through violence. Think of an army dominating a population, or a thug strangling you. In Economy and Society (1978), the German political economist Max Weber describes this second aspect of power as the ability for people and institutions to 'carry out [their] own will despite resistance'.
